@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-10-25 04:14:06",
-  "total_count": 344,
+  "last_updated": "2026-10-25 07:07:54",
+  "total_count": 348,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "6912ef23a275c6943bf71e57d354bdbc",
+      "title": "[일본뉴스] 재희(NCT WISH)의 인생을 바꾼 애니메이션 『디지몬 어드벤처』 (코믹 나탈리)",
+      "snippet": "ジェヒ（NCT WISH）の人生を変えたアニメ「デジモンアドベンチャー」 (コミックナタリー) Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaV90U1VaWlZoNUZSRGVqUGVBc29BOXg4U19ha3c0MVIwUWtnMUw2cFV3dUNjSUl4c2xucGdMS1l5N0Jza2JjbXdmMlBMTlh5OVNSb3RqZzI4bFBDMkhobmJhc2lJRXY0MVM5NDRCbkVrT0diRXNFSnZfRGNlSjJ5a2pjQkc3cW1nWEJrd3lR?oc=5",
+      "image": null,
+      "timestamp": 1792824212,
+      "created_at": "2026-10-24 15:43",
+      "title_orig": "ジェヒ（NCT WISH）の人生を変えたアニメ「デジモンアドベンチャー」 (コミックナタリー)",
+      "title_ja": "ジェヒ（NCT WISH）の人生を変えたアニメ「デジモンアドベンチャー」 (コミックナタリー)"
+    },
     {
       "id": "e5952f0ec14a06b5937fae042b2be1f7",
       "title": "[트윗] 네무 (@na_mu_ne) on X - X",
@@ -47,6 +62,19 @@
       "title_ja": "「デジモンストーリー タイムストレンジャー」Switch 2/Switch版が初セール！「テイルズ オブ アライズ Beyond the Dawn Edition」などもお得に"
     },
     {
+      "id": "156c83f29c629956b372d8db0162662f",
+      "title": "[인스타] #digimon #デジモン #디지몬 #digimonfigures #digimonfigure 유아기들 데리고 산책",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14eXdJa194Y29sUXUxSkdueDl3a09zNXNNUkhRVU9ZQU9WeklMNkdwRzF1UkpFLUI3YXNGc0dhU2dRVDd5enFVc3NIbGp4SWNiVVE?oc=5",
+      "image": null,
+      "timestamp": 1792815631,
+      "created_at": "2026-10-24 13:20"
+    },
+    {
       "id": "7011ea8c057d0f66abc3f7a8f1d6e390",
       "title": "[일본뉴스] Butter-Fly (디지몬 어드벤처 OP) / 인스트루멘털 밴드 커버 (기타, 트롬본, 베이스, 드럼)",
       "snippet": "Butter-Fly (デジモンアドベンチャーOP) / Instrumental Band Cover (Guitar, Trombone, Bass, Drums) YouTube",
@@ -74,20 +102,6 @@
       "timestamp": 1792809900,
       "created_at": "2026-10-24 11:45",
       "title_orig": "10 Most Powerful Digimon Mega Evolutions, Ranked"
-    },
-    {
-      "id": "7dac85421356ed4331bb101597f0f9a6",
-      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
-      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
-      "image": null,
-      "timestamp": 1792800946,
-      "created_at": "2026-10-24 09:15",
-      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
     },
     {
       "id": "ae9900be4927bb345b5be9d18b616687",
@@ -118,6 +132,20 @@
       "created_at": "2026-10-23 18:00",
       "title_orig": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！｜Infoseekニュース",
       "title_ja": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！｜Infoseekニュース"
+    },
+    {
+      "id": "7dac85421356ed4331bb101597f0f9a6",
+      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
+      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
+      "image": null,
+      "timestamp": 1792738800,
+      "created_at": "2026-10-23 16:00",
+      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
     },
     {
       "id": "75db87134c0f150e0ea911dd8e21bde5",
@@ -399,6 +427,21 @@
       "created_at": "2026-10-22 18:37",
       "title_orig": "【デジモンUP】アグモンの評価と性能",
       "title_ja": "【デジモンUP】アグモンの評価と性能"
+    },
+    {
+      "id": "1abacbbd34c71ea80fb7f68b7215297a",
+      "title": "[일본뉴스] 【디지몬 UP】 워그레이몬의 평가와 성능",
+      "snippet": "【デジモンUP】ウォーグレイモンの評価と性能 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Cd3JrUXROODFIZTRhUnRrajQ2aUZUTjNfOHhUWkxGaFY1cDhOWHZ4Q1djTlJNdG56eEU5aTNLTWx4Q09DY0luQk5LV2E?oc=5",
+      "image": null,
+      "timestamp": 1792661821,
+      "created_at": "2026-10-22 18:37",
+      "title_orig": "【デジモンUP】ウォーグレイモンの評価と性能",
+      "title_ja": "【デジモンUP】ウォーグレイモンの評価と性能"
     },
     {
       "id": "905796d954c453aa7ba2cb6fb22f6d77",
@@ -1635,21 +1678,6 @@
       "image": null,
       "timestamp": 1792059171,
       "created_at": "2026-10-15 19:12"
-    },
-    {
-      "id": "1abacbbd34c71ea80fb7f68b7215297a",
-      "title": "[일본뉴스] 【디지몬 UP】 워그레이몬의 평가와 성능",
-      "snippet": "【デジモンUP】ウォーグレイモンの評価と性能 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Cd3JrUXROODFIZTRhUnRrajQ2aUZUTjNfOHhUWkxGaFY1cDhOWHZ4Q1djTlJNdG56eEU5aTNLTWx4Q09DY0luQk5LV2E?oc=5",
-      "image": null,
-      "timestamp": 1792058088,
-      "created_at": "2026-10-15 18:54",
-      "title_orig": "【デジモンUP】ウォーグレイモンの評価と性能",
-      "title_ja": "【デジモンUP】ウォーグレイモンの評価と性能"
     },
     {
       "id": "5f69dba3f593ef46a0717cf83a8c3ac8",
@@ -2954,12 +2982,12 @@
     },
     {
       "id": "b33dfb5dd623425b68d3322c70f101a4",
-      "title": "[해외뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
+      "title": "[애니뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
       "snippet": "Manga Plus Adds Digimon Eggs Manga on October 2 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY24tRi13LVJ0cW5POU55cWQtekw0SGVOaGRrUTYyUTJhZVFqRXViX0FqaV9keWVfZDRtMDJxN3FpQ2ZSYzZ1ZjMtMTlaaWR5TVdiRmc3UXpCYlJpRy05bEg5TFdaZXIzb21uN19yMklndUd6MmxlWVZkLVY0djBwdHZQODM2YVhxQ2JuaF9jQ25NWnRBRVI0dS1mUE5fNEdmcXFfR3J6NA?oc=5",
       "image": null,
       "timestamp": 1790665200,
@@ -3959,6 +3987,21 @@
       "created_at": "2026-09-04 16:00"
     },
     {
+      "id": "9dcef4a728e7e52e7e01c9d5dd9211dd",
+      "title": "[일본뉴스] OP에 이어 ED에도 디지몬 레전드 팀이 집결! 미야자키 아유미, 타니모토 타카요시 콤비가 부르는 주제가 정보를 일거 공개! 전 시리즈를 리마스터판으로 선보이기로 결정!",
+      "snippet": "OPに続き、EDにもデジモンレジェンドチームが集結！宮﨑歩、谷本貴義のコンビが歌う主題歌情報を一挙に解禁！全シリーズをリマスター版でお届けすることが決定！ フジテレビ",
+      "source": "フジテレビ",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wU1FJbkItU0hnTE1hTGU5SzdnZEV3bXpuZFQ2bVhqd2FlVWw5cklKTUVuZVc0dTFwVk84SnNnVE9vbE9FLVNiWGVDZmRLejZCbHBBdXh6REV4cXRXb0tn?oc=5",
+      "image": null,
+      "timestamp": 1788505200,
+      "created_at": "2026-09-04 16:00",
+      "title_orig": "OPに続き、EDにもデジモンレジェンドチームが集結！宮﨑歩、谷本貴義のコンビが歌う主題歌情報を一挙に解禁！全シリーズをリマスター版でお届けすることが決定！",
+      "title_ja": "OPに続き、EDにもデジモンレジェンドチームが集結！宮﨑歩、谷本貴義のコンビが歌う主題歌情報を一挙に解禁！全シリーズをリマスター版でお届けすることが決定！"
+    },
+    {
       "id": "21572ecd41f745c1f00e69004eb786e3",
       "title": "[인스타] 커스텀 카드 만들려고 작업한 팬아트 1 #디지몬 #디지몬덕후 #토코몬 #파닥몬 #리키",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -4530,6 +4573,19 @@
       "created_at": "2026-08-08 16:00"
     },
     {
+      "id": "9b41a31eea463b31be79caa4d7915e90",
+      "title": "[인스타] #디지몬 #일러스트",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xSjNSSUExQkltQldFZExpcXV1eXQ2SlI1bzRLQnl4b1A5aHJMa2VlSTFKcVNpM1JGc0xaVTBEZ0xtYUFlYVEtak5PQmppbVZmUDRWUDYwR2NiS1ZoV2lmUDZn?oc=5",
+      "image": null,
+      "timestamp": 1786172400,
+      "created_at": "2026-08-08 16:00"
+    },
+    {
       "id": "fb48ef0bdc83ff728e77289160c89a43",
       "title": "[루리웹] 디지몬 스토리 타임 스트레인저 애니매직_de \"2025 최고의 J-게임\"...",
       "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
@@ -4762,10 +4818,10 @@
     },
     {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
+      "source_badge": "애니뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
