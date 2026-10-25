@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25 19:25:27",
-  "total_count": 356,
+  "last_updated": "2026-10-25 23:41:43",
+  "total_count": 359,
   "retention_days": 90,
   "feeds": [
     {
@@ -30,6 +30,19 @@
       "created_at": "2026-10-25 07:25",
       "title_orig": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場",
       "title_ja": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場"
+    },
+    {
+      "id": "0f06247d38fda5a9aabb3eb543eea268",
+      "title": "[네이버] 각종 ui 색 변경좀 해주세여 : 디지몬 슈퍼럼블",
+      "snippet": "각종 ui 색 변경좀 해주세여 : 디지몬 슈퍼럼블 네이버 게임",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KSllKTEh3TlduUUUteXRQYjIxUWZsMlZ2ajFTWXNuUHdST3BWS1czb1JzV1BUZGp1MjlJSC01dTZFMUFLU0FVMnhyV1QyeHAxT28xR2N5c3BFejBGRUNLMXY5SUlwTllKU0QxVTlUSnpJLThDclU3Nmh3?oc=5",
+      "image": null,
+      "timestamp": 1792866160,
+      "created_at": "2026-10-25 03:22"
     },
     {
       "id": "6912ef23a275c6943bf71e57d354bdbc",
@@ -771,8 +784,8 @@
     {
       "id": "370b965b59dc86e769055e05a67ef8fc",
       "title": "[일본뉴스] 『디지몬 스토리 타임 스트레인저』 Switch2판이 25% 할인으로 첫 세일. 『테일즈 오브 어라이즈』, 『모두의 골프 월드』 등 DL 소프트가 최대 84% 할인",
-      "snippet": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ ファミ通.com",
-      "source": "ファミ通.com",
+      "snippet": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ ファミ通",
+      "source": "ファミ通",
       "source_badge": "일본뉴스",
       "category": "general",
       "category_name": "일반/뉴스",
@@ -2335,6 +2348,19 @@
       "created_at": "2026-10-13 11:50"
     },
     {
+      "id": "5cf01acf959906bd58559141f20774df",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xSURIbmY0VFZNRlMwdnJjVTh4NW81dXF5ZXp1SWNqZG1YaEF5ZTJOSzRyZ2FMNzByT1NTbTNPd2pHNjExOUxHd0hhdGJLLVFQNjR2YUVMN3BoYUVTelk4Yzh3bXQ5WkwxXzVkRElaOE10X0lj?oc=5",
+      "image": null,
+      "timestamp": 1791856980,
+      "created_at": "2026-10-13 11:03"
+    },
+    {
       "id": "554ae7fc7acc742e594eaa64b4603314",
       "title": "[반프레스토] 이치방쿠지 디지몬 시리즈 매트릭스 에볼루션",
       "snippet": "루리웹 피규어/프라모델/굿즈 정보 게시판 소식입니다.",
@@ -3187,8 +3213,8 @@
     {
       "id": "6dec38d595d960eea2af3ed0489d25cb",
       "title": "[일본뉴스] DIGIMON BEATBREAK: 최종회 방송 기념 「디지털 몬스터 COLOR」 등장",
-      "snippet": "DIGIMON BEATBREAK：最終回放送記念 「デジタルモンスターCOLOR」登場 まんたんウェブ",
-      "source": "まんたんウェブ",
+      "snippet": "DIGIMON BEATBREAK：最終回放送記念 「デジタルモンスターCOLOR」登場 Mantan Web",
+      "source": "Mantan Web",
       "source_badge": "일본뉴스",
       "category": "general",
       "category_name": "일반/뉴스",
@@ -3786,6 +3812,19 @@
       "image": null,
       "timestamp": 1789196400,
       "created_at": "2026-09-12 16:00"
+    },
+    {
+      "id": "dbc4355202e0bcdd3c6b6e867176a573",
+      "title": "[인스타] Digimon Adventure just dropped one of the coolest theater exclusives I’ve seen 🥚✨ Megabox in South Korea is releasing Digi-Egg shaped popcorn buckets for the Sept 16 double feature of Mamoru Hosoda’s classic Digimon films — 8 designs total, each with",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Eb0RRd2ZCNVNIQllWYkZJM3h4UDhGTDhmVHl6YkpWRlRUUFIzeDM0SW0wLTlaUjZELTNDOS1RM211VmU3RzlXQ0hzQmJnT2w0ZGc?oc=5",
+      "image": null,
+      "timestamp": 1789110000,
+      "created_at": "2026-09-11 16:00"
     },
     {
       "id": "9cafb7a0853994ea7bda7e66acf542ea",
