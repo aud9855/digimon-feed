@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26 03:02:41",
-  "total_count": 359,
+  "last_updated": "2026-10-26 05:29:20",
+  "total_count": 360,
   "retention_days": 90,
   "feeds": [
     {
@@ -2982,6 +2982,19 @@
       "created_at": "2026-10-01 16:00"
     },
     {
+      "id": "072d023639e3e3c14fb5d5b2d1c5d478",
+      "title": "[인스타] 디지몬 팝콘통 실물 대박!!!!🥚💥 아구몬부터 파닥몬, 가트몬까지 총 8종의 디지타마 디자인으로 출시됐어요✨ 어떤 디지타마가 나올지는 개봉 전까지 랜덤! 🍿 랜덤 디지타마 컨테이너 콤보 팝콘(R) 1개 + 디지타마 컨테이너 + 디지몬 키링 랜덤 1종 💰 25,900원 📏 컨테이너",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yUDAxUGgwS2FDTHU2NDg4S0VHeE9XSTVlWTR5T2VOQVZPdUtzUzM1eVVTTTNHMGZ6ZjBFZVotTjR5SWRkRlVqbmxpTXZOOHRVS3dCeFRn?oc=5",
+      "image": null,
+      "timestamp": 1790838000,
+      "created_at": "2026-10-01 16:00"
+    },
+    {
       "id": "cb83da67434740622ea57729350909fc",
       "title": "[인스타] 선물받은 자수 비니와 쿠키 🧵🪡🍪 메탈에테몬 티랑 같이 조합해서 써야겠다 !🩶 금손 @mazinga_31 님 ✨ 커스텀 쿠키는 @winnies.patisserie ✨ . . . #디지몬 #digimon #デジモン #otaku #키덜트",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -3828,7 +3841,7 @@
     },
     {
       "id": "dbc4355202e0bcdd3c6b6e867176a573",
-      "title": "[인스타] Digimon Adventure just dropped one of the coolest theater exclusives I’ve seen 🥚✨ Megabox in South Korea is releasing Digi-Egg shaped popcorn buckets for the Sept 16 double feature of Mamoru Hosoda’s classic Digimon films — 8 designs total, each with",
+      "title": "[인스타] 디지몬 어드벤처에서 지금까지 본 극장 한정 상품 중 가장 멋진 것을 방금 공개했다 🥚✨ 한국의 메가박스에서 9월 16일 호소다 마모루의 클래식 디지몬 영화 2편 동시 상영을 위해 디지타마 모양 팝콘통을 출시한다 — 총 8종의 디자인으로, 각각",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
       "source": "Instagram",
       "source_badge": "인스타그램",
@@ -3837,7 +3850,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Eb0RRd2ZCNVNIQllWYkZJM3h4UDhGTDhmVHl6YkpWRlRUUFIzeDM0SW0wLTlaUjZELTNDOS1RM211VmU3RzlXQ0hzQmJnT2w0ZGc?oc=5",
       "image": null,
       "timestamp": 1789110000,
-      "created_at": "2026-09-11 16:00"
+      "created_at": "2026-09-11 16:00",
+      "title_orig": "Digimon Adventure just dropped one of the coolest theater exclusives I’ve seen 🥚✨ Megabox in South Korea is releasing Digi-Egg shaped popcorn buckets for the Sept 16 double feature of Mamoru Hosoda’s classic Digimon films — 8 designs total, each with"
     },
     {
       "id": "9cafb7a0853994ea7bda7e66acf542ea",
