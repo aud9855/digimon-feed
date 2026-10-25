@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-25 09:45:43",
-  "total_count": 349,
+  "last_updated": "2026-10-25 14:33:04",
+  "total_count": 356,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "cdfe3d043d01c7c0b98f349993085051",
+      "title": "[네이버] 겜시작하기전에 이거는 무조건 해야함 !!!!!!! : 디지몬RPG",
+      "snippet": "겜시작하기전에 이거는 무조건 해야함 !!!!!!! : 디지몬RPG 네이버 게임",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KeFZLUGxHRGpnYUhMSUdobTFEYVlLbTd3UERwSy1PcmtKQkxXdkRmalIwdU9EU0tTcFZtNWN0UlROdUN3VG9UVUxrblY0U1lYRzlXczcxRzBSdl9meVhRRS1mVEtOSU9WYUhGZXNZQTJOMERsVzZTMHJYcGg?oc=5",
+      "image": null,
+      "timestamp": 1792894853,
+      "created_at": "2026-10-25 11:20"
+    },
     {
       "id": "9b1fc1eb7d4d7f7fa3607589727abd14",
       "title": "[일본뉴스] 울트라맨×디지몬 기념 상품의 예약 접수 시작 괴수를 포함해 캐릭터 40체 이상 육성! 적으로 디지몬 등장",
@@ -134,6 +147,21 @@
       "title_ja": "『デジモン』10月から名エピソード再放送 ファン投票で選ばれた4作品の物語「僕らが選んだベストアドベンチャー」"
     },
     {
+      "id": "d7cff86441ca3d8226dc6b8e0fc46d54",
+      "title": "[일본뉴스] 10월 25일(일) 방송되는 『우리가 뽑은 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」에서 6위에 오른 제20화 【완전체 진화! 메탈그레이몬】을 방송!",
+      "snippet": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！ PR TIMES",
+      "source": "PR TIMES",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yTU5kVHhpeDdhNEx5bGhKTzByM181QUZDWDBxWkhrZW9NWmtCbTFiQ1ZSTE9HalpHMkx5Nnc2S2MwcTVBQi1EZVlWclpaeE1USkdCd25uR1d2bkdhQndNb091aXltUmRURlE?oc=5",
+      "image": null,
+      "timestamp": 1792746002,
+      "created_at": "2026-10-23 18:00",
+      "title_orig": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！",
+      "title_ja": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！"
+    },
+    {
       "id": "9f3cc39110292e0501c99fc1d89d228e",
       "title": "[일본뉴스] 10월 25일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」에서 6위에 오른 제20화 【완전체 진화! 메탈그레이몬】을 방송! | Infoseek 뉴스",
       "snippet": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！｜Infoseekニュース Infoseek",
@@ -262,6 +290,21 @@
       "created_at": "2026-10-22 19:00",
       "title_orig": "【期間限定公開】デジモンユニバース アプリモンスターズ 第4話「仮装のキミをうぃただきます！キャメラモンのハロウィンスキャンダル！」",
       "title_ja": "【期間限定公開】デジモンユニバース アプリモンスターズ 第4話「仮装のキミをうぃただきます！キャメラモンのハロウィンスキャンダル！」"
+    },
+    {
+      "id": "3a56e65b6d3221a79e173a98ba2a6495",
+      "title": "[일본뉴스] 【디지몬 UP】 다크 에너지 강화 방법",
+      "snippet": "【デジモンUP】ダークエネルギーの強化方法 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OMF9nVUN6clgzR2JlZjczZWF3a01DamZRellQcktZRGExalRkWGIxUTZjX2FyUmo0Rlk4MC00X2h5S0RBSEIwbkF1T0s?oc=5",
+      "image": null,
+      "timestamp": 1792662424,
+      "created_at": "2026-10-22 18:47",
+      "title_orig": "【デジモンUP】ダークエネルギーの強化方法",
+      "title_ja": "【デジモンUP】ダークエネルギーの強化方法"
     },
     {
       "id": "4389bcf0e8a6384e9b13af945e003a95",
@@ -713,8 +756,8 @@
     {
       "id": "370b965b59dc86e769055e05a67ef8fc",
       "title": "[일본뉴스] 『디지몬 스토리 타임 스트레인저』 Switch2판이 25% 할인으로 첫 세일. 『테일즈 오브 어라이즈』, 『모두의 골프 월드』 등 DL 소프트가 최대 84% 할인",
-      "snippet": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ ファミ通",
-      "source": "ファミ通",
+      "snippet": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ ファミ通.com",
+      "source": "ファミ通.com",
       "source_badge": "일본뉴스",
       "category": "general",
       "category_name": "일반/뉴스",
@@ -4466,6 +4509,19 @@
       "created_at": "2026-08-18 16:00"
     },
     {
+      "id": "03b9444f197456fb10fc31251ff8cee6",
+      "title": "[트윗] 운명처럼 만난 디지몬, 나를 벅차게 한 그 세계가 되살아난다👾 🫧개봉 기념 스페셜 예고편 공개 🫧9월 16일 메가박스 단독 개봉 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OdWVpeFlkOUtELTI0a183a2FPUlRFeGxELUVBbkpVLUtVb3N1SUpoTXhSNFNFN20wSEpwOWluMmhndkEwaWxFVDdUTHc2OEdoNFdEQ0h3YnNmSXRJZ2RB?oc=5",
+      "image": null,
+      "timestamp": 1787036400,
+      "created_at": "2026-08-18 16:00"
+    },
+    {
       "id": "5b7c717f31a99a684bb3ba0072a62457",
       "title": "[인스타] '디지몬 어드벤처'가 더블 에디션으로 찾아온다💗 그 시절 함께한 우리들~ 모두 소환이야! 9월 16일 컴몬! #메가박스 단독 개봉",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -4684,6 +4740,19 @@
       "title_ja": "＜デジモン＞「ウルトラマン」コラボ 特別デザインの「デジタルモンスターCOLOR」 ウルトラマン、ウルトラ怪獣を育成"
     },
     {
+      "id": "5a7bde24f6225c631c4f93815b529082",
+      "title": "[트윗] 9월 16일 메가박스 단독개봉! #디지몬어드벤처 #호소다마모루 #디지몬어드벤처우리들의워게임 #디지몬어드벤처운명적만남 #디지몬어드벤처극장판 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yM04xMXFNeTZnMVVqam81aWxsWmxJMmY0Z3JuUFB5SGR2VVBhOHJXRnA5QnlIdXhVWFp6LTdlSUJYaF9wbVNPOTVadkR4SDB0cktnWG9oRmJEYjdkMzVR?oc=5",
+      "image": null,
+      "timestamp": 1785913200,
+      "created_at": "2026-08-05 16:00"
+    },
+    {
       "id": "972b045e4598084773175c820bbfe91e",
       "title": "[해외뉴스] 신작 디지몬 애니메이션 2027년 첫 방영 확정 | Outlook Respawn",
       "snippet": "New Digimon Anime Confirmed for 2027 Debut | Outlook Respawn Outlook Respawn",
@@ -4832,6 +4901,19 @@
       "created_at": "2026-08-02 16:00"
     },
     {
+      "id": "e264a2d0a86f40703fcec059da4681a2",
+      "title": "[트윗] 🌟 상품화 결정 정보 📌 디지몬 어드벤처 #デジモンアドベンチャー ⭐️ ✔️ 룩업 야가미 타이치 ✔️ 룩업 야가미 히카리 ✔️ 룩업 이시다 야마토 ✔️ 룩업 타카이시 타케루 ⚡️ 룩업 시리즈 제작 결정 🗓️ 추가 정보 추후 안내 예정 #메가하우스공식몰 #베스트하비 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yYWVtWGFRajBKQ0stRzF1TzF2QUdSNTdlSk5tREhkUFF3dkdJX0YyYW9CLVlac3M2NHJiWlBvZXk5ams4R0JjUENBQ2VKaElTV29ab01zeU5DTHRTWG53OVI5VQ?oc=5",
+      "image": null,
+      "timestamp": 1785654000,
+      "created_at": "2026-08-02 16:00"
+    },
+    {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
       "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
@@ -4912,6 +4994,19 @@
       "image": null,
       "timestamp": 1785394800,
       "created_at": "2026-07-30 16:00"
+    },
+    {
+      "id": "9b1278b5b3e91f8c0e3b05fae6328442",
+      "title": "[트윗] 다시 만나서 반가워 우리의 첫 디지몬 👾9월 16일, 다시 시작되는 우리의 모험 🎶메가박스 단독 개봉 🎶티저 포스터 공개 #디지몬어드벤처 #호소다마모루 #디지몬어드벤처우리들의워게임 #디지몬어드벤처운명적만남 #디지몬어드벤처극장판 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RN2xRTXNHU1ZobDhvbEg3eW93RmRtNThTWktMMGUxWUcyOVdRVnlzTF9MNmdMQUxiUndKdllhaFk4YXhPMlFTQzFxd2J6LXpYcUcxWmh3LTBVWDlsc3RMSllzRUpIVk1YX1E?oc=5",
+      "image": null,
+      "timestamp": 1785308400,
+      "created_at": "2026-07-29 16:00"
     },
     {
       "id": "59e44e1ab0e70d4a132cbabeb7f89a67",
