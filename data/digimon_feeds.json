@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26 05:29:20",
-  "total_count": 360,
+  "last_updated": "2026-10-26 07:57:28",
+  "total_count": 363,
   "retention_days": 90,
   "feeds": [
     {
@@ -262,6 +262,21 @@
       "created_at": "2026-10-23 11:20",
       "title_orig": "画像・写真 | PHP騒動で『デジモン』公式、粋なコメント 危機に立ち向かうエンジニア応援＆感謝「デジタルワールドの最前線で私たちの日常を守るために」 3枚目",
       "title_ja": "画像・写真 | PHP騒動で『デジモン』公式、粋なコメント 危機に立ち向かうエンジニア応援＆感謝「デジタルワールドの最前線で私たちの日常を守るために」 3枚目"
+    },
+    {
+      "id": "aac9cc9a2367cf0c8b5e33ea968856ff",
+      "title": "[일본뉴스] PHP 소동에 『디지몬』 공식의 센스 있는 코멘트, 위기에 맞서는 엔지니어 응원 및 감사 \"디지털 월드의 최전선에서 우리의 일상을 지키기 위해\" (오리콘)",
+      "snippet": "PHP騒動で『デジモン』公式、粋なコメント 危機に立ち向かうエンジニア応援＆感謝「デジタルワールドの最前線で私たちの日常を守るために」 (オリコン) Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmtLY3U4dnJKV0VYVzVuSW1vOHBUTVdFeFNLOGJPZlhiRFVnTmZfYUVoSWFhMDAyREN1VkxzcGl4anFwTVZxZUhJSVdOU3pkSUxodEZ0d3BWQk9lby03LU5GOE05TERiQ3pHTG9lN3JzbkszaGFVaEliNVM4QTRBNVVvbjZ4ckRKQW1GN3hR?oc=5",
+      "image": null,
+      "timestamp": 1792722000,
+      "created_at": "2026-10-23 11:20",
+      "title_orig": "PHP騒動で『デジモン』公式、粋なコメント 危機に立ち向かうエンジニア応援＆感謝「デジタルワールドの最前線で私たちの日常を守るために」 (オリコン)",
+      "title_ja": "PHP騒動で『デジモン』公式、粋なコメント 危機に立ち向かうエンジニア応援＆感謝「デジタルワールドの最前線で私たちの日常を守るために」 (オリコン)"
     },
     {
       "id": "0a5b3e0e961663ff1d9f4f41541012cd",
@@ -3081,12 +3096,12 @@
     },
     {
       "id": "b33dfb5dd623425b68d3322c70f101a4",
-      "title": "[해외뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
+      "title": "[애니뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
       "snippet": "Manga Plus Adds Digimon Eggs Manga on October 2 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY24tRi13LVJ0cW5POU55cWQtekw0SGVOaGRrUTYyUTJhZVFqRXViX0FqaV9keWVfZDRtMDJxN3FpQ2ZSYzZ1ZjMtMTlaaWR5TVdiRmc3UXpCYlJpRy05bEg5TFdaZXIzb21uN19yMklndUd6MmxlWVZkLVY0djBwdHZQODM2YVhxQ2JuaF9jQ25NWnRBRVI0dS1mUE5fNEdmcXFfR3J6NA?oc=5",
       "image": null,
       "timestamp": 1790665200,
@@ -4849,6 +4864,20 @@
       "title_orig": "REVIEW: DIGIMON BEATBREAK Episodes 25-37 Anime Series Review"
     },
     {
+      "id": "dbb4b14b377ca28aa63baa153d8b3903",
+      "title": "[해외뉴스] 디지몬 어드벤처, 새로운 크로스오버를 통해 'AFK: 새로운 여정'에 등장",
+      "snippet": "Digimon Adventure Is Coming to AFK Journey in New Crossover Capsule Computers",
+      "source": "Capsule Computers",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUktrUjlhT1B0YUVUR1NuaVJQLTRET094XzFSdlhkRUNWSF81b1c5NFNaQkRTMjNzb1d6YWdLOEZ6djV2RklBZXJBZUdxQm43TWVXNFVxRTRvUjcxMGd3ZTc5ZXBZM0t2N0dWeEFMR0Z6OHR2b2NtX0dmUDVyazRXTE10cHhHQlA3ZUVzaWlMODZYeFQ0cm1MMWpadm9EOE5UT19seTBCaw?oc=5",
+      "image": null,
+      "timestamp": 1785826800,
+      "created_at": "2026-08-04 16:00",
+      "title_orig": "Digimon Adventure Is Coming to AFK Journey in New Crossover"
+    },
+    {
       "id": "fd2b4fcba98db25730a70f5d3625f5d3",
       "title": "[해외뉴스] AFK 새로운 여정 x 디지몬 어드벤처 - 공식 크로스오버 트레일러",
       "snippet": "AFK Journey x Digimon Adventure - Official Crossover Trailer IGN Africa",
@@ -4982,11 +5011,25 @@
       "created_at": "2026-08-02 16:00"
     },
     {
+      "id": "999cd80f9694700f9d0f1969a9b81715",
+      "title": "[애니뉴스] 디스코텍, 올해 『디지몬 프론티어』, 『파니포니 대쉬!』, 『루팡 3세 PART 2』, 『아웃랜더스』, 『사무라이 피자 캣츠』 외 10편 이상의 애니메이션 BD 발매 예정",
+      "snippet": "Discotek to Release Digimon Frontier, Pani Poni Dash!, Lupin III: Part II, Outlanders, Samurai Pizza Cats, 10+ More Anim",
+      "source": "Anime News Network",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRy1NUUdXVjV5VnpIMmx2OU95d2lnNTdkT05VcDRXTTdheHBKZ09rSHNGaHkzNFZjYjlLN0ViLWZCblpXVmhDWV92LW1MSWgtY3IyWVBlakh6TXd2M1JQM1IzU3RMNzhqRmFKTFl5clFTclo1OWFfWmN4X0hoZ243SVljSkVwVmVZcnFfRVpTT0RhTllITjIxclg5MGphSXd6MEhxZlBwLUJwRzNiYXl0RDdIT2FlQjlMOHZaSE4yZDZTd0pFSDRCTkMzNmNUV3pLSFBUZjMwZFBxbWtoUUFhb1NFc2VaRll6VElwSHJB?oc=5",
+      "image": null,
+      "timestamp": 1785654000,
+      "created_at": "2026-08-02 16:00",
+      "title_orig": "Discotek to Release Digimon Frontier, Pani Poni Dash!, Lupin III: Part II, Outlanders, Samurai Pizza Cats, 10+ More Anime on BD This Year"
+    },
+    {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
+      "source_badge": "애니뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
