@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 23:41:43",
+  "last_updated": "2026-10-26 03:02:41",
   "total_count": 359,
   "retention_days": 90,
   "feeds": [
@@ -3181,6 +3181,19 @@
       "title_orig": "10 Best Digimon Mega Evolutions, Ranked"
     },
     {
+      "id": "788843bbd85c8a06605a63247e99597f",
+      "title": "[인스타] 📢 메가하우스 피규어 예약 안내 『디지몬 어드벤처』 🥚 메가에그 피규어 잘 자 디지코레 (전 8종) 📅 입고 예정 : 2027년 6월 ⏰ 예약 마감 : 10월 31일 예약 문의 http://pf.kakao.com/_xnvvvb #디지몬어드벤처 #디지몬 #메가에그피규어 #디지코레 #메가하우스 #피규어예약",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3cVVqNm9LRFFfaEFFSVJwT2oxcVRkNWE3emNETkRfd1FGbUQ1eHpmOVBNZEQyQkJ2YkZ2STdnY3pmeE82b1ZqT0FKcUVKYVBvQXc?oc=5",
+      "image": null,
+      "timestamp": 1790578800,
+      "created_at": "2026-09-28 16:00"
+    },
+    {
       "id": "f7c6eabe7f855295130e6900a10c62c2",
       "title": "[일본뉴스] TV 애니메이션 『DIGIMON BEATBREAK』 최종회 방송 기념! 극 중에서 활약한 디지몬을 수록한 「디지털 몬스터 COLOR」가 등장!",
       "snippet": "TVアニメ『DIGIMON BEATBREAK』最終回放送記念！ 劇中で活躍したデジモンを収録した 「デジタルモンスターCOLOR」が登場！ アットプレス",
@@ -5061,19 +5074,6 @@
       "image": null,
       "timestamp": 1785222000,
       "created_at": "2026-07-28 16:00"
-    },
-    {
-      "id": "002c7cdff636daf85e6f5efffa3fb267",
-      "title": "디지몬 어드벤처 파닥몬, 가트몬 공식 무드등 출시예정",
-      "snippet": "루리웹 피규어/프라모델/굿즈 정보 게시판 소식입니다.",
-      "source": "루리웹 모형정보",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/family/242/board/300017/read/2430030",
-      "image": null,
-      "timestamp": 1785164400,
-      "created_at": "2026-07-28 00:00"
     }
   ]
 }
