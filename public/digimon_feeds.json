@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 14:33:04",
+  "last_updated": "2026-10-25 19:25:27",
   "total_count": 356,
   "retention_days": 90,
   "feeds": [
@@ -737,6 +737,21 @@
       "created_at": "2026-10-21 21:15",
       "title_orig": "『デジモンストーリー タイムストレンジャー』がセールに初登場！バンナムのセールが開催中、PS版は最大84％オフで『鉄拳8』なども割引 (インサイド)",
       "title_ja": "『デジモンストーリー タイムストレンジャー』がセールに初登場！バンナムのセールが開催中、PS版は最大84％オフで『鉄拳8』なども割引 (インサイド)"
+    },
+    {
+      "id": "fc2ed638f494bd9962e8e4e74a9464aa",
+      "title": "[일본뉴스] 『디지몬 스토리 타임 스트레인저』가 세일에 첫 등장! 반남 세일 진행 중, PS판은 최대 84% 할인으로 『철권 8』 등도 할인 (인사이드)",
+      "snippet": "『デジモンストーリー タイムストレンジャー』がセールに初登場！バンナムのセールが開催中、PS版は最大84％オフで『鉄拳8』なども割引（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzSDZHay1uTzRQZ0E5UjFpY3k5Y3A3VDdtNUtXRWRMMkZ5emlzSXQ4dE5FWEN3STlrT3hKcEtKQjN0MUxGX1ozdllNRFh2b08zcjdQQjk0YkZjMTJrckdFaTNaS0k3NTZiOWZiWlV6NVdkdk4wdjhaZ0p6WjNMMXM?oc=5",
+      "image": null,
+      "timestamp": 1792584903,
+      "created_at": "2026-10-21 21:15",
+      "title_orig": "『デジモンストーリー タイムストレンジャー』がセールに初登場！バンナムのセールが開催中、PS版は最大84％オフで『鉄拳8』なども割引（インサイド）",
+      "title_ja": "『デジモンストーリー タイムストレンジャー』がセールに初登場！バンナムのセールが開催中、PS版は最大84％オフで『鉄拳8』なども割引（インサイド）"
     },
     {
       "id": "9556fe1e5dc1c18538422596d94705f9",
@@ -2318,19 +2333,6 @@
       "image": null,
       "timestamp": 1791859839,
       "created_at": "2026-10-13 11:50"
-    },
-    {
-      "id": "5cf01acf959906bd58559141f20774df",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xSURIbmY0VFZNRlMwdnJjVTh4NW81dXF5ZXp1SWNqZG1YaEF5ZTJOSzRyZ2FMNzByT1NTbTNPd2pHNjExOUxHd0hhdGJLLVFQNjR2YUVMN3BoYUVTelk4Yzh3bXQ5WkwxXzVkRElaOE10X0lj?oc=5",
-      "image": null,
-      "timestamp": 1791856980,
-      "created_at": "2026-10-13 11:03"
     },
     {
       "id": "554ae7fc7acc742e594eaa64b4603314",
