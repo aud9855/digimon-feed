@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-26 14:42:07",
+  "last_updated": "2026-10-26 20:57:32",
   "total_count": 365,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "822c332becc8dd8656e32a1ecda06b00",
+      "title": "[일본뉴스] アニメ「デジモンテイマーズ」の配信はどこで見れる？全51話を見放題で見れるサブスクを比較",
+      "snippet": "アニメ「デジモンテイマーズ」の配信はどこで見れる？全51話を見放題で見れるサブスクを比較 アニメ！アニメ！",
+      "source": "アニメ！アニメ！",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZ2Y0ZWlqQmdELVBOLWRhMWV3RXBlaTdaNlVsd21fbEVYdExLWVFIcVpJLXRvSWVzY2luNkVTaXR0SDUyaVFqN08zOG5naGxnT1BHSlpxbktVMDBNeklRQUt3?oc=5",
+      "image": null,
+      "timestamp": 1792999826,
+      "created_at": "2026-10-26 16:30"
+    },
     {
       "id": "cdfe3d043d01c7c0b98f349993085051",
       "title": "[네이버] 겜시작하기전에 이거는 무조건 해야함 !!!!!!! : 디지몬RPG",
@@ -5146,19 +5159,6 @@
       "image": null,
       "timestamp": 1785308400,
       "created_at": "2026-07-29 16:00"
-    },
-    {
-      "id": "59e44e1ab0e70d4a132cbabeb7f89a67",
-      "title": "[인스타] 오늘 디지몬 up 업데이트로 디지몬 스토리 타임 스트레인저가 추가 되었네요! 현재 뽑기랑 미니게임으로 버디랑 의상, 아이콘과 프레임 그리고 채팅박스도 얻을 수 있으니 꼭 받아가세요~~ 그리고 다들 아시아 서버2로 오쉬라ㅏㅏ~ 호메오스타시스 캠프오면 더욱 좋고~",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dUlHeHY0Skk2Sk1JVHFhRE5LcUdlMDFhSkhSWjhSUkllYXR1V3VuSG1VRnNWbEV3aFdodlFrSDZ2T3BNTzRnb1VZc1UtR29kaVE?oc=5",
-      "image": null,
-      "timestamp": 1785222000,
-      "created_at": "2026-07-28 16:00"
     }
   ]
 }
