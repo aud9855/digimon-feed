@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26 09:57:35",
-  "total_count": 363,
+  "last_updated": "2026-10-26 14:42:07",
+  "total_count": 365,
   "retention_days": 90,
   "feeds": [
     {
@@ -1103,6 +1103,21 @@
       "created_at": "2026-10-19 12:01",
       "title_orig": "【デジモンUP】反撃タイプのおすすめビルド",
       "title_ja": "【デジモンUP】反撃タイプのおすすめビルド"
+    },
+    {
+      "id": "c111d7aff6d14544e0179f895f2f28df",
+      "title": "[하비뉴스] #『디지몬』 시리즈의 검색 결과(6건)",
+      "snippet": "#『デジモン』シリーズ の検索結果(6件) あみあみ",
+      "source": "아미아미",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOX0NjbGE5QzlSOFRsNHlqZEs3RkhKLTlxM3ZSWEZkTnNMQVF5X2JyQ0cwS1l4V2RUSWlBbnctYmlncFlWSVFmcl9HT2tLUGVRNXZHYUkzYzNta0JWOW5taHZZSy1ET3d6bWZxdGZ1TzZFZWpQS2lKS0tnaUpZSEZ3S0ZpbHVZMDRCd1dJamlNY2xmNkE5Tmh2bnd6djExUXM1ZzhUWnVRdkhDbjI0aDUyNVNNOTZ5VWZULWVraWtVcGY5d2NvLTNhZVJ2QkNGaS00el9EUmxtNkpWSmktalFVbTIwVmdwaGgyR2haa3AxTGNuZWpRUzUtLUt5QW9QNElQRkNEWmZkWUtxOFVHZ01QRExyVWpZYlV4STd1VkZkRHRpd05ySW1OTnc2M3pXMDR3NG5LM3FNbkdHSUNfMGJBbXJZZFVZcTZMSnBjRERXT05TaEY5LXdpS2ttdERfcTNSeGlqc0cwNjJ2dEdFZW9Xa0xrNjJOcWRQbFRjZnd6QXIzeFVGajh6WEpDRlA4b01KSXRYUWpOVmlRTFlmR25ONzgzZ2g5aDNVZ043WG1IZmh6ME0?oc=5",
+      "image": null,
+      "timestamp": 1792341016,
+      "created_at": "2026-10-19 01:30",
+      "title_orig": "#『デジモン』シリーズ の検索結果(6件)",
+      "title_ja": "#『デジモン』シリーズ の検索結果(6件)"
     },
     {
       "id": "ae8dd4fe5d5910440afa1b6552346c03",
@@ -3222,6 +3237,19 @@
       "created_at": "2026-09-28 16:00"
     },
     {
+      "id": "4125745dddd19916756246f37b5fe95c",
+      "title": "[디지카] 이벤트 - 10월 테이머 배틀",
+      "snippet": "이벤트 - 10월 테이머 배틀 디지몬 카드 게임",
+      "source": "공식 디지카KR",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2MXJaRHdxcTRkMTJidkdqb2NNR19wNFROeERfSFFXeUdqRlVfc0xkbXJqb3JIUUwzdUpaeEZSYzFyTDMxMHNxbWNFaEVMUQ?oc=5",
+      "image": null,
+      "timestamp": 1790564723,
+      "created_at": "2026-09-28 12:05"
+    },
+    {
       "id": "f7c6eabe7f855295130e6900a10c62c2",
       "title": "[일본뉴스] TV 애니메이션 『DIGIMON BEATBREAK』 최종회 방송 기념! 극 중에서 활약한 디지몬을 수록한 「디지털 몬스터 COLOR」가 등장!",
       "snippet": "TVアニメ『DIGIMON BEATBREAK』最終回放送記念！ 劇中で活躍したデジモンを収録した 「デジタルモンスターCOLOR」が登場！ アットプレス",
@@ -5026,10 +5054,10 @@
     },
     {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "애니뉴스",
+      "source_badge": "해외뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
