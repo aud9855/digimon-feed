@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-10-27 07:09:14",
-  "total_count": 371,
+  "last_updated": "2026-10-27 10:46:17",
+  "total_count": 373,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "3e249b7297901f2bc726f5971a36ab4e",
+      "title": "[해외뉴스] 디지몬 마스터즈, 17주년 기념 성장 지원 이벤트 개최",
+      "snippet": "Digimon Masters Hosts Growth Support Event to Celebrate 17th Anniversary Inven Global",
+      "source": "Inven Global",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzZXeDloTHBpQXo4SThtQThHUnBwWkZnMWc0Nmx3Q0FaZzNVd3pJMGZtaVhEUlY3UnI1SEZOc3BiTUdWYVRhVVc0VkZDbnY4cHE0SkgwZ1Y4cnlqTmJuYXVtdFAtT2dzbEY1R2Vwa05WbVRtNERHLThpaEs4NEN6QWthVEcwTDdXUXU0RUd0ZWUyS3Z1dTNfZ25Hc09xYmI5U0pRdWgzTXY4YTdhSWRVeTFMbUxLdw?oc=5",
+      "image": null,
+      "timestamp": 1793063590,
+      "created_at": "2026-10-27 10:13",
+      "title_orig": "Digimon Masters Hosts Growth Support Event to Celebrate 17th Anniversary"
+    },
+    {
+      "id": "3421c6c6c249fc826e6367fa807ef8c2",
+      "title": "무브인터렉티브, '디지몬 마스터즈' 17주년 기념 이벤트 마련",
+      "snippet": "무브인터렉티브, '디지몬 마스터즈' 17주년 기념 이벤트 마련 아이뉴스24",
+      "source": "아이뉴스24",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80QVI2Qi1mUWxfWDUxVHF5RHdsRFpWeVdXcGZpSkRtUVBIajlEUmZ3U043MWVWSk14ZjF0Nm9NTjEzYldPWldzOUZyWQ?oc=5",
+      "image": null,
+      "timestamp": 1793059980,
+      "created_at": "2026-10-27 09:13"
+    },
+    {
+      "id": "6b7e0500bd02a50a134a03d0be741bf5",
+      "title": "‘디지몬 마스터즈’, 17주년 맞아 5천만 원 규모 경품 이벤트",
+      "snippet": "‘디지몬 마스터즈’, 17주년 맞아 5천만 원 규모 경품 이벤트 경향게임스",
+      "source": "경향게임스",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LQ2tqMlZIVlc5b0x5YXZTcjBLZ0RCaHJmQ2dSQVdkVEZkcDdWNlB6ZVVUUVVGTG9aM2JvRFVMVDQxZnUxSkR3UnJtTXVlQU5XeVlJakpENDlqcDI2R3VLU1lKUlZSeWx6UXNMZw?oc=5",
+      "image": null,
+      "timestamp": 1793059960,
+      "created_at": "2026-10-27 09:12"
+    },
     {
       "id": "67ab42ca14c8d1e098776a5e85dc9e67",
       "title": "[일본뉴스] 리코 시점 【디지몬】 오늘은 43화~48화 드디어 최종화!! 세이버즈 처음으로 봐요!!! 【동시 시청】",
@@ -556,6 +596,21 @@
       "created_at": "2026-10-22 18:40",
       "title_orig": "【デジモンUP】ムゲンドラモン(SP Ver.)の評価と性能",
       "title_ja": "【デジモンUP】ムゲンドラモン(SP Ver.)の評価と性能"
+    },
+    {
+      "id": "2fc98975430f4e0716f106235c11456e",
+      "title": "[일본뉴스] 【디지몬 UP】 마그나몬(SP Ver.)의 평가와 성능",
+      "snippet": "【デジモンUP】マグナモン(SP Ver.)の評価と性能 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BT0N1WWtsR01oNkZBMUFWelBqcGVvbFhmV1dNUHVYWTJtX2daZTNGZ2lfLTQ2RWRSWGgxN1VqdnVXNXdMeC1LZGdjQ2U?oc=5",
+      "image": null,
+      "timestamp": 1792662050,
+      "created_at": "2026-10-22 18:40",
+      "title_orig": "【デジモンUP】マグナモン(SP Ver.)の評価と性能",
+      "title_ja": "【デジモンUP】マグナモン(SP Ver.)の評価と性能"
     },
     {
       "id": "f8abf866cf0cfccdfaa772a7dccd42fe",
@@ -2466,19 +2521,6 @@
       "created_at": "2026-10-13 11:50"
     },
     {
-      "id": "5cf01acf959906bd58559141f20774df",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xSURIbmY0VFZNRlMwdnJjVTh4NW81dXF5ZXp1SWNqZG1YaEF5ZTJOSzRyZ2FMNzByT1NTbTNPd2pHNjExOUxHd0hhdGJLLVFQNjR2YUVMN3BoYUVTelk4Yzh3bXQ5WkwxXzVkRElaOE10X0lj?oc=5",
-      "image": null,
-      "timestamp": 1791856980,
-      "created_at": "2026-10-13 11:03"
-    },
-    {
       "id": "554ae7fc7acc742e594eaa64b4603314",
       "title": "[반프레스토] 이치방쿠지 디지몬 시리즈 매트릭스 에볼루션",
       "snippet": "루리웹 피규어/프라모델/굿즈 정보 게시판 소식입니다.",
@@ -2819,20 +2861,6 @@
       "image": null,
       "timestamp": 1791183600,
       "created_at": "2026-10-05 16:00"
-    },
-    {
-      "id": "a8b5bad80c09dfbf09c1dfd94ee39aab",
-      "title": "[디지카] 덱 정보",
-      "snippet": "Deck Information digimon card meta",
-      "source": "Digimon Meta",
-      "source_badge": "디지카",
-      "category": "card",
-      "category_name": "카드게임(TCG)",
-      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQZmJ4dm1IZHBXUlk0Y3FUWElOOVBGNnNJTVJSdnAwWVNkc2s0MDJuby0wZHUwb3Jsb1M5eTFGcU9oSElBYzVhZ2xZelQxYjJBeHBIZGFqRDJnNUJPU2hUVWlNQW9VNDZqLVJ3emhUUDk3VEpqYXNKd29tSUttQXhQQVg0UmtyMU5GTFl3Snh1VDg2Mk03cHNXZ2d0WDRrLXBuV2RPenloYlhzejVQUFB1NGZFMUR4UWFlRGNmYUdoVHU4MXNyUFNtYnFqak1yU1VfaDdvYlF2YXZGNmlMQTExM25zVnFTNEtxWW05MzJHYS11TUJwd3hjQ1JBLWhERVR3cFg1RmhCQzdJbjZYMmpWd2h2WWhsVVBTRkhvOHRQaEZxVVVVVlEzMENiSkV6a3BUcW1RSVZGZkNoS0cxTGVWSVJWYjRmZmw1T3JTbW9qcVFsamdfNWZoUGwxcThLZFhtUWlMY2gxUjFSdVZQMFVfSFhHU1dnWFR5aVNoYzNLUnZEZ3o4QnNsMFdHZkUwTC12UlhQcW15SXFLeURydHpMSDRfTHdQQXpZR19iOU9wU0hxMnE1MVBla1ctQUhPMHY1ZVNodVNveExXYTNOVEVDOFpTRnNtRkxSbHhPbWpuVlg0QXlfVFRTN2NMOXFHMGpHQVE?oc=5",
-      "image": null,
-      "timestamp": 1791183600,
-      "created_at": "2026-10-05 16:00",
-      "title_orig": "Deck Information"
     },
     {
       "id": "9d3c3d31e6adc6a0bd4ac7f5189c620b",
@@ -3199,12 +3227,12 @@
     },
     {
       "id": "b33dfb5dd623425b68d3322c70f101a4",
-      "title": "[해외뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
+      "title": "[애니뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
       "snippet": "Manga Plus Adds Digimon Eggs Manga on October 2 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY24tRi13LVJ0cW5POU55cWQtekw0SGVOaGRrUTYyUTJhZVFqRXViX0FqaV9keWVfZDRtMDJxN3FpQ2ZSYzZ1ZjMtMTlaaWR5TVdiRmc3UXpCYlJpRy05bEg5TFdaZXIzb21uN19yMklndUd6MmxlWVZkLVY0djBwdHZQODM2YVhxQ2JuaF9jQ25NWnRBRVI0dS1mUE5fNEdmcXFfR3J6NA?oc=5",
       "image": null,
       "timestamp": 1790665200,
@@ -4268,22 +4296,8 @@
       "category_name": "카드게임(TCG)",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PYVNjbE90NG94cU0zR2l4MnBFYXdveDVlY3o4RzV5ZEljNEdaM1JCY3doOFh3ZWJaMDg1YUd2djRGY2pldDNaNGVrWkkyR3NYbVE?oc=5",
       "image": null,
-      "timestamp": 1788488038,
-      "created_at": "2026-09-04 11:13"
-    },
-    {
-      "id": "530ec64473a064db28ca6af9d6846b4d",
-      "title": "[해외뉴스] 디지몬 스토리: 타임 스트레인저의 신규 확장팩에서 전설이 새롭게 시작된다",
-      "snippet": "Legends begin anew in DIGIMON STORY: TIME STRANGER’S new expansion Bandai Namco Europe",
-      "source": "Bandai Namco Europe",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFJxMU0xNlJmMGpRRTdiQk1waUpBd0x4dlNOM19BSkhuZ3VKY1pNZ2dCQ0twVnp1OV9jenVJSHdSNzV4U1ltN2pibnA4QzItc3FIckpaenFEMW1zQ1c4eWlfbmRPWHBSQzNwU3hmcGRXXy1wN3FQUF9EUGUzOE10MnVmejR5OG4wRFdZbDVsU3kwMzc3akFfOHJZemE1Q25NYWM2akd3?oc=5",
-      "image": null,
-      "timestamp": 1788448784,
-      "created_at": "2026-09-04 00:19",
-      "title_orig": "Legends begin anew in DIGIMON STORY: TIME STRANGER’S new expansion"
+      "timestamp": 1788505200,
+      "created_at": "2026-09-04 16:00"
     },
     {
       "id": "f66704732ed4e4dadd298cbb3b45ea92",
@@ -4310,6 +4324,20 @@
       "image": null,
       "timestamp": 1788447600,
       "created_at": "2026-09-04 00:00"
+    },
+    {
+      "id": "530ec64473a064db28ca6af9d6846b4d",
+      "title": "[해외뉴스] 디지몬 스토리: 타임 스트레인저의 신규 확장팩에서 전설이 새롭게 시작된다",
+      "snippet": "Legends begin anew in DIGIMON STORY: TIME STRANGER’S new expansion Bandai Namco Europe",
+      "source": "Bandai Namco Europe",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFJxMU0xNlJmMGpRRTdiQk1waUpBd0x4dlNOM19BSkhuZ3VKY1pNZ2dCQ0twVnp1OV9jenVJSHdSNzV4U1ltN2pibnA4QzItc3FIckpaenFEMW1zQ1c4eWlfbmRPWHBSQzNwU3hmcGRXXy1wN3FQUF9EUGUzOE10MnVmejR5OG4wRFdZbDVsU3kwMzc3akFfOHJZemE1Q25NYWM2akd3?oc=5",
+      "image": null,
+      "timestamp": 1788418800,
+      "created_at": "2026-09-03 16:00",
+      "title_orig": "Legends begin anew in DIGIMON STORY: TIME STRANGER’S new expansion"
     },
     {
       "id": "712525d360d060551c41574ae2c8abba",
@@ -5155,10 +5183,10 @@
     },
     {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
+      "source_badge": "애니뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
