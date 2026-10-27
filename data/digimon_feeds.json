@@ -1,8 +1,22 @@
 {
-  "last_updated": "2026-10-28 04:08:04",
-  "total_count": 387,
+  "last_updated": "2026-10-28 08:27:42",
+  "total_count": 390,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "7dac85421356ed4331bb101597f0f9a6",
+      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
+      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
+      "image": null,
+      "timestamp": 1793136270,
+      "created_at": "2026-10-28 06:24",
+      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
+    },
     {
       "id": "738cafe9d3e6c986953d9272bda6d11b",
       "title": "[애니뉴스] 디지몬 비트브레이크 에피소드 38-49 애니메이션 시리즈 리뷰",
@@ -199,20 +213,6 @@
       "image": null,
       "timestamp": 1793059960,
       "created_at": "2026-10-27 09:12"
-    },
-    {
-      "id": "7dac85421356ed4331bb101597f0f9a6",
-      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
-      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
-      "image": null,
-      "timestamp": 1793059893,
-      "created_at": "2026-10-27 09:11",
-      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
     },
     {
       "id": "67ab42ca14c8d1e098776a5e85dc9e67",
@@ -1127,6 +1127,19 @@
       "title_ja": "バンダイナムコENT、ダウンロード版のセールを開催！ニンテンドーeショップで『デジモンストーリー タイムストレンジャー』が初登場"
     },
     {
+      "id": "555153f8553c5af201c0ed2fc794fb47",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZjliVEJCbDFTN0hlSWhvTFhlQU93MWhEQlo1dmNlMkItX0xNcGY4dDIxYkFfZFJpc0l0V3d4b1haZVBJX0ZjNnE0S25NaDJmU042NGFyMEx2djFveEdqZ1ZfQXd4enpSTkFB?oc=5",
+      "image": null,
+      "timestamp": 1792569960,
+      "created_at": "2026-10-21 17:06"
+    },
+    {
       "id": "ad2b4583eb9ef77b5690b2310ddc231d",
       "title": "[일본뉴스] 【최대 84% 할인】 『디지몬 스토리』와 『테일즈』가 특가. 반남 DL판 세일 개최",
       "snippet": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催 電撃オンライン",
@@ -1433,6 +1446,19 @@
       "created_at": "2026-10-19 01:30",
       "title_orig": "#『デジモン』シリーズ の検索結果(6件)",
       "title_ja": "#『デジモン』シリーズ の検索結果(6件)"
+    },
+    {
+      "id": "8afcf13362e0a86ed902e27a23d67fe9",
+      "title": "[인스타] ★최신 카드 소개★ 11월 20일 발매 예정인 『TIME STRANGER』의 최신 카드를 소개합니다. 오늘 공개할 카드는 「쉬라몬」입니다. https://digimoncard.co.kr/ #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zS2dkVTVJZHhSb3dRZElLeVVqaWZkTjNsNUpBZ0hGUHJCdmZfcnpuS2pGWGpuZVZVdmN0LVNqbWsxQTRXMmxPalpvcFQtNEppdkE?oc=5",
+      "image": null,
+      "timestamp": 1792314171,
+      "created_at": "2026-10-18 18:02"
     },
     {
       "id": "ae8dd4fe5d5910440afa1b6552346c03",
@@ -3801,8 +3827,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 내 건담 덱 | 에그맨 덱 빌더",
-      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
+      "title": "[디지카] 나의 건담 덱",
+      "snippet": "My Gundam Decks Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -3811,7 +3837,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks | Egman Deck Builder"
+      "title_orig": "My Gundam Decks"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
@@ -5148,6 +5174,19 @@
       "created_at": "2026-08-06 16:00",
       "title_orig": "バンダイナムコ『デジモン』IP、過去最高益を達成！ ゲーム＆カードが絶好調で2000年代アニメ全盛期超え！",
       "title_ja": "バンダイナムコ『デジモン』IP、過去最高益を達成！ ゲーム＆カードが絶好調で2000年代アニメ全盛期超え！"
+    },
+    {
+      "id": "75741da127057316eb9cdb2baa233b70",
+      "title": "[루리웹] 디지몬 IP 매출 2000년 애니 방영 당시 넘어",
+      "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
+      "source": "루리웹 콘솔뉴스",
+      "source_badge": "루리웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://bbs.ruliweb.com/news/board/1001/read/2359427",
+      "image": null,
+      "timestamp": 1785942000,
+      "created_at": "2026-08-06 00:00"
     },
     {
       "id": "fa6c89721a420ec93691864d6b1e9c8c",
