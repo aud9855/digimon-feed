@@ -47,13 +47,21 @@ S.headers.update({
 })
 
 
+class Maintenance(Exception):
+    """공식 사이트 점검 중 (모든 요청이 /maint/ 안내 페이지로 넘어감)"""
+
+
 def get(url, **kw):
     for attempt in range(4):
         try:
             r = S.get(url, timeout=30, **kw)
+            if "/maint/" in r.url:
+                raise Maintenance(r.url)
             if r.status_code == 200:
                 return r
             print(f"  HTTP {r.status_code}: {r.url}")
+        except Maintenance:
+            raise
         except Exception as e:
             print(f"  error {e}: {url}")
         if attempt < 3:
@@ -250,6 +258,11 @@ def collect_appmon():
 
 
 if __name__ == "__main__":
-    if "--appmon-only" not in sys.argv:
-        main()
-    collect_appmon()
+    try:
+        if "--appmon-only" not in sys.argv:
+            main()
+        collect_appmon()
+    except Maintenance as e:
+        # 일시적인 사이트 점검은 실패로 보지 않음 — 아무것도 저장하지 않고 다음 실행 때 다시 수집
+        print(f"::warning::공식 사이트 점검 중이라 수집을 건너뜁니다 ({e}) — 기존 데이터 유지")
+        sys.exit(0)
