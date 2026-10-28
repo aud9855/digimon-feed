@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-10-29 01:57:14",
-  "total_count": 414,
+  "last_updated": "2026-10-29 06:30:37",
+  "total_count": 420,
   "retention_days": 90,
   "feeds": [
     {
+      "id": "bd5b36d18b2d8e30e2e14d1ff2322c51",
+      "title": "[해외뉴스] 디지몬 알리시온 스마트폰 카드 게임, 신규 트레일러와 함께 사전 등록 개시",
+      "snippet": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer Anime News Network",
+      "source": "Anime News Network",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXd2N2tfYnJCN3RKWGJEN2VWZ2pCcDdMSmxQMkdHOGhYdkRLdU9WcndBT2p0eFhHRTB4eHo4dVd6cy1NQkh0MkRjbGdSTlFBRXYtdk11NmNiTlpxMzZOZldwbFh2YTFYdE0wTEc5V2R5ZmRKTFpMWW1SRjFNaE9wenVLTXAtWFpaU2JGZVNyRUxjbG15OHRfRDR1aWNhVHpFVGl1NUlkdVg4TXRSQzZfWUh5VWhuNDIwMGpkNWg3YTZhek1TekF3cFE1by1rQQ?oc=5",
+      "image": null,
+      "timestamp": 1793219400,
+      "created_at": "2026-10-29 05:30",
+      "title_orig": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer"
+    },
+    {
+      "id": "7dac85421356ed4331bb101597f0f9a6",
+      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
+      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
+      "image": null,
+      "timestamp": 1793210970,
+      "created_at": "2026-10-29 03:09",
+      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
+    },
+    {
+      "id": "a408ab687b4d6db41b3d0b5d6e11e9db",
+      "title": "[해외뉴스] 디지몬 알리시온 모바일 카드 게임 사전 등록 시작",
+      "snippet": "Digimon Alysion Mobile Card Game Pre-registration Starts Siliconera",
+      "source": "Siliconera",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1gxdkR6WXBxY1oycVc3cDI1QWhucC1TREJZbnFHaEFpTmMyZ2x5YXJuYjdKazN3bnNBMjNSNjZCNGstcC1qWHhKQUJjNENfeHg5RmNaVEU5Z3RYVE1jVUlQbVVvZ0t1N1Z3OThuTkxKck53R3lQTzRQQ25wQ090dEtkQ0F0dTRod0NvbQ?oc=5",
+      "image": null,
+      "timestamp": 1793210400,
+      "created_at": "2026-10-29 03:00",
+      "title_orig": "Digimon Alysion Mobile Card Game Pre-registration Starts"
+    },
+    {
       "id": "eea2c588b7b057825ee70e4edde04135",
-      "title": "[해외뉴스] Enter the World of Digimon Liberator with the Brand New ‘Digimon Alysion’ App",
+      "title": "[해외뉴스] 완전히 새로운 ‘디지몬 알리시온’ 앱으로 『디지몬 리버레이터』의 세계로",
       "snippet": "Enter the World of Digimon Liberator with the Brand New ‘Digimon Alysion’ App The Pop Insider",
       "source": "The Pop Insider",
       "source_badge": "해외뉴스",
@@ -14,11 +56,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5relppODRhZnFPYWxOQmNtRC1WYkw4UzFMeFR3VW1qenBGTE5wNW1BcVJnVTgxZ1hHTVVaZmZ1TEcxZ1BGcldEMDZyVnlaaXBZb01CWUs5MzJYTjY2R3BBNg?oc=5",
       "image": null,
       "timestamp": 1793202827,
-      "created_at": "2026-10-29 00:53"
+      "created_at": "2026-10-29 00:53",
+      "title_orig": "Enter the World of Digimon Liberator with the Brand New ‘Digimon Alysion’ App"
     },
     {
       "id": "d00ef8db11a8e183d177cd8e7c62f841",
-      "title": "[해외뉴스] DIGIMON ALYSION Pre-Registration is Now Open",
+      "title": "[해외뉴스] 디지몬 알리시온 사전 등록 시작",
       "snippet": "DIGIMON ALYSION Pre-Registration is Now Open Netto's Game Room",
       "source": "Netto's Game Room",
       "source_badge": "해외뉴스",
@@ -27,11 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWhpNG0zTmZ2RGt3MGZTYlNNWGdmSk1sUUpnNUxZSHFfcnE3aTVXTGZaWHB2SUlib1h4S01rdUhCb3lWenNnNkNEUFNTQWc1OVdEZ0twOVQwTllxZ0ZEMzQtY3drNjItSExnLTV5ZXVUSkxQVUhUSEFlcEZwc2NFTFctRGpGa2Q1T21v?oc=5",
       "image": null,
       "timestamp": 1793193360,
-      "created_at": "2026-10-28 22:16"
+      "created_at": "2026-10-28 22:16",
+      "title_orig": "DIGIMON ALYSION Pre-Registration is Now Open"
     },
     {
       "id": "391e0e895b9925fab5f8ea3d694dd382",
-      "title": "[해외뉴스] The Digimon Card Game Goes Digital With Digimon Alysion",
+      "title": "[해외뉴스] 디지몬 카드 게임, 디지몬 알리시온으로 디지털화되다",
       "snippet": "The Digimon Card Game Goes Digital With Digimon Alysion Bleeding Cool News",
       "source": "Bleeding Cool News",
       "source_badge": "해외뉴스",
@@ -40,11 +84,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWZsM0dROVZrb3FZZ0pnS0xITnZ3cnNvYTFjQVZKME9pNy11cmIwbHkwN1M0ckRBWGJfeHBibnBkMkY4U0ZJUXZqNTBPYXNqTkhZREYxVndGaTV2QjJHTHBpV1cyV3cxSGZhVk8wVUprZEduRHoyUVUwM1ZpWkNfYzF4Vjhjb2RwRmp2Ym8zeTI?oc=5",
       "image": null,
       "timestamp": 1793193130,
-      "created_at": "2026-10-28 22:12"
+      "created_at": "2026-10-28 22:12",
+      "title_orig": "The Digimon Card Game Goes Digital With Digimon Alysion"
     },
     {
       "id": "5e74543412741c4fe65a75c571afa43e",
-      "title": "[해외뉴스] The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION",
+      "title": "[해외뉴스] 디지몬 카드 게임, 디지몬 알리시온에서 디지털 월드로 향하다",
       "snippet": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION OpenCritic",
       "source": "OpenCritic",
       "source_badge": "해외뉴스",
@@ -52,13 +97,14 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTks3R1MwMXdCOFNkNXNXQ25QUzY0XzZmSEFLYTBSeUFPUVNqdjQ2ZU9LWnc2azVQSEVvRmFYSl84eVlWQklPTzRURmR0X0thcGNzc3gyTDFzQnE2ZmNWMHhiT1Rrcy1HZk16Vm9OQ0ZaT2hqWlJaeUxVaV8yMUk1SUdrUXRFOUxvZmZvVFYyZm9ZSnNWU0k4V0x1dkxBQ2k2aUhv?oc=5",
       "image": null,
-      "timestamp": 1793185685,
-      "created_at": "2026-10-28 20:08"
+      "timestamp": 1793187433,
+      "created_at": "2026-10-28 20:37",
+      "title_orig": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION"
     },
     {
       "id": "4cb03268cb9c0f9a914d9e23cfa57eeb",
-      "title": "[일본뉴스] 『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催",
-      "snippet": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 eeo",
+      "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록 스타트! 「BT1-025 워그레이몬」 등 등록자 수에 따라 호화 보상을 받을 수 있는 캠페인도 개최 - eeo Media(이오 미디어)",
+      "snippet": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア） eeo",
       "source": "eeo",
       "source_badge": "일본뉴스",
       "category": "card",
@@ -66,11 +112,13 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SU1dFY0Vkc3hIbVc5U1c3ZFJudHVWUllsZXVxWGpCMl8xRTg0V0xvVFVNejltTGFrbmxSZnhfbXpyelJQTHpMMDd4QjUwTjdhSWx6TQ?oc=5",
       "image": null,
       "timestamp": 1793178309,
-      "created_at": "2026-10-28 18:05"
+      "created_at": "2026-10-28 18:05",
+      "title_orig": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア）",
+      "title_ja": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア）"
     },
     {
       "id": "154c6ee4239085c47c60acd42c59fda4",
-      "title": "[일본뉴스] 東京がとんでもないことに【デジモンタイムストレンジャー】#２５",
+      "title": "[일본뉴스] 도쿄에 터무니없는 일이【디지몬 타임 스트레인저】#25",
       "snippet": "東京がとんでもないことに【デジモンタイムストレンジャー】#２５ YouTube",
       "source": "YouTube",
       "source_badge": "일본뉴스",
@@ -79,7 +127,9 @@
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45eFM3YlhqYVI5a0NfbXk1MDJUdXJub0NMTXEzVldaRE80OW4yc3A4VEVWcTNWYlFvcWpVRkxoaEtHdw?oc=5",
       "image": null,
       "timestamp": 1793178034,
-      "created_at": "2026-10-28 18:00"
+      "created_at": "2026-10-28 18:00",
+      "title_orig": "東京がとんでもないことに【デジモンタイムストレンジャー】#２５",
+      "title_ja": "東京がとんでもないことに【デジモンタイムストレンジャー】#２５"
     },
     {
       "id": "62c8aae042d290aa53cfa66da4679959",
@@ -95,6 +145,36 @@
       "created_at": "2026-10-28 17:20",
       "title_orig": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも",
       "title_ja": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも"
+    },
+    {
+      "id": "2b100a501c700beb27f54ee17e6fdca3",
+      "title": "[일본뉴스] TCG 『디지몬 카드 게임』을 스마트폰으로 즐긴다! 신작 『디지몬 알리시온』 사전 등록 접수 개시 - 시스템과 룰은 그대로, 오리지널 스토리도 (인사이드)",
+      "snippet": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも (インサイド) Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "card",
+      "category_name": "신작 카드(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1VzR0hxLUtCVG5qeHlIR2owTDdlWDJZOTRBSEJ4X2UtaUotSVEzd3Z6emszenctNlhwV2hFYkxqVHk4M3luNEotSWZkM1pheW9hX2VBYUUwRUNlXzhZUldJYms5bFpoanhLRkh4QlN3ZVhlZHBQOFdNTW42Sk9VTW1HQUk5UXZNNGU1Nk9B?oc=5",
+      "image": null,
+      "timestamp": 1793175603,
+      "created_at": "2026-10-28 17:20",
+      "title_orig": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも (インサイド)",
+      "title_ja": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも (インサイド)"
+    },
+    {
+      "id": "2c1d4fdee8c66c9f83a2d9379d64234b",
+      "title": "[일본뉴스] TCG 『디지몬 카드 게임』을 스마트폰으로 즐긴다! 신작 『디지몬 알리시온』 사전 등록 접수 개시 - 시스템과 룰은 그대로, 오리지널 스토리도 1번째 사진·이미지",
+      "snippet": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも 1枚目の写真・画像 インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "card",
+      "category_name": "신작 카드(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VeURFZ3RuQTlBeW1nOWJuemF4TkMzVVV4WnplUmViTm1YanpEd3pJSHpMV2xKdjE1UmlPOUNzRTBuOUpuaFo3RUs4MXBNRlI3MFBvRm1xWXN3RXB4WThPZk9iaGhzbzZuSUdVRTJqRXpjeXY3enJwMXBn?oc=5",
+      "image": null,
+      "timestamp": 1793175603,
+      "created_at": "2026-10-28 17:20",
+      "title_orig": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも 1枚目の写真・画像",
+      "title_ja": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも 1枚目の写真・画像"
     },
     {
       "id": "34d2717e340b81af9cdb37e30bbac419",
@@ -113,7 +193,7 @@
     },
     {
       "id": "0a63144b78c976e0c3f34b230d5cd796",
-      "title": "[해외뉴스] Digimon Alysion Pre-Registrations Are Now Live",
+      "title": "[해외뉴스] 디지몬 알리시온 사전 등록 접수 중",
       "snippet": "Digimon Alysion Pre-Registrations Are Now Live GamerBraves",
       "source": "GamerBraves",
       "source_badge": "해외뉴스",
@@ -122,7 +202,8 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlZ5UzdYanlKbkFKX0FtVjJyZF9nT294d2IwM3VLS3F5Z0ttM3BQQWV1ZUFNcTh6S2Qzb1BoRWpCM0tDVXlLUmZJTGIta0p4QjlmTml1MVJsTkVYTElOaldDNWxvNFRsT3BWTk5aeXJmdVVxUTJaSTNORVlBS2pTYw?oc=5",
       "image": null,
       "timestamp": 1793168709,
-      "created_at": "2026-10-28 15:25"
+      "created_at": "2026-10-28 15:25",
+      "title_orig": "Digimon Alysion Pre-Registrations Are Now Live"
     },
     {
       "id": "f88a57b712ef3875cdf8d95a34410bab",
@@ -184,7 +265,7 @@
     },
     {
       "id": "434f00297d1f0d6fe3cd7f1f1f21654e",
-      "title": "[해외뉴스] Digimon Alysion launches pre-registrations",
+      "title": "[해외뉴스] 디지몬 알리시온 사전 등록 개시",
       "snippet": "Digimon Alysion launches pre-registrations Niche Gamer",
       "source": "Niche Gamer",
       "source_badge": "해외뉴스",
@@ -193,7 +274,8 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0NDM1NEplZWx6LXoxelQwdEpHcnl4OWFhME82N19oa1RBQTBCcWdheldLMDZ6ODM1SEN3QkJFcjFzTEhid0xpTERzMms4aklEbW80Rjd5TXFIVjNURGRjb1V4QV9VeTc3d0s0ck0zdTIxNXEx?oc=5",
       "image": null,
       "timestamp": 1793160300,
-      "created_at": "2026-10-28 13:05"
+      "created_at": "2026-10-28 13:05",
+      "title_orig": "Digimon Alysion launches pre-registrations"
     },
     {
       "id": "5852921c379a824599531d00ea8486b4",
@@ -209,6 +291,36 @@
       "created_at": "2026-10-28 13:04",
       "title_orig": "バンダイ、『DIGIMON ALYSION（デジモンアリシオン）』事前登録がスタート！『デジカ』の戦略性をスマートフォンで再現",
       "title_ja": "バンダイ、『DIGIMON ALYSION（デジモンアリシオン）』事前登録がスタート！『デジカ』の戦略性をスマートフォンで再現"
+    },
+    {
+      "id": "b14fd2325d22a2921858f579c20d0b52",
+      "title": "[일본뉴스] 【디지몬 UP】 아폴로몬(SP Ver.)의 평가와 성능",
+      "snippet": "【デジモンUP】アポロモン(SP Ver.)の評価と性能 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtWDJGYldFZXQ4eWRMSG9uVV8yUC1EZDZuenNRLS1keW0yQTBLcHNSUXo1azZGN0xpejkyQ01nZk1rVm5mUzMwMHhmSnE?oc=5",
+      "image": null,
+      "timestamp": 1793160202,
+      "created_at": "2026-10-28 13:03",
+      "title_orig": "【デジモンUP】アポロモン(SP Ver.)の評価と性能",
+      "title_ja": "【デジモンUP】アポロモン(SP Ver.)の評価と性能"
+    },
+    {
+      "id": "2fc98975430f4e0716f106235c11456e",
+      "title": "[일본뉴스] 【디지몬 UP】 마그나몬(SP Ver.)의 평가와 성능",
+      "snippet": "【デジモンUP】マグナモン(SP Ver.)の評価と性能 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BT0N1WWtsR01oNkZBMUFWelBqcGVvbFhmV1dNUHVYWTJtX2daZTNGZ2lfLTQ2RWRSWGgxN1VqdnVXNXdMeC1LZGdjQ2U?oc=5",
+      "image": null,
+      "timestamp": 1793160200,
+      "created_at": "2026-10-28 13:03",
+      "title_orig": "【デジモンUP】マグナモン(SP Ver.)の評価と性能",
+      "title_ja": "【デジモンUP】マグナモン(SP Ver.)の評価と性能"
     },
     {
       "id": "7d9357cb9e218f851c35753388093385",
@@ -284,20 +396,6 @@
       "created_at": "2026-10-28 09:59",
       "title_orig": "【デジモンストーリーTS】高貴な鳥？デラモン 進化&バトル演出【デジモンストーリー タイムストレンジャー】【VOICEVOX実況】",
       "title_ja": "【デジモンストーリーTS】高貴な鳥？デラモン 進化&バトル演出【デジモンストーリー タイムストレンジャー】【VOICEVOX実況】"
-    },
-    {
-      "id": "7dac85421356ed4331bb101597f0f9a6",
-      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
-      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
-      "image": null,
-      "timestamp": 1793136270,
-      "created_at": "2026-10-28 06:24",
-      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
     },
     {
       "id": "738cafe9d3e6c986953d9272bda6d11b",
@@ -612,6 +710,19 @@
       "timestamp": 1792972547,
       "created_at": "2026-10-26 08:55",
       "title_orig": "DigitalNexus Gameplay Digimon game PC/Android"
+    },
+    {
+      "id": "da8536a7fa161be6a17517fab9a2d5e0",
+      "title": "[인스타] 10월 최애 굿즈 모음✨️ 20주년 디지코레 & 캡슐 마스코트 토코몬💛 토코몬 이빨이 꽤나 사실적이고 충격적이지만..🤣🤣 최애가 둘이나 붙어 있으니 너무 귀여워요!!😆 스페셜 땡스 투, @box2gie🙏 #디지몬 #디지몬어드벤처 #디지몬굿즈 #Digimon #デジモン 數碼暴龍 數",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XSUo2d1RkMnlPM3hlcHlabWFLQ2VuOEZyTkNmNURsa3ZBV2ZvVmFBSVlsUjBXUVg1YmJYdEZEQ1Q2WUJwdjI0OU9ESnRHOEFlbnc?oc=5",
+      "image": null,
+      "timestamp": 1792933054,
+      "created_at": "2026-10-25 21:57"
     },
     {
       "id": "cdfe3d043d01c7c0b98f349993085051",
@@ -1021,21 +1132,6 @@
       "title_ja": "【デジモンUP】ソウルウェーブの評価と性能"
     },
     {
-      "id": "b14fd2325d22a2921858f579c20d0b52",
-      "title": "[일본뉴스] 【디지몬 UP】 아폴로몬(SP Ver.)의 평가와 성능",
-      "snippet": "【デジモンUP】アポロモン(SP Ver.)の評価と性能 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtWDJGYldFZXQ4eWRMSG9uVV8yUC1EZDZuenNRLS1keW0yQTBLcHNSUXo1azZGN0xpejkyQ01nZk1rVm5mUzMwMHhmSnE?oc=5",
-      "image": null,
-      "timestamp": 1792662051,
-      "created_at": "2026-10-22 18:40",
-      "title_orig": "【デジモンUP】アポロモン(SP Ver.)の評価と性能",
-      "title_ja": "【デジモンUP】アポロモン(SP Ver.)の評価と性能"
-    },
-    {
       "id": "c6c7593b3e8ab3871230d97581c56d3a",
       "title": "[일본뉴스] 【디지몬 UP】 파워드라몬(SP Ver.)의 평가와 성능",
       "snippet": "【デジモンUP】ムゲンドラモン(SP Ver.)の評価と性能 GameWith",
@@ -1049,21 +1145,6 @@
       "created_at": "2026-10-22 18:40",
       "title_orig": "【デジモンUP】ムゲンドラモン(SP Ver.)の評価と性能",
       "title_ja": "【デジモンUP】ムゲンドラモン(SP Ver.)の評価と性能"
-    },
-    {
-      "id": "2fc98975430f4e0716f106235c11456e",
-      "title": "[일본뉴스] 【디지몬 UP】 마그나몬(SP Ver.)의 평가와 성능",
-      "snippet": "【デジモンUP】マグナモン(SP Ver.)の評価と性能 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BT0N1WWtsR01oNkZBMUFWelBqcGVvbFhmV1dNUHVYWTJtX2daZTNGZ2lfLTQ2RWRSWGgxN1VqdnVXNXdMeC1LZGdjQ2U?oc=5",
-      "image": null,
-      "timestamp": 1792662050,
-      "created_at": "2026-10-22 18:40",
-      "title_orig": "【デジモンUP】マグナモン(SP Ver.)の評価と性能",
-      "title_ja": "【デジモンUP】マグナモン(SP Ver.)の評価と性能"
     },
     {
       "id": "f8abf866cf0cfccdfaa772a7dccd42fe",
@@ -1211,6 +1292,19 @@
       "created_at": "2026-10-22 13:45",
       "title_orig": "PHP騒動『サマーウォーズ』『デジモン』連想で話題 細田守作品の世界と同じく大混乱「オメガモン頑張って！」",
       "title_ja": "PHP騒動『サマーウォーズ』『デジモン』連想で話題 細田守作品の世界と同じく大混乱「オメガモン頑張って！」"
+    },
+    {
+      "id": "f70b9f17a55de611ff37da8ef6bd4ad4",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DQkt6aV9ZRU1EVENXTDNpYVluVE9SQmEtaXNFT3JFV2VrX01DQlpKV3h5NDZpNERBeEU3SlVmdjFKQUh5eWxoVUtlck5feG1pRVM0UGlSQnVtS0RrSWw4Q2NkU3U5TGRNN2lUWS13aklKSHVzZ012YjdhQmI?oc=5",
+      "image": null,
+      "timestamp": 1792642490,
+      "created_at": "2026-10-22 13:14"
     },
     {
       "id": "6657d7b9c218273272f43416a442cd23",
