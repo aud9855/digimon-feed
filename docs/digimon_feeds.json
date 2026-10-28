@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-10-28 08:27:42",
-  "total_count": 390,
+  "last_updated": "2026-10-28 12:02:29",
+  "total_count": 393,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "86c62e8325fb161db930dee003d24816",
+      "title": "[일본뉴스] 디지몬 어드벤처 메지루시 액세서리 3｜디지몬 가챠가챠 발매일·가격·설치 장소",
+      "snippet": "デジモンアドベンチャー めじるしアクセサリー3｜デジモンのガチャガチャ 発売日・価格・設置場所 キャラグー",
+      "source": "キャラグー",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhemJhVXBLNlFmUmlWdWxHS1M3SW5MN3lHNXlPblJ2WWFyWEZ1d2J5ZjkzU1NRTFdkZmctOUhkT0VrVVRpVW1lb25zZjFLSnBYUkYySzhHNA?oc=5",
+      "image": null,
+      "timestamp": 1793150342,
+      "created_at": "2026-10-28 10:19",
+      "title_orig": "デジモンアドベンチャー めじるしアクセサリー3｜デジモンのガチャガチャ 発売日・価格・設置場所",
+      "title_ja": "デジモンアドベンチャー めじるしアクセサリー3｜デジモンのガチャガチャ 発売日・価格・設置場所"
+    },
     {
       "id": "7dac85421356ed4331bb101597f0f9a6",
       "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
@@ -160,6 +175,20 @@
       "image": null,
       "timestamp": 1793068044,
       "created_at": "2026-10-27 11:27"
+    },
+    {
+      "id": "41ea1793b4800caf3581338951e08ee2",
+      "title": "[해외뉴스] 디지몬 마스터즈, 테이머 성장 지원으로 17주년 기념",
+      "snippet": "Digimon Masters Celebrates 17th Anniversary with Tamer Growth Support 게임메카",
+      "source": "게임메카",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sWk96Ym4wQjUzX3U1cXZLNmxSbk5kZG40d0s5NDdPTGtwU1VZMzJuNXk1N3FzZkM5bjNkQnpwaDVFc01KMVZIb0l3bF9sYjdQSERuSy16MFZsZFpR?oc=5",
+      "image": null,
+      "timestamp": 1793068044,
+      "created_at": "2026-10-27 11:27",
+      "title_orig": "Digimon Masters Celebrates 17th Anniversary with Tamer Growth Support"
     },
     {
       "id": "b7c9d1ead8526c196a57d7a36f78cf5a",
@@ -498,8 +527,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oUS1LSjJUWThiUXZ6Q29leEpxc1dLZnJnVkIteXlvb0Fzblpjak1BX1ZVZjkxdmlLTVBGZUFHQUlnUkwtR1p2Q1hnZ0tKT19FY0o3cHVEdURYUQ?oc=5",
       "image": null,
-      "timestamp": 1792722000,
-      "created_at": "2026-10-23 11:20",
+      "timestamp": 1792725033,
+      "created_at": "2026-10-23 12:10",
       "title_orig": "画像・写真 | PHP騒動で『デジモン』公式、粋なコメント 危機に立ち向かうエンジニア応援＆感謝「デジタルワールドの最前線で私たちの日常を守るために」 2枚目",
       "title_ja": "画像・写真 | PHP騒動で『デジモン』公式、粋なコメント 危機に立ち向かうエンジニア応援＆感謝「デジタルワールドの最前線で私たちの日常を守るために」 2枚目"
     },
@@ -5486,6 +5515,19 @@
       "created_at": "2026-08-01 16:00",
       "title_orig": "1997年発売の電子玩具「デジヴァイス」が令和に復刻！アニメ「デジモンアドベンチャー」20周年記念映画までのステージを冒険可能",
       "title_ja": "1997年発売の電子玩具「デジヴァイス」が令和に復刻！アニメ「デジモンアドベンチャー」20周年記念映画までのステージを冒険可能"
+    },
+    {
+      "id": "27e1672384fcdd7764008a77542375be",
+      "title": "[트윗] 『AFK: 새로운 여정』 × 「디지몬 어드벤처」 콜라보 예고 PV 새로운 모험, 새로운 친구들과의 만남! 『AFK: 새로운 여정』×「디지몬 어드벤처」 꿈의 콜라보가 곧 시작됩니다! 8월 18일, 신태일과 매튜, 디지몬 친구들과 함께 에스페리아 세계를 누비는 장대한 여정에 올라 보세 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yalR6LTJyODlnQ3ZOeUhETF9ORUV6OUZOUVhIS2ZwaE1PLXptaVdnQlRWaXdCRzVEOVBUX0lnWE5ld2RXMjRlRTNUTk5qYXBRNmpXNlY3VzhWZ1NsVXB0eEVCNGlWQQ?oc=5",
+      "image": null,
+      "timestamp": 1785567600,
+      "created_at": "2026-08-01 16:00"
     },
     {
       "id": "03ef8f1e69c71c08f78e96c203c92f35",
