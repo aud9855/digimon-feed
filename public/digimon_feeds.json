@@ -1,22 +1,85 @@
 {
-  "last_updated": "2026-10-28 19:11:15",
-  "total_count": 407,
+  "last_updated": "2026-10-29 01:57:14",
+  "total_count": 414,
   "retention_days": 90,
   "feeds": [
     {
+      "id": "eea2c588b7b057825ee70e4edde04135",
+      "title": "[해외뉴스] Enter the World of Digimon Liberator with the Brand New ‘Digimon Alysion’ App",
+      "snippet": "Enter the World of Digimon Liberator with the Brand New ‘Digimon Alysion’ App The Pop Insider",
+      "source": "The Pop Insider",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5relppODRhZnFPYWxOQmNtRC1WYkw4UzFMeFR3VW1qenBGTE5wNW1BcVJnVTgxZ1hHTVVaZmZ1TEcxZ1BGcldEMDZyVnlaaXBZb01CWUs5MzJYTjY2R3BBNg?oc=5",
+      "image": null,
+      "timestamp": 1793202827,
+      "created_at": "2026-10-29 00:53"
+    },
+    {
+      "id": "d00ef8db11a8e183d177cd8e7c62f841",
+      "title": "[해외뉴스] DIGIMON ALYSION Pre-Registration is Now Open",
+      "snippet": "DIGIMON ALYSION Pre-Registration is Now Open Netto's Game Room",
+      "source": "Netto's Game Room",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWhpNG0zTmZ2RGt3MGZTYlNNWGdmSk1sUUpnNUxZSHFfcnE3aTVXTGZaWHB2SUlib1h4S01rdUhCb3lWenNnNkNEUFNTQWc1OVdEZ0twOVQwTllxZ0ZEMzQtY3drNjItSExnLTV5ZXVUSkxQVUhUSEFlcEZwc2NFTFctRGpGa2Q1T21v?oc=5",
+      "image": null,
+      "timestamp": 1793193360,
+      "created_at": "2026-10-28 22:16"
+    },
+    {
+      "id": "391e0e895b9925fab5f8ea3d694dd382",
+      "title": "[해외뉴스] The Digimon Card Game Goes Digital With Digimon Alysion",
+      "snippet": "The Digimon Card Game Goes Digital With Digimon Alysion Bleeding Cool News",
+      "source": "Bleeding Cool News",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWZsM0dROVZrb3FZZ0pnS0xITnZ3cnNvYTFjQVZKME9pNy11cmIwbHkwN1M0ckRBWGJfeHBibnBkMkY4U0ZJUXZqNTBPYXNqTkhZREYxVndGaTV2QjJHTHBpV1cyV3cxSGZhVk8wVUprZEduRHoyUVUwM1ZpWkNfYzF4Vjhjb2RwRmp2Ym8zeTI?oc=5",
+      "image": null,
+      "timestamp": 1793193130,
+      "created_at": "2026-10-28 22:12"
+    },
+    {
+      "id": "5e74543412741c4fe65a75c571afa43e",
+      "title": "[해외뉴스] The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION",
+      "snippet": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION OpenCritic",
+      "source": "OpenCritic",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTks3R1MwMXdCOFNkNXNXQ25QUzY0XzZmSEFLYTBSeUFPUVNqdjQ2ZU9LWnc2azVQSEVvRmFYSl84eVlWQklPTzRURmR0X0thcGNzc3gyTDFzQnE2ZmNWMHhiT1Rrcy1HZk16Vm9OQ0ZaT2hqWlJaeUxVaV8yMUk1SUdrUXRFOUxvZmZvVFYyZm9ZSnNWU0k4V0x1dkxBQ2k2aUhv?oc=5",
+      "image": null,
+      "timestamp": 1793185685,
+      "created_at": "2026-10-28 20:08"
+    },
+    {
       "id": "4cb03268cb9c0f9a914d9e23cfa57eeb",
-      "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록 시작! 「BT1-025 워그레이몬」 등 등록자 수에 따라 호화 보상을 받을 수 있는 캠페인도 개최 - eeo Media(이오 미디어)",
-      "snippet": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア） eeo",
+      "title": "[일본뉴스] 『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催",
+      "snippet": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 eeo",
       "source": "eeo",
       "source_badge": "일본뉴스",
       "category": "card",
       "category_name": "카드게임(TCG)",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SU1dFY0Vkc3hIbVc5U1c3ZFJudHVWUllsZXVxWGpCMl8xRTg0V0xvVFVNejltTGFrbmxSZnhfbXpyelJQTHpMMDd4QjUwTjdhSWx6TQ?oc=5",
       "image": null,
-      "timestamp": 1793178144,
-      "created_at": "2026-10-28 18:02",
-      "title_orig": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア）",
-      "title_ja": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア）"
+      "timestamp": 1793178309,
+      "created_at": "2026-10-28 18:05"
+    },
+    {
+      "id": "154c6ee4239085c47c60acd42c59fda4",
+      "title": "[일본뉴스] 東京がとんでもないことに【デジモンタイムストレンジャー】#２５",
+      "snippet": "東京がとんでもないことに【デジモンタイムストレンジャー】#２５ YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45eFM3YlhqYVI5a0NfbXk1MDJUdXJub0NMTXEzVldaRE80OW4yc3A4VEVWcTNWYlFvcWpVRkxoaEtHdw?oc=5",
+      "image": null,
+      "timestamp": 1793178034,
+      "created_at": "2026-10-28 18:00"
     },
     {
       "id": "62c8aae042d290aa53cfa66da4679959",
@@ -47,6 +110,19 @@
       "created_at": "2026-10-28 16:26",
       "title_orig": "【デジモンUP】武之内空＆ピヨモンは引くべき？",
       "title_ja": "【デジモンUP】武之内空＆ピヨモンは引くべき？"
+    },
+    {
+      "id": "0a63144b78c976e0c3f34b230d5cd796",
+      "title": "[해외뉴스] Digimon Alysion Pre-Registrations Are Now Live",
+      "snippet": "Digimon Alysion Pre-Registrations Are Now Live GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlZ5UzdYanlKbkFKX0FtVjJyZF9nT294d2IwM3VLS3F5Z0ttM3BQQWV1ZUFNcTh6S2Qzb1BoRWpCM0tDVXlLUmZJTGIta0p4QjlmTml1MVJsTkVYTElOaldDNWxvNFRsT3BWTk5aeXJmdVVxUTJaSTNORVlBS2pTYw?oc=5",
+      "image": null,
+      "timestamp": 1793168709,
+      "created_at": "2026-10-28 15:25"
     },
     {
       "id": "f88a57b712ef3875cdf8d95a34410bab",
@@ -105,6 +181,19 @@
       "timestamp": 1793161944,
       "created_at": "2026-10-28 13:32",
       "title_orig": "Digimon Alysion pre-registration now available"
+    },
+    {
+      "id": "434f00297d1f0d6fe3cd7f1f1f21654e",
+      "title": "[해외뉴스] Digimon Alysion launches pre-registrations",
+      "snippet": "Digimon Alysion launches pre-registrations Niche Gamer",
+      "source": "Niche Gamer",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0NDM1NEplZWx6LXoxelQwdEpHcnl4OWFhME82N19oa1RBQTBCcWdheldLMDZ6ODM1SEN3QkJFcjFzTEhid0xpTERzMms4aklEbW80Rjd5TXFIVjNURGRjb1V4QV9VeTc3d0s0ck0zdTIxNXEx?oc=5",
+      "image": null,
+      "timestamp": 1793160300,
+      "created_at": "2026-10-28 13:05"
     },
     {
       "id": "5852921c379a824599531d00ea8486b4",
@@ -496,6 +585,21 @@
       "title_ja": "アニメ「デジモンテイマーズ」の配信はどこで見れる？全51話を見放題で見れるサブスクを比較"
     },
     {
+      "id": "6e71a096408a0c1baaa4ab7ee35c6cc4",
+      "title": "[일본뉴스] 【디지몬 UP】 크리티컬 타입 추천 빌드",
+      "snippet": "【デジモンUP】クリティカルタイプのおすすめビルド GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fNXJCSkFkVTBuUkd4MF94T19OR2hKeDctelpQUmpvZW1QYUoweVczSjU2ZG5qNHZnR19jeHdKbE40RzNRMDU3RWprUWE?oc=5",
+      "image": null,
+      "timestamp": 1792998191,
+      "created_at": "2026-10-26 16:03",
+      "title_orig": "【デジモンUP】クリティカルタイプのおすすめビルド",
+      "title_ja": "【デジモンUP】クリティカルタイプのおすすめビルド"
+    },
+    {
       "id": "10af679a138b90294bd484951282bf57",
       "title": "[해외뉴스] 디지털 넥서스 게임플레이 디지몬 게임 PC/Android",
       "snippet": "DigitalNexus Gameplay Digimon game PC/Android YouTube",
@@ -855,21 +959,6 @@
       "created_at": "2026-10-22 18:46",
       "title_orig": "【デジモンUP】ダークエリアの進め方と注意点",
       "title_ja": "【デジモンUP】ダークエリアの進め方と注意点"
-    },
-    {
-      "id": "6e71a096408a0c1baaa4ab7ee35c6cc4",
-      "title": "[일본뉴스] 【디지몬 UP】 크리티컬 타입 추천 빌드",
-      "snippet": "【デジモンUP】クリティカルタイプのおすすめビルド GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fNXJCSkFkVTBuUkd4MF94T19OR2hKeDctelpQUmpvZW1QYUoweVczSjU2ZG5qNHZnR19jeHdKbE40RzNRMDU3RWprUWE?oc=5",
-      "image": null,
-      "timestamp": 1792662379,
-      "created_at": "2026-10-22 18:46",
-      "title_orig": "【デジモンUP】クリティカルタイプのおすすめビルド",
-      "title_ja": "【デジモンUP】クリティカルタイプのおすすめビルド"
     },
     {
       "id": "2151914b6c1143e573e0e7bb5134d0cc",
@@ -1347,21 +1436,6 @@
       "title_ja": "バンダイナムコENT、ダウンロード版のセールを開催！ニンテンドーeショップで『デジモンストーリー タイムストレンジャー』が初登場"
     },
     {
-      "id": "ad2b4583eb9ef77b5690b2310ddc231d",
-      "title": "[일본뉴스] 【최대 84% 할인】 『디지몬 스토리』와 『테일즈』가 특가. 반남 DL판 세일 개최",
-      "snippet": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催 電撃オンライン",
-      "source": "電撃オンライン",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNHZ4ZTFTQWhRQnRlVHE0VndPT1NFa3hvUGRFMEhQSHMwNkVWX0hTNTMxTXlmMzNXdnVkaHFxNUZzTW9VdXpqQzZEWDB6OS1zT1dOMDB0SGtnZw?oc=5",
-      "image": null,
-      "timestamp": 1792565400,
-      "created_at": "2026-10-21 15:50",
-      "title_orig": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催",
-      "title_ja": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催"
-    },
-    {
       "id": "6a7fc69d3c4671d33f52a1c3a03e453e",
       "title": "[일본뉴스] 【디지몬 UP】 개최 중인 가샤(가챠) 정보 정리",
       "snippet": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ GameWith",
@@ -1462,6 +1536,21 @@
       "created_at": "2026-10-20 19:20",
       "title_orig": "デジタルモンスター アドベンチャー 25周年 フィギュア ソラ デジタルモンスター 25周年記念 デジモンアドベンチャー 中国限定 記念ビジュアル柄 デジモンアドベンチャー02』25周年を記念してカラー液晶搭載の「D-3",
       "title_ja": "デジタルモンスター アドベンチャー 25周年 フィギュア ソラ デジタルモンスター 25周年記念 デジモンアドベンチャー 中国限定 記念ビジュアル柄 デジモンアドベンチャー02』25周年を記念してカラー液晶搭載の「D-3"
+    },
+    {
+      "id": "ad2b4583eb9ef77b5690b2310ddc231d",
+      "title": "[일본뉴스] 【최대 84% 할인】 『디지몬 스토리』와 『테일즈』가 특가. 반남 DL판 세일 개최",
+      "snippet": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNHZ4ZTFTQWhRQnRlVHE0VndPT1NFa3hvUGRFMEhQSHMwNkVWX0hTNTMxTXlmMzNXdnVkaHFxNUZzTW9VdXpqQzZEWDB6OS1zT1dOMDB0SGtnZw?oc=5",
+      "image": null,
+      "timestamp": 1792479600,
+      "created_at": "2026-10-20 16:00",
+      "title_orig": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催",
+      "title_ja": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催"
     },
     {
       "id": "40b10f68829ddd056bc4c9527c5c0125",
