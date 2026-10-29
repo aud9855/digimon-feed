@@ -1,8 +1,38 @@
 {
-  "last_updated": "2026-10-29 23:54:13",
-  "total_count": 437,
+  "last_updated": "2026-10-30 05:06:41",
+  "total_count": 440,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "7406a719d810c06b0b0c3263da5c898b",
+      "title": "[일본뉴스] 【디지몬 UP】 캠프 워즈의 규칙과 진행 방법",
+      "snippet": "【デジモンUP】キャンプウォーズのルールと進め方 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xZ3FBVDFzUHhyMlFaOC1vMTVYbkhNTkJBQThya3RPWUFnSUgwWHE5c0FYeENCN3ljU3BJODZVOWdHVG1ETUg0MzFnNW8?oc=5",
+      "image": null,
+      "timestamp": 1793262910,
+      "created_at": "2026-10-29 17:35",
+      "title_orig": "【デジモンUP】キャンプウォーズのルールと進め方",
+      "title_ja": "【デジモンUP】キャンプウォーズのルールと進め方"
+    },
+    {
+      "id": "45973b027f5a6c099608a42f106a1a45",
+      "title": "[일본뉴스] 【디지몬 UP】 택티컬 메모리의 입수 방법과 사용법",
+      "snippet": "【デジモンUP】タクティカルメモリーの入手方法と使い方 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMjZsbDRSUTQzbUpjeHFpZm5QYTA2WnNocUNvekxfamJ1WFpoal9CcndxRjBJeng1LWpKUU03MjllM0dYcFRoOWdMbkc?oc=5",
+      "image": null,
+      "timestamp": 1793262869,
+      "created_at": "2026-10-29 17:34",
+      "title_orig": "【デジモンUP】タクティカルメモリーの入手方法と使い方",
+      "title_ja": "【デジモンUP】タクティカルメモリーの入手方法と使い方"
+    },
     {
       "id": "2151914b6c1143e573e0e7bb5134d0cc",
       "title": "[일본뉴스] 【디지몬 UP】 디지바이스 사용법 | 폼 변경",
@@ -17,6 +47,21 @@
       "created_at": "2026-10-29 17:34",
       "title_orig": "【デジモンUP】デジヴァイスの使い方 | フォルム変更",
       "title_ja": "【デジモンUP】デジヴァイスの使い方 | フォルム変更"
+    },
+    {
+      "id": "6a7fc69d3c4671d33f52a1c3a03e453e",
+      "title": "[일본뉴스] 【디지몬 UP】 개최 중인 가샤(가챠) 정보 정리",
+      "snippet": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQMU9WRFVqRlRId3hPVWRRd1BPaVU4U3NqZkFZQmo5a3ZDaTgzWWNpOHdqRWV1d1BYUkw4U054TUVCd1dmdExxc1BHckg?oc=5",
+      "image": null,
+      "timestamp": 1793262798,
+      "created_at": "2026-10-29 17:33",
+      "title_orig": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ",
+      "title_ja": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ"
     },
     {
       "id": "075e77aa2b7d0200c4ada8bc71b493a5",
@@ -59,20 +104,6 @@
       "timestamp": 1793219400,
       "created_at": "2026-10-29 05:30",
       "title_orig": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer"
-    },
-    {
-      "id": "7dac85421356ed4331bb101597f0f9a6",
-      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
-      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
-      "image": null,
-      "timestamp": 1793210970,
-      "created_at": "2026-10-29 03:09",
-      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
     },
     {
       "id": "a408ab687b4d6db41b3d0b5d6e11e9db",
@@ -143,6 +174,19 @@
       "timestamp": 1793187433,
       "created_at": "2026-10-28 20:37",
       "title_orig": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION"
+    },
+    {
+      "id": "1329944d15fd4cef0b98fe32f22b91b6",
+      "title": "[영상] [4K][1분 합체] 디지털 월드 파괴와 재생을 관장하는 신! FrSA 스사노오몬 [PREVIEW]",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNSEdrZkVjQ01zSEo5MmlpbTJURTNvbHp6ZVRlU3lGYVlhTUpTMHRjaHVCdlNkTml5Ymo5U2xRNGp0dVRpREhOeHNxeTJ5NnFxY1lDTg?oc=5",
+      "image": null,
+      "timestamp": 1793183427,
+      "created_at": "2026-10-28 19:30"
     },
     {
       "id": "4cb03268cb9c0f9a914d9e23cfa57eeb",
@@ -233,6 +277,20 @@
       "created_at": "2026-10-28 16:26",
       "title_orig": "【デジモンUP】武之内空＆ピヨモンは引くべき？",
       "title_ja": "【デジモンUP】武之内空＆ピヨモンは引くべき？"
+    },
+    {
+      "id": "7dac85421356ed4331bb101597f0f9a6",
+      "title": "[해외뉴스] 디지몬 알리시온, 수 주 내 사전 등록 개시 예정",
+      "snippet": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDBIVnNBa2EyVkF0dWs2WExLU0NxMzc5eWJjR1JfcWo3TGRROEl4am1CNUF5Wno3bWZJQ1JRekIxYWF2c2dkTTlXQXJRM2MtZnFkTlFYM1ZmSTlSbmtFMmNQbWRJM2JDMzF0TDdLd2I2Qno4eVFubk1HT21QcDZUTk9oZzZVU0lWempBam1VbVJJR0ZGU1AydQ?oc=5",
+      "image": null,
+      "timestamp": 1793170800,
+      "created_at": "2026-10-28 16:00",
+      "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
     },
     {
       "id": "0a63144b78c976e0c3f34b230d5cd796",
@@ -498,21 +556,6 @@
       "created_at": "2026-10-27 15:52"
     },
     {
-      "id": "7406a719d810c06b0b0c3263da5c898b",
-      "title": "[일본뉴스] 【디지몬 UP】 캠프 워즈의 규칙과 진행 방법",
-      "snippet": "【デジモンUP】キャンプウォーズのルールと進め方 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xZ3FBVDFzUHhyMlFaOC1vMTVYbkhNTkJBQThya3RPWUFnSUgwWHE5c0FYeENCN3ljU3BJODZVOWdHVG1ETUg0MzFnNW8?oc=5",
-      "image": null,
-      "timestamp": 1793081035,
-      "created_at": "2026-10-27 15:03",
-      "title_orig": "【デジモンUP】キャンプウォーズのルールと進め方",
-      "title_ja": "【デジモンUP】キャンプウォーズのルールと進め方"
-    },
-    {
       "id": "e8ebf8b766d772df27849998f9326577",
       "title": "[일본뉴스] 【디지몬 UP】디지플레이트의 획득 방법과 사용처",
       "snippet": "【デジモンUP】デジプレートの入手方法と使い道 GameWith",
@@ -571,6 +614,19 @@
       "created_at": "2026-10-27 13:40",
       "title_orig": "【デジモンUP】ステージの進め方とメリット",
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
+    },
+    {
+      "id": "bc60911a41951eb22fec60921be90162",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
+      "image": null,
+      "timestamp": 1793074537,
+      "created_at": "2026-10-27 13:15"
     },
     {
       "id": "890505bc284a80143a51b00815c8459b",
@@ -1442,21 +1498,6 @@
       "title_ja": "【デジモンUP】試練の遺跡の進め方と報酬"
     },
     {
-      "id": "45973b027f5a6c099608a42f106a1a45",
-      "title": "[일본뉴스] 【디지몬 UP】 택티컬 메모리의 입수 방법과 사용법",
-      "snippet": "【デジモンUP】タクティカルメモリーの入手方法と使い方 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMjZsbDRSUTQzbUpjeHFpZm5QYTA2WnNocUNvekxfamJ1WFpoal9CcndxRjBJeng1LWpKUU03MjllM0dYcFRoOWdMbkc?oc=5",
-      "image": null,
-      "timestamp": 1792635762,
-      "created_at": "2026-10-22 11:22",
-      "title_orig": "【デジモンUP】タクティカルメモリーの入手方法と使い方",
-      "title_ja": "【デジモンUP】タクティカルメモリーの入手方法と使い方"
-    },
-    {
       "id": "0b1154a00ea1be6b7535b39b8a654478",
       "title": "[인스타] 디지몬투어 좀 외진곳에 있어 가기 힘든 빛의 언덕. 다들 저마다 문장 하나씩 가슴에 품고 있는, 우리 모두 선택받은 아이들. みんなそれぞれ胸にひとつの紋章を抱いている、僕たちはみんな選ばれし子どもたち。",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -1545,21 +1586,6 @@
       "title_ja": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 高石タケル＆パタモン[KADOKAWA]《０１月予約》"
     },
     {
-      "id": "370b965b59dc86e769055e05a67ef8fc",
-      "title": "[일본뉴스] 『디지몬 스토리 타임 스트레인저』 Switch2판이 25% 할인으로 첫 세일. 『테일즈 오브 어라이즈』, 『모두의 골프 월드』 등 DL 소프트가 최대 84% 할인",
-      "snippet": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ ファミ通",
-      "source": "ファミ通",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlZ2lyY1Q4RkU5TzdPaHFOMEk0dENNc2JxOFo1QVB2dkh6bG9fdW5UaE9FWjk0OExfM1NqS3o1VG5LbVlyNGVWM0FiYVIyN2t4RHgyd3JkSQ?oc=5",
-      "image": null,
-      "timestamp": 1792578000,
-      "created_at": "2026-10-21 19:20",
-      "title_orig": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ",
-      "title_ja": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ"
-    },
-    {
       "id": "0f0b0a0039dc9ce5a3186f892f66af96",
       "title": "[일본뉴스] 반다이 남코 엔터테인먼트, 다운로드판 세일 개최! 닌텐도 e숍에 『디지몬 스토리 타임 스트레인저』 첫 등장",
       "snippet": "バンダイナムコENT、ダウンロード版のセールを開催！ニンテンドーeショップで『デジモンストーリー タイムストレンジャー』が初登場 gamebiz【ゲームビズ】",
@@ -1575,19 +1601,19 @@
       "title_ja": "バンダイナムコENT、ダウンロード版のセールを開催！ニンテンドーeショップで『デジモンストーリー タイムストレンジャー』が初登場"
     },
     {
-      "id": "6a7fc69d3c4671d33f52a1c3a03e453e",
-      "title": "[일본뉴스] 【디지몬 UP】 개최 중인 가샤(가챠) 정보 정리",
-      "snippet": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ GameWith",
-      "source": "GameWith",
+      "id": "370b965b59dc86e769055e05a67ef8fc",
+      "title": "[일본뉴스] 『디지몬 스토리 타임 스트레인저』 Switch2판이 25% 할인으로 첫 세일. 『테일즈 오브 어라이즈』, 『모두의 골프 월드』 등 DL 소프트가 최대 84% 할인",
+      "snippet": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ ファミ通",
+      "source": "ファミ通",
       "source_badge": "일본뉴스",
       "category": "general",
       "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQMU9WRFVqRlRId3hPVWRRd1BPaVU4U3NqZkFZQmo5a3ZDaTgzWWNpOHdqRWV1d1BYUkw4U054TUVCd1dmdExxc1BHckg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlZ2lyY1Q4RkU5TzdPaHFOMEk0dENNc2JxOFo1QVB2dkh6bG9fdW5UaE9FWjk0OExfM1NqS3o1VG5LbVlyNGVWM0FiYVIyN2t4RHgyd3JkSQ?oc=5",
       "image": null,
-      "timestamp": 1792563805,
-      "created_at": "2026-10-21 15:23",
-      "title_orig": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ",
-      "title_ja": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ"
+      "timestamp": 1792566000,
+      "created_at": "2026-10-21 16:00",
+      "title_orig": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ",
+      "title_ja": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ"
     },
     {
       "id": "96a42f2ce8a8027a4ddc662d570d0577",
@@ -3286,6 +3312,21 @@
       "timestamp": 1791529200,
       "created_at": "2026-10-09 16:00",
       "title_orig": "Ichiban Kuji Digimon -Matrix Evolution- Reveals Gallantmon, Beelzemon, and Sakuyamon Kongou Jizou Figures"
+    },
+    {
+      "id": "36e447ac19cdf93f79771d0f97066aa4",
+      "title": "[트윗] 📣공지📣 #디지몬UP 한국 공식 X가 개설🎉 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KZk1Lbmw3Y1BhUjB2Y05fekhhZTdjczVMZEJYZFRDc0xSbTNBNHZ0TjBwM3c1V1ZNYVkzajZNQlNXalBFYUJPNWROc2I3UWRZSGlvaFRHMHQ0VjlDWk4xSnRIMUs?oc=5",
+      "image": null,
+      "timestamp": 1791529200,
+      "created_at": "2026-10-09 16:00",
+      "title_orig": "📣お知らせ📣 #デジモンUP 韓国公式Xが開設🎉 - X",
+      "title_ja": "📣お知らせ📣 #デジモンUP 韓国公式Xが開設🎉 - X"
     },
     {
       "id": "5dd892f4a5f3ad69597d761ea541443f",
@@ -5951,10 +5992,10 @@
     },
     {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "애니뉴스",
+      "source_badge": "해외뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
