@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-10-30 05:06:41",
-  "total_count": 440,
+  "last_updated": "2026-10-30 08:47:44",
+  "total_count": 444,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "667cb05b7f34c840542c8963f64549df",
+      "title": "[해외뉴스] 디지몬 알리시온 - 공식 개요 트레일러",
+      "snippet": "Digimon Alysion - Official Overview Trailer IGN",
+      "source": "IGN",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXNy1EMlpjRDZUTjExcTlYMS1uVElqeVRFTF9zLUdJNjAzNTNMbkVZNlVMV1AwRjR3aEFOV1Nrc3RmZVhPOEw1a1RKNkZOT1A0ZGNwNkFiblJZRVR0ZlpENmFtZUpNTFBfdHdVaHRsaUhrbFRVQ1lB?oc=5",
+      "image": null,
+      "timestamp": 1793307713,
+      "created_at": "2026-10-30 06:01",
+      "title_orig": "Digimon Alysion - Official Overview Trailer"
+    },
+    {
+      "id": "eb0829c8290804fd56f1b59ff05d84cc",
+      "title": "[해외뉴스] 디지몬 알리시온 - 공식 신규 진화 트레일러",
+      "snippet": "Digimon Alyison - Official New Evolution Trailer IGN",
+      "source": "IGN",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10c1gtQjZJZFpDZVU2ejJaLTVjYUt6QnVQVlo0UmEyTTdnSzJLUmlqcFpZcHNUSkpNLXBXVThLWHI4OHptRzdNblU0N3lGN0hocXpKSTQ2dERtaWF4SWtiVllSRTJWNXlOSjhPTWlma0NLRVFLN0NmTlNGR3c5UQ?oc=5",
+      "image": null,
+      "timestamp": 1793306694,
+      "created_at": "2026-10-30 05:44",
+      "title_orig": "Digimon Alyison - Official New Evolution Trailer"
+    },
     {
       "id": "7406a719d810c06b0b0c3263da5c898b",
       "title": "[일본뉴스] 【디지몬 UP】 캠프 워즈의 규칙과 진행 방법",
@@ -17,6 +45,21 @@
       "created_at": "2026-10-29 17:35",
       "title_orig": "【デジモンUP】キャンプウォーズのルールと進め方",
       "title_ja": "【デジモンUP】キャンプウォーズのルールと進め方"
+    },
+    {
+      "id": "16c96d8c77947a11e0dc893846681870",
+      "title": "[일본뉴스] 【디지몬 UP】 문장의 입수 방법과 사용법",
+      "snippet": "【デジモンUP】紋章の入手方法と使い方 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BUkMtUGNaaTdOQTdDMTlfYjFJQlFSU2xubXE1Vm02WW4wRTJ0Smp6Zm1JR3dmNXdaMDFDUjkwUW04MDdEZ2w1U1p1VHo?oc=5",
+      "image": null,
+      "timestamp": 1793262880,
+      "created_at": "2026-10-29 17:34",
+      "title_orig": "【デジモンUP】紋章の入手方法と使い方",
+      "title_ja": "【デジモンUP】紋章の入手方法と使い方"
     },
     {
       "id": "45973b027f5a6c099608a42f106a1a45",
@@ -47,6 +90,21 @@
       "created_at": "2026-10-29 17:34",
       "title_orig": "【デジモンUP】デジヴァイスの使い方 | フォルム変更",
       "title_ja": "【デジモンUP】デジヴァイスの使い方 | フォルム変更"
+    },
+    {
+      "id": "3ca801c9f4a81c1a3e7238ca51520cb0",
+      "title": "[일본뉴스] 【디지몬 UP】 파트너의 레벨 올리기와 진화 방법",
+      "snippet": "【デジモンUP】パートナーのレベル上げと進化方法 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BV0JJUTdMUmVrTTNZVjJjN09rSXpwNWVOY2RVMmtxOEQtaFVmT2ROSm5IX2dZQVBjT1ktSDVoMWRFSERHY3lRc0RrU24?oc=5",
+      "image": null,
+      "timestamp": 1793262831,
+      "created_at": "2026-10-29 17:33",
+      "title_orig": "【デジモンUP】パートナーのレベル上げと進化方法",
+      "title_ja": "【デジモンUP】パートナーのレベル上げと進化方法"
     },
     {
       "id": "6a7fc69d3c4671d33f52a1c3a03e453e",
@@ -2643,21 +2701,6 @@
       "title_ja": "【デジモンUP】シャイニングコードの評価と性能"
     },
     {
-      "id": "16c96d8c77947a11e0dc893846681870",
-      "title": "[일본뉴스] 【디지몬 UP】 문장의 입수 방법과 사용법",
-      "snippet": "【デジモンUP】紋章の入手方法と使い方 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BUkMtUGNaaTdOQTdDMTlfYjFJQlFSU2xubXE1Vm02WW4wRTJ0Smp6Zm1JR3dmNXdaMDFDUjkwUW04MDdEZ2w1U1p1VHo?oc=5",
-      "image": null,
-      "timestamp": 1792057883,
-      "created_at": "2026-10-15 18:51",
-      "title_orig": "【デジモンUP】紋章の入手方法と使い方",
-      "title_ja": "【デジモンUP】紋章の入手方法と使い方"
-    },
-    {
       "id": "5e13c54699a4ca612e8caf9f782052de",
       "title": "[일본뉴스] 【디지몬 UP】 초보자를 위한 초반 효율적인 진행 방법",
       "snippet": "【デジモンUP】初心者向け序盤の効率的な進め方 GameWith",
@@ -4084,12 +4127,12 @@
     },
     {
       "id": "08d18b7ef72948e01f144d9847e7d0db",
-      "title": "[일본뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
+      "title": "[하비뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
       "snippet": "『DIGIMON BEATBREAK』最終回を記念した「デジタルモンスターCOLOR」が登場！アニメ新デジモンを含む約30体が育成可能、バトル時には「e-パルス」を連打で高めることで攻撃力が変化！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOczRVLVZCZUM0NFpJOUFXTXRlUG5OcmNaWVFmaHBpUURoOUhmcTAwNGYtTWgwV3Z6RERQTHAtbXdhUmtMZDhGWXV3ZElweDhr?oc=5",
       "image": null,
       "timestamp": 1790492400,
@@ -4510,6 +4553,20 @@
       "image": null,
       "timestamp": 1789714800,
       "created_at": "2026-09-18 16:00"
+    },
+    {
+      "id": "3b18cc192c6d4e033501075ef7be2893",
+      "title": "[인스타] 디지몬 키즈 반창고 타투 👀",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Vbm12ckdfM2UybnFDRnhkWG5GQ1p5NDBNNlIyTFlXaDVGQm8zNkEzaUxNOVZ5V0hvVHVrSXRNd3pTT003QUpsSXN1NVNnWTQ0RWc?oc=5",
+      "image": null,
+      "timestamp": 1789714800,
+      "created_at": "2026-09-18 16:00",
+      "title_orig": "Digimon Kids Band-Aid Tattoo 👀"
     },
     {
       "id": "bf07bb19afa6049e0780e45b2068b735",
