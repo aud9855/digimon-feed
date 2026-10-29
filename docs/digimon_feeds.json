@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-10-29 16:52:12",
+  "last_updated": "2026-10-29 23:54:13",
   "total_count": 437,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "2151914b6c1143e573e0e7bb5134d0cc",
+      "title": "[일본뉴스] 【디지몬 UP】 디지바이스 사용법 | 폼 변경",
+      "snippet": "【デジモンUP】デジヴァイスの使い方 | フォルム変更 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GTkNfSEFQcmtKdXFFTG1HS0t2dzBtRHBRRVRrVGIzQlF6cFNuSTdGQ0l1SEdWZ0wyX3JkNzQ0Y25MZVlUNDhWaHFZYXA?oc=5",
+      "image": null,
+      "timestamp": 1793262841,
+      "created_at": "2026-10-29 17:34",
+      "title_orig": "【デジモンUP】デジヴァイスの使い方 | フォルム変更",
+      "title_ja": "【デジモンUP】デジヴァイスの使い方 | フォルム変更"
+    },
     {
       "id": "075e77aa2b7d0200c4ada8bc71b493a5",
       "title": "[일본뉴스] 『디지몬 테이머즈』 마키노 루키 & 레나몬의 피규어가 대망의 재등장!! 디지몬 카드를 손에 쥐고 서로에게 등을 맡기는 감성적인 모습을 입체화 【디지몬 재판 정보】",
@@ -852,6 +867,21 @@
       "created_at": "2026-10-24 15:07"
     },
     {
+      "id": "16cdea2a4438254938c81f53aeea764a",
+      "title": "[일본뉴스] 재희(NCT WISH)의 인생을 바꾼 애니메이션 「디지몬 어드벤처」(코믹 나탈리)",
+      "snippet": "ジェヒ（NCT WISH）の人生を変えたアニメ「デジモンアドベンチャー」（コミックナタリー） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVTkFOdHRUNHp2bjU4NjBqNHBmTHRVYnA5Uk5FOEwtQ1JrYTNxSGZlS3k3QWFUeU1ZNjI0SVliVjRhMHNHRjBINW4zUXFFSThYOGJDLVljaDR6ZjVPRy1lU3VaLVI1dDhwTy12Zl9VSUUtTW1EWnZzNzVpRVhncnc?oc=5",
+      "image": null,
+      "timestamp": 1792821611,
+      "created_at": "2026-10-24 15:00",
+      "title_orig": "ジェヒ（NCT WISH）の人生を変えたアニメ「デジモンアドベンチャー」（コミックナタリー）",
+      "title_ja": "ジェヒ（NCT WISH）の人生を変えたアニメ「デジモンアドベンチャー」（コミックナタリー）"
+    },
+    {
       "id": "00fab211122a066d5ecbfb38e579938f",
       "title": "[일본뉴스] 재희(NCT WISH)의 인생을 바꾼 애니메이션 「디지몬 어드벤처」",
       "snippet": "ジェヒ（NCT WISH）の人生を変えたアニメ「デジモンアドベンチャー」 ナタリー",
@@ -1130,21 +1160,6 @@
       "title_ja": "【デジモンUP】ダークエリアの進め方と注意点"
     },
     {
-      "id": "2151914b6c1143e573e0e7bb5134d0cc",
-      "title": "[일본뉴스] 【디지몬 UP】 디지바이스 사용법 | 폼 변경",
-      "snippet": "【デジモンUP】デジヴァイスの使い方 | フォルム変更 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GTkNfSEFQcmtKdXFFTG1HS0t2dzBtRHBRRVRrVGIzQlF6cFNuSTdGQ0l1SEdWZ0wyX3JkNzQ0Y25MZVlUNDhWaHFZYXA?oc=5",
-      "image": null,
-      "timestamp": 1792662307,
-      "created_at": "2026-10-22 18:45",
-      "title_orig": "【デジモンUP】デジヴァイスの使い方 | フォルム変更",
-      "title_ja": "【デジモンUP】デジヴァイスの使い方 | フォルム変更"
-    },
-    {
       "id": "aa4e8d20a34ce1e6abc405aa1221bbf7",
       "title": "[일본뉴스] 【디지몬 UP】 테이머 랭크 올리는 법과 장점",
       "snippet": "【デジモンUP】テイマーランクの上げ方とメリット GameWith",
@@ -1350,19 +1365,6 @@
       "created_at": "2026-10-22 13:45",
       "title_orig": "PHP騒動『サマーウォーズ』『デジモン』連想で話題 細田守作品の世界と同じく大混乱「オメガモン頑張って！」",
       "title_ja": "PHP騒動『サマーウォーズ』『デジモン』連想で話題 細田守作品の世界と同じく大混乱「オメガモン頑張って！」"
-    },
-    {
-      "id": "f70b9f17a55de611ff37da8ef6bd4ad4",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DQkt6aV9ZRU1EVENXTDNpYVluVE9SQmEtaXNFT3JFV2VrX01DQlpKV3h5NDZpNERBeEU3SlVmdjFKQUh5eWxoVUtlck5feG1pRVM0UGlSQnVtS0RrSWw4Q2NkU3U5TGRNN2lUWS13aklKSHVzZ012YjdhQmI?oc=5",
-      "image": null,
-      "timestamp": 1792642490,
-      "created_at": "2026-10-22 13:14"
     },
     {
       "id": "6657d7b9c218273272f43416a442cd23",
@@ -5949,10 +5951,10 @@
     },
     {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
+      "source_badge": "애니뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
