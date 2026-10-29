@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-10-29 06:30:37",
-  "total_count": 420,
+  "last_updated": "2026-10-29 10:33:39",
+  "total_count": 421,
   "retention_days": 90,
   "feeds": [
     {
       "id": "bd5b36d18b2d8e30e2e14d1ff2322c51",
-      "title": "[해외뉴스] 디지몬 알리시온 스마트폰 카드 게임, 신규 트레일러와 함께 사전 등록 개시",
+      "title": "[애니뉴스] 디지몬 알리시온 스마트폰 카드 게임, 신규 트레일러와 함께 사전 등록 개시",
       "snippet": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXd2N2tfYnJCN3RKWGJEN2VWZ2pCcDdMSmxQMkdHOGhYdkRLdU9WcndBT2p0eFhHRTB4eHo4dVd6cy1NQkh0MkRjbGdSTlFBRXYtdk11NmNiTlpxMzZOZldwbFh2YTFYdE0wTEc5V2R5ZmRKTFpMWW1SRjFNaE9wenVLTXAtWFpaU2JGZVNyRUxjbG15OHRfRDR1aWNhVHpFVGl1NUlkdVg4TXRSQzZfWUh5VWhuNDIwMGpkNWg3YTZhek1TekF3cFE1by1rQQ?oc=5",
       "image": null,
       "timestamp": 1793219400,
@@ -103,8 +103,8 @@
     },
     {
       "id": "4cb03268cb9c0f9a914d9e23cfa57eeb",
-      "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록 스타트! 「BT1-025 워그레이몬」 등 등록자 수에 따라 호화 보상을 받을 수 있는 캠페인도 개최 - eeo Media(이오 미디어)",
-      "snippet": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア） eeo",
+      "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록 시작! 「BT1-025 워그레이몬」 등 등록자 수에 따라 호화 보상을 받을 수 있는 캠페인도 개최",
+      "snippet": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 eeo",
       "source": "eeo",
       "source_badge": "일본뉴스",
       "category": "card",
@@ -113,8 +113,8 @@
       "image": null,
       "timestamp": 1793178309,
       "created_at": "2026-10-28 18:05",
-      "title_orig": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア）",
-      "title_ja": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 - eeo Media（イーオメディア）"
+      "title_orig": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催",
+      "title_ja": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催"
     },
     {
       "id": "154c6ee4239085c47c60acd42c59fda4",
@@ -201,7 +201,7 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlZ5UzdYanlKbkFKX0FtVjJyZF9nT294d2IwM3VLS3F5Z0ttM3BQQWV1ZUFNcTh6S2Qzb1BoRWpCM0tDVXlLUmZJTGIta0p4QjlmTml1MVJsTkVYTElOaldDNWxvNFRsT3BWTk5aeXJmdVVxUTJaSTNORVlBS2pTYw?oc=5",
       "image": null,
-      "timestamp": 1793168709,
+      "timestamp": 1793168711,
       "created_at": "2026-10-28 15:25",
       "title_orig": "Digimon Alysion Pre-Registrations Are Now Live"
     },
@@ -3828,12 +3828,12 @@
     },
     {
       "id": "b33dfb5dd623425b68d3322c70f101a4",
-      "title": "[해외뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
+      "title": "[애니뉴스] 망가 플러스, 10월 2일 만화 『디지몬 에그스』 추가",
       "snippet": "Manga Plus Adds Digimon Eggs Manga on October 2 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY24tRi13LVJ0cW5POU55cWQtekw0SGVOaGRrUTYyUTJhZVFqRXViX0FqaV9keWVfZDRtMDJxN3FpQ2ZSYzZ1ZjMtMTlaaWR5TVdiRmc3UXpCYlJpRy05bEg5TFdaZXIzb21uN19yMklndUd6MmxlWVZkLVY0djBwdHZQODM2YVhxQ2JuaF9jQ25NWnRBRVI0dS1mUE5fNEdmcXFfR3J6NA?oc=5",
       "image": null,
       "timestamp": 1790665200,
@@ -5659,6 +5659,21 @@
       "created_at": "2026-08-05 16:00"
     },
     {
+      "id": "8ca60c8f1b2f822e6f11ac40fc935470",
+      "title": "[일본뉴스] 『울트라맨』 × 『디지몬』 콜라보! 울트라맨과 괴수 40체 이상을 육성할 수 있는 『디지털 몬스터 COLOR』 예약 접수 시작",
+      "snippet": "『ウルトラマン』×『デジモン』コラボ！ウルトラマンや怪獣40体以上を育成できる『デジタルモンスターCOLOR』予約受付開始 電ファミニコゲーマー",
+      "source": "電ファミニコゲーマー",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxc3BhNkJlVkxxbUM1cHFnV2JpX3p0QjVCQ0xiRTVZeUN2bkFIS1puempJTzZVYWswZEZySEFXVFVZNFVKbElWUFdXN2lqbTFQRmdSYkNUUzFjQQ?oc=5",
+      "image": null,
+      "timestamp": 1785913200,
+      "created_at": "2026-08-05 16:00",
+      "title_orig": "『ウルトラマン』×『デジモン』コラボ！ウルトラマンや怪獣40体以上を育成できる『デジタルモンスターCOLOR』予約受付開始",
+      "title_ja": "『ウルトラマン』×『デジモン』コラボ！ウルトラマンや怪獣40体以上を育成できる『デジタルモンスターCOLOR』予約受付開始"
+    },
+    {
       "id": "972b045e4598084773175c820bbfe91e",
       "title": "[해외뉴스] 신작 디지몬 애니메이션 2027년 첫 방영 확정 | Outlook Respawn",
       "snippet": "New Digimon Anime Confirmed for 2027 Debut | Outlook Respawn Outlook Respawn",
@@ -5862,10 +5877,10 @@
     },
     {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
+      "source_badge": "애니뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
