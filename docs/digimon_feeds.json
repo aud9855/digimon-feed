@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31 01:57:15",
-  "total_count": 451,
+  "last_updated": "2026-10-31 06:15:58",
+  "total_count": 455,
   "retention_days": 90,
   "feeds": [
     {
@@ -61,6 +61,21 @@
       "created_at": "2026-10-30 18:22",
       "title_orig": "プレスリリース：細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話［コロモン東京大激突！］を放送！（PR TIMES）",
       "title_ja": "プレスリリース：細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話［コロモン東京大激突！］を放送！（PR TIMES）"
+    },
+    {
+      "id": "e42be083fc7ad8e09d7437abee972ff5",
+      "title": "[일본뉴스] 호소다 마모루가 TV 시리즈에서 유일하게 연출을 맡은 에피소드! 11월 1일(일) 방송되는 『우리가 뽑은 베스트 어드벤처』는, TV 애니메이션 「디지몬 어드벤처」에서 제21화 【코로몬 도쿄 대격돌!】을 방송!",
+      "snippet": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！ PR TIMES",
+      "source": "PR TIMES",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fRWlMSG5UamJWcXRCVnBYa29Ma3pGeTlzcFcwR3BNWE56NXVsTXZycUZzb0p3djYzTDJhaDV0X0phSjJzX3JjczJZWEJnaHZXc0JPNnQzUV9nNjkzVEhvaVBQRjFsRVcxWHc?oc=5",
+      "image": null,
+      "timestamp": 1793350802,
+      "created_at": "2026-10-30 18:00",
+      "title_orig": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！",
+      "title_ja": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！"
     },
     {
       "id": "667cb05b7f34c840542c8963f64549df",
@@ -268,6 +283,36 @@
       "title_ja": "【デジモンUP】戦力の上げ方 | 育成要素まとめ"
     },
     {
+      "id": "5e13c54699a4ca612e8caf9f782052de",
+      "title": "[일본뉴스] 【디지몬 UP】 초보자를 위한 초반 효율적인 진행 방법",
+      "snippet": "【デジモンUP】初心者向け序盤の効率的な進め方 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sVzdCYU5fejlBY19WVDA3ZTJIY3hYRi04UlBwYjVzLUpTMVVQUVdjOS1RY291WWc0WWJXOVVjTnRYUWR6MUFwVWQzUk4?oc=5",
+      "image": null,
+      "timestamp": 1793262766,
+      "created_at": "2026-10-29 17:32",
+      "title_orig": "【デジモンUP】初心者向け序盤の効率的な進め方",
+      "title_ja": "【デジモンUP】初心者向け序盤の効率的な進め方"
+    },
+    {
+      "id": "fba5b6ecd53b8e538f0b841fad3f84c7",
+      "title": "[일본뉴스] 【디지몬 UP】스턴 타입 추천 빌드",
+      "snippet": "【デジモンUP】スタンタイプのおすすめビルド GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIR0Z6ZHdOM21YQUpnYkVUa0h3blVkcEpGa2toRW50ejktTjM1ZFVlSUFxa1dRSW10TzRObGZFTVVhdGVQYXladDVVcjY?oc=5",
+      "image": null,
+      "timestamp": 1793255954,
+      "created_at": "2026-10-29 15:39",
+      "title_orig": "【デジモンUP】スタンタイプのおすすめビルド",
+      "title_ja": "【デジモンUP】スタンタイプのおすすめビルド"
+    },
+    {
       "id": "075e77aa2b7d0200c4ada8bc71b493a5",
       "title": "[일본뉴스] 『디지몬 테이머즈』 마키노 루키 & 레나몬의 피규어가 대망의 재등장!! 디지몬 카드를 손에 쥐고 서로에게 등을 맡기는 감성적인 모습을 입체화 【디지몬 재판 정보】",
       "snippet": "『デジモンテイマーズ』牧野留姫＆レナモンのフィギュアが待望の再登場!!デジモンカードを手に背中を預け合うエモーショナルな姿を立体化【デジモン再販情報】 Hobby JAPAN Web",
@@ -281,6 +326,21 @@
       "created_at": "2026-10-29 12:04",
       "title_orig": "『デジモンテイマーズ』牧野留姫＆レナモンのフィギュアが待望の再登場!!デジモンカードを手に背中を預け合うエモーショナルな姿を立体化【デジモン再販情報】",
       "title_ja": "『デジモンテイマーズ』牧野留姫＆レナモンのフィギュアが待望の再登場!!デジモンカードを手に背中を預け合うエモーショナルな姿を立体化【デジモン再販情報】"
+    },
+    {
+      "id": "4389bcf0e8a6384e9b13af945e003a95",
+      "title": "[일본뉴스] 【디지몬 UP】 다크 에어리어 진행 방법과 주의점",
+      "snippet": "【デジモンUP】ダークエリアの進め方と注意点 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01dzAyOUxoYVNWaHJFVmNHYVJrVlVxamlhQ3h4aFVnSHVzUnloQkFwaWZhcnFGLWVLWV9RR1VZeXZjYThINnlCaHhYV0I?oc=5",
+      "image": null,
+      "timestamp": 1793240530,
+      "created_at": "2026-10-29 11:22",
+      "title_orig": "【デジモンUP】ダークエリアの進め方と注意点",
+      "title_ja": "【デジモンUP】ダークエリアの進め方と注意点"
     },
     {
       "id": "79f124e20da8eef65f14bd6b557a5cfd",
@@ -481,6 +541,21 @@
       "created_at": "2026-10-28 17:20",
       "title_orig": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも（インサイド）",
       "title_ja": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも（インサイド）"
+    },
+    {
+      "id": "122176d7e91b6b6ba4967f77196d7a37",
+      "title": "[일본뉴스] 【디지몬 UP】그레이몬의 성능과 진화",
+      "snippet": "【デジモンUP】グレイモンの性能と進化 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ESktvVHcwMEV3N1RZUkF6Mm5ubDA5bVM2eVVOR3E2TWhqU1dPMy1RVFJ0SlBTUjk5SjEwZ2Z5SHRGYU5uQTNQVlNjSGQ?oc=5",
+      "image": null,
+      "timestamp": 1793172496,
+      "created_at": "2026-10-28 16:28",
+      "title_orig": "【デジモンUP】グレイモンの性能と進化",
+      "title_ja": "【デジモンUP】グレイモンの性能と進化"
     },
     {
       "id": "34d2717e340b81af9cdb37e30bbac419",
@@ -833,6 +908,19 @@
       "created_at": "2026-10-27 13:40",
       "title_orig": "【デジモンUP】ステージの進め方とメリット",
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
+    },
+    {
+      "id": "bc60911a41951eb22fec60921be90162",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
+      "image": null,
+      "timestamp": 1793074537,
+      "created_at": "2026-10-27 13:15"
     },
     {
       "id": "890505bc284a80143a51b00815c8459b",
@@ -1390,21 +1478,6 @@
       "created_at": "2026-10-22 18:47",
       "title_orig": "【デジモンUP】ダークエネルギーの強化方法",
       "title_ja": "【デジモンUP】ダークエネルギーの強化方法"
-    },
-    {
-      "id": "4389bcf0e8a6384e9b13af945e003a95",
-      "title": "[일본뉴스] 【디지몬 UP】 다크 에어리어 진행 방법과 주의점",
-      "snippet": "【デジモンUP】ダークエリアの進め方と注意点 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01dzAyOUxoYVNWaHJFVmNHYVJrVlVxamlhQ3h4aFVnSHVzUnloQkFwaWZhcnFGLWVLWV9RR1VZeXZjYThINnlCaHhYV0I?oc=5",
-      "image": null,
-      "timestamp": 1792662414,
-      "created_at": "2026-10-22 18:46",
-      "title_orig": "【デジモンUP】ダークエリアの進め方と注意点",
-      "title_ja": "【デジモンUP】ダークエリアの進め方と注意点"
     },
     {
       "id": "aa4e8d20a34ce1e6abc405aa1221bbf7",
@@ -2834,21 +2907,6 @@
       "title_ja": "【デジモンUP】シャイニングコードの評価と性能"
     },
     {
-      "id": "5e13c54699a4ca612e8caf9f782052de",
-      "title": "[일본뉴스] 【디지몬 UP】 초보자를 위한 초반 효율적인 진행 방법",
-      "snippet": "【デジモンUP】初心者向け序盤の効率的な進め方 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sVzdCYU5fejlBY19WVDA3ZTJIY3hYRi04UlBwYjVzLUpTMVVQUVdjOS1RY291WWc0WWJXOVVjTnRYUWR6MUFwVWQzUk4?oc=5",
-      "image": null,
-      "timestamp": 1792057776,
-      "created_at": "2026-10-15 18:49",
-      "title_orig": "【デジモンUP】初心者向け序盤の効率的な進め方",
-      "title_ja": "【デジモンUP】初心者向け序盤の効率的な進め方"
-    },
-    {
       "id": "debc786a7fee4b260655ae024de3f064",
       "title": "[일본뉴스] 보도자료: 디지몬 시리즈의 역사를 \"음악\"으로 잇는 스페셜 콘서트 「DIGIMON CONCERT ～2026 Anniversary & BEATBREAK～」 키 비주얼 & 상세 정보 해금! (PR TIMES)",
       "snippet": "プレスリリース：デジモンシリーズの歴史を\"音楽\"でつなぐスペシャルコンサート「DIGIMON CONCERT ～2026 Anniversary & BEATBREAK～」キービジュアル＆詳細情報解禁！（PR TIMES） &nb",
@@ -3616,6 +3674,19 @@
       "created_at": "2026-10-08 16:00"
     },
     {
+      "id": "258f8759d724db0173b3a4d2ec445d21",
+      "title": "[인스타] . ⚔️👑 CHIVALROUS XIII [EX-13] 싱글카드 신규 입고! 👑⚔️ 디지몬 카드게임 EXTRA BOOSTER 「CHIVALROUS XIII」 [EX-13] 싱글카드가 카드래곤에 새롭게 입고되었습니다! 🔥 이번 EX-13의 핵심인 로열 나이츠를 중심으로 다양한 고레어도·패러렐 카드들을 준비했",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHZ0lONklrVWxBbE83cUJzdU96dUhMOEdtS1c3Mi1XeGp1SmhtdFlyMWUxZU5HU2IwaEZtUnZYcUNnNk9oLWNSMTdfQ1FneE1kT0E?oc=5",
+      "image": null,
+      "timestamp": 1791442800,
+      "created_at": "2026-10-08 16:00"
+    },
+    {
       "id": "98c8e1abdc0a703c2757ec8f803c6a74",
       "title": "[해외뉴스] 디지몬 월드 2003 PC 리컴프 | 가룸몬 플레이 테스트",
       "snippet": "Digimon World 2003 PC Recomp | KendoGarurumon playable test YouTube",
@@ -3822,20 +3893,6 @@
       "timestamp": 1791010800,
       "created_at": "2026-10-03 16:00",
       "title_orig": "／ 📢PRE-ORDER!! \\ BN Figure Q Digimon Adventure X My Friend Rabbit Per Box (8 Pcs) Bandai Harga : Rp 1.850.000,- DP : Rp 600.000,- ETA : Q4 2026 LIMITED SLOT! *Wajib Baca syarat dan ketentuan PO : Bisa ditanyakan ke kami By PM [PO = Setuju] *P"
-    },
-    {
-      "id": "e471c6642596fe58307d93f862b2e1c5",
-      "title": "[디지카] 덱 정보",
-      "snippet": "Deck Information digimon card meta",
-      "source": "Digimon Meta",
-      "source_badge": "디지카",
-      "category": "card",
-      "category_name": "카드게임(TCG)",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOVmZfdmFDODY4dHR4MDM3NlJlN2RTdzBkaFF4cXJyS0wwb2d5NEJFcy1IWTc0UzhpMHJ4N3dENUF4RTMzN01IU1JhNnZ1dFVIbVowNUZjcHpnWk9EOFJwTVQwZjdjdnpwT25sOEpNT3EtdjJObjNnZjg3N3lFMlNpeGpKbEtFRTQ0VnRTbVdtOFFEWnNxbDk5RzVyd3I4c2NDTU9XWDc1YUtSRGladkhTbVJXSHhuZlhHOVU1TjhTLWVwRlRZeWtkeUNMdU9TSlRlUDc2YkNIZGNwY0ZlM1R1RzdabWlmRjRVWFBuNHdSR2dxYnpNX3ZPLXBXWVRkQ3JXbTRPa29pMUgwX0QwN296c3pGTExOQVhGLWN3NWNhT04tQi0wdEhOclp4NGZYa1huMHlyRDd6V29KNm4waGQ1QmowcFNVTzluMFRmZmxrVERVRExxUGlHMjJPelY5dDN5eWJMakJwczU1UjJ4azZfbGQySjJMZ0tvVldKcEVhbXB4cUhEQk1yUEgwVTd3bGRfbk10ZWhySVVNNkk3TzdnaEs5czk3b2htY0ZuaUJxeGxqX2xfMTBtbEVfZ3kxZkRuQTUxLTB5Y2k1ZXRLOENENVhRTkJUTk4yMk9ZdHRsN2lOQQ?oc=5",
-      "image": null,
-      "timestamp": 1791010800,
-      "created_at": "2026-10-03 16:00",
-      "title_orig": "Deck Information"
     },
     {
       "id": "c0368887e957b5adde01e483ab2e312e",
