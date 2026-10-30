@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-10-30 19:35:06",
-  "total_count": 448,
+  "last_updated": "2026-10-31 01:57:15",
+  "total_count": 451,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "a6fa6a468c2af82e61e0857987905176",
+      "title": "[일본뉴스] 디지몬 어드벤처＞호소다 마모루 감독의 연출 에피소드 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 고른 베스트 어드벤처」(MANTANWEB)",
+      "snippet": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaTFGNFJDT2w5RFZwdlVtU0JkUTJRQzAtRWIteTdLUENuSTdlcFZfdk5DcC1EMER0T1Q5c1VJWGxOd0RHOUNHNWlNRHliY2ZiMExGWEI3UFpsUTVXb19Qak1iUldaSlBrYW5YeDduenYzOHh6ZTBoMElEbHV0R0k?oc=5",
+      "image": null,
+      "timestamp": 1793352720,
+      "created_at": "2026-10-30 18:32",
+      "title_orig": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）",
+      "title_ja": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）"
+    },
     {
       "id": "17a04f2d44d6581078bba67ab3c0237e",
       "title": "[일본뉴스] 디지몬 어드벤처: 호소다 마모루 감독의 연출 회차 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 고른 베스트 어드벤처」",
@@ -105,6 +120,19 @@
       "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！"
     },
     {
+      "id": "1557879eaaef3dd20873983f6d39979d",
+      "title": "[디지카] 이벤트 - 11월 테이머 배틀",
+      "snippet": "이벤트 - 11월 테이머 배틀 디지몬 카드 게임",
+      "source": "공식 디지카KR",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3b0NhSFdZU3pNLU16Wm96WTkxR2FveFFJYVFRSk50ekRMaDVPbjRNWGZHTkZVeUVJcGppWlNxb3JGLV9ablJKMXk5eENFQQ?oc=5",
+      "image": null,
+      "timestamp": 1793273273,
+      "created_at": "2026-10-29 20:27"
+    },
+    {
       "id": "f7f1f6b6e13e114cce6eb745e4d49bc9",
       "title": "[일본뉴스] 【기간 한정 공개】 디지몬 유니버스 어플리 몬스터즈 제5화 「당신의 마음에 도캉 펀치! 에리는 어플몬 아이돌!」",
       "snippet": "【期間限定公開】デジモンユニバース アプリモンスターズ 第5話「あなたのハートにドッカンパンチ！エリはアプモンアイドル！」 YouTube",
@@ -133,6 +161,21 @@
       "created_at": "2026-10-29 17:35",
       "title_orig": "【デジモンUP】キャンプウォーズのルールと進め方",
       "title_ja": "【デジモンUP】キャンプウォーズのルールと進め方"
+    },
+    {
+      "id": "6e71a096408a0c1baaa4ab7ee35c6cc4",
+      "title": "[일본뉴스] 【디지몬 UP】 크리티컬 타입 추천 빌드",
+      "snippet": "【デジモンUP】クリティカルタイプのおすすめビルド GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fNXJCSkFkVTBuUkd4MF94T19OR2hKeDctelpQUmpvZW1QYUoweVczSjU2ZG5qNHZnR19jeHdKbE40RzNRMDU3RWprUWE?oc=5",
+      "image": null,
+      "timestamp": 1793262900,
+      "created_at": "2026-10-29 17:35",
+      "title_orig": "【デジモンUP】クリティカルタイプのおすすめビルド",
+      "title_ja": "【デジモンUP】クリティカルタイプのおすすめビルド"
     },
     {
       "id": "16c96d8c77947a11e0dc893846681870",
@@ -208,6 +251,21 @@
       "created_at": "2026-10-29 17:33",
       "title_orig": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ",
       "title_ja": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ"
+    },
+    {
+      "id": "33ee6e821bd5a334e563c24c50dc6bce",
+      "title": "[일본뉴스] 【디지몬 UP】 전력 올리는 법 | 육성 요소 정리",
+      "snippet": "【デジモンUP】戦力の上げ方 | 育成要素まとめ GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xaWx5RjNZd3JNMmdwQmZNV21scVJiVExvWnNZMFNKOWZnU1ktakNIbU9XbmdkRnBxLTVianRUS3BOQjg1ZnAxOWhWYlg?oc=5",
+      "image": null,
+      "timestamp": 1793262783,
+      "created_at": "2026-10-29 17:33",
+      "title_orig": "【デジモンUP】戦力の上げ方 | 育成要素まとめ",
+      "title_ja": "【デジモンUP】戦力の上げ方 | 育成要素まとめ"
     },
     {
       "id": "075e77aa2b7d0200c4ada8bc71b493a5",
@@ -777,19 +835,6 @@
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
     },
     {
-      "id": "bc60911a41951eb22fec60921be90162",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
-      "image": null,
-      "timestamp": 1793074537,
-      "created_at": "2026-10-27 13:15"
-    },
-    {
       "id": "890505bc284a80143a51b00815c8459b",
       "title": "[해외뉴스] 포켓몬으로 잘못 표기된 디지몬 키체인~~NWT",
       "snippet": "Digimon Keychain-Mislabeled as Pokémon~~NWT khorasantimes.com",
@@ -956,21 +1001,6 @@
       "created_at": "2026-10-26 16:30",
       "title_orig": "アニメ「デジモンテイマーズ」の配信はどこで見れる？全51話を見放題で見れるサブスクを比較",
       "title_ja": "アニメ「デジモンテイマーズ」の配信はどこで見れる？全51話を見放題で見れるサブスクを比較"
-    },
-    {
-      "id": "6e71a096408a0c1baaa4ab7ee35c6cc4",
-      "title": "[일본뉴스] 【디지몬 UP】 크리티컬 타입 추천 빌드",
-      "snippet": "【デジモンUP】クリティカルタイプのおすすめビルド GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fNXJCSkFkVTBuUkd4MF94T19OR2hKeDctelpQUmpvZW1QYUoweVczSjU2ZG5qNHZnR19jeHdKbE40RzNRMDU3RWprUWE?oc=5",
-      "image": null,
-      "timestamp": 1792998191,
-      "created_at": "2026-10-26 16:03",
-      "title_orig": "【デジモンUP】クリティカルタイプのおすすめビルド",
-      "title_ja": "【デジモンUP】クリティカルタイプのおすすめビルド"
     },
     {
       "id": "10af679a138b90294bd484951282bf57",
@@ -1392,21 +1422,6 @@
       "title_ja": "【デジモンUP】テイマーランクの上げ方とメリット"
     },
     {
-      "id": "33ee6e821bd5a334e563c24c50dc6bce",
-      "title": "[일본뉴스] 【디지몬 UP】 전력 올리는 법 | 육성 요소 정리",
-      "snippet": "【デジモンUP】戦力の上げ方 | 育成要素まとめ GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xaWx5RjNZd3JNMmdwQmZNV21scVJiVExvWnNZMFNKOWZnU1ktakNIbU9XbmdkRnBxLTVianRUS3BOQjg1ZnAxOWhWYlg?oc=5",
-      "image": null,
-      "timestamp": 1792662263,
-      "created_at": "2026-10-22 18:44",
-      "title_orig": "【デジモンUP】戦力の上げ方 | 育成要素まとめ",
-      "title_ja": "【デジモンUP】戦力の上げ方 | 育成要素まとめ"
-    },
-    {
       "id": "7717e8ee2bc9a1c805786d3a897fa332",
       "title": "[일본뉴스] 【디지몬 UP】 소울 웨이브의 평가와 성능",
       "snippet": "【デジモンUP】ソウルウェーブの評価と性能 GameWith",
@@ -1551,8 +1566,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFlHSG5iNm1yTXlQS2UyaW9peHcwUmV3NWE4MG56QlNwazItOTRCZEFpeXRWdXVmdWpJRnNpc1JkRmVVQ0RCdjF0MnB2YkdyX3pQaW9CUVRMczlHUFBhZWhKdG95dGRZSkh3VTZtbUtCaHBQLTRnMUp2Q282bFcxVHJPdkxHTDQ1NzNvNA?oc=5",
       "image": null,
-      "timestamp": 1792660923,
-      "created_at": "2026-10-22 18:22",
+      "timestamp": 1792652400,
+      "created_at": "2026-10-22 16:00",
       "title_orig": "A Fan Remake of Digimon World For PlayStation 1 Is On Its Way"
     },
     {
@@ -2195,6 +2210,21 @@
       "image": null,
       "timestamp": 1792222750,
       "created_at": "2026-10-17 16:39"
+    },
+    {
+      "id": "bc301ecd1558fea44054e40b912ae297",
+      "title": "[하비뉴스] 디지몬 어드벤처 아크릴 스탠드 일본풍 모던 Ver. 이시다 야마토(매튜)&파피몬[KADOKAWA]《01월 예약》",
+      "snippet": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 石田ヤマト＆ガブモン[KADOKAWA]《０１月予約》 あみあみ",
+      "source": "아미아미",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NYWltMk9mR1hoR3o1TkE3djFYZmRHbXJERE43LUhENEJXTDlCd0xURkdMYmZjSHBWdFhQSEE5eGU1eTdyamFfMjFkMjBCZzc0N3JPUEt1OXZFbzRkX0hMTjZIMGU4eC1uc1lFdw?oc=5",
+      "image": null,
+      "timestamp": 1792193945,
+      "created_at": "2026-10-17 08:39",
+      "title_orig": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 石田ヤマト＆ガブモン[KADOKAWA]《０１月予約》",
+      "title_ja": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 石田ヤマト＆ガブモン[KADOKAWA]《０１月予約》"
     },
     {
       "id": "fa862f9440d723e343292e28a1b0419b",
@@ -3792,6 +3822,20 @@
       "timestamp": 1791010800,
       "created_at": "2026-10-03 16:00",
       "title_orig": "／ 📢PRE-ORDER!! \\ BN Figure Q Digimon Adventure X My Friend Rabbit Per Box (8 Pcs) Bandai Harga : Rp 1.850.000,- DP : Rp 600.000,- ETA : Q4 2026 LIMITED SLOT! *Wajib Baca syarat dan ketentuan PO : Bisa ditanyakan ke kami By PM [PO = Setuju] *P"
+    },
+    {
+      "id": "e471c6642596fe58307d93f862b2e1c5",
+      "title": "[디지카] 덱 정보",
+      "snippet": "Deck Information digimon card meta",
+      "source": "Digimon Meta",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOVmZfdmFDODY4dHR4MDM3NlJlN2RTdzBkaFF4cXJyS0wwb2d5NEJFcy1IWTc0UzhpMHJ4N3dENUF4RTMzN01IU1JhNnZ1dFVIbVowNUZjcHpnWk9EOFJwTVQwZjdjdnpwT25sOEpNT3EtdjJObjNnZjg3N3lFMlNpeGpKbEtFRTQ0VnRTbVdtOFFEWnNxbDk5RzVyd3I4c2NDTU9XWDc1YUtSRGladkhTbVJXSHhuZlhHOVU1TjhTLWVwRlRZeWtkeUNMdU9TSlRlUDc2YkNIZGNwY0ZlM1R1RzdabWlmRjRVWFBuNHdSR2dxYnpNX3ZPLXBXWVRkQ3JXbTRPa29pMUgwX0QwN296c3pGTExOQVhGLWN3NWNhT04tQi0wdEhOclp4NGZYa1huMHlyRDd6V29KNm4waGQ1QmowcFNVTzluMFRmZmxrVERVRExxUGlHMjJPelY5dDN5eWJMakJwczU1UjJ4azZfbGQySjJMZ0tvVldKcEVhbXB4cUhEQk1yUEgwVTd3bGRfbk10ZWhySVVNNkk3TzdnaEs5czk3b2htY0ZuaUJxeGxqX2xfMTBtbEVfZ3kxZkRuQTUxLTB5Y2k1ZXRLOENENVhRTkJUTk4yMk9ZdHRsN2lOQQ?oc=5",
+      "image": null,
+      "timestamp": 1791010800,
+      "created_at": "2026-10-03 16:00",
+      "title_orig": "Deck Information"
     },
     {
       "id": "c0368887e957b5adde01e483ab2e312e",
