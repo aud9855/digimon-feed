@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-10-30 12:34:19",
-  "total_count": 447,
+  "last_updated": "2026-10-30 19:35:06",
+  "total_count": 448,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "17a04f2d44d6581078bba67ab3c0237e",
+      "title": "[일본뉴스] 디지몬 어드벤처: 호소다 마모루 감독의 연출 회차 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 고른 베스트 어드벤처」",
+      "snippet": "デジモンアドベンチャー：細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」 Mantan Web",
+      "source": "Mantan Web",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OTkxvOUw4OHFfQWRXQ3NrYzNZbGVRaU51MGptWEhaRjF3dS0yUUlNeHJQbUF0ZHM0alBRYmFDbnJLRUxWNDdWZTJIdEJ3T1pGREREdHgyYUl1V0dxZkdwLVpVNFg2VXZoeDlJ?oc=5",
+      "image": null,
+      "timestamp": 1793352600,
+      "created_at": "2026-10-30 18:30",
+      "title_orig": "デジモンアドベンチャー：細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」",
+      "title_ja": "デジモンアドベンチャー：細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」"
+    },
+    {
+      "id": "390f00a7c5478648b1429bfd36533148",
+      "title": "[해외뉴스] 신작 게임 다이제스트: 몬스터 헌터, 세인츠 로우, 노 맨즈 스카이, 디지몬, 다키스트 던전, 컷 더 로프 외",
+      "snippet": "New game digest: Monster Hunter, Saints Row, No Man’s Sky, Digimon, Darkest Dungeon, Cut The Rope, more Mobilegamer.biz",
+      "source": "Mobilegamer.biz",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3BDMElxYy1XSEhnMU5HazluMzlfbUMxMUxBalFYTmE4M2oya2daQVd4Q0RHemlnUmY2c3ZaTzZGSzhtRzNfMTFsWFAzOG5yU2o0blNvckpEYzVIcloyVENOWmxOQVk5R3Nna1Q4X19FRDJsZ3dKdDF6cWdtMldTbUExVlRjeWhpVDBPUUE0bVo1TVozbnI5V2l6WDhIbnVqQm9ZZTlZS1dEZ2YyUFc0UTNTc1J0QkdTX290Nw?oc=5",
+      "image": null,
+      "timestamp": 1793352505,
+      "created_at": "2026-10-30 18:28",
+      "title_orig": "New game digest: Monster Hunter, Saints Row, No Man’s Sky, Digimon, Darkest Dungeon, Cut The Rope, more"
+    },
+    {
+      "id": "9795add78ef0ee12898158e21486c5b1",
+      "title": "[일본뉴스] 보도자료: 호소다 마모루가 TV 시리즈에서 유일하게 연출을 맡은 에피소드! 11월 1일(일) 방송되는 『우리가 고른 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」 제21화 [코로몬 도쿄 대격돌!]을 방송! (PR TIMES)",
+      "snippet": "プレスリリース：細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話［コロモン東京大激突！］を放送！（PR TIMES） 毎日新",
+      "source": "毎日新聞",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OV0hPVE9SNElYbUl4bGJ6LW9mNjREOUdHLW40OHdZRFN6ajkzcVJFSWx6U0tJWkRwdm1NMEIxUFR0UEhBdDFKY0tZMjhYS0dENW1WNTdkZF9Ha3o1VEpVMnpuWm1VR2xU?oc=5",
+      "image": null,
+      "timestamp": 1793352163,
+      "created_at": "2026-10-30 18:22",
+      "title_orig": "プレスリリース：細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話［コロモン東京大激突！］を放送！（PR TIMES）",
+      "title_ja": "プレスリリース：細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話［コロモン東京大激突！］を放送！（PR TIMES）"
+    },
     {
       "id": "667cb05b7f34c840542c8963f64549df",
       "title": "[해외뉴스] 디지몬 알리시온 - 공식 개요 트레일러",
@@ -30,6 +74,20 @@
       "timestamp": 1793306694,
       "created_at": "2026-10-30 05:44",
       "title_orig": "Digimon Alyison - Official New Evolution Trailer"
+    },
+    {
+      "id": "7e593a6a95a10a15b63c10ceab534d31",
+      "title": "[해외뉴스] 디지몬 엘리시온 - 공식 신규 진화 트레일러",
+      "snippet": "Digimon Alysion - Official New Evolution Trailer Yahoo Tech",
+      "source": "Yahoo Tech",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVNnbURaSDZkeF9ObVRNdkNnSF9sdk1ldzFlQmlyaWRNcHpGemNXdEgxOEZFVEQwQ2Q0emNTbmtKNWNRbng0ZmxuQ3ZlS2NrZmVaUnpxR2NwUWIwNHFIQmR0YzVPbVNuaUk4Z1dzVXk4YW1KdlEzQ0pqUXo2RkJaVVlzWHJVQXlzbjU2V0hRNm0?oc=5",
+      "image": null,
+      "timestamp": 1793306694,
+      "created_at": "2026-10-30 05:44",
+      "title_orig": "Digimon Alysion - Official New Evolution Trailer"
     },
     {
       "id": "70ca4c98b6195555fe56416975a7dfc4",
@@ -3057,6 +3115,20 @@
       "created_at": "2026-10-15 15:08"
     },
     {
+      "id": "4fda2c90b7721a8d1954bc663444f205",
+      "title": "[해외뉴스] 영상 - 디지몬 월드 (1999)",
+      "snippet": "Videos - Digimon World (1999) Filmaffinity",
+      "source": "Filmaffinity",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPcnpVeFpOSzk2REVRbm9EbmtZSWo0TzU2MjJzQ19XQVFLY0JkWF9NYnBFU1dUYWw5Vm1aQVhjbzdlZTB0dDVsVm9YRkNuc0dkZ2s3Y1k0TXNNME84aG1jRm5Qbw?oc=5",
+      "image": null,
+      "timestamp": 1792034326,
+      "created_at": "2026-10-15 12:18",
+      "title_orig": "Videos - Digimon World (1999)"
+    },
+    {
       "id": "9b7b11e07c5780da84c80729e4b74eb7",
       "title": "[일본뉴스] 【디지몬UP】 디지털 월드 탐사 방법",
       "snippet": "【デジモンUP】デジタルワールド探査のやり方 GameWith",
@@ -3706,6 +3778,20 @@
       "timestamp": 1791010800,
       "created_at": "2026-10-03 16:00",
       "title_orig": "10 Best Digimon Mega Evolutions in the Anime, Ranked"
+    },
+    {
+      "id": "d88aa488358c5853f3caf17702410cf6",
+      "title": "[인스타] ／ 📢예약 구매!! \\ BN 피규어 Q 디지몬 어드벤처 X 내 친구 토끼 박스당 (8개입) 반다이 가격 : Rp 1.850.000,- 예약금 : Rp 600.000,- 입고 예정 : 2026년 4분기 한정 수량! *예약 구매 이용약관 필독 : PM으로 문의 가능 [예약 구매 = 동의] *P",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XX2VwTC1BRXcyLVl4QjU4RE1nbk9hUFNBR3FOdlFib2xqTm9YTDM2VWQ1eWlrZG9ZRF9OOXY1a3dxQVVTMkNoUzNsbExnNFc5c1E?oc=5",
+      "image": null,
+      "timestamp": 1791010800,
+      "created_at": "2026-10-03 16:00",
+      "title_orig": "／ 📢PRE-ORDER!! \\ BN Figure Q Digimon Adventure X My Friend Rabbit Per Box (8 Pcs) Bandai Harga : Rp 1.850.000,- DP : Rp 600.000,- ETA : Q4 2026 LIMITED SLOT! *Wajib Baca syarat dan ketentuan PO : Bisa ditanyakan ke kami By PM [PO = Setuju] *P"
     },
     {
       "id": "c0368887e957b5adde01e483ab2e312e",
@@ -6091,75 +6177,6 @@
       "timestamp": 1785654000,
       "created_at": "2026-08-02 16:00",
       "title_orig": "Discotek to Release Digimon Frontier, Pani Poni Dash!, Lupin III: Part II, Outlanders, Samurai Pizza Cats, 10+ More Anime on BD This Year"
-    },
-    {
-      "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
-      "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
-      "source": "Anime News Network",
-      "source_badge": "애니뉴스",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
-      "image": null,
-      "timestamp": 1785567600,
-      "created_at": "2026-08-01 16:00",
-      "title_orig": "New Digimon Anime Project to Air in 2027"
-    },
-    {
-      "id": "4a25198ff8cfb49827ffe7101838670a",
-      "title": "[해외뉴스] 2027년 신작 디지몬 애니메이션 프로젝트 발표",
-      "snippet": "New Digimon Anime Project Announced for 2027 Crunchyroll",
-      "source": "Crunchyroll",
-      "source_badge": "해외뉴스",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXBYWGNrZk1wTXVuQXpKenVLTklLd2ZKcnhoY2p2ei1JQTdwQkdzUjc4d3NvQUkyN3hJdzZQMTFKdEdQSlhmc3BQMjd4bFNadUxNMGU1bFZwWWVNMXlKTTNFRW1saEtPbzNyODZPZi1ZdXdsdE5USGhHNUdvcHZhQU02VnZVRjlhZFJGVndKR3BndFJPeW9Jdg?oc=5",
-      "image": null,
-      "timestamp": 1785567600,
-      "created_at": "2026-08-01 16:00",
-      "title_orig": "New Digimon Anime Project Announced for 2027"
-    },
-    {
-      "id": "4297cf749daa183e98ab556037214099",
-      "title": "[인스타] 🩵 1999년 여름의 추억이 다시 스크린으로 찾아옵니다 디지몬 팬들에게 오랫동안 사랑받아 온 〈디지몬 어드벤처: 운명적 만남 & 우리들의 워 게임!〉이 오는 9월 국내 극장에서 재개봉합니다. 이번 상영에서는 1999년 첫 번째 극장판 〈운명적 만남〉과 호소다 마모루 감독",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lQTRtanRnRWpmaHk5MGhsSFpQWEZUZmRNNU93enU0dExoV0ZTY19HVUVRMHY2eTFkckZheXZmQV9IbHFnU0x0ZWZRdnBQUm9tNXc?oc=5",
-      "image": null,
-      "timestamp": 1785567600,
-      "created_at": "2026-08-01 16:00"
-    },
-    {
-      "id": "d8c4d952e59000e37c7bf53ebfb8e838",
-      "title": "[일본뉴스] 1997년 발매된 전자완구 「디지바이스」가 레이와에 복각! 애니메이션 「디지몬 어드벤처」 20주년 기념 영화까지의 스테이지를 모험 가능",
-      "snippet": "1997年発売の電子玩具「デジヴァイス」が令和に復刻！アニメ「デジモンアドベンチャー」20周年記念映画までのステージを冒険可能 インサイド",
-      "source": "インサイド",
-      "source_badge": "일본뉴스",
-      "category": "figure",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0k5Szl1T0RDMktLSnJFb0EyZUhiZTY3bFVHVmE3U0JoSk9xcTYyX1hBbVNwdUV2c3U4Q3JfMTlGdjY3bnRqZHFyZ3JVeE1oa210Z1JKZUNCaGZYQXdRMlJYbUxfM1B1bi1KeGZZVXFWZjYzdmdWdmp2NFhjam5mNGltbw?oc=5",
-      "image": null,
-      "timestamp": 1785567600,
-      "created_at": "2026-08-01 16:00",
-      "title_orig": "1997年発売の電子玩具「デジヴァイス」が令和に復刻！アニメ「デジモンアドベンチャー」20周年記念映画までのステージを冒険可能",
-      "title_ja": "1997年発売の電子玩具「デジヴァイス」が令和に復刻！アニメ「デジモンアドベンチャー」20周年記念映画までのステージを冒険可能"
-    },
-    {
-      "id": "27e1672384fcdd7764008a77542375be",
-      "title": "[트윗] 『AFK: 새로운 여정』 × 「디지몬 어드벤처」 콜라보 예고 PV 새로운 모험, 새로운 친구들과의 만남! 『AFK: 새로운 여정』×「디지몬 어드벤처」 꿈의 콜라보가 곧 시작됩니다! 8월 18일, 신태일과 매튜, 디지몬 친구들과 함께 에스페리아 세계를 누비는 장대한 여정에 올라 보세 - X",
-      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-      "source": "X(트위터)",
-      "source_badge": "X(트위터)",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yalR6LTJyODlnQ3ZOeUhETF9ORUV6OUZOUVhIS2ZwaE1PLXptaVdnQlRWaXdCRzVEOVBUX0lnWE5ld2RXMjRlRTNUTk5qYXBRNmpXNlY3VzhWZ1NsVXB0eEVCNGlWQQ?oc=5",
-      "image": null,
-      "timestamp": 1785567600,
-      "created_at": "2026-08-01 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
