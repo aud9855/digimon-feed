@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30 08:47:44",
-  "total_count": 444,
+  "last_updated": "2026-10-30 12:34:19",
+  "total_count": 447,
   "retention_days": 90,
   "feeds": [
     {
@@ -30,6 +30,36 @@
       "timestamp": 1793306694,
       "created_at": "2026-10-30 05:44",
       "title_orig": "Digimon Alyison - Official New Evolution Trailer"
+    },
+    {
+      "id": "70ca4c98b6195555fe56416975a7dfc4",
+      "title": "[공식] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그랑엔타스 아키하바라에서 개최 결정!",
+      "snippet": "디지몬 공식 사이트 ニュース",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://digimon.net/topic/detail.php?id=2099",
+      "image": null,
+      "timestamp": 1793286000,
+      "created_at": "2026-10-30 00:00",
+      "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！",
+      "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！"
+    },
+    {
+      "id": "f7f1f6b6e13e114cce6eb745e4d49bc9",
+      "title": "[일본뉴스] 【기간 한정 공개】 디지몬 유니버스 어플리 몬스터즈 제5화 「당신의 마음에 도캉 펀치! 에리는 어플몬 아이돌!」",
+      "snippet": "【期間限定公開】デジモンユニバース アプリモンスターズ 第5話「あなたのハートにドッカンパンチ！エリはアプモンアイドル！」 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ORjNfUUZwSG10Vnd5QjRfd09lTWlod0Z2TXZ0ek1tczk0a0ZOekpyRDdmVnpSdTNEaWltV2lCYkg4eFM3aHFqZTZQclpGWlM2eDE4TXVjZUc0RVNB?oc=5",
+      "image": null,
+      "timestamp": 1793268000,
+      "created_at": "2026-10-29 19:00",
+      "title_orig": "【期間限定公開】デジモンユニバース アプリモンスターズ 第5話「あなたのハートにドッカンパンチ！エリはアプモンアイドル！」",
+      "title_ja": "【期間限定公開】デジモンユニバース アプリモンスターズ 第5話「あなたのハートにドッカンパンチ！エリはアプモンアイドル！」"
     },
     {
       "id": "7406a719d810c06b0b0c3263da5c898b",
@@ -320,6 +350,21 @@
       "created_at": "2026-10-28 17:20",
       "title_orig": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも 1枚目の写真・画像",
       "title_ja": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも 1枚目の写真・画像"
+    },
+    {
+      "id": "bd15dbd7cd181cacedb775694683424f",
+      "title": "[일본뉴스] TCG 『디지몬 카드 게임』을 스마트폰으로 즐길 수 있다! 신작 『디지몬 알리시온』 사전 등록 접수 개시 - 시스템과 룰은 그대로, 오리지널 스토리도 (인사이드)",
+      "snippet": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "card",
+      "category_name": "신작 카드(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNXdJLXlmb3lWRElaQTJkT3dSUU5uOWRZNUFnT2xWV25pdlA0bmxKN1UtY3RwTmJ5ZTVLREZMOTFFMTlLU1J6MHpjdndZUjNfbmJoaEFuZGJYazJXaGh2UW9WR3U1YmhmWmVhVzRCU3huZjkyTUcyYXE4dTJPS28?oc=5",
+      "image": null,
+      "timestamp": 1793175603,
+      "created_at": "2026-10-28 17:20",
+      "title_orig": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも（インサイド）",
+      "title_ja": "TCG『デジモンカードゲーム』がスマホで遊べる！ 新作『デジモンアリシオン』事前登録受付開始ーシステムやルールはそのまま、オリジナルストーリーも（インサイド）"
     },
     {
       "id": "34d2717e340b81af9cdb37e30bbac419",
@@ -1653,8 +1698,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1sNWFfa3hYZldaNm8xNUVxY0RxTkd4X1M3SlR2VEtQR0VxTVlVbXVWRFJTX0trQUEtY29PWkpEMVhDSlY4?oc=5",
       "image": null,
-      "timestamp": 1792570500,
-      "created_at": "2026-10-21 17:15",
+      "timestamp": 1792566000,
+      "created_at": "2026-10-21 16:00",
       "title_orig": "バンダイナムコENT、ダウンロード版のセールを開催！ニンテンドーeショップで『デジモンストーリー タイムストレンジャー』が初登場",
       "title_ja": "バンダイナムコENT、ダウンロード版のセールを開催！ニンテンドーeショップで『デジモンストーリー タイムストレンジャー』が初登場"
     },
@@ -4127,12 +4172,12 @@
     },
     {
       "id": "08d18b7ef72948e01f144d9847e7d0db",
-      "title": "[하비뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
+      "title": "[일본뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
       "snippet": "『DIGIMON BEATBREAK』最終回を記念した「デジタルモンスターCOLOR」が登場！アニメ新デジモンを含む約30体が育成可能、バトル時には「e-パルス」を連打で高めることで攻撃力が変化！ 電撃ホビーウェブ",
-      "source": "전격하비",
-      "source_badge": "하비뉴스",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
+      "source": "電撃ホビーウェブ",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOczRVLVZCZUM0NFpJOUFXTXRlUG5OcmNaWVFmaHBpUURoOUhmcTAwNGYtTWgwV3Z6RERQTHAtbXdhUmtMZDhGWXV3ZElweDhr?oc=5",
       "image": null,
       "timestamp": 1790492400,
@@ -4161,7 +4206,7 @@
       "snippet": "DIGIMON BEATBREAK＞最終回放送記念 「デジタルモンスターCOLOR」登場（MANTANWEB） Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "source_badge": "일본뉴스",
-      "category": "figure",
+      "category": "general",
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PenNJWF9JeHRRMmhLNDA2aHJIT3c5R1RyU2ZncXBtanpEeVIzZ0VidkgxMkdYZXVCdm1rZVhLTUxQekgzWGlEVHpXM2Y1YzF3elQ3dXM5MXZhd2hsYVc1VXhGQ3YxUkRlVnRxbWY3R3pmak1QY0dIU2t5blRUZ2c?oc=5",
       "image": null,
@@ -6049,10 +6094,10 @@
     },
     {
       "id": "8b7bcb31f27341d29a51bbd4a85c9975",
-      "title": "[해외뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
+      "title": "[애니뉴스] 신작 디지몬 애니메이션 프로젝트 2027년 방영 예정",
       "snippet": "New Digimon Anime Project to Air in 2027 Anime News Network",
       "source": "Anime News Network",
-      "source_badge": "해외뉴스",
+      "source_badge": "애니뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajdIRGw2bTZuNnZ0Nm9aN084Zk03V2tYNVN6VVVxMG5nR05xRHBUR0FWUThqeklWTURtVmFMUlZucFE5WXozUFpIMVlNMTRhQ3NwRWE5RlF2MmFJak1tOWQ4QzQ0WlhPZEVsZnlGZmFocDRhd1djcGkzdDk3dl80LXFQc2txWE9rN21SMmFseW1hMjVxbDBaQXdsdEVBQQ?oc=5",
