@@ -1,8 +1,38 @@
 {
-  "last_updated": "2026-10-31 16:48:48",
-  "total_count": 454,
+  "last_updated": "2026-10-31 23:03:26",
+  "total_count": 457,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "3c8fe0b869efe0395860e57fda16e485",
+      "title": "[일본뉴스] 『엘리엇의 천년 이야기』 『데스 스트 2』 『비카네』 『데모익 TS』 『디지몬 타이스토』 등, 2,728엔에 살 수 있는 화제작도 가득! 게오 매장 세일을 현장 조사(인사이드)",
+      "snippet": "『エリオットの千年物語』『デススト2』『ビーカネ』『デモエクTS』『デジモン タイスト』など、2,728円で買える話題作もずらり！ ゲオ店舗セールを実地調査（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5USEYyck12NkphOXRJc1lmSDFvX0hweTlpN2NMQk9Yczg3QUY5d21Qb2xobnEtMkJsbWhZQ3NKWGJzWC1kc1ppcWw5WXRCc0diTldQZEhJRjdZWnNCWDhmRXBMdW83MHBGZmY3VFN0TjFESkZlblFUZ1JBbDkzTzA?oc=5",
+      "image": null,
+      "timestamp": 1793448903,
+      "created_at": "2026-10-31 21:15",
+      "title_orig": "『エリオットの千年物語』『デススト2』『ビーカネ』『デモエクTS』『デジモン タイスト』など、2,728円で買える話題作もずらり！ ゲオ店舗セールを実地調査（インサイド）",
+      "title_ja": "『エリオットの千年物語』『デススト2』『ビーカネ』『デモエクTS』『デジモン タイスト』など、2,728円で買える話題作もずらり！ ゲオ店舗セールを実地調査（インサイド）"
+    },
+    {
+      "id": "2d4fd2329562372f45d07273d06091c5",
+      "title": "[일본뉴스] 진화 전이 의외인 디지몬【디지몬 타임 스트렌저】#２８",
+      "snippet": "進化前が意外なデジモン【デジモンタイムストレンジャー】#２８ YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0SDdvaXRtUThOc2xfZHMyQk5hT2MxaGlWXzFZdE5KV2MySWo1M0JoLTlTQm5JaDZUZEJibGFHaXJOZw?oc=5",
+      "image": null,
+      "timestamp": 1793437235,
+      "created_at": "2026-10-31 18:00",
+      "title_orig": "進化前が意外なデジモン【デジモンタイムストレンジャー】#２８",
+      "title_ja": "進化前が意外なデジモン【デジモンタイムストレンジャー】#２８"
+    },
     {
       "id": "89d8e9674d97b134b6955b0d7915522b",
       "title": "[인스타] 선택받은 아이들 여기 모여라!! ✌🏻💙 디지몬 어드벤처02 포토이즘 프레임이 열린대요!! 📸 포토이즘 × 디지몬 어드벤처02 📅 2026.11.01~12.31 📍 일반 포토이즘 박스·컬러드 매장 ※ 호텔 및 쇼핑몰 등의 팝업 매장에서는 촬영할 수 없습니다. #디지몬 #디지몬어드벤처0",
@@ -187,6 +217,21 @@
       "image": null,
       "timestamp": 1793264899,
       "created_at": "2026-10-29 18:08"
+    },
+    {
+      "id": "3a56e65b6d3221a79e173a98ba2a6495",
+      "title": "[일본뉴스] 【디지몬 UP】 다크 에너지 강화 방법",
+      "snippet": "【デジモンUP】ダークエネルギーの強化方法 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OMF9nVUN6clgzR2JlZjczZWF3a01DamZRellQcktZRGExalRkWGIxUTZjX2FyUmo0Rlk4MC00X2h5S0RBSEIwbkF1T0s?oc=5",
+      "image": null,
+      "timestamp": 1793262922,
+      "created_at": "2026-10-29 17:35",
+      "title_orig": "【デジモンUP】ダークエネルギーの強化方法",
+      "title_ja": "【デジモンUP】ダークエネルギーの強化方法"
     },
     {
       "id": "7406a719d810c06b0b0c3263da5c898b",
@@ -936,6 +981,19 @@
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
     },
     {
+      "id": "bc60911a41951eb22fec60921be90162",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
+      "image": null,
+      "timestamp": 1793074537,
+      "created_at": "2026-10-27 13:15"
+    },
+    {
       "id": "890505bc284a80143a51b00815c8459b",
       "title": "[해외뉴스] 포켓몬으로 잘못 표기된 디지몬 키체인~~NWT",
       "snippet": "Digimon Keychain-Mislabeled as Pokémon~~NWT khorasantimes.com",
@@ -1478,21 +1536,6 @@
       "title_ja": "【期間限定公開】デジモンユニバース アプリモンスターズ 第4話「仮装のキミをうぃただきます！キャメラモンのハロウィンスキャンダル！」"
     },
     {
-      "id": "3a56e65b6d3221a79e173a98ba2a6495",
-      "title": "[일본뉴스] 【디지몬 UP】 다크 에너지 강화 방법",
-      "snippet": "【デジモンUP】ダークエネルギーの強化方法 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OMF9nVUN6clgzR2JlZjczZWF3a01DamZRellQcktZRGExalRkWGIxUTZjX2FyUmo0Rlk4MC00X2h5S0RBSEIwbkF1T0s?oc=5",
-      "image": null,
-      "timestamp": 1792662424,
-      "created_at": "2026-10-22 18:47",
-      "title_orig": "【デジモンUP】ダークエネルギーの強化方法",
-      "title_ja": "【デジモンUP】ダークエネルギーの強化方法"
-    },
-    {
       "id": "aa4e8d20a34ce1e6abc405aa1221bbf7",
       "title": "[일본뉴스] 【디지몬 UP】 테이머 랭크 올리는 법과 장점",
       "snippet": "【デジモンUP】テイマーランクの上げ方とメリット GameWith",
@@ -1657,6 +1700,21 @@
       "title_orig": "A Fan Remake of Digimon World For PlayStation 1 Is On Its Way"
     },
     {
+      "id": "6657d7b9c218273272f43416a442cd23",
+      "title": "[일본뉴스] 최대 84% OFF! 반다이 남코의 DL판 게임 세일, 『디지몬 스토리 타임 스트레인저』가 닌텐도 e숍에 첫 등장 10월 21일부터",
+      "snippet": "最大84％OFF！ バンダイナムコのDL版ゲームセール、『デジモンストーリー タイムストレンジャー』がニンテンドーeショップに初登場 10月21日から AppBank",
+      "source": "AppBank",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GNUdLSmlFOTVNRkd4M2dCaUYxamsySTNkSDM0QWltRGwwV3JpSnE5cGhtVng0X0xrc0luQ3UySUpmYllWYXp0MVV6MElsZzlGZ3R3alNfaVZWZmxmZGt2Qw?oc=5",
+      "image": null,
+      "timestamp": 1792652400,
+      "created_at": "2026-10-22 16:00",
+      "title_orig": "最大84％OFF！ バンダイナムコのDL版ゲームセール、『デジモンストーリー タイムストレンジャー』がニンテンドーeショップに初登場 10月21日から",
+      "title_ja": "最大84％OFF！ バンダイナムコのDL版ゲームセール、『デジモンストーリー タイムストレンジャー』がニンテンドーeショップに初登場 10月21日から"
+    },
+    {
       "id": "abb06f0982ca01976c3a9b7b319feb13",
       "title": "[인스타] 우리 내일... 같이...! (등산 가자) 그래 그리 쉽지는 않겠지~~ #디지몬 #KPLUS",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -1683,21 +1741,6 @@
       "created_at": "2026-10-22 13:45",
       "title_orig": "PHP騒動『サマーウォーズ』『デジモン』連想で話題 細田守作品の世界と同じく大混乱「オメガモン頑張って！」",
       "title_ja": "PHP騒動『サマーウォーズ』『デジモン』連想で話題 細田守作品の世界と同じく大混乱「オメガモン頑張って！」"
-    },
-    {
-      "id": "6657d7b9c218273272f43416a442cd23",
-      "title": "[일본뉴스] 최대 84% OFF! 반다이 남코의 DL판 게임 세일, 『디지몬 스토리 타임 스트레인저』가 닌텐도 e숍에 첫 등장 10월 21일부터",
-      "snippet": "最大84％OFF！ バンダイナムコのDL版ゲームセール、『デジモンストーリー タイムストレンジャー』がニンテンドーeショップに初登場 10月21日から AppBank",
-      "source": "AppBank",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GNUdLSmlFOTVNRkd4M2dCaUYxamsySTNkSDM0QWltRGwwV3JpSnE5cGhtVng0X0xrc0luQ3UySUpmYllWYXp0MVV6MElsZzlGZ3R3alNfaVZWZmxmZGt2Qw?oc=5",
-      "image": null,
-      "timestamp": 1792641596,
-      "created_at": "2026-10-22 12:59",
-      "title_orig": "最大84％OFF！ バンダイナムコのDL版ゲームセール、『デジモンストーリー タイムストレンジャー』がニンテンドーeショップに初登場 10月21日から",
-      "title_ja": "最大84％OFF！ バンダイナムコのDL版ゲームセール、『デジモンストーリー タイムストレンジャー』がニンテンドーeショップに初登場 10月21日から"
     },
     {
       "id": "f91b1530599d1e5c7e0c18e993ef1851",
