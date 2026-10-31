@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31 06:15:58",
-  "total_count": 455,
+  "last_updated": "2026-10-31 10:14:36",
+  "total_count": 457,
   "retention_days": 90,
   "feeds": [
     {
@@ -161,6 +161,19 @@
       "created_at": "2026-10-29 19:00",
       "title_orig": "【期間限定公開】デジモンユニバース アプリモンスターズ 第5話「あなたのハートにドッカンパンチ！エリはアプモンアイドル！」",
       "title_ja": "【期間限定公開】デジモンユニバース アプリモンスターズ 第5話「あなたのハートにドッカンパンチ！エリはアプモンアイドル！」"
+    },
+    {
+      "id": "977d43007550dba653b0230e4c45d894",
+      "title": "[인스타] #digimonadventure #디지몬어드벤처",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93RzlmMlJFWkZiNWE5SkhHNEZydU05cjh5YTRpcmxQeTBlVF9VTWV3VVdsaHY1b193SkxKTmY3RWhqU1dhYVpBTUE2d2lieXZSN2c?oc=5",
+      "image": null,
+      "timestamp": 1793264899,
+      "created_at": "2026-10-29 18:08"
     },
     {
       "id": "7406a719d810c06b0b0c3263da5c898b",
@@ -3893,6 +3906,19 @@
       "timestamp": 1791010800,
       "created_at": "2026-10-03 16:00",
       "title_orig": "／ 📢PRE-ORDER!! \\ BN Figure Q Digimon Adventure X My Friend Rabbit Per Box (8 Pcs) Bandai Harga : Rp 1.850.000,- DP : Rp 600.000,- ETA : Q4 2026 LIMITED SLOT! *Wajib Baca syarat dan ketentuan PO : Bisa ditanyakan ke kami By PM [PO = Setuju] *P"
+    },
+    {
+      "id": "c3e79e634bf8f49a43fc982e90127eb5",
+      "title": "[인스타] 볼레로만 들으면 심장 뛰는 사람,, 저는 디지타마 피요몬 뽑았어요 ㅎㅎ🧡 #디지몬 #디지몬어드벤처 #오일파스텔 #digimon #oilpastels",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CY25CaTZLTDZjT0RPcVp6LTNvYWNxUUxuaUpjai1UVkJialFIemcxdVQ4VnotdjRfUmlsN1pZUENIUUJQME42eHprMDVFWXZMelE?oc=5",
+      "image": null,
+      "timestamp": 1791010800,
+      "created_at": "2026-10-03 16:00"
     },
     {
       "id": "c0368887e957b5adde01e483ab2e312e",
