@@ -1,8 +1,22 @@
 {
-  "last_updated": "2026-11-01 03:59:37",
-  "total_count": 464,
+  "last_updated": "2026-11-01 07:03:24",
+  "total_count": 465,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "bd3d31927948f126571fa5bc7db93aee",
+      "title": "[해외뉴스] 디지몬, 2026년 새로운 글로벌 출시로 공식 복귀",
+      "snippet": "Digimon Officially Returns With New Global Release in 2026 Comic Book Resources",
+      "source": "Comic Book Resources",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WcGd1YTZBMnY4YzRrdEdIaGFEX0FUOFFvMVhpVXE1T1hEeS1lbU9HTzE4eDR5RDVCUklPRTBHc084T2M2ZS15ZlJCVks5OVZUVFNGWktKZWY1WG1kRWNjNktpOUNObnM?oc=5",
+      "image": null,
+      "timestamp": 1793477310,
+      "created_at": "2026-11-01 05:08",
+      "title_orig": "Digimon Officially Returns With New Global Release in 2026"
+    },
     {
       "id": "3c8fe0b869efe0395860e57fda16e485",
       "title": "[일본뉴스] 『엘리엇의 천년 이야기』 『데스 스트 2』 『비카네』 『데모익 TS』 『디지몬 타이스토』 등, 2,728엔에 살 수 있는 화제작도 가득! 게오 매장 세일을 현장 조사(인사이드)",
@@ -1538,19 +1552,6 @@
       "created_at": "2026-10-22 22:20"
     },
     {
-      "id": "38a9f1ca2c6c07d178666ea232f9b1e5",
-      "title": "[트윗] 디지몬 어드벤처 공식 굿즈 판매 시작! - 반다이 미니미니 치비 마스코트 누이 - 탑토이 소프누이 도키도키굿즈에서 확인 가능합니다. - X",
-      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-      "source": "X(트위터)",
-      "source_badge": "X(트위터)",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaM29tS202NEZ1ZTJqZmxWQWk3NEhrWF9qMjBRaWxlRHppQW5sUGI2eU9nZ0VVUmwxS1FLdUUxOVp4RWFfSk13MkdjNlI3a3l5dGppVGhFMDZ5QUYtbDhxLUk3MjdjZw?oc=5",
-      "image": null,
-      "timestamp": 1792668143,
-      "created_at": "2026-10-22 20:22"
-    },
-    {
       "id": "c505b0d64a96167490814fe797a84274",
       "title": "[일본뉴스] PHP 취약점 소동에 『서머 워즈』 『디지몬』을 연상하는 사람 속출 \"오메가몬, 힘내라!\"",
       "snippet": "PHPの脆弱性騒動に『サマーウォーズ』『デジモン』を連想する人続出 「オメガモン、頑張れ！」 玩具人 TOY PEOPLE",
@@ -1729,6 +1730,19 @@
       "created_at": "2026-10-22 18:36",
       "title_orig": "【デジモンUP】デュークモンの性能と進化",
       "title_ja": "【デジモンUP】デュークモンの性能と進化"
+    },
+    {
+      "id": "38a9f1ca2c6c07d178666ea232f9b1e5",
+      "title": "[트윗] 디지몬 어드벤처 공식 굿즈 판매 시작! - 반다이 미니미니 치비 마스코트 누이 - 탑토이 소프누이 도키도키굿즈에서 확인 가능합니다. - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaM29tS202NEZ1ZTJqZmxWQWk3NEhrWF9qMjBRaWxlRHppQW5sUGI2eU9nZ0VVUmwxS1FLdUUxOVp4RWFfSk13MkdjNlI3a3l5dGppVGhFMDZ5QUYtbDhxLUk3MjdjZw?oc=5",
+      "image": null,
+      "timestamp": 1792652400,
+      "created_at": "2026-10-22 16:00"
     },
     {
       "id": "a45d4aa8b0c75c1a3552ca856729cba9",
