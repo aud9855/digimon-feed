@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-31 10:14:36",
-  "total_count": 457,
+  "last_updated": "2026-10-31 16:48:48",
+  "total_count": 454,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "89d8e9674d97b134b6955b0d7915522b",
+      "title": "[인스타] 선택받은 아이들 여기 모여라!! ✌🏻💙 디지몬 어드벤처02 포토이즘 프레임이 열린대요!! 📸 포토이즘 × 디지몬 어드벤처02 📅 2026.11.01~12.31 📍 일반 포토이즘 박스·컬러드 매장 ※ 호텔 및 쇼핑몰 등의 팝업 매장에서는 촬영할 수 없습니다. #디지몬 #디지몬어드벤처0",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlTjhsTTlVMUZyTkViLWRHYlpjV0ZaTm12c0VaWFZteFVzd0JWaGNaVVlOM2Frdld0Vm1Qd1ZHbVk0Q2t1aUdjZEdHM0ZXdzFGVnc?oc=5",
+      "image": null,
+      "timestamp": 1793415004,
+      "created_at": "2026-10-31 11:50"
+    },
     {
       "id": "a6fa6a468c2af82e61e0857987905176",
       "title": "[일본뉴스] 디지몬 어드벤처＞호소다 마모루 감독의 연출 에피소드 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 고른 베스트 어드벤처」(MANTANWEB)",
@@ -921,19 +934,6 @@
       "created_at": "2026-10-27 13:40",
       "title_orig": "【デジモンUP】ステージの進め方とメリット",
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
-    },
-    {
-      "id": "bc60911a41951eb22fec60921be90162",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
-      "image": null,
-      "timestamp": 1793074537,
-      "created_at": "2026-10-27 13:15"
     },
     {
       "id": "890505bc284a80143a51b00815c8459b",
@@ -1905,6 +1905,21 @@
       "timestamp": 1792529782,
       "created_at": "2026-10-21 05:56",
       "title_orig": "Digimon Announces New Anime for 2027 as Franchise Begins 30th Anniversary Celebration"
+    },
+    {
+      "id": "b78e8af232794eb495cce7ee2071a6c8",
+      "title": "[하비뉴스] 디지몬 어드벤처 아크릴 부적 키홀더 타카이시 타케루(리키)&파타몬[KADOKAWA]《01월 예약》",
+      "snippet": "デジモンアドベンチャー アクリルお守りキーホルダー 高石タケル＆パタモン[KADOKAWA]《０１月予約》 あみあみ",
+      "source": "아미아미",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01RWhudWpvdWZTLVAySURVWGZ1M1ZMQ185MHRjNFRKekZEQ2hlcTc4S3ZXcnVQUy1iUHdTWTNfZ1JmQ1ItZ0hWdWU5OURGN3EyMy1pSmR3SHZVVmxMWDFWUjlYOC1vUWt1ejJLOQ?oc=5",
+      "image": null,
+      "timestamp": 1792516490,
+      "created_at": "2026-10-21 02:14",
+      "title_orig": "デジモンアドベンチャー アクリルお守りキーホルダー 高石タケル＆パタモン[KADOKAWA]《０１月予約》",
+      "title_ja": "デジモンアドベンチャー アクリルお守りキーホルダー 高石タケル＆パタモン[KADOKAWA]《０１月予約》"
     },
     {
       "id": "1a617673d84f081af2e42fbca6021710",
@@ -5739,6 +5754,19 @@
       "title_orig": "BANPRESTO Unveils New Digimon DIGIVICE STAND! Angemon Prize Figure, Featuring an Iconic Digivice Base"
     },
     {
+      "id": "18fa7239fc5558fdf5b4975b4aa572c1",
+      "title": "[인스타] 파피몬 진화트리 (완) 이미 릴스로 보신분들도 계시겠지만 파피몬 루트까지 완성했네요, 두번째 제작이라 그런지 아구몬 루트에 비해 완성도가 조금 더 오른거같아 뿌듯합니다. (아구몬 미안..ㅠ) 다음 작업은 태일, 나리 룩업으로 돌아오겠습니다😃 (팝마트 가루몬과 메탈",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vRWpFVmd4NnlHWGdqUzZacGl6NXFMc0x3bldQaUxYcmZjYnQzYjhBUXVDM0ZXY0wtekRFXzd3S19JMFp0WXBuRHZ1WFowMi1Ta3c?oc=5",
+      "image": null,
+      "timestamp": 1787122800,
+      "created_at": "2026-08-19 16:00"
+    },
+    {
       "id": "e84138a969f0b0a45e08469d1e39fe06",
       "title": "[루리웹] [디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!] 스페셜 예고편...",
       "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
@@ -6237,73 +6265,6 @@
       "image": null,
       "timestamp": 1785740400,
       "created_at": "2026-08-03 16:00"
-    },
-    {
-      "id": "ece24eddd854a3808040593a1835b697",
-      "title": "[인스타] 돌아온 추억의 디지몬, 극장 개봉 🍿 그 시절 우리는 모두 선택받은 아이들이었다 🥹 이 극장에서 개봉됩니다. 해당 작품은 1999년 개봉한 첫 번째 극장판과 2000년 개봉한 두 번째 극장판의 이야기를 하나로 묶은 영화인데요. 러닝타임은 총 60분으로 선택 받은 아이들의",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83c3lTWTN0MDcxYS1Bb21MZldjeWdPeTFta05nOVcyQXNfTmhSdndlS2dWTHdCSkFIMkhpVXFmM1lKa0pTWnNlajB1anNNclFVc3c?oc=5",
-      "image": null,
-      "timestamp": 1785654000,
-      "created_at": "2026-08-02 16:00"
-    },
-    {
-      "id": "77438bebf0071b29b056cfdbf5ed37c3",
-      "title": "[해외뉴스] 릴리스 게임즈, 8월 18일 시작되는 'AFK: 새로운 여정' x '디지몬 어드벤처' 콜라보레이션 발표",
-      "snippet": "Lilith Games Announces 'AFK Journey' x 'Digimon Adventure' Collaboration Starting August 18 Inven Global",
-      "source": "Inven Global",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFdOVUJqUFNvOWJZLTlqdHJKUUVhTE9ZR1R2Sm1fQUN6Tm9oemVObHpDbGo2UnhCUU84RWVxYnB6Y2JtNndyRmtncGxDdE1YZ1dJLWh2M2d5a1N4REhlLUdYZENzdGlZU0RoQXNMMEpnTUhnLWp6ZEtENTdBTjN4dWpTemFIVklFQXhrSWp6QUx4cTcxb1MwVzBndTlqNWJ6T01CREExLS1ONl9xdFAzNDlDWGo1X2h4ZUFjY0VuZVlHS29RTENQSUVB?oc=5",
-      "image": null,
-      "timestamp": 1785654000,
-      "created_at": "2026-08-02 16:00",
-      "title_orig": "Lilith Games Announces 'AFK Journey' x 'Digimon Adventure' Collaboration Starting August 18"
-    },
-    {
-      "id": "537aa7b4a8d29fd1f785a38e013d13ce",
-      "title": "[인스타] 아~~~~ 더워요 더워🌱 #여름 #디지몬 #digimon #팔몬",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWLUhLTXVpS1FqOTNLNzdTOHVLbHpDd3pva3VoQkR6U1h0dUJWVnMzTDBPQ2tqZjNJb3lNVEV4X3BKbjBiRVdfWnd6MUdrVTVEeGc?oc=5",
-      "image": null,
-      "timestamp": 1785654000,
-      "created_at": "2026-08-02 16:00"
-    },
-    {
-      "id": "e264a2d0a86f40703fcec059da4681a2",
-      "title": "[트윗] 🌟 상품화 결정 정보 📌 디지몬 어드벤처 #デジモンアドベンチャー ⭐️ ✔️ 룩업 야가미 타이치 ✔️ 룩업 야가미 히카리 ✔️ 룩업 이시다 야마토 ✔️ 룩업 타카이시 타케루 ⚡️ 룩업 시리즈 제작 결정 🗓️ 추가 정보 추후 안내 예정 #메가하우스공식몰 #베스트하비 - X",
-      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-      "source": "X(트위터)",
-      "source_badge": "X(트위터)",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yYWVtWGFRajBKQ0stRzF1TzF2QUdSNTdlSk5tREhkUFF3dkdJX0YyYW9CLVlac3M2NHJiWlBvZXk5ams4R0JjUENBQ2VKaElTV29ab01zeU5DTHRTWG53OVI5VQ?oc=5",
-      "image": null,
-      "timestamp": 1785654000,
-      "created_at": "2026-08-02 16:00"
-    },
-    {
-      "id": "999cd80f9694700f9d0f1969a9b81715",
-      "title": "[애니뉴스] 디스코텍, 올해 『디지몬 프론티어』, 『파니포니 대쉬!』, 『루팡 3세 PART 2』, 『아웃랜더스』, 『사무라이 피자 캣츠』 외 10편 이상의 애니메이션 BD 발매 예정",
-      "snippet": "Discotek to Release Digimon Frontier, Pani Poni Dash!, Lupin III: Part II, Outlanders, Samurai Pizza Cats, 10+ More Anim",
-      "source": "Anime News Network",
-      "source_badge": "애니뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRy1NUUdXVjV5VnpIMmx2OU95d2lnNTdkT05VcDRXTTdheHBKZ09rSHNGaHkzNFZjYjlLN0ViLWZCblpXVmhDWV92LW1MSWgtY3IyWVBlakh6TXd2M1JQM1IzU3RMNzhqRmFKTFl5clFTclo1OWFfWmN4X0hoZ243SVljSkVwVmVZcnFfRVpTT0RhTllITjIxclg5MGphSXd6MEhxZlBwLUJwRzNiYXl0RDdIT2FlQjlMOHZaSE4yZDZTd0pFSDRCTkMzNmNUV3pLSFBUZjMwZFBxbWtoUUFhb1NFc2VaRll6VElwSHJB?oc=5",
-      "image": null,
-      "timestamp": 1785654000,
-      "created_at": "2026-08-02 16:00",
-      "title_orig": "Discotek to Release Digimon Frontier, Pani Poni Dash!, Lupin III: Part II, Outlanders, Samurai Pizza Cats, 10+ More Anime on BD This Year"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
