@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-11-01 10:39:16",
-  "total_count": 467,
+  "last_updated": "2026-11-01 17:27:21",
+  "total_count": 463,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "4487a5c04e662c57cd2c8551c19d61ff",
+      "title": "[일본뉴스] 「디지몬 어드벤처」 메지루시 액세서리가 감성적! 「코로몬」을 비롯해, 선택받은 아이들의 유년기 디지몬 전 8종",
+      "snippet": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種 Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiQzlvYmVKeG15WHBZNnZIelQ1bWo5M05TQlNYd2dwb2pFdGM4M2kxVWlaTnhOVk5PQ0xtR2MxX0l4akRZNHM5enJtNU1WRUkxN3BTWWZVdmJtY3Z4dl9rSWctSDB0alRVd1RLQ1pMSUNiVUtWWm9MVkJLcGVJclE?oc=5",
+      "image": null,
+      "timestamp": 1793501403,
+      "created_at": "2026-11-01 11:50",
+      "title_orig": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種",
+      "title_ja": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
+    },
     {
       "id": "bd3d31927948f126571fa5bc7db93aee",
       "title": "[해외뉴스] 디지몬, 2026년 새로운 글로벌 출시로 공식 복귀",
@@ -13,8 +28,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WcGd1YTZBMnY4YzRrdEdIaGFEX0FUOFFvMVhpVXE1T1hEeS1lbU9HTzE4eDR5RDVCUklPRTBHc084T2M2ZS15ZlJCVks5OVZUVFNGWktKZWY1WG1kRWNjNktpOUNObnM?oc=5",
       "image": null,
-      "timestamp": 1793489838,
-      "created_at": "2026-11-01 08:37",
+      "timestamp": 1793491211,
+      "created_at": "2026-11-01 09:00",
       "title_orig": "Digimon Officially Returns With New Global Release in 2026"
     },
     {
@@ -61,6 +76,19 @@
       "created_at": "2026-10-31 18:00",
       "title_orig": "進化前が意外なデジモン【デジモンタイムストレンジャー】#２８",
       "title_ja": "進化前が意外なデジモン【デジモンタイムストレンジャー】#２８"
+    },
+    {
+      "id": "2169420f24149adc31fc7535f27e8c9c",
+      "title": "[인스타] ⠀ PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVm1JZFJJbzlkRVljb3owTGpoRW5jWmtPMURLSFlnSWtENFZ6b0luZUpFb0VzQXFyc3RZQTY0WXUyX2pzY0k5bl90RndlUUVzSmc?oc=5",
+      "image": null,
+      "timestamp": 1793421751,
+      "created_at": "2026-10-31 13:42"
     },
     {
       "id": "89d8e9674d97b134b6955b0d7915522b",
@@ -580,6 +608,19 @@
       "created_at": "2026-10-28 19:30"
     },
     {
+      "id": "7029515c46251ba6b3ee28bc8ee6a535",
+      "title": "[영상] [4K][1분 기믹] 데드웨이트 퍼지! 초광속의 디지몬의 등장! FrSA 매그너가루루몬 [PREVIEW]",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FZ3hwOTM3TlFpZHpiU05OR1R6U3EyTVVkaXNST0dNNV9nVnE3YkJGRFB3cGs1ZXV5Z1FHbEY2SDY3dENPdmxQbks1YlBneXhCazlQSw?oc=5",
+      "image": null,
+      "timestamp": 1793182530,
+      "created_at": "2026-10-28 19:15"
+    },
+    {
       "id": "4cb03268cb9c0f9a914d9e23cfa57eeb",
       "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록 시작! 「BT1-025 워그레이몬」 등 등록자 수에 따라 호화 보상을 받을 수 있는 캠페인도 개최",
       "snippet": "『デジモンアリシオン』事前登録がスタート！「BT1-025 ウォーグレイモン」など登録者数に応じて豪華報酬がもらえるキャンペーンも開催 eeo",
@@ -1065,19 +1106,6 @@
       "created_at": "2026-10-27 13:40",
       "title_orig": "【デジモンUP】ステージの進め方とメリット",
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
-    },
-    {
-      "id": "bc60911a41951eb22fec60921be90162",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
-      "image": null,
-      "timestamp": 1793074537,
-      "created_at": "2026-10-27 13:15"
     },
     {
       "id": "890505bc284a80143a51b00815c8459b",
@@ -5951,6 +5979,19 @@
       "created_at": "2026-08-19 16:00"
     },
     {
+      "id": "95222666afffdbc1f9e07c4569c2932f",
+      "title": "AFK 아레나: 새로운 여정, 8월 18일부터 '디지몬 어드벤처' 콜라보레이션 이벤트 실시",
+      "snippet": "AFK 아레나: 새로운 여정, 8월 18일부터 '디지몬 어드벤처' 콜라보레이션 이벤트 실시 haveagood-holiday.com",
+      "source": "haveagood-holiday.com",
+      "source_badge": "뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN19mbnFSa2dQeV9PcHBpb3BGVDlBTTYwMDdCWldZT1FfV1c4SVhEU3BqbHQyLTRYakRKLUUxNjRIb25XSzNxM2RKakVwZFBEOUZpVnFoMFVDVkN3YkMyanBOc1FMUmZPaVBUTTlIYmU5dEhWN3h3MVg1TWhCenFMell1V0dpT0U5MWRhcGRveVUxbTg?oc=5",
+      "image": null,
+      "timestamp": 1787122800,
+      "created_at": "2026-08-19 16:00"
+    },
+    {
       "id": "e84138a969f0b0a45e08469d1e39fe06",
       "title": "[루리웹] [디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!] 스페셜 예고편...",
       "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
@@ -6356,99 +6397,6 @@
       "timestamp": 1785826800,
       "created_at": "2026-08-04 16:00",
       "title_orig": "DIGIMON BEATBREAK Episodes 25-37 Anime Series Review"
-    },
-    {
-      "id": "fd2b4fcba98db25730a70f5d3625f5d3",
-      "title": "[해외뉴스] AFK 새로운 여정 x 디지몬 어드벤처 - 공식 크로스오버 트레일러",
-      "snippet": "AFK Journey x Digimon Adventure - Official Crossover Trailer IGN Africa",
-      "source": "IGN Africa",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHhRNE1OWHFobllXOGt2WjdNLXhFb1Jiczg4cjY5YmF4MGwwOVQ1N3l2amtoMlEwbFd1bW01RW9BUzJiVzI4NnZMTTc5T3RTd1NvV0tXZnBCOEFRRTg4cjFsR25MYTRGOGJzUktwUFFsRmNHMkN5SkMyMWNaNGJiVGw2OW11d0NabVMwamZLZEVlNWxyQjhtajVlZFY?oc=5",
-      "image": null,
-      "timestamp": 1785740400,
-      "created_at": "2026-08-03 16:00",
-      "title_orig": "AFK Journey x Digimon Adventure - Official Crossover Trailer"
-    },
-    {
-      "id": "dabf4d0d606ffc7e152cd3e2e6685a91",
-      "title": "[해외뉴스] 디지몬 프랜차이즈, 초기 디지몬 애니메이션 4개 시리즈 최고 에피소드 투표 결과 공개",
-      "snippet": "Digimon Franchise Reveals Poll Winners for Best Episodes of 1st 4 Digimon Anime Series Anime News Network",
-      "source": "Anime News Network",
-      "source_badge": "해외뉴스",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZDFBaTlOX0NLVldsMVVIYVFVZHlXa1dhZ2VFOVlveVoyVGF4MXJGUGJEUlZoWUNUdGdLbEV2X3BvenlDdm9ZMkpzemRmNDhyWU9NbDUtRXhMT3FBSEczSmtFMTlMV1RaeHR3Tm9nTk5LYzJxZkRoenVIRWh5VWZJRnBiN2dzYkduU2x1LTZBQzAwX2s2dXZPWDhXNHlaelBlQ1o1M2tmbUdaU0o2SjVCdkhlRUlkYTJNWWNWQ0pSUzBCNnRfQVVTLXpDYWVkeGwyWFVGak5BTVpNYW85Ym1aRg?oc=5",
-      "image": null,
-      "timestamp": 1785740400,
-      "created_at": "2026-08-03 16:00",
-      "title_orig": "Digimon Franchise Reveals Poll Winners for Best Episodes of 1st 4 Digimon Anime Series"
-    },
-    {
-      "id": "f7bd867f442de996d00786e842a866a1",
-      "title": "릴리스 게임즈, 'AFK: 새로운 여정' X '디지몬 어드벤처' 콜라보 8월 18일 시작",
-      "snippet": "릴리스 게임즈, 'AFK: 새로운 여정' X '디지몬 어드벤처' 콜라보 8월 18일 시작 전자신문",
-      "source": "전자신문",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FcHhKSTlTaU40OWRtTEt5RjY3UVhid3M4aUg3YXVXMjd5NFJRcURhSVJldTFfek1VdEo2Wjlab3FOdURpSkUza29pdjRTZw?oc=5",
-      "image": null,
-      "timestamp": 1785740400,
-      "created_at": "2026-08-03 16:00"
-    },
-    {
-      "id": "e2da1cc336d86ac183e45eb6736a21be",
-      "title": "릴리스게임즈, 'AFK: 새로운 여정' 8월 18일 '디지몬 어드벤처'와 컬래버",
-      "snippet": "릴리스게임즈, 'AFK: 새로운 여정' 8월 18일 '디지몬 어드벤처'와 컬래버 경향게임스",
-      "source": "경향게임스",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JYnJRTHRrLW14WUoxVjFZR0xoeEg5bnJMMFM2TndPcTRWREtjM1RCLUlXMDJ3VDQzcHRXZG5vdmM3emdEZGJqaXMzYWVOQVAtZmItUC1nOVR6UVNsbXNlUVIzNTF5Y1VjU1l5Zw?oc=5",
-      "image": null,
-      "timestamp": 1785740400,
-      "created_at": "2026-08-03 16:00"
-    },
-    {
-      "id": "15674fed579b6ead84d8f5b290dcf862",
-      "title": "릴리스게임즈, 'AFK: 새로운 여정X디지몬 어드벤처' 콜라보 예고",
-      "snippet": "릴리스게임즈, 'AFK: 새로운 여정X디지몬 어드벤처' 콜라보 예고 아이뉴스24",
-      "source": "아이뉴스24",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jM3JsUUt5ZE5uYnlDSDFNTWtNVXJHYkVTLW5ILXBhQXQ0Q28tV3hFeTh5YXdKRmNEQ3FlUjllbmtuTmFUTHBCRDZBSQ?oc=5",
-      "image": null,
-      "timestamp": 1785740400,
-      "created_at": "2026-08-03 16:00"
-    },
-    {
-      "id": "677aaf6415840718f4d6a268ac1bb1f9",
-      "title": "릴리스게임즈 'AFK: 새로운 여정', '디지몬 어드벤처'와 협업 실시",
-      "snippet": "릴리스게임즈 'AFK: 새로운 여정', '디지몬 어드벤처'와 협업 실시 지디넷코리아",
-      "source": "지디넷코리아",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRjViSDJ0dlIzLWtOVG5GTWt3bTEtQzRhWGF3azI1VVRCZGd1eGpMRUIzYVFCeUtLSlZJb2NJUEcxTEVGajNiLUJfRW9Xb3ViYlFhaEVB?oc=5",
-      "image": null,
-      "timestamp": 1785740400,
-      "created_at": "2026-08-03 16:00"
-    },
-    {
-      "id": "c322a365772ccf314533540ee7e01143",
-      "title": "[인스타] 그 시절, 우리는 모두 선택받은 아이들이었습니다. 🥹 〈디지몬 어드벤처: 운명적 만남 & 우리들의 워 게임!〉이 오는 9월 16일 메가박스에서 단독 개봉합니다. 1999년 공개된 첫 번째 극장판과 2000년 공개된 두 번째 극장판을 하나로 엮어, 선택받은 아이들의 첫 만남부터",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaeEFVbm1zSmF2N1J1N0ZvUl84aEdwc0xrbDg1cnJRMldVMmJ0bkxZVkNsdFN5LWhwa3BLczNDM0tTeFhRNXJxNWxNcXZmbUR2Snc?oc=5",
-      "image": null,
-      "timestamp": 1785740400,
-      "created_at": "2026-08-03 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
