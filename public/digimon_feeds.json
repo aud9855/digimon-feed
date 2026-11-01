@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02 00:36:52",
-  "total_count": 466,
+  "last_updated": "2026-11-02 04:58:39",
+  "total_count": 467,
   "retention_days": 90,
   "feeds": [
     {
@@ -623,6 +623,20 @@
       "title_orig": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION"
     },
     {
+      "id": "0bcd4a5d836043a3a1a80933ca241918",
+      "title": "[해외뉴스] 디지몬 카드 게임, 디지몬 알리시온에서 디지털 월드로 향하다",
+      "snippet": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION The Outerhaven",
+      "source": "The Outerhaven",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOG9wQ0NKbE5ZMWIyN3dNRzhaWmNZZ1pNcWhzU3RQV0l0Wi0zeDlHOXFvQWFpZXllSDBmVzhMX3NUcGNkWEc2S01ocU96T21FVXIyaFdvMHZDRXdUVVZ3VVZzU1JCZUpOUVdsQzR5STBxLTRPWkZEVjdnVzgtYnh4U0hsU0tNV0FrTDVEVkhYY0hObGY2MGgzVURWQTlxaUU?oc=5",
+      "image": null,
+      "timestamp": 1793184843,
+      "created_at": "2026-10-28 19:54",
+      "title_orig": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION"
+    },
+    {
       "id": "1329944d15fd4cef0b98fe32f22b91b6",
       "title": "[영상] [4K][1분 합체] 디지털 월드 파괴와 재생을 관장하는 신! FrSA 스사노오몬 [PREVIEW]",
       "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
@@ -1134,19 +1148,6 @@
       "created_at": "2026-10-27 13:40",
       "title_orig": "【デジモンUP】ステージの進め方とメリット",
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
-    },
-    {
-      "id": "bc60911a41951eb22fec60921be90162",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
-      "image": null,
-      "timestamp": 1793074537,
-      "created_at": "2026-10-27 13:15"
     },
     {
       "id": "890505bc284a80143a51b00815c8459b",
@@ -5753,6 +5754,19 @@
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3eXdiN1VqVXc4bTBPcjJCOXZiNy1WM29yT3k4aGFTMFBqYkxHTGR4WlFSNVlNd2FOTzhvVkloTWR0V21TdkFaZmcxbW1KY3NUZXc?oc=5",
+      "image": null,
+      "timestamp": 1788159600,
+      "created_at": "2026-08-31 16:00"
+    },
+    {
+      "id": "cec4f65b0a323d67e148c82cc42a3f04",
+      "title": "[인스타] . 🌟 상품화 결정 정보 📌 디지몬 어드벤처 #digimon ✨ ✔️ 피타큐트 디지몬 어드벤처 🔔 딱 달라붙는 마스코트 - 피타큐트 시리즈 신제품 제작 결정 ! ✅ 상세 정보는 추후 공개 예정 #메가하우스공식몰 #베스트하비",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4dm9IVHlvRXNqTnAyMFRHZ2xoWl9Sd2tPQ1Nsb20zUHhvMlh4bXVfNWF2VlpFWlkyQ0dZX3pNUHMtRWlnTlg4T0JvWEFqbmNxZlE?oc=5",
       "image": null,
       "timestamp": 1788159600,
       "created_at": "2026-08-31 16:00"
