@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-01 17:27:21",
-  "total_count": 463,
+  "last_updated": "2026-11-02 00:36:52",
+  "total_count": 466,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "6a3aaef413b66f8f1f176d93bedae901",
+      "title": "[트윗] 🌟 11월 신제품 정보 공개 🌟 📌 디지몬 어드벤처 #デジモンアドベンチャー ✔️ 토비마스 디지몬 어드벤처 🔔 색채 원형 첫 공개 ! 🗓️ 11월 5일 (목) 예약 개시 예정 #메가하우스공식몰 #베스트하비 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50aUVHVFlVSXV6andiN0dNTWs3Sm84ZU1pcjliaDhsa3d4N1FRX0lUSVpmTFBmbGJic3ZWWi1SdEZmWHRoOGdVRUJGeHZZUWZxX1JDVnBTa0RZMUFwMWdhNjd3VQ?oc=5",
+      "image": null,
+      "timestamp": 1793520429,
+      "created_at": "2026-11-01 17:07"
+    },
     {
       "id": "4487a5c04e662c57cd2c8551c19d61ff",
       "title": "[일본뉴스] 「디지몬 어드벤처」 메지루시 액세서리가 감성적! 「코로몬」을 비롯해, 선택받은 아이들의 유년기 디지몬 전 8종",
@@ -14,6 +27,21 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiQzlvYmVKeG15WHBZNnZIelQ1bWo5M05TQlNYd2dwb2pFdGM4M2kxVWlaTnhOVk5PQ0xtR2MxX0l4akRZNHM5enJtNU1WRUkxN3BTWWZVdmJtY3Z4dl9rSWctSDB0alRVd1RLQ1pMSUNiVUtWWm9MVkJLcGVJclE?oc=5",
       "image": null,
       "timestamp": 1793501403,
+      "created_at": "2026-11-01 11:50",
+      "title_orig": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種",
+      "title_ja": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
+    },
+    {
+      "id": "18ff2bea5cf379d0487d8e2d5ebd2b45",
+      "title": "[일본뉴스] 「디지몬 어드벤처」 메지루시 액세서리가 감성적! 「코로몬」을 비롯해, 선택받은 아이들의 유년기 디지몬 전 8종",
+      "snippet": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種 ｄメニューニュース",
+      "source": "ｄメニューニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPME02UUVwbUV5T0p4MFpWOExudHlsZHplTFdEb0tfZ1N5UlFoLS1uNllrbVJ1X1FQMWNTdC1JeV9Pc2ZQWGlPc25vQktQLU9pWjlhckJNeXB0bnRBOWtVNmVOYkhvcUxhMEtJZkFpTmlvakRObVZoWkI4ZmltSG50c2p30gGHAUFVX3lxTE02WDVmQ0txckFULUZTQXh0a2RLd2pYMnZBaVBaTm5NVzdDbTRQWmtwVUVicy1sZ3hTMno5VmNnYlhmcDN0a3o3X1JwSDQ0ajhodkNEOW8xZ1pETXJydl9rS2ZlMHdrQklPNHM2UXVyd3hXdXM2MDdVcFV4WTNNeFoxZUtVUUJVbw?oc=5",
+      "image": null,
+      "timestamp": 1793501400,
       "created_at": "2026-11-01 11:50",
       "title_orig": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種",
       "title_ja": "「デジモンアドベンチャー」めじるしアクセサリーがエモい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
@@ -1106,6 +1134,19 @@
       "created_at": "2026-10-27 13:40",
       "title_orig": "【デジモンUP】ステージの進め方とメリット",
       "title_ja": "【デジモンUP】ステージの進め方とメリット"
+    },
+    {
+      "id": "bc60911a41951eb22fec60921be90162",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9seG9uVENxbzR0SUFRamNHOWpVa2IybGRpZjgxck1nRnY4SDJna0wxSWprQThNVDRLTlpPaVYyUlFKSWJCWjBjZE9tZ3NUbGZiMFJmenlQY2NXS2RwQ3V5Qko4VVVzSF95dlU1czE0UVNNMkJmY2NYdXYwRQ?oc=5",
+      "image": null,
+      "timestamp": 1793074537,
+      "created_at": "2026-10-27 13:15"
     },
     {
       "id": "890505bc284a80143a51b00815c8459b",
