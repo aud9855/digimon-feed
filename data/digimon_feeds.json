@@ -1,8 +1,35 @@
 {
-  "last_updated": "2026-11-02 04:58:39",
-  "total_count": 467,
+  "last_updated": "2026-11-02 08:23:14",
+  "total_count": 470,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "e3fb696d12c501ff2732e79e660d09c0",
+      "title": "[해외뉴스] 디지몬이 새로운 TCG 모바일 게임으로 돌아온다: 사전 등록 중인 '디지몬 알리시온'",
+      "snippet": "Digimon Is Coming Back With a New TCG Mobile Game: Digimon Alysion, Which Is Up For Pre-Registration IGN India",
+      "source": "IGN India",
+      "source_badge": "해외뉴스",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWNhYmpsT0NCNml5ZXU1LVc0bGgzSHFxNjd5Rkh6bDdjOFgzR2Fybm5WODFLa1FFRVNiMEh3bFNVTDNmZnpDVXJQREcydFJ4Z18wVkE1Z2tYWnRMWnFLdzBZaVYwOG52TmVpVXc5WGl6NTVvSVNWZ3RYSktJcmlxUW92SmlMRHFNVFNkdU05S2EzTUQzXzhfRFRBc2R5Z2lSeW5MT0pQdWxPSmEzdDJHeUlrVkhwYWlkT0EzSlJkeWNKVUdXSG1NeW10bWdUZk11ZEFRa1JjNA?oc=5",
+      "image": null,
+      "timestamp": 1793563375,
+      "created_at": "2026-11-02 05:02",
+      "title_orig": "Digimon Is Coming Back With a New TCG Mobile Game: Digimon Alysion, Which Is Up For Pre-Registration"
+    },
+    {
+      "id": "0349f77855d8e85e3b632bc26540c48e",
+      "title": "[인스타] . 🌟 11월 신제품 정보 공개 🌟 📌 디지몬 어드벤처 #デジモンアドベンチャー ✔️ 토비마스 디지몬 어드벤처 🔔 색채 원형 첫 공개 ! 🗓️ 11월 5일 (목) 예약 개시 예정 #메가하우스공식몰 #베스트하비",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5ckNTSzN5TXdOaThQZFRCaFRTTDFET21NQnZTREtUam9VbGo4TFVaT21rRVBGQmF6U0w3akU0eWp3SXg3YUtPejMycVlzc2xoa3c?oc=5",
+      "image": null,
+      "timestamp": 1793520550,
+      "created_at": "2026-11-01 17:09"
+    },
     {
       "id": "6a3aaef413b66f8f1f176d93bedae901",
       "title": "[트윗] 🌟 11월 신제품 정보 공개 🌟 📌 디지몬 어드벤처 #デジモンアドベンチャー ✔️ 토비마스 디지몬 어드벤처 🔔 색채 원형 첫 공개 ! 🗓️ 11월 5일 (목) 예약 개시 예정 #메가하우스공식몰 #베스트하비 - X",
@@ -59,6 +86,21 @@
       "timestamp": 1793491211,
       "created_at": "2026-11-01 09:00",
       "title_orig": "Digimon Officially Returns With New Global Release in 2026"
+    },
+    {
+      "id": "9b1fc1eb7d4d7f7fa3607589727abd14",
+      "title": "[일본뉴스] 울트라맨×디지몬 기념 상품의 예약 접수 시작 괴수를 포함해 캐릭터 40체 이상 육성! 적으로 디지몬 등장",
+      "snippet": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場 山陽新聞",
+      "source": "山陽新聞",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWTNlcndsQ0hVbktlTEM0bDJjVkVickg0dEZXeVJfYjJJZzlneGVsTExyR1pubExuUmNzaTgtSzRFYXRzNWhWREw3U2hrem04TGVHOFR6Si1NZjVnZUJ0bEREaVREV3VOeW1aR3R3ckZNeXdzQ2hv?oc=5",
+      "image": null,
+      "timestamp": 1793474595,
+      "created_at": "2026-11-01 04:23",
+      "title_orig": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場",
+      "title_ja": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場"
     },
     {
       "id": "3c8fe0b869efe0395860e57fda16e485",
@@ -158,6 +200,21 @@
       "created_at": "2026-10-30 18:32",
       "title_orig": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）",
       "title_ja": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）"
+    },
+    {
+      "id": "aa9410d232d55b1981baac5d82f452c6",
+      "title": "[일본뉴스] 디지몬 어드벤처>호소다 마모루 감독 연출 화 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 선택한 베스트 어드벤처」 (MANTANWEB)",
+      "snippet": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」 (MANTANWEB) Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGE3S21VVnFDdzVqVEFEOU10X0RyNEhFQ3paZ0FuSUprTHNwRi1SRXFqLXV0Q1RPTTc4bFZJSXkzSGs2X3QweU5sMldXeGlqWnpGTkNjbW9BOFFpUjRVTTZyd0JnWXoxWHh4RUFDdG5iVHRrcE1hdVNfTDlCeHpRMGExVlFtQXR5c3RoZXdR?oc=5",
+      "image": null,
+      "timestamp": 1793352720,
+      "created_at": "2026-10-30 18:32",
+      "title_orig": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」 (MANTANWEB)",
+      "title_ja": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」 (MANTANWEB)"
     },
     {
       "id": "17a04f2d44d6581078bba67ab3c0237e",
@@ -1356,21 +1413,6 @@
       "image": null,
       "timestamp": 1792894853,
       "created_at": "2026-10-25 11:20"
-    },
-    {
-      "id": "9b1fc1eb7d4d7f7fa3607589727abd14",
-      "title": "[일본뉴스] 울트라맨×디지몬 기념 상품의 예약 접수 시작 괴수를 포함해 캐릭터 40체 이상 육성! 적으로 디지몬 등장",
-      "snippet": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場 山陽新聞",
-      "source": "山陽新聞",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWTNlcndsQ0hVbktlTEM0bDJjVkVickg0dEZXeVJfYjJJZzlneGVsTExyR1pubExuUmNzaTgtSzRFYXRzNWhWREw3U2hrem04TGVHOFR6Si1NZjVnZUJ0bEREaVREV3VOeW1aR3R3ckZNeXdzQ2hv?oc=5",
-      "image": null,
-      "timestamp": 1792880719,
-      "created_at": "2026-10-25 07:25",
-      "title_orig": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場",
-      "title_ja": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場"
     },
     {
       "id": "0f06247d38fda5a9aabb3eb543eea268",
