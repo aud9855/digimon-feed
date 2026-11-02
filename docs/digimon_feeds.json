@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-11-02 20:56:21",
-  "total_count": 471,
+  "last_updated": "2026-11-03 06:10:50",
+  "total_count": 474,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "76a4152bd661fabde6b0b52f8a9ffef0",
+      "title": "[일본뉴스] 【세계가 섞여서…！！】디지몬 스토리 타임 스트레인저 63",
+      "snippet": "【世界が混ざって…！！】デジモンストーリー タイムストレンジャー 63 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzc0ZOWVgwM0M4aEZ1dXE0YUliWVV1eFdVME03alIwd1FDaTJzaGE2MHczbFFtVEstb1ZMR1VOY1h1cU1SQ1RqU1l6WHppZ0tNNWxsYndUMVo0TE5U?oc=5",
+      "image": null,
+      "timestamp": 1793627209,
+      "created_at": "2026-11-02 22:46",
+      "title_orig": "【世界が混ざって…！！】デジモンストーリー タイムストレンジャー 63",
+      "title_ja": "【世界が混ざって…！！】デジモンストーリー タイムストレンジャー 63"
+    },
+    {
+      "id": "8a13c2c6a08a202a07f467738e52154d",
+      "title": "[인스타] 8명의 선택받은 아이들과 파트너 디지몬이 모두 모였다💗 디지몬 금박 트레이딩 티켓 얼리버드 Coming Soon🎟️ 📍디지몬 금박 트레이딩 티켓 ✅판매 상품 - 트레이딩 티켓 24종 풀패키지 + 팝콘R (1) - 트레이딩 티켓 단품 (랜덤 1종) ✅사전 판매 일정: 11/04(수) 10:00~",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96M3J3S093SXFwcXdBbjFwMFZmZ21qeXc1QUNFQ3RRYU5idWR2eFhyM2RQUy1mMm5jMEVjdm9QYXF5YjFTX2QweUdGenk4a0pQX3c?oc=5",
+      "image": null,
+      "timestamp": 1793616523,
+      "created_at": "2026-11-02 19:48"
+    },
     {
       "id": "ca00876547caded629a84df79c1344cc",
       "title": "[일본뉴스] 【디지몬 UP】 특훈 칩의 입수 방법과 사용처",
@@ -34,17 +62,17 @@
       "title_ja": "なぜか牢屋に入ってるデジモン【デジモンタイムストレンジャー】#３０"
     },
     {
-      "id": "8a13c2c6a08a202a07f467738e52154d",
-      "title": "[인스타] 8명의 선택받은 아이들과 파트너 디지몬이 모두 모였다💗 디지몬 금박 트레이딩 티켓 얼리버드 Coming Soon🎟️ 📍디지몬 금박 트레이딩 티켓 ✅판매 상품 - 트레이딩 티켓 24종 풀패키지 + 팝콘R (1) - 트레이딩 티켓 단품 (랜덤 1종) ✅사전 판매 일정: 11/04(수) 10:00~",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96M3J3S093SXFwcXdBbjFwMFZmZ21qeXc1QUNFQ3RRYU5idWR2eFhyM2RQUy1mMm5jMEVjdm9QYXF5YjFTX2QweUdGenk4a0pQX3c?oc=5",
+      "id": "c17e98a1ef839ecfc94488eb89b287a3",
+      "title": "[트윗] 🎬 메가박스 매점 굿즈 런칭 📽️🎞️ ➰ 금박 트레이딩 티켓 24종 풀세트 실물샷 공개 🎟️ 📌 온라인 예약 판매일 : 11/4(수)~소진 시 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yTFF3UVRNSnpOV1pWMURlR3hzdi1Kbnl2bWZOTzk0eHJfN1V1eVBfamZnWFp1bGFUU2tLWThORHBTZ0RlYmM1b0dCX3RadWxlOERyM0ZMYkZnM3pQMlRzMGR4d2d0MHlSU0Rudw?oc=5",
       "image": null,
-      "timestamp": 1793595645,
-      "created_at": "2026-11-02 14:00"
+      "timestamp": 1793596118,
+      "created_at": "2026-11-02 14:08"
     },
     {
       "id": "a6b7db505cbeac96c078cf947d2f7a0a",
@@ -104,6 +132,21 @@
       "timestamp": 1793563755,
       "created_at": "2026-11-02 05:09",
       "title_orig": "Digimon Is Coming Back With a New TCG Mobile Game: Digimon Alysion, Which Is Up For Pre-Registration"
+    },
+    {
+      "id": "9b1fc1eb7d4d7f7fa3607589727abd14",
+      "title": "[일본뉴스] 울트라맨×디지몬 기념 상품의 예약 접수 시작 괴수를 포함해 캐릭터 40체 이상 육성! 적으로 디지몬 등장",
+      "snippet": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場 山陽新聞",
+      "source": "山陽新聞",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWTNlcndsQ0hVbktlTEM0bDJjVkVickg0dEZXeVJfYjJJZzlneGVsTExyR1pubExuUmNzaTgtSzRFYXRzNWhWREw3U2hrem04TGVHOFR6Si1NZjVnZUJ0bEREaVREV3VOeW1aR3R3ckZNeXdzQ2hv?oc=5",
+      "image": null,
+      "timestamp": 1793548105,
+      "created_at": "2026-11-02 00:48",
+      "title_orig": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場",
+      "title_ja": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場"
     },
     {
       "id": "0349f77855d8e85e3b632bc26540c48e",
@@ -176,21 +219,6 @@
       "title_orig": "Digimon Officially Returns With New Global Release in 2026"
     },
     {
-      "id": "9b1fc1eb7d4d7f7fa3607589727abd14",
-      "title": "[일본뉴스] 울트라맨×디지몬 기념 상품의 예약 접수 시작 괴수를 포함해 캐릭터 40체 이상 육성! 적으로 디지몬 등장",
-      "snippet": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場 山陽新聞",
-      "source": "山陽新聞",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWTNlcndsQ0hVbktlTEM0bDJjVkVickg0dEZXeVJfYjJJZzlneGVsTExyR1pubExuUmNzaTgtSzRFYXRzNWhWREw3U2hrem04TGVHOFR6Si1NZjVnZUJ0bEREaVREV3VOeW1aR3R3ckZNeXdzQ2hv?oc=5",
-      "image": null,
-      "timestamp": 1793474595,
-      "created_at": "2026-11-01 04:23",
-      "title_orig": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場",
-      "title_ja": "ウルトラマン×デジモン記念商品の予約受付スタート 怪獣含めキャラ40体以上で育成！敵としてデジモン登場"
-    },
-    {
       "id": "3c8fe0b869efe0395860e57fda16e485",
       "title": "[일본뉴스] 『엘리엇의 천년 이야기』 『데스 스트 2』 『비카네』 『데모익 TS』 『디지몬 타이스토』 등, 2,728엔에 살 수 있는 화제작도 가득! 게오 매장 세일을 현장 조사(인사이드)",
       "snippet": "『エリオットの千年物語』『デススト2』『ビーカネ』『デモエクTS』『デジモン タイスト』など、2,728円で買える話題作もずらり！ ゲオ店舗セールを実地調査（インサイド） Yahoo!ニュース",
@@ -236,19 +264,6 @@
       "title_ja": "進化前が意外なデジモン【デジモンタイムストレンジャー】#２８"
     },
     {
-      "id": "2169420f24149adc31fc7535f27e8c9c",
-      "title": "[인스타] ⠀ PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVm1JZFJJbzlkRVljb3owTGpoRW5jWmtPMURLSFlnSWtENFZ6b0luZUpFb0VzQXFyc3RZQTY0WXUyX2pzY0k5bl90RndlUUVzSmc?oc=5",
-      "image": null,
-      "timestamp": 1793421751,
-      "created_at": "2026-10-31 13:42"
-    },
-    {
       "id": "89d8e9674d97b134b6955b0d7915522b",
       "title": "[인스타] 선택받은 아이들 여기 모여라!! ✌🏻💙 디지몬 어드벤처02 포토이즘 프레임이 열린대요!! 📸 포토이즘 × 디지몬 어드벤처02 📅 2026.11.01~12.31 📍 일반 포토이즘 박스·컬러드 매장 ※ 호텔 및 쇼핑몰 등의 팝업 매장에서는 촬영할 수 없습니다. #디지몬 #디지몬어드벤처0",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -260,6 +275,19 @@
       "image": null,
       "timestamp": 1793415004,
       "created_at": "2026-10-31 11:50"
+    },
+    {
+      "id": "2169420f24149adc31fc7535f27e8c9c",
+      "title": "[인스타] ⠀ PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVm1JZFJJbzlkRVljb3owTGpoRW5jWmtPMURLSFlnSWtENFZ6b0luZUpFb0VzQXFyc3RZQTY0WXUyX2pzY0k5bl90RndlUUVzSmc?oc=5",
+      "image": null,
+      "timestamp": 1793412002,
+      "created_at": "2026-10-31 11:00"
     },
     {
       "id": "bc1b977e7f521a64b9024d26b467a197",
@@ -1116,6 +1144,20 @@
       "created_at": "2026-10-28 13:00",
       "title_orig": "『デジモンカードゲーム』をモバイルで楽しめるアプリ『デジモンアリシオン』本日10月28日より事前登録開始",
       "title_ja": "『デジモンカードゲーム』をモバイルで楽しめるアプリ『デジモンアリシオン』本日10月28日より事前登録開始"
+    },
+    {
+      "id": "68f1cfe38043acc1fba6a08d3325afe4",
+      "title": "[해외뉴스] 디지몬 카드 게임이 DIGIMON ALYSION에서 디지털 월드로 향한다! 지금 사전 등록하세요!!",
+      "snippet": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION! Pre-Register Today!! Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUJjYUFBNlF2WTB0V1dyYjh6VEFLc0RaOVdBWE9RS0hwMEduaF9UMHE1QkF5T3dwS3VBTWFCTHRTczR6d3h0WGU3QU1QMkNOS21mQlNMWHplREh2YnV0Zlc0Q0hpRkVwX1dHTGY3UXVBZnNYeUt4c0ZGcjJDeUxVYjByS2FNaUhkUVp6Zk9KU3h3ZkRJQURHQ3kyM0FVWUZY?oc=5",
+      "image": null,
+      "timestamp": 1793160000,
+      "created_at": "2026-10-28 13:00",
+      "title_orig": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION! Pre-Register Today!!"
     },
     {
       "id": "86c62e8325fb161db930dee003d24816",
