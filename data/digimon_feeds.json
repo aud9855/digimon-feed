@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-04 03:49:05",
-  "total_count": 478,
+  "last_updated": "2026-11-04 08:50:09",
+  "total_count": 479,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "bd2584724fe1fc85c1725d703bca9eb7",
+      "title": "[일본뉴스] これでデジモンの沼にハマりました座談会",
+      "snippet": "これでデジモンの沼にハマりました座談会 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YYnRRZTNZN21LWE9IM3IyYWJCMTFEdEVoblhnb3dWcnFoQ1RhZFdsV1BWZzlySmhKclhPdW0tdDF1N3ZLTkRGZmxtc1lULVNwUlk1WXJIZE9IZ2RO?oc=5",
+      "image": null,
+      "timestamp": 1793707038,
+      "created_at": "2026-11-03 20:57"
+    },
     {
       "id": "dc085c88c1ac087523d312a47343380e",
       "title": "[인스타] 메가박스 디지몬 금박 트레이딩 카드 출시✨ 반짝반짝 영롱하게 빛나는데 24종이나 있어서 무조건 풀패키지 구매 해야됨ㄷㄷㄷ @@내일(4일) 오전 10시에 사전예약 오픈!!! 출처: @megaboxon #메가박스 #megabox #디지몬 #디지몬금박트레이딩카드",
@@ -877,6 +890,19 @@
       "title_orig": "The Digimon Card Game Goes Digital With Digimon Alysion"
     },
     {
+      "id": "aa4bf7fb3dd7f42d6c2008b33eb88c27",
+      "title": "[인스타] #oddstudio @nct NCT WISH JAEHEE [디지몬 어드벤처] Panel Digimon Raglan Long Sleeve",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Vk5oSVZrRnp0dHVocTdTNkJWMjV4TTljZlpSRkdNY21WdHcwOWlKb3BPd0Nld19sZGFQUG11VWY5VEVWUmxFeUx3Z0FtRHhXeUE?oc=5",
+      "image": null,
+      "timestamp": 1793190007,
+      "created_at": "2026-10-28 21:20"
+    },
+    {
       "id": "5e74543412741c4fe65a75c571afa43e",
       "title": "[해외뉴스] 디지몬 카드 게임, 디지몬 알리시온에서 디지털 월드로 향하다",
       "snippet": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION OpenCritic",
@@ -1357,19 +1383,6 @@
       "created_at": "2026-10-27 18:32",
       "title_orig": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道",
       "title_ja": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道"
-    },
-    {
-      "id": "dd15e4e9c72a0fdbf8f71f5d3b96fec4",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KeGhFLTRxLThTbVI4b2FoOF85aUdPQXdSYzRFc2c4TV92Tl8wcWdtSlplWnRrdjkxZl93QUs4T2pQUElxdG9iSGRpZ24zOElZRTZFMTQ5ekdGV0djTEhhc0tSRTVhRDNiNDV3?oc=5",
-      "image": null,
-      "timestamp": 1793084400,
-      "created_at": "2026-10-27 16:00"
     },
     {
       "id": "a45a4ff7ae7a6581989c5e918dcde668",
