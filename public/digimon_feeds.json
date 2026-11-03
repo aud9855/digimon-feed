@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03 20:35:17",
-  "total_count": 477,
+  "last_updated": "2026-11-04 03:49:05",
+  "total_count": 478,
   "retention_days": 90,
   "feeds": [
     {
@@ -55,8 +55,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://bbs.ruliweb.com/family/242/board/300017/read/2440459",
       "image": null,
-      "timestamp": 1793681700,
-      "created_at": "2026-11-03 13:55"
+      "timestamp": 1793631600,
+      "created_at": "2026-11-03 00:00"
     },
     {
       "id": "d80c65c83ffa02320b7d9224e07df5f6",
@@ -68,8 +68,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://bbs.ruliweb.com/family/242/board/300017/read/2440444",
       "image": null,
-      "timestamp": 1793671440,
-      "created_at": "2026-11-03 11:04"
+      "timestamp": 1793631600,
+      "created_at": "2026-11-03 00:00"
     },
     {
       "id": "76a4152bd661fabde6b0b52f8a9ffef0",
@@ -1357,6 +1357,19 @@
       "created_at": "2026-10-27 18:32",
       "title_orig": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道",
       "title_ja": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道"
+    },
+    {
+      "id": "dd15e4e9c72a0fdbf8f71f5d3b96fec4",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KeGhFLTRxLThTbVI4b2FoOF85aUdPQXdSYzRFc2c4TV92Tl8wcWdtSlplWnRrdjkxZl93QUs4T2pQUElxdG9iSGRpZ24zOElZRTZFMTQ5ekdGV0djTEhhc0tSRTVhRDNiNDV3?oc=5",
+      "image": null,
+      "timestamp": 1793084400,
+      "created_at": "2026-10-27 16:00"
     },
     {
       "id": "a45a4ff7ae7a6581989c5e918dcde668",
@@ -5968,6 +5981,19 @@
       "created_at": "2026-09-01 16:00"
     },
     {
+      "id": "d2db08584f5d2aa546182dcbc0ad3660",
+      "title": "[인스타] 이번 기회에 아이콘 얻을 수 있어 좋은데 문장타워 문장 회수 해버리는게 맞나..? #디지몬 #디지몬up #digimonup #デジモン #모바일게임",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Xb1F3WFVyeUJPTlJ2U2ttQ3BDbFYwbFd2bVF1NDc0cS1ESmZaOGhmOG01WW9yR2FKMEpPb0pGUVcwcGVNTUlVdTk3c2RCNDBBRnc?oc=5",
+      "image": null,
+      "timestamp": 1788246000,
+      "created_at": "2026-09-01 16:00"
+    },
+    {
       "id": "87d862d54c90c43c16d299a891293007",
       "title": "20년 전 추억의 애니 극장서 볼까…'이누야샤'·'디지몬' 개봉",
       "snippet": "20년 전 추억의 애니 극장서 볼까…'이누야샤'·'디지몬' 개봉 연합뉴스",
@@ -6577,19 +6603,6 @@
       "created_at": "2026-08-06 16:00",
       "title_orig": "バンダイナムコ『デジモン』IP、過去最高益を達成！ ゲーム＆カードが絶好調で2000年代アニメ全盛期超え！",
       "title_ja": "バンダイナムコ『デジモン』IP、過去最高益を達成！ ゲーム＆カードが絶好調で2000年代アニメ全盛期超え！"
-    },
-    {
-      "id": "75741da127057316eb9cdb2baa233b70",
-      "title": "[루리웹] 디지몬 IP 매출 2000년 애니 방영 당시 넘어",
-      "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
-      "source": "루리웹 콘솔뉴스",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/news/board/1001/read/2359427",
-      "image": null,
-      "timestamp": 1785942000,
-      "created_at": "2026-08-06 00:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
