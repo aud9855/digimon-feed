@@ -1,11 +1,69 @@
 {
-  "last_updated": "2026-11-04 08:50:09",
-  "total_count": 479,
+  "last_updated": "2026-11-04 12:55:12",
+  "total_count": 484,
   "retention_days": 90,
   "feeds": [
     {
+      "id": "a318afcb9abeac98bc51dfb7610a08bf",
+      "title": "[일본뉴스] WILD BLUE 현재 방송 중인 『디지몬』 TV 애니메이션 『우리가 선택한 베스트 어드벤처』 새 ED 테마 담당 결정! 2027년 투어 개최도 발표!",
+      "snippet": "WILD BLUE 現在放送中の「デジモン」TVアニメ『僕らが選んだベストアドベンチャー』 新EDテーマ担当決定！2027年のツアー開催も発表！ USENの音楽情報サイト",
+      "source": "USENの音楽情報サイト",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oRVFvRlpZOUF2VFVvU0dXaXpwSTF2aTMzNVNOX21wQWpfangyRHdmVUE3U2c2SVdPaFBzZHZFSEl3czVHZlhWb180d1RRTm5CbTJhTlBid1NVTlUtaUNyOFc0bjA5dUU1Q3d3VzJR?oc=5",
+      "image": null,
+      "timestamp": 1793761243,
+      "created_at": "2026-11-04 12:00",
+      "title_orig": "WILD BLUE 現在放送中の「デジモン」TVアニメ『僕らが選んだベストアドベンチャー』 新EDテーマ担当決定！2027年のツアー開催も発表！",
+      "title_ja": "WILD BLUE 現在放送中の「デジモン」TVアニメ『僕らが選んだベストアドベンチャー』 新EDテーマ担当決定！2027年のツアー開催も発表！"
+    },
+    {
+      "id": "866f352e3eafa78da7f76cec12982fe0",
+      "title": "[영상] 디지몬이 세상에 만들어진 이유 I 디지몬 테이머즈 세계관 1편",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12WUdpNUNTcXhYRGlQZ3VRZ0NweHBobWdJUlNOendicjRGeUdKUmZuS3hXTzFDZ3lXd1FiVUN1a1RobEdqNFlBbGVCWXJHN2hLcXc2Zy1R?oc=5",
+      "image": null,
+      "timestamp": 1793761235,
+      "created_at": "2026-11-04 12:00"
+    },
+    {
+      "id": "636a7b0310c44fa96464aecdf8ddb407",
+      "title": "[하비뉴스] 『디지몬 어드벤처』가 신감각 마스코트 '토비마스'에 합류! '룩업' 쉬라몬, 피요몬도 대망의 재발매!!",
+      "snippet": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!! 電撃ホビーウェブ",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSa1VIV2xWaC0wUUtoVWxvNjlqa3E3elI4OFVaN1d3aTVqMUliMGc5YW4za2VSYXhvR2hsaklxV1BkVU1ISkVaanpkVUE2dW1j?oc=5",
+      "image": null,
+      "timestamp": 1793757600,
+      "created_at": "2026-11-04 11:00",
+      "title_orig": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!!",
+      "title_ja": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!!"
+    },
+    {
+      "id": "38dd7a89f77d73a3e2e9e5d37f162330",
+      "title": "[일본뉴스] 『디지몬 어드벤처』 메지루시 액세서리 제3탄이 최고로 핫하다! '코로몬'을 비롯해, 선택받은 아이들의 유년기 디지몬 전 8종 (인사이드)",
+      "snippet": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSzBWZ1BzZTZiS2MzRHVacHM0TGExWmY3Zzh6Rlo2UVBXUzV1aW1OUGVuRHFxZGRwQjM1cjJrSFhfUHJSdzNRRXM0ZzQtdXlHSFV6TmF4Q1lWZ1RwRGwtMmgtckxsbnhfWXZraEtFajI4cGVxSjAzeWtQR2NQLUU?oc=5",
+      "image": null,
+      "timestamp": 1793753102,
+      "created_at": "2026-11-04 09:45",
+      "title_orig": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）",
+      "title_ja": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）"
+    },
+    {
       "id": "bd2584724fe1fc85c1725d703bca9eb7",
-      "title": "[일본뉴스] これでデジモンの沼にハマりました座談会",
+      "title": "[일본뉴스] 이것으로 디지몬의 늪에 빠졌습니다 좌담회",
       "snippet": "これでデジモンの沼にハマりました座談会 YouTube",
       "source": "YouTube",
       "source_badge": "일본뉴스",
@@ -14,7 +72,9 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YYnRRZTNZN21LWE9IM3IyYWJCMTFEdEVoblhnb3dWcnFoQ1RhZFdsV1BWZzlySmhKclhPdW0tdDF1N3ZLTkRGZmxtc1lULVNwUlk1WXJIZE9IZ2RO?oc=5",
       "image": null,
       "timestamp": 1793707038,
-      "created_at": "2026-11-03 20:57"
+      "created_at": "2026-11-03 20:57",
+      "title_orig": "これでデジモンの沼にハマりました座談会",
+      "title_ja": "これでデジモンの沼にハマりました座談会"
     },
     {
       "id": "dc085c88c1ac087523d312a47343380e",
@@ -98,6 +158,21 @@
       "created_at": "2026-11-02 22:46",
       "title_orig": "【世界が混ざって…！！】デジモンストーリー タイムストレンジャー 63",
       "title_ja": "【世界が混ざって…！！】デジモンストーリー タイムストレンジャー 63"
+    },
+    {
+      "id": "7406a719d810c06b0b0c3263da5c898b",
+      "title": "[일본뉴스] 【디지몬 UP】 캠프 워즈의 규칙과 진행 방법",
+      "snippet": "【デジモンUP】キャンプウォーズのルールと進め方 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xZ3FBVDFzUHhyMlFaOC1vMTVYbkhNTkJBQThya3RPWUFnSUgwWHE5c0FYeENCN3ljU3BJODZVOWdHVG1ETUg0MzFnNW8?oc=5",
+      "image": null,
+      "timestamp": 1793613156,
+      "created_at": "2026-11-02 18:52",
+      "title_orig": "【デジモンUP】キャンプウォーズのルールと進め方",
+      "title_ja": "【デジモンUP】キャンプウォーズのルールと進め方"
     },
     {
       "id": "ca00876547caded629a84df79c1344cc",
@@ -184,6 +259,21 @@
       "created_at": "2026-11-02 12:55",
       "title_orig": "【デジモンUP】エテモンの評価と性能",
       "title_ja": "【デジモンUP】エテモンの評価と性能"
+    },
+    {
+      "id": "f8abf866cf0cfccdfaa772a7dccd42fe",
+      "title": "[일본뉴스] 【디지몬 UP】 겟코몬의 평가와 성능",
+      "snippet": "【デジモンUP】ゲッコーモンの評価と性能 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5udUg3ZWpwSHFjNGd5bVp0WFNGeHd6b2pZYmFJUmxXZzB4SGFwMkZ6UzllY2VRSWt1WVJXSTR1SDBGcWhydm9hOXd0QWI?oc=5",
+      "image": null,
+      "timestamp": 1793591656,
+      "created_at": "2026-11-02 12:54",
+      "title_orig": "【デジモンUP】ゲッコーモンの評価と性能",
+      "title_ja": "【デジモンUP】ゲッコーモンの評価と性能"
     },
     {
       "id": "3181f48d61870eb23a987226cd787ad5",
@@ -514,6 +604,20 @@
       "title_orig": "Digimon Alysion - Official Overview Trailer"
     },
     {
+      "id": "466bf9b546776192509d39574911188a",
+      "title": "[해외뉴스] 디지몬 알리시온 - 공식 개요 트레일러",
+      "snippet": "Digimon Alysion - Official Overview Trailer Yahoo Tech",
+      "source": "Yahoo Tech",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnBUbUFjd0Z0WkM1RTAxYmQtRC00TjB6QS1XNmFHVUcxLVZFY21GVEtwaXlwUmJXOHNyNGg3WDdMaEFMU1dZRE1hc1l6QXZEQjBJQmFUQmdnaW8yOFc4SXFTZFpWZGRBcVdCY0Fac09hRkVLMUQxQ3BhM3lVekdSRjlZMjMtMWkybnR2WVdhRQ?oc=5",
+      "image": null,
+      "timestamp": 1793307714,
+      "created_at": "2026-10-30 06:01",
+      "title_orig": "Digimon Alysion - Official Overview Trailer"
+    },
+    {
       "id": "667cb05b7f34c840542c8963f64549df",
       "title": "[해외뉴스] 디지몬 알리시온 - 공식 개요 트레일러",
       "snippet": "Digimon Alysion - Official Overview Trailer IGN",
@@ -625,21 +729,6 @@
       "created_at": "2026-10-29 17:35",
       "title_orig": "【デジモンUP】ダークエネルギーの強化方法",
       "title_ja": "【デジモンUP】ダークエネルギーの強化方法"
-    },
-    {
-      "id": "7406a719d810c06b0b0c3263da5c898b",
-      "title": "[일본뉴스] 【디지몬 UP】 캠프 워즈의 규칙과 진행 방법",
-      "snippet": "【デジモンUP】キャンプウォーズのルールと進め方 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xZ3FBVDFzUHhyMlFaOC1vMTVYbkhNTkJBQThya3RPWUFnSUgwWHE5c0FYeENCN3ljU3BJODZVOWdHVG1ETUg0MzFnNW8?oc=5",
-      "image": null,
-      "timestamp": 1793262910,
-      "created_at": "2026-10-29 17:35",
-      "title_orig": "【デジモンUP】キャンプウォーズのルールと進め方",
-      "title_ja": "【デジモンUP】キャンプウォーズのルールと進め方"
     },
     {
       "id": "6e71a096408a0c1baaa4ab7ee35c6cc4",
@@ -2000,21 +2089,6 @@
       "created_at": "2026-10-22 18:40",
       "title_orig": "【デジモンUP】ムゲンドラモン(SP Ver.)の評価と性能",
       "title_ja": "【デジモンUP】ムゲンドラモン(SP Ver.)の評価と性能"
-    },
-    {
-      "id": "f8abf866cf0cfccdfaa772a7dccd42fe",
-      "title": "[일본뉴스] 【디지몬 UP】 겟코몬의 평가와 성능",
-      "snippet": "【デジモンUP】ゲッコーモンの評価と性能 GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5udUg3ZWpwSHFjNGd5bVp0WFNGeHd6b2pZYmFJUmxXZzB4SGFwMkZ6UzllY2VRSWt1WVJXSTR1SDBGcWhydm9hOXd0QWI?oc=5",
-      "image": null,
-      "timestamp": 1792661953,
-      "created_at": "2026-10-22 18:39",
-      "title_orig": "【デジモンUP】ゲッコーモンの評価と性能",
-      "title_ja": "【デジモンUP】ゲッコーモンの評価と性能"
     },
     {
       "id": "840b0490902e7c3cfee0d14d65e95de6",
