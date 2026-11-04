@@ -1,8 +1,82 @@
 {
-  "last_updated": "2026-11-04 12:55:12",
-  "total_count": 484,
+  "last_updated": "2026-11-04 20:45:32",
+  "total_count": 491,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "439dfd53ca628ede639ec252d9586027",
+      "title": "[하비뉴스] 토비마스 디지몬 어드벤처 6개입 BOX [메가하우스] 《04월 예약》",
+      "snippet": "とびマス デジモンアドベンチャー 6個入りBOX[メガハウス]《０４月予約》 あみあみ",
+      "source": "아미아미",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BME5CcHVGZnpSNWc0cDAxMDhRMVJwMVNXUDNGcXc1Q05lV2tPeWRxVXBfa3FKblhlVzMzRllKVHNBbFQycFlOUjdZWXBCUUhkbFlKdnpNU2lvUk1qdGxqVXRyM0RTNkFYZ1A3cmdvX0ZhSjlMenZZRg?oc=5",
+      "image": null,
+      "timestamp": 1793785374,
+      "created_at": "2026-11-04 18:42",
+      "title_orig": "とびマス デジモンアドベンチャー 6個入りBOX[メガハウス]《０４月予約》",
+      "title_ja": "とびマス デジモンアドベンチャー 6個入りBOX[メガハウス]《０４月予約》"
+    },
+    {
+      "id": "8c052559cb468ccd05b612a67c62c587",
+      "title": "[해외뉴스] 메가하우스 토비마스 디지몬 어드벤처 블라인드 박스, 야가미 타이치(신태일)와 아구몬이 액션 속으로 질주한다",
+      "snippet": "MegaHouse TOBIMAS Digimon Adventure Blind Boxes Send Tai and Agumon Racing Into Action 玩具人 TOY PEOPLE",
+      "source": "玩具人 TOY PEOPLE",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvU1hoWndZa21jQWROUDdmUE9yQmVEVGtWQ0UtbThQWGVuVDRQMjVscTItb2hfbEE5eVZiYl84YkI1ckMwR0tEV0k0ekQ1S1hG?oc=5",
+      "image": null,
+      "timestamp": 1793782176,
+      "created_at": "2026-11-04 17:49",
+      "title_orig": "MegaHouse TOBIMAS Digimon Adventure Blind Boxes Send Tai and Agumon Racing Into Action"
+    },
+    {
+      "id": "3b5f84976ff8a3103a28878dc8fd65b0",
+      "title": "[일본뉴스] 메가하우스 「토비마스 디지몬 어드벤처」가 2027년 4월 발매! 야가미 타이치(신태일)와 아구몬 등 총 6종이 뜨겁게 질주한다!",
+      "snippet": "メガハウス「とびマス デジモンアドベンチャー」が2027年4月発売！八神太一やアグモンたち全6種が熱く駆ける！ 玩具人 TOY PEOPLE",
+      "source": "玩具人 TOY PEOPLE",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jamp3OEpyZHRoNEJlRHlEaUhiU0NLb2xYSzZKbVhfTm51U3FLdDJvTk9IR3FpVklrekVRS0JEUk96ZjF1MVlxcmtUVTRPeXlj?oc=5",
+      "image": null,
+      "timestamp": 1793782176,
+      "created_at": "2026-11-04 17:49",
+      "title_orig": "メガハウス「とびマス デジモンアドベンチャー」が2027年4月発売！八神太一やアグモンたち全6種が熱く駆ける！",
+      "title_ja": "メガハウス「とびマス デジモンアドベンチャー」が2027年4月発売！八神太一やアグモンたち全6種が熱く駆ける！"
+    },
+    {
+      "id": "c376f92534a38d976777c90498f99587",
+      "title": "[일본뉴스] 【디지몬 UP】 디지칩 획득 방법과 사용처",
+      "snippet": "【デジモンUP】デジチップの入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UUGtzcGFEWE5FVkJQN1hDallLU0cyeFZwYVV5UTFKTFVrRTg3Szd2UzJ2N01USEpsVjlLaFBTNzU0eEpQbHlyUmlXMXo?oc=5",
+      "image": null,
+      "timestamp": 1793765283,
+      "created_at": "2026-11-04 13:08",
+      "title_orig": "【デジモンUP】デジチップの入手方法と使い道",
+      "title_ja": "【デジモンUP】デジチップの入手方法と使い道"
+    },
+    {
+      "id": "8c90848a4bb95dee1e36e1c9087e56d3",
+      "title": "[일본뉴스] 【디지몬 UP】 좋은 디지고기 씨앗 획득 방법과 사용처",
+      "snippet": "【デジモンUP】いいデジ肉の種の入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZeWFCWTM2VjdYc29vRzhac2swTlZ6alh3RWRQUEZ2OFUtMmFPY0t1ekdGb2lUaWx3cWpKV2x1UUVJRlhNdC1MZjFOV3M?oc=5",
+      "image": null,
+      "timestamp": 1793765277,
+      "created_at": "2026-11-04 13:07",
+      "title_orig": "【デジモンUP】いいデジ肉の種の入手方法と使い道",
+      "title_ja": "【デジモンUP】いいデジ肉の種の入手方法と使い道"
+    },
     {
       "id": "a318afcb9abeac98bc51dfb7610a08bf",
       "title": "[일본뉴스] WILD BLUE 현재 방송 중인 『디지몬』 TV 애니메이션 『우리가 선택한 베스트 어드벤처』 새 ED 테마 담당 결정! 2027년 투어 개최도 발표!",
@@ -60,6 +134,21 @@
       "created_at": "2026-11-04 09:45",
       "title_orig": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）",
       "title_ja": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）"
+    },
+    {
+      "id": "10324f1ba91744520d3820d10572da59",
+      "title": "[일본뉴스] 「디지몬 어드벤처」 메지루시 액세서리 제3탄이 최고로 뜨겁다! 「코로몬」을 비롯한, 선택받은 아이들의 유년기 디지몬 총 8종",
+      "snippet": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種 インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ea0NtZDhrN3pZUS1iemo5Rk16eWp1WUx2YnNxbmtOWU01emhNQXctYXI5dzRxcmU0WjFORkJqbk53Ul9CT2RHU3J4MGpaM3FVVzl5ZUQ1MFZDeUJ3anF1U3c2SzRuQmJtSUE?oc=5",
+      "image": null,
+      "timestamp": 1793753102,
+      "created_at": "2026-11-04 09:45",
+      "title_orig": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種",
+      "title_ja": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
     },
     {
       "id": "bd2584724fe1fc85c1725d703bca9eb7",
@@ -654,6 +743,20 @@
       "category": "general",
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVNnbURaSDZkeF9ObVRNdkNnSF9sdk1ldzFlQmlyaWRNcHpGemNXdEgxOEZFVEQwQ2Q0emNTbmtKNWNRbng0ZmxuQ3ZlS2NrZmVaUnpxR2NwUWIwNHFIQmR0YzVPbVNuaUk4Z1dzVXk4YW1KdlEzQ0pqUXo2RkJaVVlzWHJVQXlzbjU2V0hRNm0?oc=5",
+      "image": null,
+      "timestamp": 1793306694,
+      "created_at": "2026-10-30 05:44",
+      "title_orig": "Digimon Alysion - Official New Evolution Trailer"
+    },
+    {
+      "id": "5513322aa4f6b1e0d6525dba1561de3a",
+      "title": "[해외뉴스] 디지몬 엘리시온 - 공식 신규 진화 트레일러",
+      "snippet": "Digimon Alysion - Official New Evolution Trailer IGN",
+      "source": "IGN",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BSk1qMXhOeWZ6Um9CMFB1NVltam1KaWdiWlBfNXVKRk9qR2thT1ZnNlJqUmIzbDNSU0tSeXN2bGM1SnNzUFh6Skx2Y0NMME04VzVvdmdEQm1qM0JZd2ttS05yeWNHRV9LUWJfemlHeFBOQUdIY0xJVGQ0RFd2dw?oc=5",
       "image": null,
       "timestamp": 1793306694,
       "created_at": "2026-10-30 05:44",
@@ -1430,20 +1533,6 @@
       "title_ja": "【デジモンストーリーTS】高貴な鳥？デラモン 進化&バトル演出【デジモンストーリー タイムストレンジャー】【VOICEVOX実況】"
     },
     {
-      "id": "738cafe9d3e6c986953d9272bda6d11b",
-      "title": "[애니뉴스] 디지몬 비트브레이크 에피소드 38-49 애니메이션 시리즈 리뷰",
-      "snippet": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review Anime News Network",
-      "source": "Anime News Network",
-      "source_badge": "애니뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdm1tMXoxdTZQXzQtNFkyYk5nQ1BhcmJzMFpreDc2N1h6eGtGSERMbWEwRTN2WGpqMmhfT1c3dTZUX0x5M2tIRGxUWkVpcXgxUHM0ZVp6SG1PRTladWtjZlBMX2ZVRnpfbThKRmR4ME51MEIxSHJFQVF2ODlTR2tYN1Ywd2hSeUQxOFU0M280STNNOTNsU1h6cw?oc=5",
-      "image": null,
-      "timestamp": 1793116800,
-      "created_at": "2026-10-28 01:00",
-      "title_orig": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review"
-    },
-    {
       "id": "63f7f27c0d3c9f65e693eea0e18ebb4f",
       "title": "[일본뉴스] 【모든 것을 이해한 기분이 든다】디지몬 스토리 타임 스트레인저 60",
       "snippet": "【全てを理解した気がする】デジモンストーリー タイムストレンジャー 60 YouTube",
@@ -1472,6 +1561,20 @@
       "created_at": "2026-10-27 18:32",
       "title_orig": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道",
       "title_ja": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道"
+    },
+    {
+      "id": "738cafe9d3e6c986953d9272bda6d11b",
+      "title": "[애니뉴스] 디지몬 비트브레이크 에피소드 38-49 애니메이션 시리즈 리뷰",
+      "snippet": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review Anime News Network",
+      "source": "Anime News Network",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdm1tMXoxdTZQXzQtNFkyYk5nQ1BhcmJzMFpreDc2N1h6eGtGSERMbWEwRTN2WGpqMmhfT1c3dTZUX0x5M2tIRGxUWkVpcXgxUHM0ZVp6SG1PRTladWtjZlBMX2ZVRnpfbThKRmR4ME51MEIxSHJFQVF2ODlTR2tYN1Ywd2hSeUQxOFU0M280STNNOTNsU1h6cw?oc=5",
+      "image": null,
+      "timestamp": 1793084400,
+      "created_at": "2026-10-27 16:00",
+      "title_orig": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review"
     },
     {
       "id": "a45a4ff7ae7a6581989c5e918dcde668",
@@ -2498,6 +2601,21 @@
       "image": null,
       "timestamp": 1792507242,
       "created_at": "2026-10-20 23:40"
+    },
+    {
+      "id": "17dc119b4418ea83893fd4155240a56e",
+      "title": "[하비뉴스] 미니미니 Chibi 인형 마스코트 디지몬 어드벤처: 8개입 BOX [반다이 남코 누이] 《02월 예약》",
+      "snippet": "ミニミニChibiぬいぐるみマスコット デジモンアドベンチャー： 8個入りBOX[バンダイナムコヌイ]《０２月予約》 あみあみ",
+      "source": "아미아미",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNXpNTUZfWXpFbDZ0QlhDUk9zLUt3MUVVRDJfbk9Lc0J2V2ZTT2RzaXBrT0VlbnhaUjJSaXR3dHIzY0tvNkNRNno0MEdIaDhiQ0ZhTm10VVQtdF9JN0ktNlBNQUh1Y096M0NnaQ?oc=5",
+      "image": null,
+      "timestamp": 1792495235,
+      "created_at": "2026-10-20 20:20",
+      "title_orig": "ミニミニChibiぬいぐるみマスコット デジモンアドベンチャー： 8個入りBOX[バンダイナムコヌイ]《０２月予約》",
+      "title_ja": "ミニミニChibiぬいぐるみマスコット デジモンアドベンチャー： 8個入りBOX[バンダイナムコヌイ]《０２月予約》"
     },
     {
       "id": "0ee8b501393a4d5e9e76550b2db69ec1",
@@ -6675,21 +6793,6 @@
       "image": null,
       "timestamp": 1786028400,
       "created_at": "2026-08-07 00:00"
-    },
-    {
-      "id": "6b507d92363288d1b2f84bf8da5e576e",
-      "title": "[일본뉴스] 반다이 남코 『디지몬』 IP, 역대 최고 수익 달성! 게임&카드의 대흥행으로 2000년대 애니메이션 전성기 넘어서!",
-      "snippet": "バンダイナムコ『デジモン』IP、過去最高益を達成！ ゲーム＆カードが絶好調で2000年代アニメ全盛期超え！ 玩具人 TOY PEOPLE",
-      "source": "玩具人 TOY PEOPLE",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sR1pfY1Y1ck1EV0ppVk1BMVF2Rm4ySnRTYlpnTUpLbEpkTGdyRmJnTGREbXFZb3dnYnI4eXNKZ25xUkhodm9FeUdIVG5pXzJG?oc=5",
-      "image": null,
-      "timestamp": 1785999600,
-      "created_at": "2026-08-06 16:00",
-      "title_orig": "バンダイナムコ『デジモン』IP、過去最高益を達成！ ゲーム＆カードが絶好調で2000年代アニメ全盛期超え！",
-      "title_ja": "バンダイナムコ『デジモン』IP、過去最高益を達成！ ゲーム＆カードが絶好調で2000年代アニメ全盛期超え！"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
