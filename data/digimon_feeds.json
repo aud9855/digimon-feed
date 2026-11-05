@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-11-06 01:00:02",
-  "total_count": 500,
+  "last_updated": "2026-11-06 06:44:11",
+  "total_count": 504,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "2be57118b717e052ca63a307fed44502",
+      "title": "[하비뉴스] 【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》",
+      "snippet": "【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》 あみあみ",
+      "source": "아미아미",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Uc0xyRVJTR1Q4SlN1Qzhpa1Y3VmF5RU0zMFQ2WEV0MmpYSWwzUDVWVXFrOF90Z21fVmZhMDA0a0NtZzQ3MU1Md3oxUXlSVmJDWEsxekZCdmZIalFiU2RVMVFJQnB6VzcxSG0w?oc=5",
+      "image": null,
+      "timestamp": 1793886111,
+      "created_at": "2026-11-05 22:41"
+    },
+    {
+      "id": "b7b4c0314d7f94272242427536017dc9",
+      "title": "[해외뉴스] Digimon Keychain-Mislabeled as Pokémon~~NWT‎",
+      "snippet": "Digimon Keychain-Mislabeled as Pokémon~~NWT‎ khorasantimes.com",
+      "source": "khorasantimes.com",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3VlYmUxTk5VUUZKbmxQTnJVcEJCNUh4cjI0ZEdvQVBxOEw3WHRwNWZWVjR1cklpb3c2eVl1T3lrYXBrLU1sY1BFM3FMTG8zNUVDcDRVQ1FmTDVfVm9VSEFyQlM5ckVsdUpmUDdYN3g2bUFMeEJYS1A4VkRJeXlHYXpSTVRYampMdVZB?oc=5",
+      "image": null,
+      "timestamp": 1793882278,
+      "created_at": "2026-11-05 21:37"
+    },
+    {
+      "id": "abebabe7401f7a09a9bafd4c10a5fe87",
+      "title": "[일본뉴스] 【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」",
+      "snippet": "【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRHpTWDVQMVlNanZRSVd5eUhHaWtEanRwNDZoOE4wUkJUVkFOSXlCNmo0RFRzcUxPN09xQzVuRlZDd3EzUmFCQzdBTTByUVFITktTRWpEbTFIV19o?oc=5",
+      "image": null,
+      "timestamp": 1793872800,
+      "created_at": "2026-11-05 19:00"
+    },
+    {
+      "id": "150bc606a8de0dd9b8b31f12286da5a8",
+      "title": "[일본뉴스] 【デジモンUP】加速チケットの入手方法と使い道",
+      "snippet": "【デジモンUP】加速チケットの入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdVpXVEF3emlEdG5kNGpTMFNrRU4zM1VKZE5UZGlYLVJKUFZLd2kyNEp2U01SS2FCcGNXYW9rX0xhV284eWl6LTRPYWc?oc=5",
+      "image": null,
+      "timestamp": 1793867934,
+      "created_at": "2026-11-05 17:38"
+    },
     {
       "id": "1f8ac8aa4b45917b1a4cce9993235a54",
       "title": "[트윗] 《디지몬 어드벤처》 토비마스 6개 박스 https://t.co/HuIQwQfjBt 🎈각도나 방향을 조정하여 창문이나 거울 등에 붙일 수 있는 피규어 마스코트 시리즈입니다 제작 : 메가하우스 2027년 4월 발매 예정☀️ #디지몬어드벤처 #디지몬 #Digimon - X",
@@ -15,6 +67,19 @@
       "image": null,
       "timestamp": 1793855653,
       "created_at": "2026-11-05 14:14"
+    },
+    {
+      "id": "068f06c70131784142e2cd8254abc625",
+      "title": "[인스타] 11월에도 찍을 포토프레임이 한가득! 은혼부터 주술회전, 디지몬까지 이번 달 포토프레임 라인업 모아왔어💗 브랜드별로 진행 기간도 다르니까 체크 필수! 최애 프레임 놓치지 않게 미리 저장해 두고 사진 찍으러 가자📷 @@ 이번 달 가장 찍고 싶은 포토프레임은 뭐야? •",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMVE1b3ZwaUhjUUtYNGFIWG9RUU0xLWRSeW41ejBZU0tORDllWDNTTHdBZU1reDZZNTdaZWhQeTByVUljZk1maU1FYXBCYlRQVmc?oc=5",
+      "image": null,
+      "timestamp": 1793844260,
+      "created_at": "2026-11-05 11:04"
     },
     {
       "id": "9f4f385b4e41155ed382e554e38354eb",
@@ -1415,6 +1480,21 @@
       "title_orig": "Digimon Alysion Set to Open Pre-Registration in the Coming Weeks"
     },
     {
+      "id": "b83043d9a21a4f2770e3f5e1e5a28883",
+      "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록이 오늘(10/28) 시작. 『디지몬 카드 게임』을 스마트폰으로 손쉽게 즐길 수 있는 “디지털판 디지카”",
+      "snippet": "『デジモンアリシオン』事前登録が本日（10/28）スタート。『デジモンカードゲーム』をスマホで手軽に楽しめる“デジタル版デジカ” ファミ通",
+      "source": "ファミ通",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuMTl3UnlKRzhSempIU1ZRV3ZYQWl0RnlITzZ0eGswZHM4aHQtN3NybllKaGVWaGNoWDNGMmE3S3YydkhraEtIVE1iQWVUVWRKZXBjMzZfMA?oc=5",
+      "image": null,
+      "timestamp": 1793170800,
+      "created_at": "2026-10-28 16:00",
+      "title_orig": "『デジモンアリシオン』事前登録が本日（10/28）スタート。『デジモンカードゲーム』をスマホで手軽に楽しめる“デジタル版デジカ”",
+      "title_ja": "『デジモンアリシオン』事前登録が本日（10/28）スタート。『デジモンカードゲーム』をスマホで手軽に楽しめる“デジタル版デジカ”"
+    },
+    {
       "id": "0a63144b78c976e0c3f34b230d5cd796",
       "title": "[해외뉴스] 디지몬 알리시온 사전 등록 접수 중",
       "snippet": "Digimon Alysion Pre-Registrations Are Now Live GamerBraves",
@@ -1456,21 +1536,6 @@
       "created_at": "2026-10-28 13:52",
       "title_orig": "『デジモンアリシオン』事前登録受付スタート！ メタルガルルモンやウォーグレイモンなどのカードが登録者数に応じてプレゼント",
       "title_ja": "『デジモンアリシオン』事前登録受付スタート！ メタルガルルモンやウォーグレイモンなどのカードが登録者数に応じてプレゼント"
-    },
-    {
-      "id": "b83043d9a21a4f2770e3f5e1e5a28883",
-      "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록이 오늘(10/28) 시작. 『디지몬 카드 게임』을 스마트폰으로 손쉽게 즐길 수 있는 “디지털판 디지카”",
-      "snippet": "『デジモンアリシオン』事前登録が本日（10/28）スタート。『デジモンカードゲーム』をスマホで手軽に楽しめる“デジタル版デジカ” ファミ通",
-      "source": "ファミ通",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuMTl3UnlKRzhSempIU1ZRV3ZYQWl0RnlITzZ0eGswZHM4aHQtN3NybllKaGVWaGNoWDNGMmE3S3YydkhraEtIVE1iQWVUVWRKZXBjMzZfMA?oc=5",
-      "image": null,
-      "timestamp": 1793162880,
-      "created_at": "2026-10-28 13:48",
-      "title_orig": "『デジモンアリシオン』事前登録が本日（10/28）スタート。『デジモンカードゲーム』をスマホで手軽に楽しめる“デジタル版デジカ”",
-      "title_ja": "『デジモンアリシオン』事前登録が本日（10/28）スタート。『デジモンカードゲーム』をスマホで手軽に楽しめる“デジタル版デジカ”"
     },
     {
       "id": "a363a908888e9650b2b02809c275f8d7",
@@ -2853,19 +2918,6 @@
       "created_at": "2026-10-20 11:45",
       "title_orig": "デジモンシリーズの3作品目『デジモンテイマーズ』受注生産グッズが、10月20 日（火）より「クリフストア」にて予約受付開始！",
       "title_ja": "デジモンシリーズの3作品目『デジモンテイマーズ』受注生産グッズが、10月20 日（火）より「クリフストア」にて予約受付開始！"
-    },
-    {
-      "id": "afc2511cbd6d4d4e04c38aeb158bf716",
-      "title": "[네이버] 네이버 PC게임",
-      "snippet": "네이버 PC게임 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Z1cjF3bE85eFRyU1VyOGZUUXVnRmxpNldUOC13VVUtYzdYRjQwcUNVM0hHeF9Jb3QzcUptaWoyRTlLX2d6RTFPZkxBbWFNVUsyWWxsTjBrcl92RkU1cDRzYXZjSGtmdm5GS0tFakpXVFRROTRmWTd1N1VpU0ItRERxRHdEVXUxMkJzY3lkcXRkdkhuakR0d21BR1RjNlNtYzNZOUpqcHlianVLMzFkUA?oc=5",
-      "image": null,
-      "timestamp": 1792461775,
-      "created_at": "2026-10-20 11:02"
     },
     {
       "id": "f1eccba29238972ba8727aa089aeb8a7",
