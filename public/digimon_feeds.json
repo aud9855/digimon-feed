@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05 16:34:35",
-  "total_count": 502,
+  "last_updated": "2026-11-06 01:00:02",
+  "total_count": 500,
   "retention_days": 90,
   "feeds": [
     {
@@ -6924,32 +6924,6 @@
       "image": null,
       "timestamp": 1786172400,
       "created_at": "2026-08-08 16:00"
-    },
-    {
-      "id": "fb48ef0bdc83ff728e77289160c89a43",
-      "title": "[루리웹] 디지몬 스토리 타임 스트레인저 애니매직_de \"2025 최고의 J-게임\"...",
-      "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
-      "source": "루리웹 콘솔뉴스",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/news/board/1001/read/2359576",
-      "image": null,
-      "timestamp": 1786114800,
-      "created_at": "2026-08-08 00:00"
-    },
-    {
-      "id": "acf5f3a85c908f1b93b1a9957495f6a3",
-      "title": "[루리웹] [디지몬 비트브레이크]최종장 비주얼",
-      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
-      "source": "루리웹 애니정보",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2431172",
-      "image": null,
-      "timestamp": 1786114800,
-      "created_at": "2026-08-08 00:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
