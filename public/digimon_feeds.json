@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-05 09:41:54",
-  "total_count": 500,
+  "last_updated": "2026-11-05 16:34:35",
+  "total_count": 502,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "1f8ac8aa4b45917b1a4cce9993235a54",
+      "title": "[트윗] 《디지몬 어드벤처》 토비마스 6개 박스 https://t.co/HuIQwQfjBt 🎈각도나 방향을 조정하여 창문이나 거울 등에 붙일 수 있는 피규어 마스코트 시리즈입니다 제작 : 메가하우스 2027년 4월 발매 예정☀️ #디지몬어드벤처 #디지몬 #Digimon - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxOUVNOTRWeWtINkdjRmFPRkNmV2VteVpkN1IwNUd6ZzI1XzBUUWZ2TFZ0bHVXdWF5ejdsV2hCenBBcld1RmZJQ0g1S0lsTF9yUUlnV255VGtTOEY0ck96SUdmMzk?oc=5",
+      "image": null,
+      "timestamp": 1793855653,
+      "created_at": "2026-11-05 14:14"
+    },
     {
       "id": "9f4f385b4e41155ed382e554e38354eb",
       "title": "[공식 상품] Precious G.E.M. 시리즈 디지몬 어드벤처 우리들의 워 게임 오메가몬 2023ver. 【재판】",
@@ -17,6 +30,21 @@
       "created_at": "2026-11-05 09:38",
       "title_orig": "Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.【再販】",
       "title_ja": "Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.【再販】"
+    },
+    {
+      "id": "a21fe337b699ac2ce7d6623a3ed433fb",
+      "title": "[일본뉴스] 피규어 「Precious G.E.M. 시리즈 디지몬 어드벤처 우리들의 워 게임! 오메가몬 2023ver.」 재판 결정 11월 6일 13시부터 수주 개시",
+      "snippet": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定11月6日13時より受注開始 千葉テレビ放送株式会社",
+      "source": "千葉テレビ放送株式会社",
+      "source_badge": "일본뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTbWFaWktKaHpaVm5SZnNBV0hiYlM3VW82TzEzbnhScE5UWWI3RTMzVXlOZXN3LThlMEFGNDVlNXNBMlpxSkRwUWxBazlKWG1DRFFIbVRjWlhWaXh6ZjBz?oc=5",
+      "image": null,
+      "timestamp": 1793834063,
+      "created_at": "2026-11-05 08:14",
+      "title_orig": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定11月6日13時より受注開始",
+      "title_ja": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定11月6日13時より受注開始"
     },
     {
       "id": "932a7f1c8ba4fee79edaf1c9db973606",
@@ -56,6 +84,21 @@
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hVFozZ2J6TzE4eFliWUhzWVhFLUo3MmR4M3ViQjVvZnBPcElVdklab2F2Zl9KR2k5OVZKUnhxV054WW9Kdy1pNk1PY1VFT0hPMVlZVXlqSnhJTEJ5VmtScjh3cGh3UWM?oc=5",
+      "image": null,
+      "timestamp": 1793833200,
+      "created_at": "2026-11-05 08:00",
+      "title_orig": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定",
+      "title_ja": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定"
+    },
+    {
+      "id": "683672671de024616d14e262a3c57276",
+      "title": "[일본뉴스] 피규어 「Precious G.E.M. 시리즈 디지몬 어드벤처 우리들의 워 게임 오메가몬 2023ver.」 재판 결정",
+      "snippet": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定 Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuVDl2UjBHYzNfSENRN19kcFRkLVJmNVhfUUh3b2lQRExXZWJlckg0WjNxNkdxZkFVM1B5c04xVm5UMm1SUkczemF3bUxyWnhSTDVRdFBQdnY3cnhmcmItRWwtRGF0MFd0QnpCSjFObGV0ZXRmcG1Wb2RLX2phWVk?oc=5",
       "image": null,
       "timestamp": 1793833200,
       "created_at": "2026-11-05 08:00",
@@ -1675,8 +1718,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aZWhkOWg5Vk9vVUxCenVXcjlQcUxGZFpOOGNUZFNqMGhQeXE0dkhuM3pfaURER1hfN3owZWwyVE1HRzlwdFhLc2t2WGxXeXJsblJoU0xR?oc=5",
       "image": null,
-      "timestamp": 1793083921,
-      "created_at": "2026-10-27 15:52"
+      "timestamp": 1793084400,
+      "created_at": "2026-10-27 16:00"
     },
     {
       "id": "e8ebf8b766d772df27849998f9326577",
@@ -6907,20 +6950,6 @@
       "image": null,
       "timestamp": 1786114800,
       "created_at": "2026-08-08 00:00"
-    },
-    {
-      "id": "79bd29bd989f9e803e0a44c06f034423",
-      "title": "[해외뉴스] 디지몬 스토리: 타임 스트레인저 리뷰 - 닌텐도 스위치 2",
-      "snippet": "Digimon Story: Time Stranger Review - Nintendo Switch 2 Cubed3",
-      "source": "Cubed3",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbklnMTN5Q3pOTjBhdTE0SEtGQ0t3NkNsRlNsS1JVTjloQ1JSaVZyZGZ0SVVtY0FGZkdyckR5MU9RcDNyNVZiVzVIR01qazdZTWhYUEdVSUpFaWd6NWpkZjZVckVVZjRCRExTbV9tVDY1MW9yckh5QkNtREgwN29Ic0JpVHRJNk5QeGc?oc=5",
-      "image": null,
-      "timestamp": 1786086000,
-      "created_at": "2026-08-07 16:00",
-      "title_orig": "Digimon Story: Time Stranger Review - Nintendo Switch 2"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
