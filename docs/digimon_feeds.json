@@ -1,11 +1,24 @@
 {
-  "last_updated": "2026-11-06 10:59:12",
-  "total_count": 506,
+  "last_updated": "2026-11-06 17:45:47",
+  "total_count": 505,
   "retention_days": 90,
   "feeds": [
     {
+      "id": "e47458dc28ef16641dc95a5b3f100a5d",
+      "title": "[트윗] 【한정판매/재판】 Precious G.E.M. 시리즈《디지몬 어드벤처》 우리들의 워 게임! 오메가몬 2023ver. 완성품 피규어 https://t.co/ew8Vf0gNBE ✅높이 약 600mm 제작 : 메가하우스 2027년 7월 발매예정☀️ #디지몬어드벤처 #디지몬 #Digimon - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xc1NkUlExWmk1LWExbmdSdlYwUDVqdndGS0lEVFhxWi1ILUwxWnV0eEVoMGpHTEI2Mlh0NjVsRUZHeDY5dFFtcHp5d3VycVdiRko0ODd4LU5lcmNhTl9xU1VYcU8?oc=5",
+      "image": null,
+      "timestamp": 1793939721,
+      "created_at": "2026-11-06 13:35"
+    },
+    {
       "id": "7b8e4fd87c96b1dd47011a9d1f4b0699",
-      "title": "[일본뉴스] 「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻",
+      "title": "[일본뉴스] 「디지몬 우리들의 워 게임」에서 「오메가몬 2023ver.」 피규어가 재판! 그레이 소드를 하늘 높이 치켜드는 다이내믹한 포징이 압권",
       "snippet": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻 インサイド",
       "source": "インサイド",
       "source_badge": "일본뉴스",
@@ -14,11 +27,13 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzaGcyalZ5VlliTTZYclczVkIxUXpDOGViall6QUFvMGNlNlZQMGg0R3pRSXlBRXlRTWM3VFZuZ0ZfTE9sZzdQbGtDelB5Ty05X3J4NERabUJDSWdNdGt4OUFjVmR2WHRnenc?oc=5",
       "image": null,
       "timestamp": 1793928603,
-      "created_at": "2026-11-06 10:30"
+      "created_at": "2026-11-06 10:30",
+      "title_orig": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻",
+      "title_ja": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻"
     },
     {
       "id": "2be57118b717e052ca63a307fed44502",
-      "title": "[하비뉴스] 【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》",
+      "title": "[하비뉴스] 【한정 판매】 Precious G.E.M. 시리즈 디지몬 어드벤처 우리들의 워 게임 오메가몬 2023ver. (재판) [메가하우스] 【동봉 불가】 《07월 예약》",
       "snippet": "【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》 あみあみ",
       "source": "아미아미",
       "source_badge": "하비뉴스",
@@ -27,11 +42,13 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Uc0xyRVJTR1Q4SlN1Qzhpa1Y3VmF5RU0zMFQ2WEV0MmpYSWwzUDVWVXFrOF90Z21fVmZhMDA0a0NtZzQ3MU1Md3oxUXlSVmJDWEsxekZCdmZIalFiU2RVMVFJQnB6VzcxSG0w?oc=5",
       "image": null,
       "timestamp": 1793886111,
-      "created_at": "2026-11-05 22:41"
+      "created_at": "2026-11-05 22:41",
+      "title_orig": "【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》",
+      "title_ja": "【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》"
     },
     {
       "id": "b7b4c0314d7f94272242427536017dc9",
-      "title": "[해외뉴스] Digimon Keychain-Mislabeled as Pokémon~~NWT‎",
+      "title": "[해외뉴스] 디지몬 키체인 - 포켓몬으로 오표기됨~~NWT",
       "snippet": "Digimon Keychain-Mislabeled as Pokémon~~NWT‎ khorasantimes.com",
       "source": "khorasantimes.com",
       "source_badge": "해외뉴스",
@@ -40,11 +57,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3VlYmUxTk5VUUZKbmxQTnJVcEJCNUh4cjI0ZEdvQVBxOEw3WHRwNWZWVjR1cklpb3c2eVl1T3lrYXBrLU1sY1BFM3FMTG8zNUVDcDRVQ1FmTDVfVm9VSEFyQlM5ckVsdUpmUDdYN3g2bUFMeEJYS1A4VkRJeXlHYXpSTVRYampMdVZB?oc=5",
       "image": null,
       "timestamp": 1793882278,
-      "created_at": "2026-11-05 21:37"
+      "created_at": "2026-11-05 21:37",
+      "title_orig": "Digimon Keychain-Mislabeled as Pokémon~~NWT‎"
     },
     {
       "id": "abebabe7401f7a09a9bafd4c10a5fe87",
-      "title": "[일본뉴스] 【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」",
+      "title": "[일본뉴스] 【기간 한정 공개】 디지몬 유니버스 앱몬스터즈 제6화 「최고의 미식 리포트! 미식 앱 페로리몬!」",
       "snippet": "【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」 YouTube",
       "source": "YouTube",
       "source_badge": "일본뉴스",
@@ -53,11 +71,13 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRHpTWDVQMVlNanZRSVd5eUhHaWtEanRwNDZoOE4wUkJUVkFOSXlCNmo0RFRzcUxPN09xQzVuRlZDd3EzUmFCQzdBTTByUVFITktTRWpEbTFIV19o?oc=5",
       "image": null,
       "timestamp": 1793872800,
-      "created_at": "2026-11-05 19:00"
+      "created_at": "2026-11-05 19:00",
+      "title_orig": "【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」",
+      "title_ja": "【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」"
     },
     {
       "id": "150bc606a8de0dd9b8b31f12286da5a8",
-      "title": "[일본뉴스] 【デジモンUP】加速チケットの入手方法と使い道",
+      "title": "[일본뉴스] 【디지몬 UP】 가속 티켓 획득 방법과 사용처",
       "snippet": "【デジモンUP】加速チケットの入手方法と使い道 GameWith",
       "source": "GameWith",
       "source_badge": "일본뉴스",
@@ -66,7 +86,9 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdVpXVEF3emlEdG5kNGpTMFNrRU4zM1VKZE5UZGlYLVJKUFZLd2kyNEp2U01SS2FCcGNXYW9rX0xhV284eWl6LTRPYWc?oc=5",
       "image": null,
       "timestamp": 1793867934,
-      "created_at": "2026-11-05 17:38"
+      "created_at": "2026-11-05 17:38",
+      "title_orig": "【デジモンUP】加速チケットの入手方法と使い道",
+      "title_ja": "【デジモンUP】加速チケットの入手方法と使い道"
     },
     {
       "id": "ee12d9584c7c4ba676dbd916df4aba1a",
@@ -1233,6 +1255,20 @@
       "image": null,
       "timestamp": 1793240480,
       "created_at": "2026-10-29 11:21"
+    },
+    {
+      "id": "f83d71092eb0ec9a9956ef06fff52b06",
+      "title": "[해외뉴스] 팬들이 25년을 기다려온 영광스러운 신제품 출시와 함께 디지몬 최고의 시즌이 공식적으로 돌아온다",
+      "snippet": "Digimon's Best Season Officially Returns With The Glorious New Release Fans Have Waited 25 Years For ScreenRant",
+      "source": "ScreenRant",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2VWo1cUk2WUJsb2dCLXpyQlByYVJCelFrNmVIQU1NNHY2THVsNVpXODcwWDgtY3RiWEMyUXdnOUJsQXFWZTZQakY1a3BQRGl2QzBXYjJHaEFXVkFRVFc2bWcwX3ZHVjU5RHF6TnRqcWZiZ1hy?oc=5",
+      "image": null,
+      "timestamp": 1793237400,
+      "created_at": "2026-10-29 10:30",
+      "title_orig": "Digimon's Best Season Officially Returns With The Glorious New Release Fans Have Waited 25 Years For"
     },
     {
       "id": "bd5b36d18b2d8e30e2e14d1ff2322c51",
@@ -6961,47 +6997,6 @@
       "image": null,
       "timestamp": 1786258800,
       "created_at": "2026-08-09 16:00"
-    },
-    {
-      "id": "1959ac801e3bbdb501e9ed881e67f8f7",
-      "title": "[일본뉴스] 「디지몬」 팬 투표 기획의 상위 에피소드가 「우리가 고른 베스트 어드벤처」로서 10월부터 방송 결정",
-      "snippet": "「デジモン」ファン投票企画の上位エピソードが「僕らが選んだベストアドベンチャー」として10月から放送決定 アニメハック",
-      "source": "アニメハック",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91UXB0a0h0aW1zZm50LVJ5dWljSFViVDJnbU5uektMX2k4RzdZMmhZWmpIWmx5bXYzTEZRZkxpQTZzQ212N1dHRjNHSQ?oc=5",
-      "image": null,
-      "timestamp": 1786172400,
-      "created_at": "2026-08-08 16:00",
-      "title_orig": "「デジモン」ファン投票企画の上位エピソードが「僕らが選んだベストアドベンチャー」として10月から放送決定",
-      "title_ja": "「デジモン」ファン投票企画の上位エピソードが「僕らが選んだベストアドベンチャー」として10月から放送決定"
-    },
-    {
-      "id": "866ac798447f032395e62b9a49b830a9",
-      "title": "[인스타] 디지타마 저금통••💖 을 지키는 저주받은 가트몬 . . . #디지몬 #digimon #デジモン #デジモンアドベンチャー #디지몬굿즈",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnXzdOZ1hWVXprdGVhZ3JOQ1BSaHFOODNtdS1KYWVWVWxlZWpvbEVmbW90enI2NmNmdFZ1QkNEZC0xZVNWWmlhOTJYd0Viemc5Umc?oc=5",
-      "image": null,
-      "timestamp": 1786172400,
-      "created_at": "2026-08-08 16:00"
-    },
-    {
-      "id": "9b41a31eea463b31be79caa4d7915e90",
-      "title": "[인스타] #디지몬 #일러스트",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xSjNSSUExQkltQldFZExpcXV1eXQ2SlI1bzRLQnl4b1A5aHJMa2VlSTFKcVNpM1JGc0xaVTBEZ0xtYUFlYVEtak5PQmppbVZmUDRWUDYwR2NiS1ZoV2lmUDZn?oc=5",
-      "image": null,
-      "timestamp": 1786172400,
-      "created_at": "2026-08-08 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
