@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-07 01:30:21",
-  "total_count": 507,
+  "last_updated": "2026-11-07 06:54:17",
+  "total_count": 508,
   "retention_days": 90,
   "feeds": [
     {
       "id": "a2aa81705c7cabf6833b5e1159e7f196",
-      "title": "[일본뉴스] 11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ | 東映アニメーション株式会社のプレスリリース",
+      "title": "[일본뉴스] 11월 8일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」의 제33화 【펌프와 고츠는 시부야계 디지몬】을 방송! | 토에이 애니메이션 주식회사의 보도자료",
       "snippet": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ | 東映アニメーション株式会社のプレスリリース PR TIMES",
       "source": "PR TIMES",
       "source_badge": "일본뉴스",
@@ -14,11 +14,13 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CcWtBak9OR1hiUGdUVV9MOE1TNHRZUmhJaUNlekU2eXBoNmFZSmRIRlI4LWNYcDR1NHUzSzVhVW4xVmtqUVNRZXdqeU5BTldIbGg2QmEwdjZKSFJvbFZqbi1hM2gtaG5MM3c?oc=5",
       "image": null,
       "timestamp": 1793955602,
-      "created_at": "2026-11-06 18:00"
+      "created_at": "2026-11-06 18:00",
+      "title_orig": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ | 東映アニメーション株式会社のプレスリリース",
+      "title_ja": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ | 東映アニメーション株式会社のプレスリリース"
     },
     {
       "id": "a6df104087f496aa5172e5bfe8993007",
-      "title": "[일본뉴스] 11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！",
+      "title": "[일본뉴스] 11월 8일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」의 제33화 【펌프와 고츠는 시부야계 디지몬】을 방송!",
       "snippet": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ Infoseek",
       "source": "Infoseek",
       "source_badge": "일본뉴스",
@@ -27,7 +29,9 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11MzFZSGdseFdTUjV2Z0w4YVJLa09sQnRheEl0OE1SMXhOQ1NiY2hiZ3l2QmppZ2ZkcTRZMDduSlI3YkhxZFJIMThPZmFIclRiUEYxLUlhdEtONk9vdTV6YlJhUzVUeEdYc0FhbkZyMWFoUQ?oc=5",
       "image": null,
       "timestamp": 1793955600,
-      "created_at": "2026-11-06 18:00"
+      "created_at": "2026-11-06 18:00",
+      "title_orig": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！",
+      "title_ja": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！"
     },
     {
       "id": "e47458dc28ef16641dc95a5b3f100a5d",
@@ -3251,6 +3255,19 @@
       "image": null,
       "timestamp": 1792222750,
       "created_at": "2026-10-17 16:39"
+    },
+    {
+      "id": "f8b9f298117afc8dea24efcd72af5add",
+      "title": "[인스타] 왠지 불멍할 때 메라몬 티를 입고 싶었어요🔥 #디지몬 #digimon #デジモン #캠프 #캠핑",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aRkJ6WUdQNzVQYXJpZjNLSnJwVnFoN3FZazA0YlpfRkNKSlZUbGZydWJyeW9lUnRsN3k4SkVJOEVGc3dCM1V1Q2ZlT0dzclBVS3c?oc=5",
+      "image": null,
+      "timestamp": 1792220400,
+      "created_at": "2026-10-17 16:00"
     },
     {
       "id": "bc301ecd1558fea44054e40b912ae297",
