@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-06 06:44:11",
-  "total_count": 504,
+  "last_updated": "2026-11-06 10:59:12",
+  "total_count": 506,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "7b8e4fd87c96b1dd47011a9d1f4b0699",
+      "title": "[일본뉴스] 「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻",
+      "snippet": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻 インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzaGcyalZ5VlliTTZYclczVkIxUXpDOGViall6QUFvMGNlNlZQMGg0R3pRSXlBRXlRTWM3VFZuZ0ZfTE9sZzdQbGtDelB5Ty05X3J4NERabUJDSWdNdGt4OUFjVmR2WHRnenc?oc=5",
+      "image": null,
+      "timestamp": 1793928603,
+      "created_at": "2026-11-06 10:30"
+    },
     {
       "id": "2be57118b717e052ca63a307fed44502",
       "title": "[하비뉴스] 【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》",
@@ -54,6 +67,19 @@
       "image": null,
       "timestamp": 1793867934,
       "created_at": "2026-11-05 17:38"
+    },
+    {
+      "id": "ee12d9584c7c4ba676dbd916df4aba1a",
+      "title": "[인스타] . 【 🔔 메가하우스 11월 신제품 예약 개시 ! 】 🗓️ 27년 6월 발매 📌 디지몬 어드벤처 #デジモン ✨ ✔️룩업 피요몬 & 쉬라몬 (재판) 🛍️ 예약 : 프로필 하단 스토어 링크를 참조 해주세요! ✨ 판매 구성 안내 ・일반품 세트 ・피요몬 ・쉬라몬 #룩업 #디지몬 #메가하우스공식몰",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pZVRGVFR6VXFralE0djFzSE13RnRVYkxWWE14R25nb042eDh2NWpKSmlWMk1ZYUlnQlBkUkdCNTc0Mk1laHhNZEJwR25oY25jN3c?oc=5",
+      "image": null,
+      "timestamp": 1793866273,
+      "created_at": "2026-11-05 17:11"
     },
     {
       "id": "1f8ac8aa4b45917b1a4cce9993235a54",
