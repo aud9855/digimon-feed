@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-07 10:26:57",
-  "total_count": 509,
+  "last_updated": "2026-11-07 17:00:12",
+  "total_count": 510,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "69fedfe080deff49dbc50b372b97fe13",
+      "title": "[일본뉴스] 【和解してんじゃん】デジモンストーリー タイムストレンジャー 64",
+      "snippet": "【和解してんじゃん】デジモンストーリー タイムストレンジャー 64 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0SEwwcThadFhxTW5DOWdFUENjeHBDQXpUMjB5UlItSWdrUGtTV1pKM0VuRm50T0JsNW51NnlNVzFpT0xMOUhMSDYySl9MUV82QmQ1Rnlmcl9JNF9u?oc=5",
+      "image": null,
+      "timestamp": 1793965414,
+      "created_at": "2026-11-06 20:43"
+    },
     {
       "id": "a2aa81705c7cabf6833b5e1159e7f196",
       "title": "[일본뉴스] 11월 8일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」의 제33화 【펌프와 고츠는 시부야계 디지몬】을 방송! | 토에이 애니메이션 주식회사의 보도자료",
@@ -47,6 +60,19 @@
       "created_at": "2026-11-06 13:35"
     },
     {
+      "id": "07dd8f2878acb2435b95036b43c82e29",
+      "title": "[인스타] 어른이 되면 파트너가 사라진다는 설정 하나로 20년 디덕들 전부 오열하게 만든 장면... 😭 《라스트 에볼루션: 인연》은 디지몬 어드벤처 20주년 기념작이에요. 우리가 아이였을 때 같이 모험하던 태일이랑 매튜가 대학생이 되면서, 어른이 될수록 파트너와 함께할 수 있는",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GNEl4QldHSUxVa2JsRFE1NFhZNFZzWXFpLWpZXy02RXpSRzBGR3NEWDdxM1JNTlhFX0JaZ2hIQkZ4dml6dG01NUdwM2FaNExGNUE?oc=5",
+      "image": null,
+      "timestamp": 1793937602,
+      "created_at": "2026-11-06 13:00"
+    },
+    {
       "id": "7b8e4fd87c96b1dd47011a9d1f4b0699",
       "title": "[일본뉴스] 「디지몬 우리들의 워 게임」에서 「오메가몬 2023ver.」 피규어가 재판! 그레이 소드를 하늘 높이 치켜드는 다이내믹한 포징이 압권",
       "snippet": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻 インサイド",
@@ -60,6 +86,19 @@
       "created_at": "2026-11-06 10:30",
       "title_orig": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻",
       "title_ja": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻"
+    },
+    {
+      "id": "e813445562ca81d429b8a09ee0b91608",
+      "title": "[일본뉴스] 「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻（インサイド）",
+      "snippet": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0aUxBWE4xYnJkMEtnRWtLbHdqdHR1YmdTV1VjOGl2ZnlITlhSWjIwcFBra21CMkNiNkVCd2dPOGdZQkE5WGVhUkxBTDhPbjFhMzdZZk1CSkVCWjZRZUZmNEpSTlpUODRxS2FLcFAtT1ZrMXkwWms2REFVZTRNSXM?oc=5",
+      "image": null,
+      "timestamp": 1793928603,
+      "created_at": "2026-11-06 10:30"
     },
     {
       "id": "2be57118b717e052ca63a307fed44502",
@@ -7027,32 +7066,6 @@
       "image": null,
       "timestamp": 1786287600,
       "created_at": "2026-08-10 00:00"
-    },
-    {
-      "id": "eba96c29e35544a03cd1e176950a4da5",
-      "title": "[트윗] [#이벤트] 홍대 메가박스에서 디지몬을 찾아라! 개봉 기념 SNS 인증 이벤트!🪽 * 당첨자 개별 DM 안내 * 비공개 계정 참여불가 * 이벤트 당첨 안내는 얼리버드픽쳐스 공식 SNS 계정을 통해 진행됩니다. - X",
-      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-      "source": "X(트위터)",
-      "source_badge": "X(트위터)",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKVkp5SldfYlViSnRMdWpNUTZBd19ScnhRRmlpQ0R1RjNDSWdYSHllZHN3TC1reEVWMUZnMkFSMXFiWVoxQ3JyQ1hmLTBHUDdPOWJvRXZKekp2UFBpMC1GdVBJZFN5THQ5Z3c?oc=5",
-      "image": null,
-      "timestamp": 1786258800,
-      "created_at": "2026-08-09 16:00"
-    },
-    {
-      "id": "aedde8ed62bfa502d846dae41eb27cdf",
-      "title": "[인스타] 2016년 디지몬 어드벤처 트라이 x 오오에도 온천 콜라보♨️ 성지순례를 넘 좋아해서 이때도 2장에 나온 장면 그대로 찍었었던 기억이 있는데 사진이 어디갔지••🤨 그 시절 오오에도 온천은 오다이바 필수 코스였지요 ! 💖 . . . #디지몬 #digimon #デジモン #デジモンアドベ",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GRXJIOUR6ZEZ6WEF4THRoTzVmd1BRS05HRmg3aGJsZHN5aUdCV2VucXczUHlIUnZ5YU1oTXZ0dml3RG1ORGlpZEFyMjJOa2FtV2c?oc=5",
-      "image": null,
-      "timestamp": 1786258800,
-      "created_at": "2026-08-09 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
