@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-07 17:00:12",
-  "total_count": 510,
+  "last_updated": "2026-11-07 23:45:09",
+  "total_count": 511,
   "retention_days": 90,
   "feeds": [
     {
       "id": "69fedfe080deff49dbc50b372b97fe13",
-      "title": "[일본뉴스] 【和解してんじゃん】デジモンストーリー タイムストレンジャー 64",
+      "title": "[일본뉴스] 【화해했잖아】 디지몬 스토리 타임 스트레인저 64",
       "snippet": "【和解してんじゃん】デジモンストーリー タイムストレンジャー 64 YouTube",
       "source": "YouTube",
       "source_badge": "일본뉴스",
@@ -14,7 +14,9 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0SEwwcThadFhxTW5DOWdFUENjeHBDQXpUMjB5UlItSWdrUGtTV1pKM0VuRm50T0JsNW51NnlNVzFpT0xMOUhMSDYySl9MUV82QmQ1Rnlmcl9JNF9u?oc=5",
       "image": null,
       "timestamp": 1793965414,
-      "created_at": "2026-11-06 20:43"
+      "created_at": "2026-11-06 20:43",
+      "title_orig": "【和解してんじゃん】デジモンストーリー タイムストレンジャー 64",
+      "title_ja": "【和解してんじゃん】デジモンストーリー タイムストレンジャー 64"
     },
     {
       "id": "a2aa81705c7cabf6833b5e1159e7f196",
@@ -45,6 +47,21 @@
       "created_at": "2026-11-06 18:00",
       "title_orig": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！",
       "title_ja": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！"
+    },
+    {
+      "id": "1b3ea9bfcac26509f56e623cd3d37293",
+      "title": "[일본뉴스] 11월 8일(일) 방송되는 『우리가 고른 베스트 어드벤처』는 TV 애니메이션 『디지몬 어드벤처』에서 제33화 【펌프와 고츠는 시부야계 디지몬】을 방송! - PR TIMES｜아니메! 아니메!",
+      "snippet": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ - PR TIMES｜アニメ！アニメ！ アニメ！アニメ！",
+      "source": "アニメ！アニメ！",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OaE5vSVNRM3hLaTVRalRjZzlZLUdvN0hUNnhvcE5ZMXBFOWZxNDZDbngzWXViRE5kV0d4d1NjLVkzb0JIbWlvc0dpZ0xmYlhEQ2FHQ3pPRmJORHd6b0R4VWxFN3BvYWlsZmc?oc=5",
+      "image": null,
+      "timestamp": 1793955600,
+      "created_at": "2026-11-06 18:00",
+      "title_orig": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ - PR TIMES｜アニメ！アニメ！",
+      "title_ja": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ - PR TIMES｜アニメ！アニメ！"
     },
     {
       "id": "e47458dc28ef16641dc95a5b3f100a5d",
@@ -89,7 +106,7 @@
     },
     {
       "id": "e813445562ca81d429b8a09ee0b91608",
-      "title": "[일본뉴스] 「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻（インサイド）",
+      "title": "[일본뉴스] 『디지몬 우리들의 워 게임!』에서 「오메가몬 2023ver.」 피규어가 재판매! 그레이 소드를 하늘 높이 치켜든 다이내믹한 포징이 압권 (인사이드)",
       "snippet": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻（インサイド） Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "source_badge": "일본뉴스",
@@ -98,7 +115,9 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0aUxBWE4xYnJkMEtnRWtLbHdqdHR1YmdTV1VjOGl2ZnlITlhSWjIwcFBra21CMkNiNkVCd2dPOGdZQkE5WGVhUkxBTDhPbjFhMzdZZk1CSkVCWjZRZUZmNEpSTlpUODRxS2FLcFAtT1ZrMXkwWms2REFVZTRNSXM?oc=5",
       "image": null,
       "timestamp": 1793928603,
-      "created_at": "2026-11-06 10:30"
+      "created_at": "2026-11-06 10:30",
+      "title_orig": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻（インサイド）",
+      "title_ja": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻（インサイド）"
     },
     {
       "id": "2be57118b717e052ca63a307fed44502",
@@ -171,6 +190,19 @@
       "image": null,
       "timestamp": 1793866273,
       "created_at": "2026-11-05 17:11"
+    },
+    {
+      "id": "5b2e8ad79a613e3c53c5d076e9c6fba2",
+      "title": "[인스타] 📢[예약시작] 디지몬 어드벤처 Precious G.E.M. 시리즈 우리들의 워 게임! 오메가몬 2023 ver. (재판) 👾 🛒 : 구매는 프로필 링크를 참고해 주세요! 📍발매: 27년 7월 📍예약판매 기간 내 5% 할인 캠페인 중! #메가하우스공식스토어 #메가하우스 #디지몬 #デジモン",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZaVoxSDRfU3RVT3ZzbWdwaHpOZk9wSFRlWTV4T2xXME5xYlZMTXp4RE8xeXBfQXF2UEE3THEyOGdoS0ptd0FianY1T0VNZTZQR0E?oc=5",
+      "image": null,
+      "timestamp": 1793866250,
+      "created_at": "2026-11-05 17:10"
     },
     {
       "id": "1f8ac8aa4b45917b1a4cce9993235a54",
@@ -401,8 +433,8 @@
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oRVFvRlpZOUF2VFVvU0dXaXpwSTF2aTMzNVNOX21wQWpfangyRHdmVUE3U2c2SVdPaFBzZHZFSEl3czVHZlhWb180d1RRTm5CbTJhTlBid1NVTlUtaUNyOFc0bjA5dUU1Q3d3VzJR?oc=5",
       "image": null,
-      "timestamp": 1793761243,
-      "created_at": "2026-11-04 12:00",
+      "timestamp": 1793761486,
+      "created_at": "2026-11-04 12:04",
       "title_orig": "WILD BLUE 現在放送中の「デジモン」TVアニメ『僕らが選んだベストアドベンチャー』 新EDテーマ担当決定！2027年のツアー開催も発表！",
       "title_ja": "WILD BLUE 現在放送中の「デジモン」TVアニメ『僕らが選んだベストアドベンチャー』 新EDテーマ担当決定！2027年のツアー開催も発表！"
     },
@@ -917,21 +949,6 @@
       "created_at": "2026-10-31 11:00"
     },
     {
-      "id": "a6fa6a468c2af82e61e0857987905176",
-      "title": "[일본뉴스] 디지몬 어드벤처＞호소다 마모루 감독의 연출 에피소드 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 고른 베스트 어드벤처」(MANTANWEB)",
-      "snippet": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB） Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaTFGNFJDT2w5RFZwdlVtU0JkUTJRQzAtRWIteTdLUENuSTdlcFZfdk5DcC1EMER0T1Q5c1VJWGxOd0RHOUNHNWlNRHliY2ZiMExGWEI3UFpsUTVXb19Qak1iUldaSlBrYW5YeDduenYzOHh6ZTBoMElEbHV0R0k?oc=5",
-      "image": null,
-      "timestamp": 1793352720,
-      "created_at": "2026-10-30 18:32",
-      "title_orig": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）",
-      "title_ja": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）"
-    },
-    {
       "id": "aa9410d232d55b1981baac5d82f452c6",
       "title": "[일본뉴스] 디지몬 어드벤처>호소다 마모루 감독 연출 화 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 선택한 베스트 어드벤처」 (MANTANWEB)",
       "snippet": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」 (MANTANWEB) Yahoo!ニュース",
@@ -1004,6 +1021,21 @@
       "created_at": "2026-10-30 18:00",
       "title_orig": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！",
       "title_ja": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！"
+    },
+    {
+      "id": "a6fa6a468c2af82e61e0857987905176",
+      "title": "[일본뉴스] 디지몬 어드벤처＞호소다 마모루 감독의 연출 에피소드 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 고른 베스트 어드벤처」(MANTANWEB)",
+      "snippet": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaTFGNFJDT2w5RFZwdlVtU0JkUTJRQzAtRWIteTdLUENuSTdlcFZfdk5DcC1EMER0T1Q5c1VJWGxOd0RHOUNHNWlNRHliY2ZiMExGWEI3UFpsUTVXb19Qak1iUldaSlBrYW5YeDduenYzOHh6ZTBoMElEbHV0R0k?oc=5",
+      "image": null,
+      "timestamp": 1793343600,
+      "created_at": "2026-10-30 16:00",
+      "title_orig": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）",
+      "title_ja": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」（MANTANWEB）"
     },
     {
       "id": "a29d3bfa88f80ed89543380cd68d727a",
@@ -4545,19 +4577,6 @@
       "image": null,
       "timestamp": 1791644400,
       "created_at": "2026-10-11 00:00"
-    },
-    {
-      "id": "15df92fdc01d2878492ea11e2bab28d2",
-      "title": "[네이버] 디지몬 마스터즈 온라인! 애니메이션의 감동과 재미를 그대로!!",
-      "snippet": "디지몬 마스터즈 온라인! 애니메이션의 감동과 재미를 그대로!! NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XSlhuRkNScGU2bkUydGtNRTVGcVhjekxKU0pqZlhKVmtGTnBiR3d2WkFGZm9lTTlTZXNHZ2dXcGpnQTRMZUcxdWI5a2NBbnFXYkJ0bW1oUkVScE9pMElsZE9wMVhDMVBpekVr?oc=5",
-      "image": null,
-      "timestamp": 1791618349,
-      "created_at": "2026-10-10 16:45"
     },
     {
       "id": "1e2542a34b1a833e1800ea65186cd597",
