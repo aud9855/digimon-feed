@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-07 23:45:09",
-  "total_count": 511,
+  "last_updated": "2026-11-08 04:18:37",
+  "total_count": 513,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "eff03702f18e2ab0a4f1976603aae8ed",
+      "title": "[디지카] 88한빵진",
+      "snippet": "88한빵진 digimoncard.io",
+      "source": "DigimonCard.io",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHJ5ek5GMTRrd253MHN1ZWU4VWFwLVMxQmE3NEhUeDlEdnFyaE5TWjZKcS1BNWgwVVhfMFFtc3R2R0dXX1lBSHc4cDVmVmNESTVkMml4bDRuTEJwV0VUYy05dWNDcWItNUx3M0xnazV6UXh3eTVCcUF6UWlseWNBVUV3?oc=5",
+      "image": null,
+      "timestamp": 1794027080,
+      "created_at": "2026-11-07 13:51"
+    },
     {
       "id": "69fedfe080deff49dbc50b372b97fe13",
       "title": "[일본뉴스] 【화해했잖아】 디지몬 스토리 타임 스트레인저 64",
@@ -1385,20 +1398,6 @@
       "title_orig": "Digimon's Best Season Officially Returns With The Glorious New Release Fans Have Waited 25 Years For"
     },
     {
-      "id": "bd5b36d18b2d8e30e2e14d1ff2322c51",
-      "title": "[애니뉴스] 디지몬 알리시온 스마트폰 카드 게임, 신규 트레일러와 함께 사전 등록 개시",
-      "snippet": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer Anime News Network",
-      "source": "Anime News Network",
-      "source_badge": "애니뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXd2N2tfYnJCN3RKWGJEN2VWZ2pCcDdMSmxQMkdHOGhYdkRLdU9WcndBT2p0eFhHRTB4eHo4dVd6cy1NQkh0MkRjbGdSTlFBRXYtdk11NmNiTlpxMzZOZldwbFh2YTFYdE0wTEc5V2R5ZmRKTFpMWW1SRjFNaE9wenVLTXAtWFpaU2JGZVNyRUxjbG15OHRfRDR1aWNhVHpFVGl1NUlkdVg4TXRSQzZfWUh5VWhuNDIwMGpkNWg3YTZhek1TekF3cFE1by1rQQ?oc=5",
-      "image": null,
-      "timestamp": 1793219400,
-      "created_at": "2026-10-29 05:30",
-      "title_orig": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer"
-    },
-    {
       "id": "a408ab687b4d6db41b3d0b5d6e11e9db",
       "title": "[해외뉴스] 디지몬 알리시온 모바일 카드 게임 사전 등록 시작",
       "snippet": "Digimon Alysion Mobile Card Game Pre-registration Starts Siliconera",
@@ -1640,6 +1639,20 @@
       "created_at": "2026-10-28 16:26",
       "title_orig": "【デジモンUP】武之内空＆ピヨモンは引くべき？",
       "title_ja": "【デジモンUP】武之内空＆ピヨモンは引くべき？"
+    },
+    {
+      "id": "bd5b36d18b2d8e30e2e14d1ff2322c51",
+      "title": "[애니뉴스] 디지몬 알리시온 스마트폰 카드 게임, 신규 트레일러와 함께 사전 등록 개시",
+      "snippet": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer Anime News Network",
+      "source": "Anime News Network",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXd2N2tfYnJCN3RKWGJEN2VWZ2pCcDdMSmxQMkdHOGhYdkRLdU9WcndBT2p0eFhHRTB4eHo4dVd6cy1NQkh0MkRjbGdSTlFBRXYtdk11NmNiTlpxMzZOZldwbFh2YTFYdE0wTEc5V2R5ZmRKTFpMWW1SRjFNaE9wenVLTXAtWFpaU2JGZVNyRUxjbG15OHRfRDR1aWNhVHpFVGl1NUlkdVg4TXRSQzZfWUh5VWhuNDIwMGpkNWg3YTZhek1TekF3cFE1by1rQQ?oc=5",
+      "image": null,
+      "timestamp": 1793170800,
+      "created_at": "2026-10-28 16:00",
+      "title_orig": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer"
     },
     {
       "id": "7dac85421356ed4331bb101597f0f9a6",
@@ -6113,6 +6126,21 @@
       "title_ja": "スナモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク"
     },
     {
+      "id": "fef1deda6d974770fda0f52fd8c9ee60",
+      "title": "[일본뉴스] 데스메라몬 | CHARACTER | DIGIMON BEATBREAK - 디지몬 비트브레이크",
+      "snippet": "デスメラモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク 東映アニメーション",
+      "source": "東映アニメーション",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2FqLXlaV3Y2bVp6NjljRnBUOVo2b2RNVExyamFSQi03dnl0TXlfRk1URGptckRpYWwyMGg0RVJfeG5VVndEdFVvVnFOb0l2OHBURllMdjJZVHI3ZkliZm9lWVgxZmpRd2hnbHM3eXJBYmdVRUN1V2hjMnB6M20taA?oc=5",
+      "image": null,
+      "timestamp": 1789270628,
+      "created_at": "2026-09-13 12:37",
+      "title_orig": "デスメラモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク",
+      "title_ja": "デスメラモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク"
+    },
+    {
       "id": "e0ffbc3c5b06c5c10f33de0ab684fa22",
       "title": "[인스타] ★최신 카드 소개★ 9월 18일 발매 예정인 『HACKERS' SLUMBER』의 최신 카드를 소개합니다. 오늘 공개할 카드는 「개굴몬」입니다. https://digimoncard.co.kr/ #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -6652,6 +6680,21 @@
       "created_at": "2026-08-31 16:00"
     },
     {
+      "id": "1704385c4969929d24883ecf7b889f24",
+      "title": "[일본뉴스] 「디지몬」 메지루시 액세서리 제3탄을 온라인에서도 살 수 있다! 「코로몬」을 비롯해, 선택받은 아이들의 유년기 디지몬 전 8종",
+      "snippet": "「デジモン」めじるしアクセサリー第3弾がオンラインでも買える！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種 インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94bWlVTEltaGNhQWQ1RU5pNXdfdWdZbUJ2T09xNzlkc2pmQ2UxS0U5aDdUY183bVBuYWZvd2JmSDlnUk13THRTR3pFVExwSHdGYzlwUjh2UnFYekJuaHZZMDlzTWQwc3g3c3c?oc=5",
+      "image": null,
+      "timestamp": 1788159600,
+      "created_at": "2026-08-31 16:00",
+      "title_orig": "「デジモン」めじるしアクセサリー第3弾がオンラインでも買える！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種",
+      "title_ja": "「デジモン」めじるしアクセサリー第3弾がオンラインでも買える！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
+    },
+    {
       "id": "7293900c76d3c5a0f9538b7f36c9109e",
       "title": "[루리웹] 20년 전 추억의 애니 극장서 볼까…'이누야샤'·'디지몬' 개봉",
       "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
@@ -7072,19 +7115,6 @@
       "timestamp": 1786345200,
       "created_at": "2026-08-10 16:00",
       "title_orig": "Digimon Story: Time Stranger contributed to highest ever Digimon IP annual profits, surpassing the 2000s anime, according to Bandai Namco"
-    },
-    {
-      "id": "36cf8b72dc45e57942d8f391593b8869",
-      "title": "[루리웹] [디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!]메인 포스터 공...",
-      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
-      "source": "루리웹 애니정보",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2431322",
-      "image": null,
-      "timestamp": 1786287600,
-      "created_at": "2026-08-10 00:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
