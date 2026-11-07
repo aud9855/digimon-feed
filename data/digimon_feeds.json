@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07 06:54:17",
-  "total_count": 508,
+  "last_updated": "2026-11-07 10:26:57",
+  "total_count": 509,
   "retention_days": 90,
   "feeds": [
     {
@@ -439,6 +439,19 @@
       "created_at": "2026-11-03 20:57",
       "title_orig": "これでデジモンの沼にハマりました座談会",
       "title_ja": "これでデジモンの沼にハマりました座談会"
+    },
+    {
+      "id": "8ff4f7b9351ed7744610a0a5a16a8c35",
+      "title": "[인스타] 메가박스에 디지몬 금박 트레이딩 티켓이 출시됩니다.✨ 선택받은 8명의 아이들과 파트너 디지몬이 모두 모인 특별한 굿즈인데요. 총 24종의 트레이딩 티켓을 한 번에 소장할 수 있는 풀패키지부터 랜덤 단품까지 만나볼 수 있으니 꼭 놓치지마세요! 사전 판매는 11월 4",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJcFluaTVUaGszYkFKMDNQSVFkVzhHN05QSVd1NkJDdkowUFVQSXlYX0l3emtsZGdnSzYxOGlFdU9tT2l1WnVkd0I4bGhGQ1gtY2c?oc=5",
+      "image": null,
+      "timestamp": 1793687993,
+      "created_at": "2026-11-03 15:39"
     },
     {
       "id": "dc085c88c1ac087523d312a47343380e",
@@ -1879,6 +1892,19 @@
       "created_at": "2026-10-27 16:00"
     },
     {
+      "id": "3421c6c6c249fc826e6367fa807ef8c2",
+      "title": "무브인터렉티브, '디지몬 마스터즈' 17주년 기념 이벤트 마련",
+      "snippet": "무브인터렉티브, '디지몬 마스터즈' 17주년 기념 이벤트 마련 아이뉴스24",
+      "source": "아이뉴스24",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80QVI2Qi1mUWxfWDUxVHF5RHdsRFpWeVdXcGZpSkRtUVBIajlEUmZ3U043MWVWSk14ZjF0Nm9NTjEzYldPWldzOUZyWQ?oc=5",
+      "image": null,
+      "timestamp": 1793084400,
+      "created_at": "2026-10-27 16:00"
+    },
+    {
       "id": "e8ebf8b766d772df27849998f9326577",
       "title": "[일본뉴스] 【디지몬 UP】디지플레이트의 획득 방법과 사용처",
       "snippet": "【デジモンUP】デジプレートの入手方法と使い道 GameWith",
@@ -1990,19 +2016,6 @@
       "timestamp": 1793063590,
       "created_at": "2026-10-27 10:13",
       "title_orig": "Digimon Masters Hosts Growth Support Event to Celebrate 17th Anniversary"
-    },
-    {
-      "id": "3421c6c6c249fc826e6367fa807ef8c2",
-      "title": "무브인터렉티브, '디지몬 마스터즈' 17주년 기념 이벤트 마련",
-      "snippet": "무브인터렉티브, '디지몬 마스터즈' 17주년 기념 이벤트 마련 아이뉴스24",
-      "source": "아이뉴스24",
-      "source_badge": "뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80QVI2Qi1mUWxfWDUxVHF5RHdsRFpWeVdXcGZpSkRtUVBIajlEUmZ3U043MWVWSk14ZjF0Nm9NTjEzYldPWldzOUZyWQ?oc=5",
-      "image": null,
-      "timestamp": 1793059980,
-      "created_at": "2026-10-27 09:13"
     },
     {
       "id": "6b7e0500bd02a50a134a03d0be741bf5",
@@ -5398,12 +5411,12 @@
     },
     {
       "id": "08d18b7ef72948e01f144d9847e7d0db",
-      "title": "[일본뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
+      "title": "[하비뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
       "snippet": "『DIGIMON BEATBREAK』最終回を記念した「デジタルモンスターCOLOR」が登場！アニメ新デジモンを含む約30体が育成可能、バトル時には「e-パルス」を連打で高めることで攻撃力が変化！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOczRVLVZCZUM0NFpJOUFXTXRlUG5OcmNaWVFmaHBpUURoOUhmcTAwNGYtTWgwV3Z6RERQTHAtbXdhUmtMZDhGWXV3ZElweDhr?oc=5",
       "image": null,
       "timestamp": 1790492400,
