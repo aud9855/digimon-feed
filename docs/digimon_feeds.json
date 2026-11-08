@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 12:22:07",
+  "last_updated": "2026-11-08 19:57:02",
   "total_count": 515,
   "retention_days": 90,
   "feeds": [
@@ -13,10 +13,23 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9leWhjNWdqbjJtS28zODUtd0pMQmMxT1UtdVc4ekt3VWFWYUplRXJWd0k1UnpjNEk0TXFmc2VsUnJ4cElXTHF6RDBHcw?oc=5",
       "image": null,
-      "timestamp": 1794100682,
+      "timestamp": 1794100696,
       "created_at": "2026-11-08 10:18",
       "title_orig": "Episode.6 パンプとゴツは渋谷系デジモン",
       "title_ja": "Episode.6 パンプとゴツは渋谷系デジモン"
+    },
+    {
+      "id": "38c2899d381016d72ed4a5d5e33f534a",
+      "title": "[일본뉴스] 「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2",
+      "snippet": "「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fN2kxS2NZR2FNQXo0VGtxcEkxQ29EZ194RlluVE5hTG5JMHdqa2RHYlhGQUtGdFg5Q2xOU2lsODhkdGtLWExwTFI0ZElVaThUSTFmNkxfOE5kbm9N?oc=5",
+      "image": null,
+      "timestamp": 1794049206,
+      "created_at": "2026-11-07 20:00"
     },
     {
       "id": "eff03702f18e2ab0a4f1976603aae8ed",
@@ -7129,20 +7142,6 @@
       "timestamp": 1786431600,
       "created_at": "2026-08-11 16:00",
       "title_orig": "AFK Journey x Digimon Adventure - Official Collaboration Trailer"
-    },
-    {
-      "id": "752dc36bb77d027262d05bfea4f21e0a",
-      "title": "[해외뉴스] 반다이 남코에 따르면, 디지몬 스토리: 타임 스트레인저가 2000년대 애니메이션을 뛰어넘으며 디지몬 IP 사상 역대 최고 연간 수익에 기여했다",
-      "snippet": "Digimon Story: Time Stranger contributed to highest ever Digimon IP annual profits, surpassing the 2000s anime, accordin",
-      "source": "AUTOMATON",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd2xwXzhJd01Pa1kxcVcwcENtZnFOZHRtODRleDBvdThwckdCcUlieFJiOXFlM3F3a0pUUkpmMU5RcnJxYzdBTEVzU1h4N0huaXF3dEJjZm1jZEM3RzZMNmZUODk1TUgtSlQzZmNYLW96R1ViMjZ1VjdJQmJCaW1BNDJSSlE4dFFId25oOGFadWlZb2w0amRLWFpiZ3dNVlZMRVJ3SUlNUjVKT1R5bnFldGpTbUR1ZUV5bHVZRnpBU2pNdlBmYUw5VjFrMlVJRDRQbi05VS1jZ0pfR3pYRmV0ZDU1MFpWME1LTzRfVWZCNTRpcUlQVnpuOXAxNElUOXJD?oc=5",
-      "image": null,
-      "timestamp": 1786345200,
-      "created_at": "2026-08-10 16:00",
-      "title_orig": "Digimon Story: Time Stranger contributed to highest ever Digimon IP annual profits, surpassing the 2000s anime, according to Bandai Namco"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
