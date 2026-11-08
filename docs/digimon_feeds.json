@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 19:57:02",
+  "last_updated": "2026-11-09 02:03:29",
   "total_count": 515,
   "retention_days": 90,
   "feeds": [
@@ -20,7 +20,7 @@
     },
     {
       "id": "38c2899d381016d72ed4a5d5e33f534a",
-      "title": "[일본뉴스] 「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2",
+      "title": "[일본뉴스] 「#유쿠리 실황」 #디지몬 스토리 사이버 슬루스 #2",
       "snippet": "「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2 YouTube",
       "source": "YouTube",
       "source_badge": "일본뉴스",
@@ -29,7 +29,9 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fN2kxS2NZR2FNQXo0VGtxcEkxQ29EZ194RlluVE5hTG5JMHdqa2RHYlhGQUtGdFg5Q2xOU2lsODhkdGtLWExwTFI0ZElVaThUSTFmNkxfOE5kbm9N?oc=5",
       "image": null,
       "timestamp": 1794049206,
-      "created_at": "2026-11-07 20:00"
+      "created_at": "2026-11-07 20:00",
+      "title_orig": "「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2",
+      "title_ja": "「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2"
     },
     {
       "id": "eff03702f18e2ab0a4f1976603aae8ed",
