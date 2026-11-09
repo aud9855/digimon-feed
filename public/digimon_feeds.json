@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-09 09:18:40",
-  "total_count": 517,
+  "last_updated": "2026-11-09 16:38:45",
+  "total_count": 518,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "8d44b05532e88ae85e59ed0a49271a3a",
+      "title": "[인스타] 비록 sp 서포터지만 드디어 그녀석이 나오네요 #디지몬 #digimon #デジモン #모바일게임 #digimonup",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fN1hmMG1kYUVnRk5SbWZfTy1adlJwVG1LRWZSbFdJZHNwSndaWmFObnN0d3FBZllzbV9TZFR0RGhfME1mYllBVHY4OFY2YVN1dUE?oc=5",
+      "image": null,
+      "timestamp": 1794205931,
+      "created_at": "2026-11-09 15:32"
+    },
     {
       "id": "9d21c6f5697d43e9d15462ec4b5aee38",
       "title": "[인스타] 요 깜찍한 물건은 바로 미니 커터칼••💖 . . . #디지몬 #digimon #otaku #デジモン #키덜트",
@@ -131,6 +144,20 @@
       "created_at": "2026-11-06 18:00",
       "title_orig": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ - PR TIMES｜アニメ！アニメ！",
       "title_ja": "11月8日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第33話【パンプとゴツは渋谷系デジモン】を放送！ - PR TIMES｜アニメ！アニメ！"
+    },
+    {
+      "id": "9ee9d79239091c973274d6a7d4de3175",
+      "title": "[트윗] #디지몬TCG - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1GRVlYTmFCZFRVZHhvaHV0M2ZSa0pZM09xcVpCc09YdUI1ZWdManZncUtRVVVsUUE0NGp4bWtReXhKX3BLM1ZF?oc=5",
+      "image": null,
+      "timestamp": 1793946418,
+      "created_at": "2026-11-06 15:26",
+      "title_orig": "#DigimonTCG - X"
     },
     {
       "id": "e47458dc28ef16641dc95a5b3f100a5d",
@@ -5785,8 +5812,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 나의 건담 덱",
-      "snippet": "My Gundam Decks Egman Deck Builder",
+      "title": "[디지카] 내 건담 덱 | 에그맨 덱 빌더",
+      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -5795,7 +5822,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks"
+      "title_orig": "My Gundam Decks | Egman Deck Builder"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
@@ -6874,6 +6901,19 @@
       "created_at": "2026-08-28 16:00"
     },
     {
+      "id": "32902d0b51adc27fbed46f1a695a0718",
+      "title": "[인스타] 꼬마몬 1:1 크기 인형🩵💙 🥹 . . . #디지몬 #digimon #デジモン #디지몬굿즈 #otaku",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRVE1VHd3WDNmQlVNVlJwaTlYNlI5UW1aYlBxUE45bk51MElaQzNmT1JFa3RFTFAwZWY2ZmlubjU3VnJDNzhJNGQ1bnRyb1BnNkE?oc=5",
+      "image": null,
+      "timestamp": 1787814000,
+      "created_at": "2026-08-27 16:00"
+    },
+    {
       "id": "29e456f9a29ad7e3895dbf049f18b737",
       "title": "[디지카] 디지몬 카드게임 덱: BT26 타임리스 본즈 + EX13 시벌러스 XIII",
       "snippet": "DigimonCG Decks: BT26 Timeless Bonds + EX13 Chivalrous XIII digimon card meta",
@@ -7142,34 +7182,6 @@
       "image": null,
       "timestamp": 1786950000,
       "created_at": "2026-08-17 16:00"
-    },
-    {
-      "id": "36e3ab128471667e8decf0be27c8c539",
-      "title": "[해외뉴스] 디지몬 어드벤처, AFK 새로운 여정에 기간 한정 콜라보레이션 이벤트로 강림",
-      "snippet": "Digimon Adventure arrives in AFK Journey for a limited crossover event GamesBeat",
-      "source": "GamesBeat",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnR5c3ZlZDBrS1dmLXB5TlZwTDVhNFY3R2RPSndPYUlMZnBua0Vqb2M2cTJPbXlvLTN3UEpmMXg2cHpTTFd5VjBQWEt0N3IwLUNkbkRVUUszalhZWjR0ZEN5TE1SSzZOQ1UzdGFYUmlhZzEwcW5PQll2enlubDZyQWtmTndFdVpRTWlISTFnSE5qTENwR3l6YQ?oc=5",
-      "image": null,
-      "timestamp": 1786431600,
-      "created_at": "2026-08-11 16:00",
-      "title_orig": "Digimon Adventure arrives in AFK Journey for a limited crossover event"
-    },
-    {
-      "id": "19c90730c743e459495609e1f1373348",
-      "title": "[해외뉴스] AFK 새로운 여정 x 디지몬 어드벤처 - 공식 콜라보레이션 트레일러",
-      "snippet": "AFK Journey x Digimon Adventure - Official Collaboration Trailer IGN Africa",
-      "source": "IGN Africa",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVMtdVJQR3paUV9yb3JvSURlblVyTUoyamVEckpoc0NuSmEwOTlGa2kzUFJlUlhkZFJMZjZlMTkwSEhudGxOcXdHcUNsWTFTaHhVQjdmai1VMXJ4UUtkTm1MQUJDcTd3OTd6eVhMRkRCZFNZT0R5blNVd0d1cGMwWHlKVkl6czlRWGd6QUlHLUJ0UFlyWHdQbkNBVEtNcl92WHFWQ1JuY0t6QQ?oc=5",
-      "image": null,
-      "timestamp": 1786431600,
-      "created_at": "2026-08-11 16:00",
-      "title_orig": "AFK Journey x Digimon Adventure - Official Collaboration Trailer"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
