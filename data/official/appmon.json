@@ -11,7 +11,7 @@
    "attribute": "소셜",
    "related": [
     43,
-    122,
+    107,
     4
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=1"
@@ -23,9 +23,9 @@
    "app": "전화",
    "attribute": "소셜",
    "related": [
-    9,
-    6,
-    3
+    3,
+    79,
+    6
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=2"
   },
@@ -36,9 +36,9 @@
    "app": "메일",
    "attribute": "소셜",
    "related": [
-    79,
     2,
-    6
+    6,
+    9
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=3"
   },
@@ -49,9 +49,9 @@
    "app": "트윗",
    "attribute": "소셜",
    "related": [
-    96,
-    78,
-    12
+    45,
+    19,
+    96
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=4"
   },
@@ -62,9 +62,9 @@
    "app": "번역",
    "attribute": "소셜",
    "related": [
+    30,
     31,
-    42,
-    85
+    42
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=5"
   },
@@ -88,9 +88,9 @@
    "app": "리뷰",
    "attribute": "소셜",
    "related": [
+    18,
     56,
-    80,
-    10
+    80
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=7"
   },
@@ -101,9 +101,9 @@
    "app": "설정",
    "attribute": "소셜",
    "related": [
-    75,
-    106,
-    58
+    17,
+    58,
+    65
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=8"
   },
@@ -114,9 +114,9 @@
    "app": "메시지",
    "attribute": "소셜",
    "related": [
-    2,
+    6,
     79,
-    6
+    2
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=9"
   },
@@ -127,9 +127,9 @@
    "app": "비밀 후기",
    "attribute": "소셜",
    "related": [
+    18,
     56,
-    7,
-    18
+    7
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=10"
   },
@@ -140,9 +140,9 @@
    "app": "로켓",
    "attribute": "내비",
    "related": [
-    46,
     83,
-    21
+    18,
+    86
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=11"
   },
@@ -154,8 +154,8 @@
    "attribute": "내비",
    "related": [
     1,
-    78,
-    4
+    4,
+    78
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=12"
   },
@@ -166,8 +166,8 @@
    "app": "비행",
    "attribute": "내비",
    "related": [
-    91,
-    51,
+    14,
+    82,
     61
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=13"
@@ -179,8 +179,8 @@
    "app": "환승",
    "attribute": "내비",
    "related": [
+    16,
     13,
-    82,
     17
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=14"
@@ -192,8 +192,8 @@
    "app": "날씨",
    "attribute": "내비",
    "related": [
-    83,
     11,
+    83,
     18
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=15"
@@ -205,8 +205,8 @@
    "app": "나침반",
    "attribute": "내비",
    "related": [
+    17,
     13,
-    14,
     82
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=16"
@@ -219,8 +219,8 @@
    "attribute": "내비",
    "related": [
     102,
-    8,
-    82
+    14,
+    16
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=17"
   },
@@ -231,9 +231,9 @@
    "app": "뉴스",
    "attribute": "내비",
    "related": [
-    11,
-    56,
-    80
+    83,
+    80,
+    7
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=18"
   },
@@ -244,9 +244,9 @@
    "app": "해설",
    "attribute": "내비",
    "related": [
+    4,
     45,
-    48,
-    96
+    48
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=19"
   },
@@ -257,9 +257,9 @@
    "app": "실황",
    "attribute": "내비",
    "related": [
-    100,
     54,
-    22
+    50,
+    100
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=20"
   },
@@ -271,8 +271,8 @@
    "attribute": "툴",
    "related": [
     11,
-    86,
-    46
+    46,
+    110
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=21"
   },
@@ -283,9 +283,9 @@
    "app": "녹음",
    "attribute": "툴",
    "related": [
-    50,
-    20,
-    54
+    54,
+    100,
+    50
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=22"
   },
@@ -296,9 +296,9 @@
    "app": "전자계산기",
    "attribute": "툴",
    "related": [
-    47,
-    92,
-    34
+    94,
+    49,
+    47
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=23"
   },
@@ -309,9 +309,9 @@
    "app": "쓰레기통",
    "attribute": "툴",
    "related": [
-    39,
-    87,
-    40
+    40,
+    49,
+    87
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=24"
   },
@@ -322,9 +322,9 @@
    "app": "거울",
    "attribute": "툴",
    "related": [
-    72,
-    57,
-    39
+    39,
+    90,
+    99
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=25"
   },
@@ -335,9 +335,9 @@
    "app": "조명",
    "attribute": "툴",
    "related": [
+    56,
     52,
-    97,
-    56
+    97
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=26"
   },
@@ -348,8 +348,8 @@
    "app": "시계",
    "attribute": "툴",
    "related": [
-    29,
     38,
+    29,
     84
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=27"
@@ -361,9 +361,9 @@
    "app": "일기장",
    "attribute": "툴",
    "related": [
-    95,
     29,
-    63
+    63,
+    95
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=28"
   },
@@ -374,9 +374,9 @@
    "app": "캘린더",
    "attribute": "툴",
    "related": [
-    28,
-    84,
-    27
+    95,
+    38,
+    28
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=29"
   },
@@ -387,9 +387,9 @@
    "app": "초음파",
    "attribute": "툴",
    "related": [
-    85,
+    42,
     31,
-    42
+    5
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=30"
   },
@@ -401,8 +401,8 @@
    "attribute": "툴",
    "related": [
     85,
-    5,
-    30
+    30,
+    42
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=31"
   },
@@ -413,8 +413,8 @@
    "app": "보안",
    "attribute": "시스템",
    "related": [
-    41,
     33,
+    41,
     88
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=32"
@@ -426,9 +426,9 @@
    "app": "해킹",
    "attribute": "시스템",
    "related": [
-    115,
-    41,
-    32
+    123,
+    88,
+    115
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=33"
   },
@@ -440,8 +440,8 @@
    "attribute": "시스템",
    "related": [
     23,
-    92,
-    47
+    47,
+    92
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=34"
   },
@@ -452,9 +452,9 @@
    "app": "압축",
    "attribute": "시스템",
    "related": [
-    68,
     89,
-    73
+    68,
+    36
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=35"
   },
@@ -465,9 +465,9 @@
    "app": "해동",
    "attribute": "시스템",
    "related": [
-    35,
+    38,
     89,
-    38
+    35
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=36"
   },
@@ -480,7 +480,7 @@
    "related": [
     39,
     90,
-    52
+    25
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=37"
   },
@@ -491,9 +491,9 @@
    "app": "백업",
    "attribute": "시스템",
    "related": [
-    27,
-    35,
-    89
+    84,
+    36,
+    27
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=38"
   },
@@ -505,8 +505,8 @@
    "attribute": "시스템",
    "related": [
     25,
-    87,
-    24
+    40,
+    52
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=39"
   },
@@ -517,9 +517,9 @@
    "app": "에너지 절약",
    "attribute": "시스템",
    "related": [
-    68,
-    105,
-    49
+    73,
+    39,
+    87
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=40"
   },
@@ -555,9 +555,9 @@
    "app": "온라인",
    "attribute": "게임",
    "related": [
-    76,
-    1,
-    112
+    121,
+    112,
+    76
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=43"
   },
@@ -568,9 +568,9 @@
    "app": "오프라인",
    "attribute": "게임",
    "related": [
-    121,
     113,
-    77
+    33,
+    121
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=44"
   },
@@ -581,9 +581,9 @@
    "app": "액션",
    "attribute": "게임",
    "related": [
-    48,
-    4,
-    19
+    96,
+    19,
+    93
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=45"
   },
@@ -594,9 +594,9 @@
    "app": "슈팅",
    "attribute": "게임",
    "related": [
-    21,
+    86,
     11,
-    86
+    21
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=46"
   },
@@ -607,9 +607,9 @@
    "app": "카드",
    "attribute": "게임",
    "related": [
-    53,
-    23,
-    92
+    34,
+    59,
+    53
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=47"
   },
@@ -620,9 +620,9 @@
    "app": "롤플레잉",
    "attribute": "게임",
    "related": [
-    4,
+    45,
     96,
-    19
+    4
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=48"
   },
@@ -633,9 +633,9 @@
    "app": "퍼즐",
    "attribute": "게임",
    "related": [
-    87,
-    66,
-    94
+    40,
+    24,
+    39
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=49"
   },
@@ -646,9 +646,9 @@
    "app": "리듬",
    "attribute": "게임",
    "related": [
-    100,
+    22,
     54,
-    22
+    100
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=50"
   },
@@ -659,9 +659,9 @@
    "app": "레이스",
    "attribute": "게임",
    "related": [
-    13,
     61,
-    91
+    91,
+    13
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=51"
   },
@@ -672,9 +672,9 @@
    "app": "페인트",
    "attribute": "엔터테인먼트",
    "related": [
-    25,
-    26,
-    37
+    56,
+    39,
+    90
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=52"
   },
@@ -685,9 +685,9 @@
    "app": "점술",
    "attribute": "엔터테인먼트",
    "related": [
+    98,
     59,
-    47,
-    98
+    47
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=53"
   },
@@ -698,9 +698,9 @@
    "app": "음악",
    "attribute": "엔터테인먼트",
    "related": [
-    118,
+    50,
     100,
-    22
+    125
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=54"
   },
@@ -711,9 +711,9 @@
    "app": "맛집",
    "attribute": "엔터테인먼트",
    "related": [
-    45,
     93,
-    66
+    66,
+    45
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=55"
   },
@@ -724,9 +724,9 @@
    "app": "영상",
    "attribute": "엔터테인먼트",
    "related": [
-    26,
-    80,
-    18
+    97,
+    7,
+    10
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=56"
   },
@@ -737,9 +737,9 @@
    "app": "패션",
    "attribute": "엔터테인먼트",
    "related": [
+    25,
     72,
-    74,
-    25
+    99
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=57"
   },
@@ -750,9 +750,9 @@
    "app": "e북",
    "attribute": "엔터테인먼트",
    "related": [
+    8,
     75,
-    106,
-    8
+    106
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=58"
   },
@@ -764,8 +764,8 @@
    "attribute": "엔터테인먼트",
    "related": [
     47,
-    98,
-    101
+    101,
+    60
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=59"
   },
@@ -776,8 +776,8 @@
    "app": "슬롯",
    "attribute": "엔터테인먼트",
    "related": [
+    68,
     62,
-    59,
     101
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=60"
@@ -804,7 +804,7 @@
    "related": [
     68,
     59,
-    101
+    60
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=62"
   },
@@ -815,9 +815,9 @@
    "app": "요리",
    "attribute": "엔터테인먼트",
    "related": [
-    95,
+    28,
     29,
-    28
+    95
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=63"
   },
@@ -829,8 +829,8 @@
    "attribute": "라이프",
    "related": [
     71,
-    104,
-    67
+    67,
+    104
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=64"
   },
@@ -841,8 +841,8 @@
    "app": "수면",
    "attribute": "라이프",
    "related": [
-    102,
     8,
+    102,
     17
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=65"
@@ -854,9 +854,9 @@
    "app": "근육 트레이닝",
    "attribute": "라이프",
    "related": [
-    94,
     55,
-    23
+    94,
+    45
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=66"
   },
@@ -867,9 +867,9 @@
    "app": "구조",
    "attribute": "라이프",
    "related": [
-    104,
-    64,
-    70
+    71,
+    70,
+    69
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=67"
   },
@@ -880,9 +880,9 @@
    "app": "전자화폐",
    "attribute": "라이프",
    "related": [
-    73,
-    105,
-    40
+    62,
+    35,
+    105
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=68"
   },
@@ -893,8 +893,8 @@
    "app": "온천",
    "attribute": "라이프",
    "related": [
-    70,
     67,
+    70,
     103
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=69"
@@ -906,9 +906,9 @@
    "app": "보충제",
    "attribute": "라이프",
    "related": [
-    69,
     67,
-    103
+    103,
+    69
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=70"
   },
@@ -920,8 +920,8 @@
    "attribute": "라이프",
    "related": [
     64,
-    104,
-    67
+    67,
+    104
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=71"
   },
@@ -932,7 +932,7 @@
    "app": "경매",
    "attribute": "라이프",
    "related": [
-    99,
+    74,
     57,
     25
    ],
@@ -945,9 +945,9 @@
    "app": "가계부",
    "attribute": "라이프",
    "related": [
-    68,
     40,
-    35
+    35,
+    68
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=73"
   },
@@ -958,9 +958,9 @@
    "app": "쇼핑",
    "attribute": "라이프",
    "related": [
-    57,
     72,
-    99
+    25,
+    57
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=74"
   },
@@ -971,9 +971,9 @@
    "app": "사전",
    "attribute": "라이프",
    "related": [
-    58,
+    8,
     106,
-    8
+    58
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=75"
   },
@@ -985,8 +985,8 @@
    "attribute": "소셜",
    "related": [
     43,
-    87,
-    121
+    121,
+    87
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=76"
   },
@@ -997,9 +997,9 @@
    "app": "로그아웃",
    "attribute": "소셜",
    "related": [
-    113,
-    84,
-    121
+    44,
+    121,
+    84
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=77"
   },
@@ -1010,9 +1010,9 @@
    "app": "슈퍼 검색",
    "attribute": "소셜",
    "related": [
-    1,
+    107,
     122,
-    12
+    1
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=78"
   },
@@ -1024,7 +1024,7 @@
    "attribute": "소셜",
    "related": [
     2,
-    80,
+    108,
     9
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=79"
@@ -1037,8 +1037,8 @@
    "attribute": "소셜",
    "related": [
     18,
-    79,
-    7
+    7,
+    79
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=80"
   },
@@ -1049,9 +1049,9 @@
    "app": "실패",
    "attribute": "소셜",
    "related": [
-    64,
     35,
-    70
+    70,
+    27
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=81"
   },
@@ -1062,9 +1062,9 @@
    "app": "여행",
    "attribute": "내비",
    "related": [
-    14,
+    110,
     86,
-    16
+    14
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=82"
   },
@@ -1075,9 +1075,9 @@
    "app": "기후",
    "attribute": "내비",
    "related": [
+    11,
     91,
-    111,
-    15
+    111
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=83"
   },
@@ -1088,9 +1088,9 @@
    "app": "타임 슬립",
    "attribute": "툴",
    "related": [
-    78,
-    107,
-    77
+    77,
+    113,
+    78
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=84"
   },
@@ -1101,9 +1101,9 @@
    "app": "음성 변조",
    "attribute": "툴",
    "related": [
-    30,
-    5,
-    114
+    97,
+    114,
+    30
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=85"
   },
@@ -1114,9 +1114,9 @@
    "app": "감시",
    "attribute": "툴",
    "related": [
-    110,
+    46,
     21,
-    46
+    82
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=86"
   },
@@ -1127,9 +1127,9 @@
    "app": "설계",
    "attribute": "툴",
    "related": [
-    112,
-    39,
-    76
+    76,
+    24,
+    112
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=87"
   },
@@ -1140,9 +1140,9 @@
    "app": "슈퍼 해킹",
    "attribute": "시스템",
    "related": [
+    33,
     123,
-    89,
-    115
+    89
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=88"
   },
@@ -1153,9 +1153,9 @@
    "app": "압축 해동",
    "attribute": "시스템",
    "related": [
+    115,
     36,
-    88,
-    35
+    88
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=89"
   },
@@ -1166,9 +1166,9 @@
    "app": "스텔스",
    "attribute": "시스템",
    "related": [
-    116,
-    37,
-    25
+    65,
+    92,
+    116
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=90"
   },
@@ -1179,9 +1179,9 @@
    "app": "전송",
    "attribute": "시스템",
    "related": [
-    51,
+    83,
     61,
-    111
+    51
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=91"
   },
@@ -1192,8 +1192,8 @@
    "app": "시뮬레이션",
    "attribute": "게임",
    "related": [
-    34,
     116,
+    23,
     90
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=92"
@@ -1205,9 +1205,9 @@
    "app": "격투",
    "attribute": "게임",
    "related": [
-    124,
     45,
-    95
+    124,
+    117
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=93"
   },
@@ -1218,8 +1218,8 @@
    "app": "두뇌 트레이닝",
    "attribute": "게임",
    "related": [
-    49,
     23,
+    49,
     66
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=94"
@@ -1231,9 +1231,9 @@
    "app": "육성",
    "attribute": "게임",
    "related": [
+    117,
     63,
-    28,
-    117
+    93
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=95"
   },
@@ -1244,9 +1244,9 @@
    "app": "공략",
    "attribute": "게임",
    "related": [
-    48,
-    4,
-    45
+    45,
+    19,
+    4
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=96"
   },
@@ -1257,8 +1257,8 @@
    "app": "이펙트",
    "attribute": "엔터테인먼트",
    "related": [
-    85,
     114,
+    52,
     56
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=97"
@@ -1270,9 +1270,9 @@
    "app": "슈퍼 점술",
    "attribute": "엔터테인먼트",
    "related": [
-    53,
     47,
-    59
+    59,
+    53
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=98"
   },
@@ -1283,9 +1283,9 @@
    "app": "코디네이트",
    "attribute": "엔터테인먼트",
    "related": [
-    57,
+    120,
     105,
-    120
+    74
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=99"
   },
@@ -1296,8 +1296,8 @@
    "app": "미디어 플레이어",
    "attribute": "엔터테인먼트",
    "related": [
+    102,
     118,
-    22,
     54
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=100"
@@ -1309,9 +1309,9 @@
    "app": "룰렛",
    "attribute": "엔터테인먼트",
    "related": [
-    59,
     68,
-    62
+    59,
+    60
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=101"
   },
@@ -1322,9 +1322,9 @@
    "app": "꿈",
    "attribute": "엔터테인먼트",
    "related": [
+    118,
     17,
-    100,
-    118
+    100
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=102"
   },
@@ -1335,9 +1335,9 @@
    "app": "메디컬",
    "attribute": "라이프",
    "related": [
+    67,
     104,
-    119,
-    70
+    119
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=103"
   },
@@ -1348,9 +1348,9 @@
    "app": "닥터",
    "attribute": "라이프",
    "related": [
-    103,
-    64,
-    119
+    119,
+    71,
+    103
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=104"
   },
@@ -1363,7 +1363,7 @@
    "related": [
     120,
     99,
-    74
+    73
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=105"
   },
@@ -1374,9 +1374,9 @@
    "app": "도서관",
    "attribute": "라이프",
    "related": [
-    58,
+    75,
     8,
-    75
+    58
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=106"
   },
@@ -1387,9 +1387,9 @@
    "app": "글로벌",
    "attribute": "소셜",
    "related": [
-    122,
-    1,
-    78
+    78,
+    108,
+    122
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=107"
   },
@@ -1400,9 +1400,9 @@
    "app": "마인드 컨트롤",
    "attribute": "소셜",
    "related": [
-    122,
     120,
-    114
+    114,
+    119
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=108"
   },
@@ -1413,8 +1413,8 @@
    "app": "안 돼 안 돼",
    "attribute": "소셜",
    "related": [
-    84,
-    105,
+    104,
+    88,
     95
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=109"
@@ -1426,7 +1426,7 @@
    "app": "GPS",
    "attribute": "내비",
    "related": [
-    82,
+    16,
     21,
     86
    ],
@@ -1439,8 +1439,8 @@
    "app": "천체",
    "attribute": "내비",
    "related": [
-    83,
     126,
+    91,
     116
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=111"
@@ -1453,7 +1453,7 @@
    "attribute": "툴",
    "related": [
     43,
-    113,
+    76,
     121
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=112"
@@ -1465,9 +1465,9 @@
    "app": "강제 종료",
    "attribute": "툴",
    "related": [
-    121,
+    112,
     77,
-    112
+    44
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=113"
   },
@@ -1478,8 +1478,8 @@
    "app": "위장",
    "attribute": "툴",
    "related": [
-    120,
-    125,
+    118,
+    119,
     108
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=114"
@@ -1491,9 +1491,9 @@
    "app": "복원",
    "attribute": "시스템",
    "related": [
-    33,
+    119,
     123,
-    119
+    33
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=115"
   },
@@ -1505,8 +1505,8 @@
    "attribute": "시스템",
    "related": [
     90,
-    111,
-    92
+    92,
+    111
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=116"
   },
@@ -1517,8 +1517,8 @@
    "app": "전투",
    "attribute": "게임",
    "related": [
-    124,
     120,
+    45,
     93
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=117"
@@ -1530,9 +1530,9 @@
    "app": "오락",
    "attribute": "엔터테인먼트",
    "related": [
-    125,
+    54,
     114,
-    54
+    125
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=118"
   },
@@ -1543,9 +1543,9 @@
    "app": "라이프",
    "attribute": "라이프",
    "related": [
+    114,
     120,
-    115,
-    123
+    115
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=119"
   },
@@ -1556,9 +1556,9 @@
    "app": "미용",
    "attribute": "라이프",
    "related": [
-    114,
-    119,
-    108
+    117,
+    124,
+    114
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=120"
   },
@@ -1569,9 +1569,9 @@
    "app": "재부팅",
    "attribute": "하나님",
    "related": [
-    43,
-    76,
-    113
+    112,
+    113,
+    43
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=121"
   },
@@ -1583,8 +1583,8 @@
    "attribute": "하나님",
    "related": [
     78,
-    1,
-    107
+    107,
+    1
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=122"
   },
@@ -1596,8 +1596,8 @@
    "attribute": "하나님",
    "related": [
     88,
-    119,
-    115
+    33,
+    119
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=123"
   },
@@ -1608,7 +1608,7 @@
    "app": "무적",
    "attribute": "하나님",
    "related": [
-    120,
+    93,
     45,
     117
    ],
@@ -1621,7 +1621,7 @@
    "app": "각성",
    "attribute": "하나님",
    "related": [
-    118,
+    114,
     54,
     100
    ],
@@ -1647,9 +1647,9 @@
    "app": "탭",
    "attribute": "소셜",
    "related": [
-    130,
+    128,
     132,
-    133
+    130
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=127"
   },
@@ -1660,9 +1660,9 @@
    "app": "탭",
    "attribute": "내비",
    "related": [
-    129,
-    131,
-    133
+    127,
+    132,
+    130
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=128"
   },
@@ -1673,9 +1673,9 @@
    "app": "탭",
    "attribute": "툴",
    "related": [
-    132,
-    128,
-    130
+    133,
+    127,
+    131
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=129"
   },
@@ -1687,8 +1687,8 @@
    "attribute": "시스템",
    "related": [
     133,
-    128,
-    132
+    129,
+    131
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=130"
   },
@@ -1700,7 +1700,7 @@
    "attribute": "게임",
    "related": [
     130,
-    129,
+    132,
     128
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=131"
@@ -1713,8 +1713,8 @@
    "attribute": "엔터테인먼트",
    "related": [
     130,
-    128,
-    133
+    131,
+    128
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=132"
   },
@@ -1725,9 +1725,9 @@
    "app": "탭",
    "attribute": "라이프",
    "related": [
-    128,
-    129,
-    132
+    127,
+    132,
+    129
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=133"
   },
@@ -1738,9 +1738,9 @@
    "app": "플릭",
    "attribute": "소셜",
    "related": [
-    139,
-    137,
-    138
+    135,
+    136,
+    137
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=134"
   },
@@ -1751,9 +1751,9 @@
    "app": "플릭",
    "attribute": "내비",
    "related": [
-    140,
-    134,
-    137
+    136,
+    137,
+    138
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=135"
   },
@@ -1764,8 +1764,8 @@
    "app": "플릭",
    "attribute": "툴",
    "related": [
-    134,
-    140,
+    138,
+    139,
     137
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=136"
@@ -1777,9 +1777,9 @@
    "app": "플릭",
    "attribute": "시스템",
    "related": [
-    135,
-    134,
-    138
+    139,
+    140,
+    134
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=137"
   },
@@ -1790,9 +1790,9 @@
    "app": "플릭",
    "attribute": "게임",
    "related": [
-    135,
     134,
-    137
+    139,
+    135
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=138"
   },
@@ -1803,9 +1803,9 @@
    "app": "플릭",
    "attribute": "엔터테인먼트",
    "related": [
-    134,
+    135,
     140,
-    138
+    134
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=139"
   },
@@ -1816,9 +1816,9 @@
    "app": "플릭",
    "attribute": "라이프",
    "related": [
-    134,
     137,
-    138
+    136,
+    135
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=140"
   },
@@ -1830,7 +1830,7 @@
    "attribute": "소셜",
    "related": [
     144,
-    142,
+    143,
     146
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=141"
@@ -1842,8 +1842,8 @@
    "app": "스와이프",
    "attribute": "내비",
    "related": [
-    143,
-    144,
+    147,
+    141,
     146
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=142"
@@ -1855,9 +1855,9 @@
    "app": "스와이프",
    "attribute": "툴",
    "related": [
-    142,
+    147,
     145,
-    147
+    146
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=143"
   },
@@ -1868,8 +1868,8 @@
    "app": "스와이프",
    "attribute": "시스템",
    "related": [
+    146,
     142,
-    145,
     147
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=144"
@@ -1881,9 +1881,9 @@
    "app": "스와이프",
    "attribute": "게임",
    "related": [
-    142,
-    143,
-    144
+    144,
+    147,
+    143
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=145"
   },
@@ -1894,9 +1894,9 @@
    "app": "스와이프",
    "attribute": "엔터테인먼트",
    "related": [
-    147,
-    145,
-    144
+    142,
+    141,
+    145
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=146"
   },
@@ -1907,8 +1907,8 @@
    "app": "스와이프",
    "attribute": "라이프",
    "related": [
-    142,
-    141,
+    144,
+    143,
     145
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=147"
@@ -1920,9 +1920,9 @@
    "app": "개방",
    "attribute": "없음",
    "related": [
-    37,
-    24,
-    53
+    53,
+    103,
+    3
    ],
    "url": "https://digimon.net/appmon_ko/detail.php?id=148"
   }
