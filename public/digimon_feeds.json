@@ -1,11 +1,24 @@
 {
-  "last_updated": "2026-11-10 18:01:15",
-  "total_count": 544,
+  "last_updated": "2026-11-11 01:45:45",
+  "total_count": 547,
   "retention_days": 90,
   "feeds": [
     {
+      "id": "e7403a342c0556b14c56a1277ca1e2f3",
+      "title": "[트윗] 🔹🌟🔹🌟🔹🌟🔹🌟🔹🌟🔹 『그 시절, 너희들에게서 빛나던 문장은 뭐였어?』 용기? 우정? 아니면 희망, 사랑, 순수...? 어린 시절, 선택받은 아이들과 함께 디지털 월드로 떠났던 추억의 한 페이지를 다시 펼쳐보지 않을래? 그 가슴 뛰던 모험, 그 속에서 빛났던 태그와 문장이 액세 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ndk96aGhiaEx6RU5mdmN2N0RhUDA2RGNpU3VTU0FFZHRvWWNQeGxzTEtPX1RtaHRMLU80emQ2UGtLNmVlRi16dTdPM0hpQ09XckFuNktma3NVTjhIZGc?oc=5",
+      "image": null,
+      "timestamp": 1794296355,
+      "created_at": "2026-11-10 16:39"
+    },
+    {
       "id": "8f846100864328c9a2ee7f50d0afa1fe",
-      "title": "[해외뉴스] DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards",
+      "title": "[해외뉴스] 디지몬 알리시온 사전 등록 20만 명 돌파, 캠페인 보상 공개",
       "snippet": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards GamerBraves",
       "source": "GamerBraves",
       "source_badge": "해외뉴스",
@@ -13,12 +26,13 @@
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVBZdXFWRHZRcGZNY0Rvd1dVNEZFYWRsVmpqVmFkaUhRcDRrS1BVazE0Nl80SlZxc2VzM0xPczdWblI5MGVCNzhmVWpKT2lzRFhQbVFRZFFJTThmeHY1X19uR25EQjN5dV82UkFVOW5od3BsOVpnVDJKT2tiLXp3alBpNzhjYWtpZGp0d0VzcVFqTjNPcXc?oc=5",
       "image": null,
-      "timestamp": 1794296599,
-      "created_at": "2026-11-10 16:43"
+      "timestamp": 1794294521,
+      "created_at": "2026-11-10 16:08",
+      "title_orig": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards"
     },
     {
       "id": "79951f1d0cd76a70f083556830a07bbe",
-      "title": "[일본뉴스] 事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン",
+      "title": "[일본뉴스] 사전 등록 20만 명 돌파, 40만 명에 오메가몬! 『DIGIMON ALYSION(디지몬 알리시온)』 사전 등록 캠페인",
       "snippet": "事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン Dtimes",
       "source": "Dtimes",
       "source_badge": "일본뉴스",
@@ -27,11 +41,13 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zbWtjYlBHUXlENXpFMC16bzctdG51aVlub3VVVHh5YjVGdi14MTNvQTNQcWpJaFZXTmxKdE1KZlZWV3BRTVE?oc=5",
       "image": null,
       "timestamp": 1794290608,
-      "created_at": "2026-11-10 15:03"
+      "created_at": "2026-11-10 15:03",
+      "title_orig": "事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン",
+      "title_ja": "事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン"
     },
     {
       "id": "09a96d5aa1de2bf2f1fc328e5c8c363d",
-      "title": "[일본뉴스] 「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント",
+      "title": "[일본뉴스] 『디지몬 알리시온』, 사전 등록자 수가 20만 명을 돌파. 추가 보상을 공개하며, 40만 명 달성 시 「BT1-084 오메가몬」 증정",
       "snippet": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント 4Gamer.net",
       "source": "4Gamer.net",
       "source_badge": "일본뉴스",
@@ -40,11 +56,13 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjX011dW40ZEpTTkVKdlZPUDByS3FoV2NZb004SS1mNmtwRGdzRlFkT2w3elFOT09vS1RoS190NkFuUHFsaGVpd2p0bEliWmxuRzJ6a2dqYm5FLUFDM041SnI4SQ?oc=5",
       "image": null,
       "timestamp": 1794290400,
-      "created_at": "2026-11-10 15:00"
+      "created_at": "2026-11-10 15:00",
+      "title_orig": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント",
+      "title_ja": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント"
     },
     {
       "id": "8f047eb5f5e38ddd0b6d5a368e1000a0",
-      "title": "[일본뉴스] 「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる",
+      "title": "[일본뉴스] 『디지몬 알리시온』 일본·북미 사전 등록자 수가 20만 명을 돌파! 40만 명 달성 시 오메가몬 증정",
       "snippet": "「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる Gamer",
       "source": "Gamer",
       "source_badge": "일본뉴스",
@@ -53,7 +71,9 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RQWNCWmNheWhSWEZlb0tia1ktR1Zqbm82c201dGQxOERXY0FsNkprQkJ0Y2h5cFlhMjZBVGlrQnVZdlJ2MmdETkxOOHdraGlVVDdkUA?oc=5",
       "image": null,
       "timestamp": 1794290400,
-      "created_at": "2026-11-10 15:00"
+      "created_at": "2026-11-10 15:00",
+      "title_orig": "「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる",
+      "title_ja": "「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる"
     },
     {
       "id": "f43a60baeacac1428f2a16ac9d666b8d",
@@ -83,7 +103,7 @@
     },
     {
       "id": "7622be48c95109229dd6d1af120d97c0",
-      "title": "[공식] バンダイナムコグループのデジモン関連商品が多数そろう「DIGIMON POP UP」開催！",
+      "title": "[공식] 반다이 남코 그룹의 디지몬 관련 상품이 다수 모이는 「DIGIMON POP UP」 개최!",
       "snippet": "디지몬 공식 사이트 ニュース",
       "source": "digimon.net",
       "source_badge": "디지몬웹",
@@ -92,7 +112,9 @@
       "link": "https://digimon.net/topic/detail.php?id=2102",
       "image": null,
       "timestamp": 1794236400,
-      "created_at": "2026-11-10 00:00"
+      "created_at": "2026-11-10 00:00",
+      "title_orig": "バンダイナムコグループのデジモン関連商品が多数そろう「DIGIMON POP UP」開催！",
+      "title_ja": "バンダイナムコグループのデジモン関連商品が多数そろう「DIGIMON POP UP」開催！"
     },
     {
       "id": "c7c0311e16c810fbfd55b7b430f323ae",
@@ -218,6 +240,21 @@
       "created_at": "2026-11-07 20:00",
       "title_orig": "「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2",
       "title_ja": "「#ゆっくり実況」 #デジモンストーリーサイバースルゥース #2"
+    },
+    {
+      "id": "f9d3c7ccf0234b9f935fbe9b99ee8d80",
+      "title": "[일본뉴스] 어느 일반 남성의 첫 디지몬 게임 실황 #35",
+      "snippet": "とある一般男性の初デジモンゲーム実況#35 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wTkdTQjVsb3JxeW5fVUZlMjZoT3BTNTNqUUxibDNSZ3Zkd0N6cldEdUI0X3U3YkMyMm9mRnc4UWdqQnR2eVN1cHhSbG5nY3Q1MEpCUlNlNzhIdjZD?oc=5",
+      "image": null,
+      "timestamp": 1794043831,
+      "created_at": "2026-11-07 18:30",
+      "title_orig": "とある一般男性の初デジモンゲーム実況#35",
+      "title_ja": "とある一般男性の初デジモンゲーム実況#35"
     },
     {
       "id": "eff03702f18e2ab0a4f1976603aae8ed",
@@ -364,7 +401,7 @@
     },
     {
       "id": "6e5fff2658a92b82c56959ff02305d87",
-      "title": "[위키몬 신규] Lord Knightmon (Cyber Sleuth)",
+      "title": "[위키몬 신규] 로드나이트몬 (사이버 슬루스)",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Lord Knightmon (Cyber Sleuth))입니다.",
       "source": "Wikimon",
       "source_badge": "위키몬",
@@ -373,11 +410,12 @@
       "link": "https://wikimon.net/Lord_Knightmon_%28Cyber_Sleuth%29",
       "image": null,
       "timestamp": 1793912042,
-      "created_at": "2026-11-06 05:54"
+      "created_at": "2026-11-06 05:54",
+      "title_orig": "Lord Knightmon (Cyber Sleuth)"
     },
     {
       "id": "8ad04f9e1cbe8c247049a9438f7f7074",
-      "title": "[위키몬 신규] Yoshi.",
+      "title": "[위키몬 신규] 요시.",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Yoshi.)입니다.",
       "source": "Wikimon",
       "source_badge": "위키몬",
@@ -386,7 +424,8 @@
       "link": "https://wikimon.net/Yoshi.",
       "image": null,
       "timestamp": 1793897284,
-      "created_at": "2026-11-06 01:48"
+      "created_at": "2026-11-06 01:48",
+      "title_orig": "Yoshi."
     },
     {
       "id": "2be57118b717e052ca63a307fed44502",
@@ -434,7 +473,7 @@
     },
     {
       "id": "5dc11c7092b7fb90fa6b9a9c8e79a41d",
-      "title": "[위키몬 신규] Anime 25th Anniversary \"Digimon Adventure Exhibition\"",
+      "title": "[위키몬 신규] 애니메이션 25주년 기념 \"디지몬 어드벤처 전\"",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Anime 25th Anniversary \"Digimon Adventure Exhibition\")입니다.",
       "source": "Wikimon",
       "source_badge": "위키몬",
@@ -443,7 +482,8 @@
       "link": "https://wikimon.net/Anime_25th_Anniversary_%22Digimon_Adventure_Exhibition%22",
       "image": null,
       "timestamp": 1793870416,
-      "created_at": "2026-11-05 18:20"
+      "created_at": "2026-11-05 18:20",
+      "title_orig": "Anime 25th Anniversary \"Digimon Adventure Exhibition\""
     },
     {
       "id": "2d991dfebe18e271a63860a184ad11a0",
@@ -633,7 +673,7 @@
     },
     {
       "id": "20b892f65f0b9367c5b739c16e87cdb0",
-      "title": "[위키몬 신규] Alphamon (Cyber Sleuth)",
+      "title": "[위키몬 신규] 알파몬 (사이버 슬루스)",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Alphamon (Cyber Sleuth))입니다.",
       "source": "Wikimon",
       "source_badge": "위키몬",
@@ -642,7 +682,8 @@
       "link": "https://wikimon.net/Alphamon_%28Cyber_Sleuth%29",
       "image": null,
       "timestamp": 1793790870,
-      "created_at": "2026-11-04 20:14"
+      "created_at": "2026-11-04 20:14",
+      "title_orig": "Alphamon (Cyber Sleuth)"
     },
     {
       "id": "439dfd53ca628ede639ec252d9586027",
@@ -699,7 +740,8 @@
       "link": "https://wikimon.net/BD02-04_%28DCG%29",
       "image": null,
       "timestamp": 1793771142,
-      "created_at": "2026-11-04 14:45"
+      "created_at": "2026-11-04 14:45",
+      "title_orig": "BD02-04 (DCG)"
     },
     {
       "id": "df8b2cd006bb3ec01db7c5a852b87c3c",
@@ -712,7 +754,8 @@
       "link": "https://wikimon.net/BD02-03_%28DCG%29",
       "image": null,
       "timestamp": 1793770962,
-      "created_at": "2026-11-04 14:42"
+      "created_at": "2026-11-04 14:42",
+      "title_orig": "BD02-03 (DCG)"
     },
     {
       "id": "9366b71972747772e7298ec81c3f590e",
@@ -725,7 +768,8 @@
       "link": "https://wikimon.net/BD02-02_%28DCG%29",
       "image": null,
       "timestamp": 1793767845,
-      "created_at": "2026-11-04 13:50"
+      "created_at": "2026-11-04 13:50",
+      "title_orig": "BD02-02 (DCG)"
     },
     {
       "id": "8320db843376f62c7d89e275188c996e",
@@ -860,7 +904,7 @@
     },
     {
       "id": "95f5a9b82cce0eed9436245a9d6ada7f",
-      "title": "[위키몬 신규] Dark Tunnel",
+      "title": "[위키몬 신규] 어둠의 터널",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Dark Tunnel)입니다.",
       "source": "Wikimon",
       "source_badge": "위키몬",
@@ -869,11 +913,12 @@
       "link": "https://wikimon.net/Dark_Tunnel",
       "image": null,
       "timestamp": 1793741821,
-      "created_at": "2026-11-04 06:37"
+      "created_at": "2026-11-04 06:37",
+      "title_orig": "Dark Tunnel"
     },
     {
       "id": "31f365206febaa3f57798076beb0b853",
-      "title": "[위키몬 신규] Digimon Eggs - Chapter 02",
+      "title": "[위키몬 신규] 디지몬 알 - 제02장",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Digimon Eggs - Chapter 02)입니다.",
       "source": "Wikimon",
       "source_badge": "위키몬",
@@ -882,11 +927,12 @@
       "link": "https://wikimon.net/Digimon_Eggs_-_Chapter_02",
       "image": null,
       "timestamp": 1793737976,
-      "created_at": "2026-11-04 05:32"
+      "created_at": "2026-11-04 05:32",
+      "title_orig": "Digimon Eggs - Chapter 02"
     },
     {
       "id": "0d96d20b1ad4a490df488b64bac8b3d0",
-      "title": "[위키몬 신규] Seimon",
+      "title": "[위키몬 신규] 세이몬",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Seimon)입니다.",
       "source": "Wikimon",
       "source_badge": "위키몬",
@@ -895,7 +941,8 @@
       "link": "https://wikimon.net/Seimon",
       "image": null,
       "timestamp": 1793735093,
-      "created_at": "2026-11-04 04:44"
+      "created_at": "2026-11-04 04:44",
+      "title_orig": "Seimon"
     },
     {
       "id": "bf4ef3cd4b792939e929ad62160c88e1",
@@ -908,7 +955,8 @@
       "link": "https://wikimon.net/BD01-06_%28DCG%29",
       "image": null,
       "timestamp": 1793707164,
-      "created_at": "2026-11-03 20:59"
+      "created_at": "2026-11-03 20:59",
+      "title_orig": "BD01-06 (DCG)"
     },
     {
       "id": "bd2584724fe1fc85c1725d703bca9eb7",
@@ -936,7 +984,8 @@
       "link": "https://wikimon.net/BT27-072_%28DCG%29",
       "image": null,
       "timestamp": 1793706254,
-      "created_at": "2026-11-03 20:44"
+      "created_at": "2026-11-03 20:44",
+      "title_orig": "BT27-072 (DCG)"
     },
     {
       "id": "28f72c7f18ec97ff253d809e03bae003",
@@ -949,7 +998,8 @@
       "link": "https://wikimon.net/BT27-065_%28DCG%29",
       "image": null,
       "timestamp": 1793706003,
-      "created_at": "2026-11-03 20:40"
+      "created_at": "2026-11-03 20:40",
+      "title_orig": "BT27-065 (DCG)"
     },
     {
       "id": "a70caba16d20a8eed346cdbe5c084b2d",
@@ -962,7 +1012,8 @@
       "link": "https://wikimon.net/BT27-060_%28DCG%29",
       "image": null,
       "timestamp": 1793705670,
-      "created_at": "2026-11-03 20:34"
+      "created_at": "2026-11-03 20:34",
+      "title_orig": "BT27-060 (DCG)"
     },
     {
       "id": "8ff4f7b9351ed7744610a0a5a16a8c35",
@@ -5907,12 +5958,12 @@
     },
     {
       "id": "08d18b7ef72948e01f144d9847e7d0db",
-      "title": "[일본뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
+      "title": "[하비뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
       "snippet": "『DIGIMON BEATBREAK』最終回を記念した「デジタルモンスターCOLOR」が登場！アニメ新デジモンを含む約30体が育成可能、バトル時には「e-パルス」を連打で高めることで攻撃力が変化！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOczRVLVZCZUM0NFpJOUFXTXRlUG5OcmNaWVFmaHBpUURoOUhmcTAwNGYtTWgwV3Z6RERQTHAtbXdhUmtMZDhGWXV3ZElweDhr?oc=5",
       "image": null,
       "timestamp": 1790492400,
@@ -6788,6 +6839,20 @@
       "image": null,
       "timestamp": 1788850800,
       "created_at": "2026-09-08 16:00"
+    },
+    {
+      "id": "c2278f7e5b3903cee387c8851c6fea46",
+      "title": "[하비뉴스] 하비숍] | 디지몬 비트브레이크 아크릴 스탠드 레이나 & 프리스티몬 (마린 룩 ver.) (예약)",
+      "snippet": "Hobby Shop] | DIGIMON BEATBREAK Acrylic Stand Reina & Pristimon (Marine Look ver)(Pre-order) AmiAmi",
+      "source": "AmiAmi",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SWnJQaTNuci1HeUpaMzNQZDA1WGRWOEVhb1NSbHh0b3hzak96SXVzMHJIX2dxb1RZVXctMktBdUMxX2I5N0NUMUZQZXFycm1Qamc5a0tlMTNzbGNESTU2ZW1KQzY5UQ?oc=5",
+      "image": null,
+      "timestamp": 1788810667,
+      "created_at": "2026-09-08 04:51",
+      "title_orig": "Hobby Shop] | DIGIMON BEATBREAK Acrylic Stand Reina & Pristimon (Marine Look ver)(Pre-order)"
     },
     {
       "id": "9fcf12e0a782ee46ae8f2348f289a601",
