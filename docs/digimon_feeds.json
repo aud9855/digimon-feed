@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-11 01:45:45",
-  "total_count": 547,
+  "last_updated": "2026-11-11 07:06:36",
+  "total_count": 550,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "63e0afedc7e701396089b7113aebb086",
+      "title": "[위키몬 신규] ED01-01 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (ED01-01 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/ED01-01_%28DCG%29",
+      "image": null,
+      "timestamp": 1794347870,
+      "created_at": "2026-11-11 06:57"
+    },
     {
       "id": "e7403a342c0556b14c56a1277ca1e2f3",
       "title": "[트윗] 🔹🌟🔹🌟🔹🌟🔹🌟🔹🌟🔹 『그 시절, 너희들에게서 빛나던 문장은 뭐였어?』 용기? 우정? 아니면 희망, 사랑, 순수...? 어린 시절, 선택받은 아이들과 함께 디지털 월드로 떠났던 추억의 한 페이지를 다시 펼쳐보지 않을래? 그 가슴 뛰던 모험, 그 속에서 빛났던 태그와 문장이 액세 - X",
@@ -26,7 +39,7 @@
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVBZdXFWRHZRcGZNY0Rvd1dVNEZFYWRsVmpqVmFkaUhRcDRrS1BVazE0Nl80SlZxc2VzM0xPczdWblI5MGVCNzhmVWpKT2lzRFhQbVFRZFFJTThmeHY1X19uR25EQjN5dV82UkFVOW5od3BsOVpnVDJKT2tiLXp3alBpNzhjYWtpZGp0d0VzcVFqTjNPcXc?oc=5",
       "image": null,
-      "timestamp": 1794294521,
+      "timestamp": 1794294523,
       "created_at": "2026-11-10 16:08",
       "title_orig": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards"
     },
@@ -74,6 +87,19 @@
       "created_at": "2026-11-10 15:00",
       "title_orig": "「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる",
       "title_ja": "「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる"
+    },
+    {
+      "id": "1bc8a4e2abb4aa4a4c8dc33ac4779570",
+      "title": "[트윗] 블루아카 응원단 토키 공개된 피규어 너무 귀여운 거 아니냐고 조만간 커미션 열 것 같아요 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TOFE5Y2tHN3FnekhBazZPYkdmT0FTN2Z4b0tXQU5GZDM4UnNZX2ZBN2JuVkpkTFl0ZWYxaFIyeThyMFF4V0NMT29zMFgwRjZ4UjZXbUd6UGJ6dVdIVWVGdEhR?oc=5",
+      "image": null,
+      "timestamp": 1794280639,
+      "created_at": "2026-11-10 12:17"
     },
     {
       "id": "f43a60baeacac1428f2a16ac9d666b8d",
@@ -268,6 +294,19 @@
       "image": null,
       "timestamp": 1794027080,
       "created_at": "2026-11-07 13:51"
+    },
+    {
+      "id": "47408d6ceb7b5fa8e42c3b9d0a3c6f22",
+      "title": "[일본뉴스] 【デジモンアリシオン】リリース前にデジカ第１弾環境を振り返ろう!！アリシオンカードがあったらどうなってた？",
+      "snippet": "【デジモンアリシオン】リリース前にデジカ第１弾環境を振り返ろう!！アリシオンカードがあったらどうなってた？ YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TdGZWbExVdjA3RlkxMjA1RmQzRWVqdTk4UzFmMTdMeDhFN1NGREhsdF9xd05OLVc3Wld3X1h0VkZoalA1NnlMRHAxb0Z0X0d4Y3gzeGNZWHAzQURl?oc=5",
+      "image": null,
+      "timestamp": 1793966428,
+      "created_at": "2026-11-06 21:00"
     },
     {
       "id": "69fedfe080deff49dbc50b372b97fe13",
