@@ -1,11 +1,24 @@
 {
-  "last_updated": "2026-11-10 03:02:00",
-  "total_count": 520,
+  "last_updated": "2026-11-10 10:22:54",
+  "total_count": 521,
   "retention_days": 90,
   "feeds": [
     {
+      "id": "c7c0311e16c810fbfd55b7b430f323ae",
+      "title": "[영상] 수고한 인하즈를 위한 권인하의 \"버터플라이\" (디지몬 어드벤쳐 주제가)",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtS00zUkNnd1RXNEFoRGV4M09ETlg1dFNHcWxHNkpqRmU2a25OM2tRZFZyaW5LcE5zVTNCdVJWenhucnBTYXNPNEpUaElyZzl4SHY4am5B?oc=5",
+      "image": null,
+      "timestamp": 1794233729,
+      "created_at": "2026-11-09 23:15"
+    },
+    {
       "id": "d2b52cdd6990199d96924ed75e6283ab",
-      "title": "[일본뉴스] 【デジモンUP】サポーターガシャチケットの入手方法と使い道",
+      "title": "[일본뉴스] 【디지몬 UP】 서포터 가챠 티켓 획득 방법과 사용처",
       "snippet": "【デジモンUP】サポーターガシャチケットの入手方法と使い道 GameWith",
       "source": "GameWith",
       "source_badge": "일본뉴스",
@@ -14,7 +27,9 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlbzBJdk44S05pbzFsTXlBd1ZjaEpVTUNiLXFMZ1U4ZWZMSDlVSGJ3WVVuMy1BTlJqMGlGdEhnVmhMWkxta1RicVpZeDc?oc=5",
       "image": null,
       "timestamp": 1794217518,
-      "created_at": "2026-11-09 18:45"
+      "created_at": "2026-11-09 18:45",
+      "title_orig": "【デジモンUP】サポーターガシャチケットの入手方法と使い道",
+      "title_ja": "【デジモンUP】サポーターガシャチケットの入手方法と使い道"
     },
     {
       "id": "8d44b05532e88ae85e59ed0a49271a3a",
@@ -44,7 +59,7 @@
     },
     {
       "id": "a5791514c747c9add3768479b050cd39",
-      "title": "[일본뉴스] 【デジモンOP】Butter-Fly 【Guitar Cover】",
+      "title": "[일본뉴스] 【디지몬 OP】 Butter-Fly 【기타 커버】",
       "snippet": "【デジモンOP】Butter-Fly 【Guitar Cover】 YouTube",
       "source": "YouTube",
       "source_badge": "일본뉴스",
@@ -53,7 +68,9 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BYUxIdmJGdVZZSHZFLXR1RE5oMS0tOXlKSkRvU3NyME9xRGhPRXVodE9rdHdXZ2ZYNWxBRzZYOE5TRVlQcXJQaE9KYW1wTV9hSnRORlJWQW5MdnBU?oc=5",
       "image": null,
       "timestamp": 1794145413,
-      "created_at": "2026-11-08 22:43"
+      "created_at": "2026-11-08 22:43",
+      "title_orig": "【デジモンOP】Butter-Fly 【Guitar Cover】",
+      "title_ja": "【デジモンOP】Butter-Fly 【Guitar Cover】"
     },
     {
       "id": "0b24bae2e6f6879d2ae3791378f7ec14",
@@ -891,19 +908,6 @@
       "title_orig": "New Official Digimon Release Confirmed for August 18"
     },
     {
-      "id": "0349f77855d8e85e3b632bc26540c48e",
-      "title": "[인스타] . 🌟 11월 신제품 정보 공개 🌟 📌 디지몬 어드벤처 #デジモンアドベンチャー ✔️ 토비마스 디지몬 어드벤처 🔔 색채 원형 첫 공개 ! 🗓️ 11월 5일 (목) 예약 개시 예정 #메가하우스공식몰 #베스트하비",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5ckNTSzN5TXdOaThQZFRCaFRTTDFET21NQnZTREtUam9VbGo4TFVaT21rRVBGQmF6U0w3akU0eWp3SXg3YUtPejMycVlzc2xoa3c?oc=5",
-      "image": null,
-      "timestamp": 1793520550,
-      "created_at": "2026-11-01 17:09"
-    },
-    {
       "id": "6a3aaef413b66f8f1f176d93bedae901",
       "title": "[트윗] 🌟 11월 신제품 정보 공개 🌟 📌 디지몬 어드벤처 #デジモンアドベンチャー ✔️ 토비마스 디지몬 어드벤처 🔔 색채 원형 첫 공개 ! 🗓️ 11월 5일 (목) 예약 개시 예정 #메가하우스공식몰 #베스트하비 - X",
       "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
@@ -915,6 +919,19 @@
       "image": null,
       "timestamp": 1793520429,
       "created_at": "2026-11-01 17:07"
+    },
+    {
+      "id": "0349f77855d8e85e3b632bc26540c48e",
+      "title": "[인스타] . 🌟 11월 신제품 정보 공개 🌟 📌 디지몬 어드벤처 #デジモンアドベンチャー ✔️ 토비마스 디지몬 어드벤처 🔔 색채 원형 첫 공개 ! 🗓️ 11월 5일 (목) 예약 개시 예정 #메가하우스공식몰 #베스트하비",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5ckNTSzN5TXdOaThQZFRCaFRTTDFET21NQnZTREtUam9VbGo4TFVaT21rRVBGQmF6U0w3akU0eWp3SXg3YUtPejMycVlzc2xoa3c?oc=5",
+      "image": null,
+      "timestamp": 1793516400,
+      "created_at": "2026-11-01 16:00"
     },
     {
       "id": "8a13c2c6a08a202a07f467738e52154d",
