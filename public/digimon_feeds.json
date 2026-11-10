@@ -1,8 +1,99 @@
 {
-  "last_updated": "2026-11-10 10:22:54",
-  "total_count": 521,
+  "last_updated": "2026-11-10 18:01:15",
+  "total_count": 544,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "8f846100864328c9a2ee7f50d0afa1fe",
+      "title": "[해외뉴스] DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards",
+      "snippet": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVBZdXFWRHZRcGZNY0Rvd1dVNEZFYWRsVmpqVmFkaUhRcDRrS1BVazE0Nl80SlZxc2VzM0xPczdWblI5MGVCNzhmVWpKT2lzRFhQbVFRZFFJTThmeHY1X19uR25EQjN5dV82UkFVOW5od3BsOVpnVDJKT2tiLXp3alBpNzhjYWtpZGp0d0VzcVFqTjNPcXc?oc=5",
+      "image": null,
+      "timestamp": 1794296599,
+      "created_at": "2026-11-10 16:43"
+    },
+    {
+      "id": "79951f1d0cd76a70f083556830a07bbe",
+      "title": "[일본뉴스] 事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン",
+      "snippet": "事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン Dtimes",
+      "source": "Dtimes",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zbWtjYlBHUXlENXpFMC16bzctdG51aVlub3VVVHh5YjVGdi14MTNvQTNQcWpJaFZXTmxKdE1KZlZWV3BRTVE?oc=5",
+      "image": null,
+      "timestamp": 1794290608,
+      "created_at": "2026-11-10 15:03"
+    },
+    {
+      "id": "09a96d5aa1de2bf2f1fc328e5c8c363d",
+      "title": "[일본뉴스] 「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント",
+      "snippet": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント 4Gamer.net",
+      "source": "4Gamer.net",
+      "source_badge": "일본뉴스",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjX011dW40ZEpTTkVKdlZPUDByS3FoV2NZb004SS1mNmtwRGdzRlFkT2w3elFOT09vS1RoS190NkFuUHFsaGVpd2p0bEliWmxuRzJ6a2dqYm5FLUFDM041SnI4SQ?oc=5",
+      "image": null,
+      "timestamp": 1794290400,
+      "created_at": "2026-11-10 15:00"
+    },
+    {
+      "id": "8f047eb5f5e38ddd0b6d5a368e1000a0",
+      "title": "[일본뉴스] 「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる",
+      "snippet": "「デジモンアリシオン」日本・北米の事前登録者数が20万人を突破！40万人達成でオメガモンがもらえる Gamer",
+      "source": "Gamer",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RQWNCWmNheWhSWEZlb0tia1ktR1Zqbm82c201dGQxOERXY0FsNkprQkJ0Y2h5cFlhMjZBVGlrQnVZdlJ2MmdETkxOOHdraGlVVDdkUA?oc=5",
+      "image": null,
+      "timestamp": 1794290400,
+      "created_at": "2026-11-10 15:00"
+    },
+    {
+      "id": "f43a60baeacac1428f2a16ac9d666b8d",
+      "title": "[영상] 추구미 인하즈를 위해 권인하가 부르는 버터플라이 (디지몬 어드벤처)",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mZHRvMVZ0Rm5IMnQ4ZkhwTTNBcGxsTDlQcU95ZUNHMzdKVThtb1paV1VtN2JPdjlULTBEbUlsTVhnTlZxMmNqYWUwTzNMVnM0VjdyRzFR?oc=5",
+      "image": null,
+      "timestamp": 1794279894,
+      "created_at": "2026-11-10 12:04"
+    },
+    {
+      "id": "d4a8e0a6ed1534bb3ae4345a78afac9c",
+      "title": "[영상] 아포카리몬이 최종 빌런이었던 이유",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HX2I3d0x0QkZSdnk2QlBnNlVpYkdVRXRXXzFvbHZXd2xreWktRUV4dXNrVnRIeDk4Nk42Z25ULTJFY2g4UG15am53bG1FWTV4Y1QxRFNB?oc=5",
+      "image": null,
+      "timestamp": 1794279624,
+      "created_at": "2026-11-10 12:00"
+    },
+    {
+      "id": "7622be48c95109229dd6d1af120d97c0",
+      "title": "[공식] バンダイナムコグループのデジモン関連商品が多数そろう「DIGIMON POP UP」開催！",
+      "snippet": "디지몬 공식 사이트 ニュース",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://digimon.net/topic/detail.php?id=2102",
+      "image": null,
+      "timestamp": 1794236400,
+      "created_at": "2026-11-10 00:00"
+    },
     {
       "id": "c7c0311e16c810fbfd55b7b430f323ae",
       "title": "[영상] 수고한 인하즈를 위한 권인하의 \"버터플라이\" (디지몬 어드벤쳐 주제가)",
@@ -30,6 +121,19 @@
       "created_at": "2026-11-09 18:45",
       "title_orig": "【デジモンUP】サポーターガシャチケットの入手方法と使い道",
       "title_ja": "【デジモンUP】サポーターガシャチケットの入手方法と使い道"
+    },
+    {
+      "id": "8e64213330faff0dc0ee7a5c859c2d52",
+      "title": "[인스타] 韓國數碼暴龍充電器…新4色…電量不變… Koera power bank... new color options. #數碼暴龍 #數碼寶貝 #デジモン #디지몬 #digimon",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZzhrd001RmJHZDhzbENCM2dFb2VqS2dVYkl0R2U2alUwdTN2R1N5UGNXSllwdVk5NUFGU3o3RnBhT0I0ZlplcDJZcks3azBORXc?oc=5",
+      "image": null,
+      "timestamp": 1794212498,
+      "created_at": "2026-11-09 17:21"
     },
     {
       "id": "8d44b05532e88ae85e59ed0a49271a3a",
@@ -259,6 +363,32 @@
       "title_ja": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻（インサイド）"
     },
     {
+      "id": "6e5fff2658a92b82c56959ff02305d87",
+      "title": "[위키몬 신규] Lord Knightmon (Cyber Sleuth)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Lord Knightmon (Cyber Sleuth))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Lord_Knightmon_%28Cyber_Sleuth%29",
+      "image": null,
+      "timestamp": 1793912042,
+      "created_at": "2026-11-06 05:54"
+    },
+    {
+      "id": "8ad04f9e1cbe8c247049a9438f7f7074",
+      "title": "[위키몬 신규] Yoshi.",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Yoshi.)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Yoshi.",
+      "image": null,
+      "timestamp": 1793897284,
+      "created_at": "2026-11-06 01:48"
+    },
+    {
       "id": "2be57118b717e052ca63a307fed44502",
       "title": "[하비뉴스] 【한정 판매】 Precious G.E.M. 시리즈 디지몬 어드벤처 우리들의 워 게임 오메가몬 2023ver. (재판) [메가하우스] 【동봉 불가】 《07월 예약》",
       "snippet": "【限定販売】Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.（再販）[メガハウス]【同梱不可】《０７月予約》 あみあみ",
@@ -301,6 +431,19 @@
       "created_at": "2026-11-05 19:00",
       "title_orig": "【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」",
       "title_ja": "【期間限定公開】デジモンユニバース アプリモンスターズ 第6話「最高のグルメレポート！グルメアプリ・ペロリモン！」"
+    },
+    {
+      "id": "5dc11c7092b7fb90fa6b9a9c8e79a41d",
+      "title": "[위키몬 신규] Anime 25th Anniversary \"Digimon Adventure Exhibition\"",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Anime 25th Anniversary \"Digimon Adventure Exhibition\")입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Anime_25th_Anniversary_%22Digimon_Adventure_Exhibition%22",
+      "image": null,
+      "timestamp": 1793870416,
+      "created_at": "2026-11-05 18:20"
     },
     {
       "id": "2d991dfebe18e271a63860a184ad11a0",
@@ -489,6 +632,19 @@
       "title_ja": "シリーズ最大級の大きさと大迫力のポージング！PreciousG.E.M.オメガモンが再び登場！"
     },
     {
+      "id": "20b892f65f0b9367c5b739c16e87cdb0",
+      "title": "[위키몬 신규] Alphamon (Cyber Sleuth)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Alphamon (Cyber Sleuth))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Alphamon_%28Cyber_Sleuth%29",
+      "image": null,
+      "timestamp": 1793790870,
+      "created_at": "2026-11-04 20:14"
+    },
+    {
       "id": "439dfd53ca628ede639ec252d9586027",
       "title": "[하비뉴스] 토비마스 디지몬 어드벤처 6개입 BOX [메가하우스] 《04월 예약》",
       "snippet": "とびマス デジモンアドベンチャー 6個入りBOX[メガハウス]《０４月予約》 あみあみ",
@@ -531,6 +687,58 @@
       "created_at": "2026-11-04 17:49",
       "title_orig": "メガハウス「とびマス デジモンアドベンチャー」が2027年4月発売！八神太一やアグモンたち全6種が熱く駆ける！",
       "title_ja": "メガハウス「とびマス デジモンアドベンチャー」が2027年4月発売！八神太一やアグモンたち全6種が熱く駆ける！"
+    },
+    {
+      "id": "52ded722d993b69796cc18a90a54805a",
+      "title": "[위키몬 신규] BD02-04 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD02-04 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BD02-04_%28DCG%29",
+      "image": null,
+      "timestamp": 1793771142,
+      "created_at": "2026-11-04 14:45"
+    },
+    {
+      "id": "df8b2cd006bb3ec01db7c5a852b87c3c",
+      "title": "[위키몬 신규] BD02-03 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD02-03 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BD02-03_%28DCG%29",
+      "image": null,
+      "timestamp": 1793770962,
+      "created_at": "2026-11-04 14:42"
+    },
+    {
+      "id": "9366b71972747772e7298ec81c3f590e",
+      "title": "[위키몬 신규] BD02-02 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD02-02 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BD02-02_%28DCG%29",
+      "image": null,
+      "timestamp": 1793767845,
+      "created_at": "2026-11-04 13:50"
+    },
+    {
+      "id": "8320db843376f62c7d89e275188c996e",
+      "title": "[위키몬 신규] BD-02",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD-02)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BD-02",
+      "image": null,
+      "timestamp": 1793767576,
+      "created_at": "2026-11-04 13:46"
     },
     {
       "id": "c376f92534a38d976777c90498f99587",
@@ -651,6 +859,58 @@
       "title_ja": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が最高にアツい！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
     },
     {
+      "id": "95f5a9b82cce0eed9436245a9d6ada7f",
+      "title": "[위키몬 신규] Dark Tunnel",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Dark Tunnel)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Dark_Tunnel",
+      "image": null,
+      "timestamp": 1793741821,
+      "created_at": "2026-11-04 06:37"
+    },
+    {
+      "id": "31f365206febaa3f57798076beb0b853",
+      "title": "[위키몬 신규] Digimon Eggs - Chapter 02",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Digimon Eggs - Chapter 02)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Digimon_Eggs_-_Chapter_02",
+      "image": null,
+      "timestamp": 1793737976,
+      "created_at": "2026-11-04 05:32"
+    },
+    {
+      "id": "0d96d20b1ad4a490df488b64bac8b3d0",
+      "title": "[위키몬 신규] Seimon",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Seimon)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Seimon",
+      "image": null,
+      "timestamp": 1793735093,
+      "created_at": "2026-11-04 04:44"
+    },
+    {
+      "id": "bf4ef3cd4b792939e929ad62160c88e1",
+      "title": "[위키몬 신규] BD01-06 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD01-06 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BD01-06_%28DCG%29",
+      "image": null,
+      "timestamp": 1793707164,
+      "created_at": "2026-11-03 20:59"
+    },
+    {
       "id": "bd2584724fe1fc85c1725d703bca9eb7",
       "title": "[일본뉴스] 이것으로 디지몬의 늪에 빠졌습니다 좌담회",
       "snippet": "これでデジモンの沼にハマりました座談会 YouTube",
@@ -664,6 +924,45 @@
       "created_at": "2026-11-03 20:57",
       "title_orig": "これでデジモンの沼にハマりました座談会",
       "title_ja": "これでデジモンの沼にハマりました座談会"
+    },
+    {
+      "id": "8de1a96c46582982dfe287a3e047df84",
+      "title": "[위키몬 신규] BT27-072 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-072 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-072_%28DCG%29",
+      "image": null,
+      "timestamp": 1793706254,
+      "created_at": "2026-11-03 20:44"
+    },
+    {
+      "id": "28f72c7f18ec97ff253d809e03bae003",
+      "title": "[위키몬 신규] BT27-065 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-065 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-065_%28DCG%29",
+      "image": null,
+      "timestamp": 1793706003,
+      "created_at": "2026-11-03 20:40"
+    },
+    {
+      "id": "a70caba16d20a8eed346cdbe5c084b2d",
+      "title": "[위키몬 신규] BT27-060 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-060 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-060_%28DCG%29",
+      "image": null,
+      "timestamp": 1793705670,
+      "created_at": "2026-11-03 20:34"
     },
     {
       "id": "8ff4f7b9351ed7744610a0a5a16a8c35",
@@ -1580,19 +1879,6 @@
       "title_orig": "The Digimon Card Game Goes Digital With Digimon Alysion"
     },
     {
-      "id": "aa4bf7fb3dd7f42d6c2008b33eb88c27",
-      "title": "[인스타] #oddstudio @nct NCT WISH JAEHEE [디지몬 어드벤처] Panel Digimon Raglan Long Sleeve",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Vk5oSVZrRnp0dHVocTdTNkJWMjV4TTljZlpSRkdNY21WdHcwOWlKb3BPd0Nld19sZGFQUG11VWY5VEVWUmxFeUx3Z0FtRHhXeUE?oc=5",
-      "image": null,
-      "timestamp": 1793190007,
-      "created_at": "2026-10-28 21:20"
-    },
-    {
       "id": "5e74543412741c4fe65a75c571afa43e",
       "title": "[해외뉴스] 디지몬 카드 게임, 디지몬 알리시온에서 디지털 월드로 향하다",
       "snippet": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION OpenCritic",
@@ -1765,6 +2051,19 @@
       "created_at": "2026-10-28 16:26",
       "title_orig": "【デジモンUP】武之内空＆ピヨモンは引くべき？",
       "title_ja": "【デジモンUP】武之内空＆ピヨモンは引くべき？"
+    },
+    {
+      "id": "aa4bf7fb3dd7f42d6c2008b33eb88c27",
+      "title": "[인스타] #oddstudio @nct NCT WISH JAEHEE [디지몬 어드벤처] Panel Digimon Raglan Long Sleeve",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Vk5oSVZrRnp0dHVocTdTNkJWMjV4TTljZlpSRkdNY21WdHcwOWlKb3BPd0Nld19sZGFQUG11VWY5VEVWUmxFeUx3Z0FtRHhXeUE?oc=5",
+      "image": null,
+      "timestamp": 1793170800,
+      "created_at": "2026-10-28 16:00"
     },
     {
       "id": "bd5b36d18b2d8e30e2e14d1ff2322c51",
