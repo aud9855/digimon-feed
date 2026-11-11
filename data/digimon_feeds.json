@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12 02:49:47",
-  "total_count": 567,
+  "last_updated": "2026-11-12 08:59:39",
+  "total_count": 570,
   "retention_days": 90,
   "feeds": [
     {
@@ -17,6 +17,21 @@
       "created_at": "2026-11-11 21:38",
       "title_orig": "【デジモンビートブレイク】新規録り下ろしピクチャーボイスドラマも収録！ アニメ『DIGIMON BEATBREAK』完結記念のBlu-ray BOXプロジェクトが始動",
       "title_ja": "【デジモンビートブレイク】新規録り下ろしピクチャーボイスドラマも収録！ アニメ『DIGIMON BEATBREAK』完結記念のBlu-ray BOXプロジェクトが始動"
+    },
+    {
+      "id": "76b6488527f82721a40b4e324be5bcc3",
+      "title": "[일본뉴스] 『디지몬 어드벤처 3D 디지몬 그랑프리』 YouTube에서 기간 한정 무료 공개. 호소다 마모루 씨가 연출. 디지몬 공식 채널에서 최초 스트리밍",
+      "snippet": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信 ファミ通",
+      "source": "ファミ通",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mVmRhZkppM2xUNF92T2RZMTFyQXFmelVTakN1Vmt2RHpPTmdGLWZZNjVCWkVzMmJDa0N0UkJMTjBjUEZBckFVaW1CSkEtemxtbkhoWkJKaw?oc=5",
+      "image": null,
+      "timestamp": 1794394680,
+      "created_at": "2026-11-11 19:58",
+      "title_orig": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信",
+      "title_ja": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信"
     },
     {
       "id": "8668444f48ec994023f62bc31d5edeed",
@@ -75,6 +90,19 @@
       "image": null,
       "timestamp": 1794391754,
       "created_at": "2026-11-11 19:09"
+    },
+    {
+      "id": "c5f423771f320bfd7d903b777c73654d",
+      "title": "[영상] 『디지몬RPG 현존 최강 디지몬』죄다 한방컷이네 ㅋㅋㅋㅋㅋ",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12SjRpUWNlUkdCZTlmNXQ5SExpVFpjTlJuQ1NfclhGekZjWU8zRk9BdG9DdXpuTDc0VUJnVllFNUZCVG5tbVY2ajRJc2dmMTVFZXFQb1ZB?oc=5",
+      "image": null,
+      "timestamp": 1794391223,
+      "created_at": "2026-11-11 19:00"
     },
     {
       "id": "f3a9b731af78891b861f0e576dab109c",
@@ -7602,6 +7630,19 @@
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRVE1VHd3WDNmQlVNVlJwaTlYNlI5UW1aYlBxUE45bk51MElaQzNmT1JFa3RFTFAwZWY2ZmlubjU3VnJDNzhJNGQ1bnRyb1BnNkE?oc=5",
+      "image": null,
+      "timestamp": 1787814000,
+      "created_at": "2026-08-27 16:00"
+    },
+    {
+      "id": "8504c77033ee4a92e4729c4be2e442cb",
+      "title": "[인스타] 디지몬어드벤처의 코로몬과 깜몬 키링을 제작했어요! 미니미한 사이즈로 직접 제작한 픽셀아트입니다 :) 의뢰 감사합니다! 💗 #펄러비즈 #펄러비즈공예 #픽셀아트 #디지몬 #선물추천",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaDVESTQ0ZWdza01nZW9IeXNaNm5POHkzeVlma285dXI3VHBRaGVad2dtbGNQdl9sdlBBaGM3eVhUOG1PTGFNNk5HdVlmc3ZmWXc?oc=5",
       "image": null,
       "timestamp": 1787814000,
       "created_at": "2026-08-27 16:00"
