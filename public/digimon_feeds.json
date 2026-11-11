@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-11-11 07:06:36",
-  "total_count": 550,
+  "last_updated": "2026-11-11 11:34:58",
+  "total_count": 553,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "da84dc97803cca800624049b456ac1f0",
+      "title": "[인스타] 디지몬 디지바이스 리바이벌 📟 반다이남코코리아몰 판매 중! 벌써 타이치 컬러 디지바이스는 품절..🥹💦 💌 [아무 댓글] 남기면 DM으로 구매링크 바로 전송!! 📌 DM이 안 오시는 분들은 꼭 👉팔로우👈 먼저 해주세요! 그래도 오지 않는다면 설정 > 개인정보보호 > 메시지 관",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LQTFTcWhfZXRBRUhMaHhDZjQtci1IekFsMTBUczZSTk53a1MxT3lJZE52RmlvWERFZ2NmWkd2YUtnMUM5akcteVlMTk9VRmliYWc?oc=5",
+      "image": null,
+      "timestamp": 1794359178,
+      "created_at": "2026-11-11 10:06"
+    },
+    {
+      "id": "be307c542ba32c9644323c3a3ee96699",
+      "title": "[위키몬 신규] ED-01",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (ED-01)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/ED-01",
+      "image": null,
+      "timestamp": 1794349283,
+      "created_at": "2026-11-11 07:21"
+    },
+    {
+      "id": "38dc494aa019dbf326c5ba986399fc69",
+      "title": "[위키몬 신규] ED01-02 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (ED01-02 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/ED01-02_%28DCG%29",
+      "image": null,
+      "timestamp": 1794348236,
+      "created_at": "2026-11-11 07:03",
+      "title_orig": "ED01-02 (DCG)"
+    },
     {
       "id": "63e0afedc7e701396089b7113aebb086",
       "title": "[위키몬 신규] ED01-01 (DCG)",
@@ -14,7 +54,8 @@
       "link": "https://wikimon.net/ED01-01_%28DCG%29",
       "image": null,
       "timestamp": 1794347870,
-      "created_at": "2026-11-11 06:57"
+      "created_at": "2026-11-11 06:57",
+      "title_orig": "ED01-01 (DCG)"
     },
     {
       "id": "e7403a342c0556b14c56a1277ca1e2f3",
@@ -297,7 +338,7 @@
     },
     {
       "id": "47408d6ceb7b5fa8e42c3b9d0a3c6f22",
-      "title": "[일본뉴스] 【デジモンアリシオン】リリース前にデジカ第１弾環境を振り返ろう!！アリシオンカードがあったらどうなってた？",
+      "title": "[일본뉴스] 【디지몬 알리시온】 출시 전에 디지카 제1탄 환경을 되돌아보자!！알리시온 카드가 있었다면 어떻게 됐을까?",
       "snippet": "【デジモンアリシオン】リリース前にデジカ第１弾環境を振り返ろう!！アリシオンカードがあったらどうなってた？ YouTube",
       "source": "YouTube",
       "source_badge": "일본뉴스",
@@ -306,7 +347,9 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TdGZWbExVdjA3RlkxMjA1RmQzRWVqdTk4UzFmMTdMeDhFN1NGREhsdF9xd05OLVc3Wld3X1h0VkZoalA1NnlMRHAxb0Z0X0d4Y3gzeGNZWHAzQURl?oc=5",
       "image": null,
       "timestamp": 1793966428,
-      "created_at": "2026-11-06 21:00"
+      "created_at": "2026-11-06 21:00",
+      "title_orig": "【デジモンアリシオン】リリース前にデジカ第１弾環境を振り返ろう!！アリシオンカードがあったらどうなってた？",
+      "title_ja": "【デジモンアリシオン】リリース前にデジカ第１弾環境を振り返ろう!！アリシオンカードがあったらどうなってた？"
     },
     {
       "id": "69fedfe080deff49dbc50b372b97fe13",
