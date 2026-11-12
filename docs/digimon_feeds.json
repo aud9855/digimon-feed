@@ -1,8 +1,53 @@
 {
-  "last_updated": "2026-11-12 14:00:01",
-  "total_count": 573,
+  "last_updated": "2026-11-12 22:31:37",
+  "total_count": 576,
   "retention_days": 90,
   "feeds": [
+    {
+      "id": "1d24bf2b4d8459577e8e520e884bb01b",
+      "title": "[일본뉴스] 【기간 한정 공개】 디지몬 유니버스 애플리케이션 몬스터즈 제7화 「세 번째 앱드라이브! 토라지로는 앱튜버!」",
+      "snippet": "【期間限定公開】デジモンユニバース アプリモンスターズ 第7話「3つ目のアプリドライヴ！虎次郎はアプチューバー！」 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IR0xZZlh6Y3lXelFBbjhndmpaM2hsTUVTNUdMRXBTSS0taUJac3BfbkF5T1laVDhYNUhGQ2ZWLWhST2dqNHFFX3d2Z2xyRWtuam55WmFHOTdfaUt0?oc=5",
+      "image": null,
+      "timestamp": 1794477600,
+      "created_at": "2026-11-12 19:00",
+      "title_orig": "【期間限定公開】デジモンユニバース アプリモンスターズ 第7話「3つ目のアプリドライヴ！虎次郎はアプチューバー！」",
+      "title_ja": "【期間限定公開】デジモンユニバース アプリモンスターズ 第7話「3つ目のアプリドライヴ！虎次郎はアプチューバー！」"
+    },
+    {
+      "id": "dc0dc22c8d69bb059e109819101d492a",
+      "title": "[일본뉴스] 【디지몬 UP】 다크 에너지 강화 칩 획득 방법과 사용처",
+      "snippet": "【デジモンUP】ダークエネルギー強化チップの入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96MG5WenhRa3BvOGhkWlVodkZOMlBkUkZLejBWNXQxUjZDQk11emJ3Yy1wZ0lNY1huSEpXUDV6N1JWczdnTGNwb1BSX1Y?oc=5",
+      "image": null,
+      "timestamp": 1794477333,
+      "created_at": "2026-11-12 18:55",
+      "title_orig": "【デジモンUP】ダークエネルギー強化チップの入手方法と使い道",
+      "title_ja": "【デジモンUP】ダークエネルギー強化チップの入手方法と使い道"
+    },
+    {
+      "id": "78622cede0e849b57bed31fc03ad7c53",
+      "title": "[일본뉴스] 「디지몬 어드벤처」가 메지루시 액세서리로! 「코로몬」 등, 선택받은 아이들의 유년기 디지몬 전 8종 (인사이드)",
+      "snippet": "「デジモンアドベンチャー」がめじるしアクセサリーに！「コロモン」など、選ばれし子どもたちの幼年期デジモン全8種（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzhSWXVOMEtEaWZCS3JKV2FTYndId1B2NnlNSFZGWkNvM0NMNXRaMTc0Z09aT215dWlMV1htZjhWRkZmT1dHazRqOU5UeDJkT19ZTl84dEdFSlJDcXlkTzNhUWFjMHY2MzJoZWZhY1lUOE1zQzNWR3JmVHhKVEk?oc=5",
+      "image": null,
+      "timestamp": 1794463204,
+      "created_at": "2026-11-12 15:00",
+      "title_orig": "「デジモンアドベンチャー」がめじるしアクセサリーに！「コロモン」など、選ばれし子どもたちの幼年期デジモン全8種（インサイド）",
+      "title_ja": "「デジモンアドベンチャー」がめじるしアクセサリーに！「コロモン」など、選ばれし子どもたちの幼年期デジモン全8種（インサイド）"
+    },
     {
       "id": "2d991dfebe18e271a63860a184ad11a0",
       "title": "[일본뉴스] 【디지몬 UP】 에테몬의 평가와 성능",
@@ -1061,6 +1106,21 @@
       "title_ja": "メガハウス「とびマス デジモンアドベンチャー」が2027年4月発売！八神太一やアグモンたち全6種が熱く駆ける！"
     },
     {
+      "id": "636a7b0310c44fa96464aecdf8ddb407",
+      "title": "[하비뉴스] 『디지몬 어드벤처』가 신감각 마스코트 '토비마스'에 합류! '룩업' 쉬라몬, 피요몬도 대망의 재발매!!",
+      "snippet": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!! 電撃ホビーウェブ",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSa1VIV2xWaC0wUUtoVWxvNjlqa3E3elI4OFVaN1d3aTVqMUliMGc5YW4za2VSYXhvR2hsaklxV1BkVU1ISkVaanpkVUE2dW1j?oc=5",
+      "image": null,
+      "timestamp": 1793779200,
+      "created_at": "2026-11-04 17:00",
+      "title_orig": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!!",
+      "title_ja": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!!"
+    },
+    {
       "id": "52ded722d993b69796cc18a90a54805a",
       "title": "[위키몬 신규] BD02-04 (DCG)",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD02-04 (DCG))입니다.",
@@ -1187,21 +1247,6 @@
       "image": null,
       "timestamp": 1793761235,
       "created_at": "2026-11-04 12:00"
-    },
-    {
-      "id": "636a7b0310c44fa96464aecdf8ddb407",
-      "title": "[하비뉴스] 『디지몬 어드벤처』가 신감각 마스코트 '토비마스'에 합류! '룩업' 쉬라몬, 피요몬도 대망의 재발매!!",
-      "snippet": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!! 電撃ホビーウェブ",
-      "source": "전격하비",
-      "source_badge": "하비뉴스",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSa1VIV2xWaC0wUUtoVWxvNjlqa3E3elI4OFVaN1d3aTVqMUliMGc5YW4za2VSYXhvR2hsaklxV1BkVU1ISkVaanpkVUE2dW1j?oc=5",
-      "image": null,
-      "timestamp": 1793757600,
-      "created_at": "2026-11-04 11:00",
-      "title_orig": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!!",
-      "title_ja": "『デジモンアドベンチャー』が新感覚マスコット「とびマス」に仲間入り！「るかっぷ」ゴマモン、ピヨモンも待望の再販!!"
     },
     {
       "id": "38dd7a89f77d73a3e2e9e5d37f162330",
@@ -3518,6 +3563,19 @@
       "title_orig": "Digimon World Enhanced (Distortion Mod)"
     },
     {
+      "id": "0b1154a00ea1be6b7535b39b8a654478",
+      "title": "[인스타] 디지몬투어 좀 외진곳에 있어 가기 힘든 빛의 언덕. 다들 저마다 문장 하나씩 가슴에 품고 있는, 우리 모두 선택받은 아이들. みんなそれぞれ胸にひとつの紋章を抱いている、僕たちはみんな選ばれし子どもたち。",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfOEV4cmlHdTYzQ0JWbTNiS3FPR0hGUW81Z210QW9pOXhqWVZibWFjV1FGU2VLc1NrVTVQTXBFVUVzWG5JelM3SDFPQTJGZWZhUUE?oc=5",
+      "image": null,
+      "timestamp": 1792652400,
+      "created_at": "2026-10-22 16:00"
+    },
+    {
       "id": "abb06f0982ca01976c3a9b7b319feb13",
       "title": "[인스타] 우리 내일... 같이...! (등산 가자) 그래 그리 쉽지는 않겠지~~ #디지몬 #KPLUS",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -3604,19 +3662,6 @@
       "created_at": "2026-10-22 12:12",
       "title_orig": "【デジモンUP】試練の遺跡の進め方と報酬",
       "title_ja": "【デジモンUP】試練の遺跡の進め方と報酬"
-    },
-    {
-      "id": "0b1154a00ea1be6b7535b39b8a654478",
-      "title": "[인스타] 디지몬투어 좀 외진곳에 있어 가기 힘든 빛의 언덕. 다들 저마다 문장 하나씩 가슴에 품고 있는, 우리 모두 선택받은 아이들. みんなそれぞれ胸にひとつの紋章を抱いている、僕たちはみんな選ばれし子どもたち。",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfOEV4cmlHdTYzQ0JWbTNiS3FPR0hGUW81Z210QW9pOXhqWVZibWFjV1FGU2VLc1NrVTVQTXBFVUVzWG5JelM3SDFPQTJGZWZhUUE?oc=5",
-      "image": null,
-      "timestamp": 1792634282,
-      "created_at": "2026-10-22 10:58"
     },
     {
       "id": "10fbd85a35bb305dcefd2a10b277ad12",
