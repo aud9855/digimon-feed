@@ -1,8 +1,193 @@
 {
-  "last_updated": "2026-11-13 19:23:39",
-  "total_count": 597,
+  "last_updated": "2026-11-14 03:19:58",
+  "total_count": 610,
   "retention_days": 90,
+  "sources": [
+    {
+      "name": "Google News (KR)",
+      "count": 60,
+      "errors": 0,
+      "seconds": 1.5
+    },
+    {
+      "name": "Google News (EN)",
+      "count": 32,
+      "errors": 0,
+      "seconds": 1.3
+    },
+    {
+      "name": "Google News (JA)",
+      "count": 35,
+      "errors": 0,
+      "seconds": 1.2
+    },
+    {
+      "name": "루리웹 모형정보",
+      "count": 32,
+      "errors": 0,
+      "seconds": 2.3
+    },
+    {
+      "name": "디시 디지몬",
+      "count": 0,
+      "errors": 1,
+      "seconds": 0.9,
+      "last_error": "DC digimon HTTP 403"
+    },
+    {
+      "name": "디시 디지카",
+      "count": 0,
+      "errors": 1,
+      "seconds": 0.9,
+      "last_error": "DC tcg_digimon HTTP 404"
+    },
+    {
+      "name": "TCG 포털",
+      "count": 11,
+      "errors": 0,
+      "seconds": 1.0
+    },
+    {
+      "name": "WithTheWill",
+      "count": 10,
+      "errors": 0,
+      "seconds": 0.4
+    },
+    {
+      "name": "Wikimon 신규 문서",
+      "count": 15,
+      "errors": 0,
+      "seconds": 0.2
+    },
+    {
+      "name": "YouTube",
+      "count": 15,
+      "errors": 0,
+      "seconds": 0.4
+    },
+    {
+      "name": "X(트위터)",
+      "count": 20,
+      "errors": 0,
+      "seconds": 0.4
+    },
+    {
+      "name": "Instagram",
+      "count": 85,
+      "errors": 0,
+      "seconds": 2.5
+    },
+    {
+      "name": "하비 매체",
+      "count": 16,
+      "errors": 0,
+      "seconds": 0.6
+    },
+    {
+      "name": "해외 애니 뉴스",
+      "count": 16,
+      "errors": 0,
+      "seconds": 0.7
+    },
+    {
+      "name": "공식 뉴스 (digimon.net)",
+      "count": 16,
+      "errors": 0,
+      "seconds": 1.5
+    },
+    {
+      "name": "공식 상품 (digimon.net)",
+      "count": 31,
+      "errors": 0,
+      "seconds": 2.5
+    },
+    {
+      "name": "TCG 메타 (Digimon Meta·Egman)",
+      "count": 24,
+      "errors": 0,
+      "seconds": 1.0
+    },
+    {
+      "name": "피규어 샵",
+      "count": 16,
+      "errors": 0,
+      "seconds": 1.2
+    },
+    {
+      "name": "루리웹 게임·애니",
+      "count": 25,
+      "errors": 0,
+      "seconds": 1.8
+    },
+    {
+      "name": "아카라이브",
+      "count": 0,
+      "errors": 0,
+      "seconds": 0.2
+    },
+    {
+      "name": "네이버 게임",
+      "count": 8,
+      "errors": 0,
+      "seconds": 0.5
+    }
+  ],
   "feeds": [
+    {
+      "id": "70c914f73e580bc5b64e65917023b3ca",
+      "title": "[해외공식] 그리몬 & 제스몬 X/궁극선진 성패검 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) ( 3 ) ( 4 ) has updated with card previews from... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gurimon-jesmon-x-ultimate-seibaken-parallel-alt-art-previews-for-digimon-card-game-booster-set-27.37121/",
+      "image": null,
+      "timestamp": 1794593098,
+      "created_at": "2026-11-14 03:04",
+      "title_orig": "Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "495bf8775936ed6cb440d387e1bfd414",
+      "title": "[해외공식] 제스몬 X/궁극선진 성패검 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Jesmon X/Ulti",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/jesmon-x-ultimate-seibaken-preview-for-digimon-card-game-booster-set-27.37119/",
+      "image": null,
+      "timestamp": 1794579281,
+      "created_at": "2026-11-13 23:14",
+      "title_orig": "Jesmon X/Ultimate Seibaken Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "e71af319be66cd04a33c1baaa8f2ab03",
+      "title": "[위키몬 신규] BD-03",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD-03)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BD-03",
+      "image": null,
+      "timestamp": 1794574886,
+      "created_at": "2026-11-13 22:01"
+    },
+    {
+      "id": "292ce23d51c367027f6d745c8d523dcf",
+      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-parallel-alt-art-preview-for-digimon-card-game-booster-set-27.37118/",
+      "image": null,
+      "timestamp": 1794566198,
+      "created_at": "2026-11-13 19:36",
+      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
+    },
     {
       "id": "0f41ff4b2a49f08ad63f23efeda72013",
       "title": "[일본뉴스] 11월 15일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」에서 제35화 【오다이바의 요정! 릴리몬 개화】를 방송!",
@@ -17,6 +202,20 @@
       "created_at": "2026-11-13 18:00",
       "title_orig": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！",
       "title_ja": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！"
+    },
+    {
+      "id": "c2be595a14c6fdbd586ffad7fa3a8457",
+      "title": "[해외공식] 디지몬 알리시온 업데이트 - 룰 쇼케이스 #1, 소이치 & 베타몬 프로필, 사전 등록 캠페인 2 해금",
+      "snippet": "https://twitter.com/x/status/2120773590677078193 A few Digimon Alysion updates... First up, a video showing off [Rule Sh",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-alysion-updates-rule-showcase-1-soichi-betamon-profile-pre-registration-campaign-2-unlocks.37120/",
+      "image": null,
+      "timestamp": 1794554520,
+      "created_at": "2026-11-13 16:22",
+      "title_orig": "Digimon Alysion Updates- Rule Showcase #1, Soichi & Betamon Profile, & Pre-Registration Campaign 2 Unlocks"
     },
     {
       "id": "f0f556f49a6adb53c276b80caef0077e",
@@ -243,6 +442,34 @@
       "title_orig": "Grape Memory Boost!! P [LM-038](Start Deck \"DIGIMON BEATBREAK\")"
     },
     {
+      "id": "8297208da8cad7a5b45504ea254a5475",
+      "title": "[해외공식] 11월 13일 AniBirth 신규 디지몬 어드벤처 상품 출시, 11월 20일 온라인 판매",
+      "snippet": "Product news time ! ( 2 ) New Digimon Adventure (and a bit more) products will show up at all 3 AniBirth stores on Novem",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://withthewill.net/threads/new-digimon-adventure-products-at-anibirth-on-november-13th-november-20th-online.37117/",
+      "image": null,
+      "timestamp": 1794519581,
+      "created_at": "2026-11-13 06:39",
+      "title_orig": "New Digimon Adventure Products at AniBirth on November 13th, November 20th Online"
+    },
+    {
+      "id": "cc09c7bbdfce397d71d13fcf56212d8d",
+      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-preview-for-digimon-card-game-booster-set-27.37116/",
+      "image": null,
+      "timestamp": 1794508284,
+      "created_at": "2026-11-13 03:31",
+      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27"
+    },
+    {
       "id": "276d618ecab967ee457d922dc6291a3a",
       "title": "[위키몬 신규] 카노 섬",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Kano Island)입니다.",
@@ -255,6 +482,20 @@
       "timestamp": 1794506524,
       "created_at": "2026-11-13 03:02",
       "title_orig": "Kano Island"
+    },
+    {
+      "id": "f73fd518deb4190d2f0723e1711cb250",
+      "title": "[해외공식] 디지몬 알리시온 업데이트 - BD-03 유니온 임팩트 트레일러 & 코가 프로필",
+      "snippet": "A few Digimon Alysion updates... First up, a trailer for BD-03 Union Impact, which will be available at game release. Th",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-alysion-updates-bd-03-union-impact-trailer-koga-profile.37112/",
+      "image": null,
+      "timestamp": 1794489848,
+      "created_at": "2026-11-12 22:24",
+      "title_orig": "Digimon Alysion Updates- BD-03 Union Impact Trailer & Koga Profile"
     },
     {
       "id": "1d24bf2b4d8459577e8e520e884bb01b",
@@ -302,6 +543,20 @@
       "title_ja": "「デジモンアドベンチャー」がめじるしアクセサリーに！「コロモン」など、選ばれし子どもたちの幼年期デジモン全8種"
     },
     {
+      "id": "8fb2056688715cfda7d9611dd9aba588",
+      "title": "[해외공식] 디지몬 카드 배틀 288 - 부스터 세트 27 매치",
+      "snippet": "Digimon Card Battle is back with episode 288. ​ ​ ​ ​ ... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-card-battle-288-booster-set-27-match.37113/",
+      "image": null,
+      "timestamp": 1794464531,
+      "created_at": "2026-11-12 15:22",
+      "title_orig": "Digimon Card Battle 288- Booster Set 27 Match"
+    },
+    {
       "id": "78622cede0e849b57bed31fc03ad7c53",
       "title": "[일본뉴스] 「디지몬 어드벤처」가 메지루시 액세서리로! 「코로몬」 등, 선택받은 아이들의 유년기 디지몬 전 8종 (인사이드)",
       "snippet": "「デジモンアドベンチャー」がめじるしアクセサリーに！「コロモン」など、選ばれし子どもたちの幼年期デジモン全8種（インサイド） Yahoo!ニュース",
@@ -332,6 +587,20 @@
       "title_ja": "【デジモンUP】エテモンの評価と性能"
     },
     {
+      "id": "162f6ccb336c112dce3127fdb73e427a",
+      "title": "[해외공식] 디지몬 공식 웹 설문조사 #160 - 비트브레이크 제38화부터 제49화까지 중 가장 좋아하는 게스트 디지몬",
+      "snippet": "Digimon Web has opened a new fan vote . This is the 160th official web poll on the current version of the site. Not a sh",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/official-digimon-web-poll-160-favorite-guest-digimon-from-beatbreak-episodes-38-through-49.37108/",
+      "image": null,
+      "timestamp": 1794450768,
+      "created_at": "2026-11-12 11:32",
+      "title_orig": "Official Digimon Web Poll #160- Favorite Guest Digimon from Beatbreak Episodes 38 through 49"
+    },
+    {
       "id": "47aae9e3866c380e99c4ce9bc85ddfe7",
       "title": "[해외뉴스] 디지몬 카드 게임 박스 구매 특전 팩 \"BT-25(듀얼 레볼루션)\" 팩",
       "snippet": "DIGIMON CARD GAME Box Purchase Bonus Pack \"BT-25(DUAL REVOLUTION)\" Pack SNKRDUNK",
@@ -344,6 +613,20 @@
       "timestamp": 1794448321,
       "created_at": "2026-11-12 10:52",
       "title_orig": "DIGIMON CARD GAME Box Purchase Bonus Pack \"BT-25(DUAL REVOLUTION)\" Pack"
+    },
+    {
+      "id": "4ee571455e6a2da4a7e5424516c5a0cf",
+      "title": "[해외공식] 모찌몬/모티몬, 클락몬 & 안드로몬 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ ​ ​ ​ ... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/mochimon-motimon-clockmon-andromon-previews-for-digimon-card-game-booster-set-27.37111/",
+      "image": null,
+      "timestamp": 1794444740,
+      "created_at": "2026-11-12 09:52",
+      "title_orig": "Mochimon/Motimon, Clockmon, & Andromon Previews for Digimon Card Game Booster Set 27"
     },
     {
       "id": "c79efc9aa702f968efabc5ddc7a1791c",
@@ -858,6 +1141,21 @@
       "title_ja": "【デジモンOP】Butter-Fly 【Guitar Cover】"
     },
     {
+      "id": "b1c0ff273056b2453f2cde0617e61da9",
+      "title": "[일본뉴스] 제33화 「펌프와 고츠는 시부야계 디지몬」 | 셀렉션 | 우리가 뽑은 베스트 어드벤처",
+      "snippet": "第33話「パンプとゴツは渋谷系デジモン」 | セレクション | 僕らが選んだベストアドベンチャー 東映アニメーション",
+      "source": "東映アニメーション",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZWR5QmJNNVlZQlVqVy1Kckg3c0liNDgtU0lIZkJ3MHNaZGw5TGp2NVA1cjdWQzBHeS14c0ZKSWl6TkMzMXNsS2ZwQkFwaXp1SmZiV211d2Z3TFhXUElpLUtDbjg3NzF6Tkg5OFU0a0ZIQV9NRGRWZmpfbTc0a2s?oc=5",
+      "image": null,
+      "timestamp": 1794124800,
+      "created_at": "2026-11-08 17:00",
+      "title_orig": "第33話「パンプとゴツは渋谷系デジモン」 | セレクション | 僕らが選んだベストアドベンチャー",
+      "title_ja": "第33話「パンプとゴツは渋谷系デジモン」 | セレクション | 僕らが選んだベストアドベンチャー"
+    },
+    {
       "id": "0b24bae2e6f6879d2ae3791378f7ec14",
       "title": "[트윗] 디지몬 어드벤처 반프레스토 오메가몬 피규어 🔥 디지털 월드 최강급 성기사, 이 기세 그대로! 상품 보러가기 https://t.co/25WcB4KHJE #디지몬어드벤처 #오메가몬 #반프레스토 - X",
       "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
@@ -1202,10 +1500,10 @@
     },
     {
       "id": "f4012501208db758882562d0defb33e7",
-      "title": "[하비뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
+      "title": "[일본뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
       "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
-      "source": "전격하비",
-      "source_badge": "하비뉴스",
+      "source": "電撃ホビーウェブ",
+      "source_badge": "일본뉴스",
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
@@ -1214,6 +1512,21 @@
       "created_at": "2026-11-05 17:00",
       "title_orig": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！",
       "title_ja": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！"
+    },
+    {
+      "id": "0ffc8f2cbb0f674dd47d3852c299d47b",
+      "title": "[하비뉴스] 피규어 「Precious G.E.M. 시리즈 디지몬 어드벤처 우리들의 워 게임 오메가몬 2023ver.」 재판 결정",
+      "snippet": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定 hobby Watch",
+      "source": "하비워치",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hVFozZ2J6TzE4eFliWUhzWVhFLUo3MmR4M3ViQjVvZnBPcElVdklab2F2Zl9KR2k5OVZKUnhxV054WW9Kdy1pNk1PY1VFT0hPMVlZVXlqSnhJTEJ5VmtScjh3cGh3UWM?oc=5",
+      "image": null,
+      "timestamp": 1793865600,
+      "created_at": "2026-11-05 17:00",
+      "title_orig": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定",
+      "title_ja": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定"
     },
     {
       "id": "1f8ac8aa4b45917b1a4cce9993235a54",
@@ -1284,21 +1597,6 @@
       "timestamp": 1793833451,
       "created_at": "2026-11-05 08:04",
       "title_orig": "Digimon Adventure: Our War Game! (2000)"
-    },
-    {
-      "id": "0ffc8f2cbb0f674dd47d3852c299d47b",
-      "title": "[하비뉴스] 피규어 「Precious G.E.M. 시리즈 디지몬 어드벤처 우리들의 워 게임 오메가몬 2023ver.」 재판 결정",
-      "snippet": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定 hobby Watch",
-      "source": "하비워치",
-      "source_badge": "하비뉴스",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hVFozZ2J6TzE4eFliWUhzWVhFLUo3MmR4M3ViQjVvZnBPcElVdklab2F2Zl9KR2k5OVZKUnhxV054WW9Kdy1pNk1PY1VFT0hPMVlZVXlqSnhJTEJ5VmtScjh3cGh3UWM?oc=5",
-      "image": null,
-      "timestamp": 1793833200,
-      "created_at": "2026-11-05 08:00",
-      "title_orig": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定",
-      "title_ja": "フィギュア「Precious G.E.M.シリーズ デジモンアドベンチャー ぼくらのウォーゲーム オメガモン 2023ver.」再販決定"
     },
     {
       "id": "683672671de024616d14e262a3c57276",
@@ -6644,12 +6942,12 @@
     },
     {
       "id": "08d18b7ef72948e01f144d9847e7d0db",
-      "title": "[일본뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
+      "title": "[하비뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
       "snippet": "『DIGIMON BEATBREAK』最終回を記念した「デジタルモンスターCOLOR」が登場！アニメ新デジモンを含む約30体が育成可能、バトル時には「e-パルス」を連打で高めることで攻撃力が変化！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOczRVLVZCZUM0NFpJOUFXTXRlUG5OcmNaWVFmaHBpUURoOUhmcTAwNGYtTWgwV3Z6RERQTHAtbXdhUmtMZDhGWXV3ZElweDhr?oc=5",
       "image": null,
       "timestamp": 1790492400,
@@ -6904,8 +7202,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 나의 건담 덱",
-      "snippet": "My Gundam Decks Egman Deck Builder",
+      "title": "[디지카] 내 건담 덱 | 에그맨 덱 빌더",
+      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -6914,7 +7212,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks"
+      "title_orig": "My Gundam Decks | Egman Deck Builder"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
@@ -7327,6 +7625,21 @@
       "created_at": "2026-09-13 12:37",
       "title_orig": "デスメラモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク",
       "title_ja": "デスメラモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク"
+    },
+    {
+      "id": "e24d0a56a105e09f079825456c8465c4",
+      "title": "[일본뉴스] 엑스티라노몬 | 캐릭터 | 디지몬 비트브레이크 - 디지몬 비트브레이크",
+      "snippet": "エクスティラノモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク 東映アニメーション",
+      "source": "東映アニメーション",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEZ1QnFxU1BLeFg5dmhNQ05VN0NiLWtKZzdKanJKUklrSkh1Z20zQ2ZYNkxLN2hzblNub0I1NjlQRG9CWnc0ZUxZTVNTdzkyTEhORjJ3Z0pvWHBSTUhuUmdJbTAtRkFtTk5nV1hwX28zNHpsbEd4Mk9jM2lTTklieA?oc=5",
+      "image": null,
+      "timestamp": 1789270628,
+      "created_at": "2026-09-13 12:37",
+      "title_orig": "エクスティラノモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク",
+      "title_ja": "エクスティラノモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク"
     },
     {
       "id": "e0ffbc3c5b06c5c10f33de0ab684fa22",
