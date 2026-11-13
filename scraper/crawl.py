@@ -7,9 +7,14 @@ import re
 import html
 import tempfile
 import email.utils
+import threading
+from concurrent.futures import ThreadPoolExecutor
+from functools import partial
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlsplit, urlunsplit
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 import feedparser
 
@@ -28,6 +33,46 @@ PUBLIC_DATA_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), "..",
 KST = timezone(timedelta(hours=9), "KST")
 FEED_TIMEOUT = 15     # RSS 요청 타임아웃(초) — feedparser.parse(url) 은 타임아웃이 없어 멈출 수 있음
 RETENTION_DAYS = 90
+# 동시에 수집하는 소스 수 — 구글 뉴스 경유 소스가 많아 너무 높이면 429(요청 과다)가 날 수 있음
+CRAWL_WORKERS = max(1, int(os.environ.get("CRAWL_WORKERS") or 6))
+
+
+# ---------------------------------------------------------------------------
+# HTTP · 오류 기록
+# ---------------------------------------------------------------------------
+
+_tls = threading.local()   # 스레드별 HTTP 세션 · 지금 수집 중인 소스 이름
+_errors_lock = threading.Lock()
+SOURCE_ERRORS = {}         # 소스 이름 → 오류 메시지 목록 (수집 상태 보고용)
+
+
+def _session() -> requests.Session:
+    """스레드별 세션 (연결 재사용 + 일시 오류 자동 재시도: 429·5xx·연결 끊김, 1s→2s 대기)"""
+    s = getattr(_tls, "session", None)
+    if s is None:
+        retry = Retry(total=2, connect=2, read=1, backoff_factor=1,
+                      status_forcelist=(429, 500, 502, 503, 504),
+                      allowed_methods=frozenset(["GET"]), raise_on_status=False)
+        s = requests.Session()
+        adapter = HTTPAdapter(max_retries=retry)
+        s.mount("http://", adapter)
+        s.mount("https://", adapter)
+        _tls.session = s
+    return s
+
+
+def http_get(url: str, headers=None, timeout=10):
+    """재시도 붙은 GET. 최종 응답의 상태 코드 검사는 호출하는 쪽에서"""
+    return _session().get(url, headers=headers or HEADERS, timeout=timeout)
+
+
+def log_error(msg: str):
+    """[Error] 출력 + 지금 수집 중인 소스의 오류로 기록"""
+    print(f"[Error] {msg}")
+    name = getattr(_tls, "source", None)
+    if name:
+        with _errors_lock:
+            SOURCE_ERRORS.setdefault(name, []).append(msg[:300])
 
 
 # ---------------------------------------------------------------------------
@@ -145,9 +190,27 @@ def get_hash_id(url: str) -> str:
     return hashlib.md5(url.strip().encode("utf-8")).hexdigest()
 
 
+def make_item(*, title, link, source, badge, category, snippet="", image=None, raw_date=None, id_key=None, **extra):
+    """피드 항목 dict 생성 (모든 크롤러 공통 형식). category = (카테고리, 카테고리 이름)
+    id 는 링크(또는 id_key) 해시 — 기존 데이터와 id 가 같아야 중복·순서가 유지되므로 바꾸지 말 것"""
+    return {
+        "id": get_hash_id(id_key or link),
+        "title": title,
+        "snippet": snippet,
+        "source": source,
+        "source_badge": badge,
+        "category": category[0],
+        "category_name": category[1],
+        "link": link,
+        "image": image,
+        **date_fields(raw_date),
+        **extra,
+    }
+
+
 def fetch_feed(url: str, headers=None):
     """RSS 를 requests(타임아웃 있음)로 받아서 feedparser 로 파싱. 네트워크 오류는 예외로 올림"""
-    res = requests.get(url, headers=headers or HEADERS, timeout=FEED_TIMEOUT)
+    res = http_get(url, headers=headers, timeout=FEED_TIMEOUT)
     res.raise_for_status()
     return feedparser.parse(res.content)
 
@@ -447,29 +510,22 @@ def crawl_google_news_digimon():
         try:
             for title, link, published, summary in feed_entries(google_news_url(q, "ko"), 15):
                 title, source_name = split_news_source(title, "뉴스")
-                category, cat_name = classify_category(title, "general", "뉴스")
-                items.append({
-                    "id": get_hash_id(link),
-                    "title": title,
-                    "snippet": summary[:120].strip() if summary else f"{source_name} 보도자료",
-                    "source": source_name,
-                    "source_badge": "뉴스",
-                    "category": category,
-                    "category_name": cat_name,
-                    "link": link,
-                    "image": None,
-                    **date_fields(published),
-                })
+                items.append(make_item(
+                    title=title, link=link, source=source_name, badge="뉴스",
+                    category=classify_category(title, "general", "뉴스"),
+                    snippet=summary[:120].strip() if summary else f"{source_name} 보도자료",
+                    raw_date=published,
+                ))
         except Exception as e:
-            print(f"[Error] Google News ({q}) crawling failed: {e}")
+            log_error(f"Google News ({q}) crawling failed: {e}")
     return items
 
 
 def _ruliweb_rows(url: str, limit: int):
     """루리웹 게시판 목록 → (제목, 링크(쿼리 제거), 행) 목록"""
-    res = requests.get(url, headers=HEADERS, timeout=10)
+    res = http_get(url)
     if res.status_code != 200:
-        print(f"[Error] Ruliweb HTTP {res.status_code}: {url}")
+        log_error(f"Ruliweb HTTP {res.status_code}: {url}")
         return []
     soup = BeautifulSoup(res.text, "html.parser")
     out = []
@@ -488,6 +544,11 @@ def _ruliweb_rows(url: str, limit: int):
         title = re.sub(r'\(\d+\)$', '', title).strip()
         out.append((title, link, row))
     return out
+
+
+def _row_time(row) -> str:
+    time_elem = row.select_one("td.time")
+    return time_elem.get_text(strip=True) if time_elem else ""
 
 
 def crawl_ruliweb_hobby():
@@ -513,25 +574,14 @@ def crawl_ruliweb_hobby():
                 if img_src and img_src.startswith("//"):
                     img_src = "https:" + img_src
 
-                time_elem = row.select_one("td.time")
-                raw_time = time_elem.get_text(strip=True) if time_elem else ""
-
-                category, cat_name = classify_category(title, "figure", "루리웹")
-
-                items.append({
-                    "id": get_hash_id(link),
-                    "title": title,
-                    "snippet": "루리웹 피규어/프라모델/굿즈 정보 게시판 소식입니다.",
-                    "source": "루리웹 모형정보",
-                    "source_badge": "루리웹",
-                    "category": category,
-                    "category_name": cat_name,
-                    "link": link,
-                    "image": img_src,
-                    **date_fields(raw_time),
-                })
+                items.append(make_item(
+                    title=title, link=link, source="루리웹 모형정보", badge="루리웹",
+                    category=classify_category(title, "figure", "루리웹"),
+                    snippet="루리웹 피규어/프라모델/굿즈 정보 게시판 소식입니다.",
+                    image=img_src, raw_date=_row_time(row),
+                ))
         except Exception as e:
-            print(f"[Error] Ruliweb ({skey}) crawling failed: {e}")
+            log_error(f"Ruliweb ({skey}) crawling failed: {e}")
     return items
 
 
@@ -544,118 +594,91 @@ def crawl_dc_gallery(gallery_id: str, badge_name: str, default_cat: str):
         "Referer": "https://m.dcinside.com/"
     }
     try:
-        res = requests.get(url, headers=m_headers, timeout=10)
-        if res.status_code == 200:
-            soup = BeautifulSoup(res.text, "html.parser")
-            rows = soup.select("ul.gall-detail-lst > li")
-            for row in rows[:15]:
-                title_elem = row.select_one(".subjectin")
-                link_elem = row.select_one("a:not(.btn-reply-more)")
-                if not title_elem or not link_elem:
-                    continue
-                title = clean_text(title_elem.get_text(strip=True))
-                link = link_elem.get("href", "")
-                if not title or not link:
-                    continue
-                if not link.startswith("http"):
-                    link = "https://m.dcinside.com" + link
+        res = http_get(url, headers=m_headers)
+        if res.status_code != 200:
+            log_error(f"DC {gallery_id} HTTP {res.status_code}")
+            return items
+        soup = BeautifulSoup(res.text, "html.parser")
+        for row in soup.select("ul.gall-detail-lst > li")[:15]:
+            title_elem = row.select_one(".subjectin")
+            link_elem = row.select_one("a:not(.btn-reply-more)")
+            if not title_elem or not link_elem:
+                continue
+            title = clean_text(title_elem.get_text(strip=True))
+            link = link_elem.get("href", "")
+            if not title or not link:
+                continue
+            if not link.startswith("http"):
+                link = "https://m.dcinside.com" + link
 
-                time_elem = row.select_one(".ginfo li:nth-child(2)")
-                raw_time = time_elem.get_text(strip=True) if time_elem else ""
-
-                cat, cat_name = classify_category(title, default_cat, "디시")
-
-                items.append({
-                    "id": get_hash_id(link),
-                    "title": title,
-                    "snippet": f"디시인사이드 {badge_name} 갤러리 추천 개념글입니다.",
-                    "source": f"디시 {badge_name}",
-                    "source_badge": "디시",
-                    "category": cat,
-                    "category_name": cat_name,
-                    "link": link,
-                    "image": None,
-                    **date_fields(raw_time),
-                })
-        else:
-            print(f"[Error] DC {gallery_id} HTTP {res.status_code}")
+            time_elem = row.select_one(".ginfo li:nth-child(2)")
+            items.append(make_item(
+                title=title, link=link, source=f"디시 {badge_name}", badge="디시",
+                category=classify_category(title, default_cat, "디시"),
+                snippet=f"디시인사이드 {badge_name} 갤러리 추천 개념글입니다.",
+                raw_date=time_elem.get_text(strip=True) if time_elem else "",
+            ))
     except Exception as e:
-        print(f"[Error] DC {gallery_id} crawling failed: {e}")
+        log_error(f"DC {gallery_id} crawling failed: {e}")
     return items
 
 
 def crawl_withthewill_news():
     items = []
-    feed_url = "https://withthewill.net/forums/digimon-news.20/index.rss"
+    # 2026-11 확인: 예전 뉴스 게시판(digimon-news.20)이 없어지고 announcements-and-news.10 으로 통합됨
+    feed_url = "https://withthewill.net/forums/announcements-and-news.10/index.rss"
     try:
-        for title, link, published, summary in feed_entries(feed_url, 8):
-            cat, cat_name = classify_category(title, "game", "공식/글로벌")
-            items.append({
-                "id": get_hash_id(link),
-                "title": f"[해외공식] {title}",
-                "snippet": summary[:120].strip() or "WithTheWill 글로벌 디지몬 최신 뉴스입니다.",
-                "source": "WithTheWill",
-                "source_badge": "공식/글로벌",
-                "category": cat,
-                "category_name": cat_name,
-                "link": link,
-                "image": None,
-                **date_fields(published),
-            })
+        for title, link, published, summary in feed_entries(feed_url, 10):
+            items.append(make_item(
+                title=f"[해외공식] {title}", link=link, source="WithTheWill", badge="공식/글로벌",
+                category=classify_category(title, "game", "공식/글로벌"),
+                snippet=summary[:120].strip() or "WithTheWill 글로벌 디지몬 최신 뉴스입니다.",
+                raw_date=published,
+            ))
     except Exception as e:
-        print(f"[Error] WithTheWill crawling failed: {e}")
+        log_error(f"WithTheWill crawling failed: {e}")
     return items
 
 
 def crawl_youtube_digimon():
     items = []
-    feed_url = "https://news.google.com/rss/search?q=site:youtube.com+%22%EB%94%94%EC%A7%80%EB%AA%AC%22&hl=ko&gl=KR&ceid=KR:ko"
     try:
-        for title, link, published, _ in feed_entries(feed_url, 15):
+        for title, link, published, _ in feed_entries(google_news_url('site:youtube.com "디지몬"', "ko"), 15):
             title = title.replace(" - YouTube", "").strip()
             # 노래/커버/음악은 SNS/영상으로 자동 분류됨
-            category, cat_name = classify_category(title, "sns", "유튜브")
-            items.append({
-                "id": get_hash_id(link),
-                "title": f"[영상] {title}",
-                "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
-                "source": "YouTube",
-                "source_badge": "유튜브",
-                "category": category,
-                "category_name": cat_name,
-                "link": link,
-                "image": None,
-                **date_fields(published),
-            })
+            items.append(make_item(
+                title=f"[영상] {title}", link=link, source="YouTube", badge="유튜브",
+                category=classify_category(title, "sns", "유튜브"),
+                snippet="YouTube 최신 디지몬 공식/인기 영상입니다.",
+                raw_date=published,
+            ))
     except Exception as e:
-        print(f"[Error] YouTube crawling failed: {e}")
+        log_error(f"YouTube crawling failed: {e}")
     return items
+
+
+# 굿즈, 쿠지, 프론티어, 공식 계정, 신작, 해외/일본 공식 계정을 아우르는 X 검색
+TWITTER_QUERY = (
+    'site:x.com OR site:twitter.com ("digimonweb_net" OR "digimon_tcg" OR "toei_anim_goods" OR "デジモン" '
+    'OR "DigimonTCG" OR "디지몬 굿즈" OR "디지몬 쿠지" OR "디지몬 프론티어" OR "디지몬 신작" OR "디지몬")'
+)
 
 
 def crawl_twitter_digimon():
     items = []
-    # 굿즈, 쿠지, 프론티어, 공식 계정, 신작, 해외/일본 공식 계정을 아우르는 X 검색
-    feed_url = 'https://news.google.com/rss/search?q=site:x.com+OR+site:twitter.com+(%22digimonweb_net%22+OR+%22digimon_tcg%22+OR+%22toei_anim_goods%22+OR+%22%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%22+OR+%22DigimonTCG%22+OR+%22%EB%94%94%EC%A7%80%EB%AA%AC+%EA%B5%BF%EC%A6%88%22+OR+%22%EB%94%94%EC%A7%80%EB%AA%AC+%EC%BF%A0%EC%A7%80%22+OR+%22%EB%94%94%EC%A7%80%EB%AA%AC+%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4%22+OR+%22%EB%94%94%EC%A7%80%EB%AA%AC+%EC%8B%A0%EC%9E%91%22+OR+%22%EB%94%94%EC%A7%80%EB%AA%AC%22)&hl=ko&gl=KR&ceid=KR:ko'
     try:
-        for title, link, published, _ in feed_entries(feed_url, 20):
+        for title, link, published, _ in feed_entries(google_news_url(TWITTER_QUERY, "ko"), 20):
             if " on X: " in title:
                 author, text = title.split(" on X: ", 1)
                 title = f"@{author}: {text.replace(chr(34), '').strip()}"
-            category, cat_name = classify_category(title, "sns", "X(트위터)")
-            items.append({
-                "id": get_hash_id(link),
-                "title": f"[트윗] {title}",
-                "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-                "source": "X(트위터)",
-                "source_badge": "X(트위터)",
-                "category": category,
-                "category_name": cat_name,
-                "link": link,
-                "image": None,
-                **date_fields(published),
-            })
+            items.append(make_item(
+                title=f"[트윗] {title}", link=link, source="X(트위터)", badge="X(트위터)",
+                category=classify_category(title, "sns", "X(트위터)"),
+                snippet="X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+                raw_date=published,
+            ))
     except Exception as e:
-        print(f"[Error] Twitter crawling failed: {e}")
+        log_error(f"Twitter crawling failed: {e}")
     return items
 
 
@@ -685,21 +708,14 @@ def crawl_instagram_digimon():
                 # 제목/본문에 디지몬 관련 단어가 명시되지 않은 일반 계정/글은 즉시 배제
                 if not any(k in title.lower() for k in digi_check):
                     continue
-                category, cat_name = classify_category(title, "sns", "인스타그램")
-                items.append({
-                    "id": get_hash_id(link),
-                    "title": f"[인스타] {title}",
-                    "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-                    "source": "Instagram",
-                    "source_badge": "인스타그램",
-                    "category": category,
-                    "category_name": cat_name,
-                    "link": link,
-                    "image": None,
-                    **date_fields(published),
-                })
+                items.append(make_item(
+                    title=f"[인스타] {title}", link=link, source="Instagram", badge="인스타그램",
+                    category=classify_category(title, "sns", "인스타그램"),
+                    snippet="인스타그램 디지몬 관련 공개 게시물입니다.",
+                    raw_date=published,
+                ))
         except Exception as e:
-            print(f"[Error] Instagram crawling failed ({q}): {e}")
+            log_error(f"Instagram crawling failed ({q}): {e}")
     return items
 
 
@@ -714,21 +730,14 @@ def _crawl_google_news_world(queries, locale, badge, default_source, limit):
                     continue
                 seen.add(link)
                 title, source_name = split_news_source(title, default_source)
-                category, cat_name = classify_category(title, "general", badge)
-                items.append({
-                    "id": get_hash_id(link),
-                    "title": f"[{badge}] {title}",
-                    "snippet": summary[:120].strip() if summary else f"{source_name} 보도자료",
-                    "source": source_name,
-                    "source_badge": badge,
-                    "category": category,
-                    "category_name": cat_name,
-                    "link": link,
-                    "image": None,
-                    **date_fields(published),
-                })
+                items.append(make_item(
+                    title=f"[{badge}] {title}", link=link, source=source_name, badge=badge,
+                    category=classify_category(title, "general", badge),
+                    snippet=summary[:120].strip() if summary else f"{source_name} 보도자료",
+                    raw_date=published,
+                ))
         except Exception as e:
-            print(f"[Error] {badge} ({q}) crawling failed: {e}")
+            log_error(f"{badge} ({q}) crawling failed: {e}")
     return items
 
 
@@ -764,24 +773,14 @@ def _crawl_site_search(queries, locale, limit, snippet_tpl, label, fixed_categor
                     continue
                 seen.add(link)
                 title, _ = split_news_source(title, sname)
-                if fixed_category:
-                    category, cat_name = fixed_category
-                else:
-                    category, cat_name = classify_category(title, def_cat, badge)
-                items.append({
-                    "id": get_hash_id(link),
-                    "title": f"[{badge}] {title}",
-                    "snippet": summary[:120].strip() or snippet_tpl.format(sname=sname),
-                    "source": sname,
-                    "source_badge": badge,
-                    "category": category,
-                    "category_name": cat_name,
-                    "link": link,
-                    "image": None,
-                    **date_fields(published),
-                })
+                items.append(make_item(
+                    title=f"[{badge}] {title}", link=link, source=sname, badge=badge,
+                    category=fixed_category or classify_category(title, def_cat, badge),
+                    snippet=summary[:120].strip() or snippet_tpl.format(sname=sname),
+                    raw_date=published,
+                ))
         except Exception as e:
-            print(f"[Error] {label} ({q}) crawling failed: {e}")
+            log_error(f"{label} ({q}) crawling failed: {e}")
     return items
 
 
@@ -800,34 +799,28 @@ def crawl_wikimon_updates():
     items = []
     url = "https://wikimon.net/api.php?action=query&list=recentchanges&rctype=new&rcnamespace=0&rclimit=15&format=json"
     try:
-        res = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (DigimonTracker/1.0)"}, timeout=10)
-        if res.status_code == 200:
-            data = res.json()
-            rcs = data.get("query", {}).get("recentchanges", []) if isinstance(data, dict) else []
-            for rc in rcs:
-                raw_title = (rc.get("title") or "").strip()
-                if not raw_title:
-                    continue
-                # 로그인 필요한 diff= 대신 100% 공개되는 문서 본문 링크로 생성
-                clean_name = raw_title.replace(" ", "_")
-                raw_title = clean_text(raw_title)
-                clean_link = f"https://wikimon.net/{requests.utils.quote(clean_name)}"
-                items.append({
-                    "id": get_hash_id(clean_link),
-                    "title": f"[위키몬 신규] {raw_title}",
-                    "snippet": f"Wikimon에 새로 등록된 공식 신규 문서 ({raw_title})입니다.",
-                    "source": "Wikimon",
-                    "source_badge": "위키몬",
-                    "category": "general",
-                    "category_name": "도감/위키",
-                    "link": clean_link,
-                    "image": None,
-                    **date_fields(rc.get("timestamp", "")),
-                })
-        else:
-            print(f"[Error] Wikimon API HTTP {res.status_code}")
+        res = http_get(url, headers={"User-Agent": "Mozilla/5.0 (DigimonTracker/1.0)"})
+        if res.status_code != 200:
+            log_error(f"Wikimon API HTTP {res.status_code}")
+            return items
+        data = res.json()
+        rcs = data.get("query", {}).get("recentchanges", []) if isinstance(data, dict) else []
+        for rc in rcs:
+            raw_title = (rc.get("title") or "").strip()
+            if not raw_title:
+                continue
+            # 로그인 필요한 diff= 대신 100% 공개되는 문서 본문 링크로 생성
+            clean_name = raw_title.replace(" ", "_")
+            raw_title = clean_text(raw_title)
+            clean_link = f"https://wikimon.net/{requests.utils.quote(clean_name)}"
+            items.append(make_item(
+                title=f"[위키몬 신규] {raw_title}", link=clean_link, source="Wikimon", badge="위키몬",
+                category=("general", "도감/위키"),
+                snippet=f"Wikimon에 새로 등록된 공식 신규 문서 ({raw_title})입니다.",
+                raw_date=rc.get("timestamp", ""),
+            ))
     except Exception as e:
-        print(f"[Error] Wikimon API crawling failed: {e}")
+        log_error(f"Wikimon API crawling failed: {e}")
     return items
 
 
@@ -883,62 +876,31 @@ def crawl_ruliweb_game_and_anime():
     for url, sname, cat, cat_name in boards:
         try:
             for title, link, row in _ruliweb_rows(url, 10):
-                time_elem = row.select_one("td.time")
-                raw_time = time_elem.get_text(strip=True) if time_elem else ""
-                items.append({
-                    "id": get_hash_id(link),
-                    "title": f"[루리웹] {title}",
-                    "snippet": f"{sname} 디지몬 최신 소식입니다.",
-                    "source": sname,
-                    "source_badge": "루리웹",
-                    "category": cat,
-                    "category_name": cat_name,
-                    "link": link,
-                    "image": None,
-                    **date_fields(raw_time),
-                })
+                items.append(make_item(
+                    title=f"[루리웹] {title}", link=link, source=sname, badge="루리웹",
+                    category=(cat, cat_name),
+                    snippet=f"{sname} 디지몬 최신 소식입니다.",
+                    raw_date=_row_time(row),
+                ))
         except Exception as e:
-            print(f"[Error] Ruliweb board ({url}) crawling failed: {e}")
-    return items
-
-
-def _crawl_single_site_search(query, prefix, source, badge, default_cat, limit, default_snippet, label):
-    """구글 뉴스 site: 검색 1건 (아카라이브, 네이버 게임)"""
-    items = []
-    try:
-        for title, link, published, summary in feed_entries(google_news_url(query, "ko"), limit):
-            title, _ = split_news_source(title, source)
-            category, cat_name = classify_category(title, default_cat, badge)
-            items.append({
-                "id": get_hash_id(link),
-                "title": f"[{prefix}] {title}",
-                "snippet": summary[:120].strip() or default_snippet,
-                "source": source,
-                "source_badge": badge,
-                "category": category,
-                "category_name": cat_name,
-                "link": link,
-                "image": None,
-                **date_fields(published),
-            })
-    except Exception as e:
-        print(f"[Error] {label} crawling failed: {e}")
+            log_error(f"Ruliweb board ({url}) crawling failed: {e}")
     return items
 
 
 def crawl_arcalive_digimon():
     """아카라이브 디지몬 채널 인기 정보글"""
-    return _crawl_single_site_search('site:arca.live/b/digimon "디지몬"', "아카라이브", "아카라이브", "아카라이브",
-                                     "community", 12, "아카라이브 디지몬 채널 게시글입니다.", "Arcalive")
+    return _crawl_site_search([('site:arca.live/b/digimon "디지몬"', "아카라이브", "아카라이브", "community")],
+                              "ko", 12, "아카라이브 디지몬 채널 게시글입니다.", "Arcalive")
 
 
 def crawl_naver_game():
     """네이버 게임 라운지 및 공식 소식"""
-    return _crawl_single_site_search('site:game.naver.com "디지몬"', "네이버", "네이버 게임", "네이버",
-                                     "game", 8, "네이버 게임 디지몬 관련 소식입니다.", "Naver Game")
+    return _crawl_site_search([('site:game.naver.com "디지몬"', "네이버 게임", "네이버", "game")],
+                              "ko", 8, "네이버 게임 디지몬 관련 소식입니다.", "Naver Game")
 
 
 OFFICIAL_SITE = "https://digimon.net/"
+OFFICIAL_HEADERS = {"User-Agent": "Mozilla/5.0 (digimon-feed fan project)"}
 
 
 def _official_date(text: str) -> str:
@@ -975,28 +937,21 @@ def crawl_official_topics():
     items = []
     url = OFFICIAL_SITE + "topic/?cat=ALL"
     try:
-        res = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (digimon-feed fan project)"}, timeout=20)
+        res = http_get(url, headers=OFFICIAL_HEADERS, timeout=20)
         res.raise_for_status()
         for c in list(_official_cards(res.text))[:20]:
             title = clean_text(c["title"])
             if not title:
                 continue
-            link = requests.compat.urljoin(url, c["link"])
-            category, cat_name = classify_category(title, "game", "디지몬웹")
-            items.append({
-                "id": get_hash_id(link),
-                "title": f"[공식] {title}",
-                "snippet": f"디지몬 공식 사이트 {clean_text(c['tag']) or '뉴스'}",
-                "source": "digimon.net",
-                "source_badge": "디지몬웹",
-                "category": category,
-                "category_name": cat_name,
-                "link": link,
-                "image": None,
-                **date_fields(_official_date(c["date"])),
-            })
+            items.append(make_item(
+                title=f"[공식] {title}", link=requests.compat.urljoin(url, c["link"]),
+                source="digimon.net", badge="디지몬웹",
+                category=classify_category(title, "game", "디지몬웹"),
+                snippet=f"디지몬 공식 사이트 {clean_text(c['tag']) or '뉴스'}",
+                raw_date=_official_date(c["date"]),
+            ))
     except Exception as e:
-        print(f"[Error] Official topics crawling failed: {e}")
+        log_error(f"Official topics crawling failed: {e}")
     return items
 
 
@@ -1009,7 +964,7 @@ def crawl_official_products():
     for path, cat, cat_name in sections:
         url = f"{OFFICIAL_SITE}product/{path}/"
         try:
-            res = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (digimon-feed fan project)"}, timeout=20)
+            res = http_get(url, headers=OFFICIAL_HEADERS, timeout=20)
             res.raise_for_status()
             for c in list(_official_cards(res.text))[:8]:
                 title = clean_text(c["title"])
@@ -1024,23 +979,100 @@ def crawl_official_products():
                 # 발매 예정 상품은 미래 날짜라 지금 시각으로 맞춤 (발매일은 요약에 표시)
                 ts = min(release_ts, now_ts) if release_ts is not None else now_ts
                 info = " · ".join(clean_text(x) for x in [f"발매 {release}" if release else c["release"], c["price"]] if x)
-                items.append({
-                    "id": get_hash_id(f"{raw_link}_{c['title']}"),  # 기존 id 유지를 위해 원래 추출값 사용
-                    "title": f"[공식 상품] {title}",
-                    "snippet": info or "디지몬 공식 사이트 상품 정보",
-                    "source": "digimon.net",
-                    "source_badge": "디지몬웹",
-                    "category": cat,
-                    "category_name": cat_name,
-                    "link": safe_link,
-                    "image": None,
-                    "timestamp": ts,
-                    "created_at": format_display_date(ts),
-                    "keep_first_seen": True,
-                })
+                items.append(make_item(
+                    title=f"[공식 상품] {title}", link=safe_link,
+                    id_key=f"{raw_link}_{c['title']}",  # 기존 id 유지를 위해 원래 추출값 사용
+                    source="digimon.net", badge="디지몬웹", category=(cat, cat_name),
+                    snippet=info or "디지몬 공식 사이트 상품 정보",
+                    # 날짜는 위에서 계산한 값, 병합 때 처음 본 시각 유지
+                    timestamp=ts, created_at=format_display_date(ts), keep_first_seen=True,
+                ))
         except Exception as e:
-            print(f"[Error] Official products crawling failed ({path}): {e}")
+            log_error(f"Official products crawling failed ({path}): {e}")
     return items
+
+
+# ---------------------------------------------------------------------------
+# 수집 소스 목록 — 새 소스는 (이름, 함수) 한 줄 추가로 끝
+# (이름은 수집 상태 보고에 쓰이므로 소스마다 달라야 함. 결과는 이 순서대로 병합)
+# ---------------------------------------------------------------------------
+
+SOURCES = [
+    ("Google News (KR)", crawl_google_news_digimon),
+    ("Google News (EN)", crawl_google_news_global_en),
+    ("Google News (JA)", crawl_google_news_global_ja),
+    ("루리웹 모형정보", crawl_ruliweb_hobby),
+    ("디시 디지몬", partial(crawl_dc_gallery, "digimon", "디지몬", "community")),
+    ("디시 디지카", partial(crawl_dc_gallery, "tcg_digimon", "디지카", "card")),
+    ("TCG 포털", crawl_tcg_portals),
+    ("WithTheWill", crawl_withthewill_news),
+    ("Wikimon 신규 문서", crawl_wikimon_updates),
+    ("YouTube", crawl_youtube_digimon),
+    ("X(트위터)", crawl_twitter_digimon),
+    ("Instagram", crawl_instagram_digimon),
+    ("하비 매체", crawl_premium_bandai_hobby),
+    ("해외 애니 뉴스", crawl_global_anime_news),
+    ("공식 뉴스 (digimon.net)", crawl_official_topics),
+    ("공식 상품 (digimon.net)", crawl_official_products),
+    ("TCG 메타 (Digimon Meta·Egman)", crawl_digimon_meta_and_egman),
+    ("피규어 샵", crawl_figure_shops),
+    ("루리웹 게임·애니", crawl_ruliweb_game_and_anime),
+    ("아카라이브", crawl_arcalive_digimon),
+    ("네이버 게임", crawl_naver_game),
+]
+
+
+def _run_source(name, fn):
+    """소스 하나 수집 → (항목 목록, 상태). 크롤러 밖으로 새어 나온 예외도 여기서 잡아 다른 소스는 계속"""
+    _tls.source = name
+    started = time.time()
+    try:
+        items = fn() or []
+    except Exception as e:
+        log_error(f"{name} crawler crashed: {e!r}")
+        items = []
+    finally:
+        _tls.source = None
+    with _errors_lock:
+        errors = list(SOURCE_ERRORS.get(name, []))
+    status = {
+        "name": name,
+        "count": len(items),
+        "errors": len(errors),
+        "seconds": round(time.time() - started, 1),
+    }
+    if errors:
+        status["last_error"] = errors[-1]
+    return items, status
+
+
+def crawl_all(sources=None, workers=None):
+    """모든 소스를 동시에 수집 (네트워크 대기 위주라 스레드로 충분). 결과는 SOURCES 순서대로 이어 붙임"""
+    sources = SOURCES if sources is None else sources
+    workers = workers or CRAWL_WORKERS
+    with _errors_lock:
+        SOURCE_ERRORS.clear()
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        results = list(pool.map(lambda s: _run_source(*s), sources))
+    all_items, statuses = [], []
+    for items, status in results:
+        all_items.extend(items)
+        statuses.append(status)
+        flag = "OK " if status["count"] and not status["errors"] else "!! "
+        print(f"  {flag}{status['name']}: {status['count']}건, 오류 {status['errors']}회 ({status['seconds']}s)")
+    return all_items, statuses
+
+
+def report_source_health(statuses):
+    """GitHub Actions 실행 화면에 0건·오류 소스를 경고로 표시 (사이트 구조 변경으로 조용히 깨진 스크래퍼 발견용)"""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    for s in statuses:
+        if s["count"] == 0:
+            detail = f" — {s['last_error']}" if s.get("last_error") else ""
+            print(f"::warning title=피드 소스 0건::{s['name']}{detail}")
+        elif s["errors"]:
+            print(f"::notice title=피드 소스 일부 오류::{s['name']} ({s['errors']}회) — {s.get('last_error', '')}")
 
 
 # ---------------------------------------------------------------------------
@@ -1303,68 +1335,9 @@ def main():
     # 기존 데이터를 먼저 읽음 — 손상됐으면 크롤링 전에 중단
     existing_items = load_existing_feeds()
 
-    all_new_items = []
-
-    print("1. Crawling Google News (KR)...")
-    all_new_items.extend(crawl_google_news_digimon())
-
-    print("2. Crawling Google News Global (EN)...")
-    all_new_items.extend(crawl_google_news_global_en())
-
-    print("3. Crawling Google News Global (JA)...")
-    all_new_items.extend(crawl_google_news_global_ja())
-
-    print("4. Crawling Ruliweb Hobby...")
-    all_new_items.extend(crawl_ruliweb_hobby())
-
-    print("5. Crawling DC Digimon...")
-    all_new_items.extend(crawl_dc_gallery("digimon", "디지몬", "community"))
-
-    print("6. Crawling DC TCG Digimon...")
-    all_new_items.extend(crawl_dc_gallery("tcg_digimon", "디지카", "card"))
-
-    print("7. Crawling TCG Portals (digimoncard.io, digimoncard.co.kr, digimoncard.com)...")
-    all_new_items.extend(crawl_tcg_portals())
-
-    print("8. Crawling WithTheWill...")
-    all_new_items.extend(crawl_withthewill_news())
-
-    print("9. Crawling Wikimon Updates...")
-    all_new_items.extend(crawl_wikimon_updates())
-
-    print("10. Crawling YouTube...")
-    all_new_items.extend(crawl_youtube_digimon())
-
-    print("11. Crawling Twitter (X)...")
-    all_new_items.extend(crawl_twitter_digimon())
-
-    print("12. Crawling Instagram (via Google News)...")
-    all_new_items.extend(crawl_instagram_digimon())
-
-    print("13. Crawling Hobby Media...")
-    all_new_items.extend(crawl_premium_bandai_hobby())
-
-    print("14. Crawling Global Anime News...")
-    all_new_items.extend(crawl_global_anime_news())
-
-    print("15. Crawling official site news & products (digimon.net)...")
-    all_new_items.extend(crawl_official_topics())
-    all_new_items.extend(crawl_official_products())
-
-    print("16. Crawling Digimon Meta & Egman Events (TCG)...")
-    all_new_items.extend(crawl_digimon_meta_and_egman())
-
-    print("17. Crawling Figure & Hobby Shops (AmiAmi, GoodSmile, HLJ)...")
-    all_new_items.extend(crawl_figure_shops())
-
-    print("18. Crawling Ruliweb Game & Anime Info...")
-    all_new_items.extend(crawl_ruliweb_game_and_anime())
-
-    print("19. Crawling Arca.live Digimon Channel...")
-    all_new_items.extend(crawl_arcalive_digimon())
-
-    print("20. Crawling Naver Game Lounge...")
-    all_new_items.extend(crawl_naver_game())
+    print(f"Crawling {len(SOURCES)} sources ({CRAWL_WORKERS} workers)...")
+    all_new_items, source_status = crawl_all()
+    report_source_health(source_status)
 
     print(f"Total fetched: {len(all_new_items)} items")
 
@@ -1379,6 +1352,8 @@ def main():
         "last_updated": datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S"),
         "total_count": len(filtered_feeds),
         "retention_days": RETENTION_DAYS,
+        # 소스별 이번 수집 결과 (건수·오류) — 0건이 이어지는 소스는 사이트 구조 변경 등으로 깨졌을 가능성
+        "sources": source_status,
         "feeds": filtered_feeds
     }
 
