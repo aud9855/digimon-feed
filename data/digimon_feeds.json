@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-11-14 09:03:19",
-  "total_count": 611,
+  "last_updated": "2026-11-14 16:17:02",
+  "total_count": 617,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.4
     },
     {
       "name": "Google News (EN)",
       "count": 32,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
-      "count": 34,
+      "count": 35,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.2
     },
     {
       "name": "디시 디지몬",
@@ -38,7 +38,7 @@
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.1,
+      "seconds": 1.2,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
@@ -51,7 +51,7 @@
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.5
     },
     {
       "name": "Wikimon 신규 문서",
@@ -73,15 +73,15 @@
     },
     {
       "name": "Instagram",
-      "count": 85,
+      "count": 84,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.8
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
@@ -99,25 +99,25 @@
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 2.3
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.9
     },
     {
       "name": "루리웹 게임·애니",
       "count": 25,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.6
     },
     {
       "name": "아카라이브",
@@ -129,10 +129,95 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     }
   ],
   "feeds": [
+    {
+      "id": "6227bf53c9d15e39e76aad87a267b2e3",
+      "title": "[해외공식] 디지몬 알리시온 업데이트 - 디지몬 알리시온 타임즈 영상 대기 중 공개, 룰 쇼케이스 #2, 아카토 이치에 프로필, 일본 내 프로모션 & 콘테스트",
+      "snippet": "More Digimon Alysion updates... First up... The English Digimon Alysion Times standby is up, along with a text descripti",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-alysion-updates-digimon-alysion-times-video-standby-up-rule-showcase-2-ichie-akato-profile-promotions-contest-in-japan.37126/",
+      "image": null,
+      "timestamp": 1794639660,
+      "created_at": "2026-11-14 16:01",
+      "title_orig": "Digimon Alysion Updates- Digimon Alysion Times Video Standby Up, Rule Showcase #2, Ichie Akato Profile, Promotions & Contest in Japan"
+    },
+    {
+      "id": "b56336d92555d34d06e352de9b9d2533",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26 테이머 카드 발너 선행 공개",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 26. This time it's Valner. Tame",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/tamer-card-valner-preview-for-digimon-card-game-starter-deck-26.37125/",
+      "image": null,
+      "timestamp": 1794637350,
+      "created_at": "2026-11-14 15:22",
+      "title_orig": "Tamer Card Valner Preview for Digimon Card Game Starter Deck 26"
+    },
+    {
+      "id": "6e8766a4fbc11d63288ea245714f3115",
+      "title": "[일본뉴스] 호소다 마모루 연출 「디지몬 어드벤처 3D 디지몬 그랑프리」 YouTube에서 11월 24일까지 무료 공개 중",
+      "snippet": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中 ニコニコニュース",
+      "source": "ニコニコニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yZVIweGtBVm05WXJiRFlMaENkb2llMmpWZnRmZlJTcnBGX2FLbG1NMEh4M2tPVmwzM1dILWtqUlIySFBRc0sybHlFWGlVQVNGQkN6SnVobk9EbWt3OHpPSWRtSkRIcU1rUTJrMU5Ia25WcE9MX29VN1liNA?oc=5",
+      "image": null,
+      "timestamp": 1794628832,
+      "created_at": "2026-11-14 13:00",
+      "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
+      "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
+    },
+    {
+      "id": "9d2d7293a947161e7634b9600510ee17",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26 텐코몬 & 셋카몬 선행 공개",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 26... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/tenkomon-sekkamon-previews-for-digimon-card-game-starter-deck-26.37124/",
+      "image": null,
+      "timestamp": 1794628347,
+      "created_at": "2026-11-14 12:52",
+      "title_orig": "Tenkomon & Sekkamon Previews for Digimon Card Game Starter Deck 26"
+    },
+    {
+      "id": "99f44d3532495e0afd6b13403d2c9a2b",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26 포코몬/빅시몬 & 레나몬 선행 공개",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 26. This... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/pokomon-viximon-renamon-previews-for-digimon-card-game-starter-deck-26.37123/",
+      "image": null,
+      "timestamp": 1794618676,
+      "created_at": "2026-11-14 10:11",
+      "title_orig": "Pokomon/Viximon & Renamon Previews for Digimon Card Game Starter Deck 26"
+    },
+    {
+      "id": "70c914f73e580bc5b64e65917023b3ca",
+      "title": "[해외공식] 그리몬 & 제스몬 X/궁극선진 성패검 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) ( 3 ) ( 4 ) has updated with card previews from... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gurimon-jesmon-x-ultimate-seibaken-parallel-alt-art-previews-for-digimon-card-game-booster-set-27.37121/",
+      "image": null,
+      "timestamp": 1794618108,
+      "created_at": "2026-11-14 10:01",
+      "title_orig": "Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27"
+    },
     {
       "id": "d58b09e32f2dd80c245434913dad4fda",
       "title": "[해외공식] With the Will 팟캐스트 라이브 - 11월 15일 일요일",
@@ -146,20 +231,6 @@
       "timestamp": 1794605866,
       "created_at": "2026-11-14 06:37",
       "title_orig": "With the Will Podcast Live- Sunday, November 15th"
-    },
-    {
-      "id": "70c914f73e580bc5b64e65917023b3ca",
-      "title": "[해외공식] 그리몬 & 제스몬 X/궁극선진 성패검 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
-      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) ( 3 ) ( 4 ) has updated with card previews from... Read more",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/gurimon-jesmon-x-ultimate-seibaken-parallel-alt-art-previews-for-digimon-card-game-booster-set-27.37121/",
-      "image": null,
-      "timestamp": 1794601971,
-      "created_at": "2026-11-14 05:32",
-      "title_orig": "Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27"
     },
     {
       "id": "cc09c7bbdfce397d71d13fcf56212d8d",
@@ -215,6 +286,21 @@
       "timestamp": 1794566198,
       "created_at": "2026-11-13 19:36",
       "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "410d3f15217560388e9a29650c302d44",
+      "title": "[일본뉴스] 11월 15일(일) 방송되는 『우리가 고른 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」에서 제35화 【오다이바의 요정! 릴리몬 개화】를 방송! | 토에이 애니메이션 주식회사의 보도자료",
+      "snippet": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！ | 東映アニメーション株式会社のプレスリリース PR TIMES",
+      "source": "PR TIMES",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tZWpzU2w5aHhWdkpQLXYySXZCM2d0Qjh2RTZCYkU4MHFRdm5wamZhaTVZaTZZN2gtQ3NEbEpYSmxrTk94clNzQ3FwY20zb3NoZlFYUFdHbTc0X3FHVDY0VVlGZTVndEpENGc?oc=5",
+      "image": null,
+      "timestamp": 1794560402,
+      "created_at": "2026-11-13 18:00",
+      "title_orig": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！ | 東映アニメーション株式会社のプレスリリース",
+      "title_ja": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！ | 東映アニメーション株式会社のプレスリリース"
     },
     {
       "id": "0f41ff4b2a49f08ad63f23efeda72013",
@@ -7216,8 +7302,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 내 건담 덱",
-      "snippet": "My Gundam Decks Egman Deck Builder",
+      "title": "[디지카] 내 건담 덱 | Egman Deck Builder",
+      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -7226,7 +7312,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks"
+      "title_orig": "My Gundam Decks | Egman Deck Builder"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
