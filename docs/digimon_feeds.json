@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-14 16:17:02",
-  "total_count": 617,
+  "last_updated": "2026-11-14 23:44:32",
+  "total_count": 622,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.3
     },
     {
       "name": "Google News (EN)",
-      "count": 32,
+      "count": 33,
       "errors": 0,
       "seconds": 1.1
     },
@@ -25,45 +25,45 @@
       "name": "루리웹 모형정보",
       "count": 31,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 1.9
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.2,
+      "seconds": 0.8,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.2,
+      "seconds": 0.7,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 11,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.9
     },
     {
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.4
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
@@ -81,7 +81,7 @@
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.7
     },
     {
       "name": "해외 애니 뉴스",
@@ -93,46 +93,60 @@
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.1
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.3
+      "seconds": 2.1
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
       "count": 25,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 2.0
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.1
     },
     {
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     }
   ],
   "feeds": [
+    {
+      "id": "c23894c40538e1290df06266c93ff740",
+      "title": "[위키몬 신규] 라이고",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Raigo)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Raigo",
+      "image": null,
+      "timestamp": 1794643916,
+      "created_at": "2026-11-14 17:11",
+      "title_orig": "Raigo"
+    },
     {
       "id": "6227bf53c9d15e39e76aad87a267b2e3",
       "title": "[해외공식] 디지몬 알리시온 업데이트 - 디지몬 알리시온 타임즈 영상 대기 중 공개, 룰 쇼케이스 #2, 아카토 이치에 프로필, 일본 내 프로모션 & 콘테스트",
@@ -172,6 +186,21 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yZVIweGtBVm05WXJiRFlMaENkb2llMmpWZnRmZlJTcnBGX2FLbG1NMEh4M2tPVmwzM1dILWtqUlIySFBRc0sybHlFWGlVQVNGQkN6SnVobk9EbWt3OHpPSWRtSkRIcU1rUTJrMU5Ia25WcE9MX29VN1liNA?oc=5",
       "image": null,
       "timestamp": 1794628832,
+      "created_at": "2026-11-14 13:00",
+      "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
+      "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
+    },
+    {
+      "id": "a2392b7cd86ed65657ca62e811e6702c",
+      "title": "[일본뉴스] 호소다 마모루 연출 「디지몬 어드벤처 3D 디지몬 그랑프리」 YouTube에서 11월 24일까지 무료 공개 중",
+      "snippet": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中 アニメハック",
+      "source": "アニメハック",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03VlNxcU03SXJ1T0JWemtBOF9SWUZtNDNtT25ELVhaMDhYaHduNW5IZkwtQ0ozMmQweE4wTl92bWI3bU9ydzNISF9faw?oc=5",
+      "image": null,
+      "timestamp": 1794628800,
       "created_at": "2026-11-14 13:00",
       "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
       "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
@@ -316,6 +345,21 @@
       "created_at": "2026-11-13 18:00",
       "title_orig": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！",
       "title_ja": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！"
+    },
+    {
+      "id": "307dcd12292e12774998f1049879ad66",
+      "title": "[일본뉴스] 11월 15일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」에서 제35화 【오다이바의 요정! 릴리몬 개화】를 방송! - PR TIMES",
+      "snippet": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！ - PR TIMES アニメ！アニメ！",
+      "source": "アニメ！アニメ！",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDX2NGSXZTNUp0cnZfTWZzNlpWZTJxSVA4bTV4eElDQWIyRmNmUW9LdWpjaldPcWhaTzlSUy1RdGlFbFVxUVNnR3Y3aU1HVmJseEQ0ZUNROThObkNFOXpHSGdLODh6dUhJdEE?oc=5",
+      "image": null,
+      "timestamp": 1794560400,
+      "created_at": "2026-11-13 18:00",
+      "title_orig": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！ - PR TIMES",
+      "title_ja": "11月15日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第35話【お台場の妖精！リリモン開花】を放送！ - PR TIMES"
     },
     {
       "id": "c2be595a14c6fdbd586ffad7fa3a8457",
@@ -540,6 +584,19 @@
       "timestamp": 1794547391,
       "created_at": "2026-11-13 14:23",
       "title_orig": "BT27-001 (DCG)"
+    },
+    {
+      "id": "0bdaa1cbe9f6d1d54fb9987030609470",
+      "title": "[트윗] 블루아카 아스나와 방과후 2 저번거랑 이어지는 내용 점심쯤에는 커미션 관련 글을 올릴게요 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vQ3VUaDhBdGJGVmhyaUtXcjBYOTZvZG9qUEtZeTlCZkhRa3JTU3paRVl3cGQ3c2lYVlFNREF5enluNDVRdWxNdWM2RHVKcEk2ZHRzYnJJVVJSVHBMVXpsTHVR?oc=5",
+      "image": null,
+      "timestamp": 1794531744,
+      "created_at": "2026-11-13 10:02"
     },
     {
       "id": "3c7ea5ee3306651812f1be436d339e8a",
@@ -3520,6 +3577,20 @@
       "image": null,
       "timestamp": 1793084400,
       "created_at": "2026-10-27 16:00"
+    },
+    {
+      "id": "5fb1c179588ecf1fe86ef0a4d4ce83d7",
+      "title": "[해외뉴스] 디지몬 카드 게임이 DIGIMON ALYSION에서 디지털 월드로 향한다! 지금 사전 등록하세요!!",
+      "snippet": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION! Pre-Register Today!! Morningstar",
+      "source": "Morningstar",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMHptVl84NHhSTDFrUG1OeWc1ZEM0SUJkWTBLNXgyUUxzQWJMRzhNTE4yR1pDelJSNHVvNmkwTkZnem1rRHhqWkdEdXc0Tk5CNWNWczVZRzFjRDRuSGlQMnVLaE1RRGFLdHlUUDFKLXdqbHVKNnV0VUd1eXVTYVNiTFViTE15aEdQeWNqUkdOR1pjUVlyRFNheXZFNllyYlhuejE0VlZTQXpFLS1XSW02WXpZUUItR0lHdUxnYTh1WEpuMXFwRHFVY2ZKMUVlX2RoTFhfQkROdDVEVUw5amJSOQ?oc=5",
+      "image": null,
+      "timestamp": 1793084400,
+      "created_at": "2026-10-27 16:00",
+      "title_orig": "The Digimon Card Game Heads to the Digital World in DIGIMON ALYSION! Pre-Register Today!!"
     },
     {
       "id": "e8ebf8b766d772df27849998f9326577",
