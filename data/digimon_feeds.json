@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15 04:41:53",
-  "total_count": 624,
+  "last_updated": "2026-11-15 08:34:11",
+  "total_count": 639,
   "retention_days": 90,
   "sources": [
     {
@@ -11,21 +11,21 @@
     },
     {
       "name": "Google News (EN)",
-      "count": 33,
+      "count": 31,
       "errors": 0,
       "seconds": 1.0
     },
     {
       "name": "Google News (JA)",
-      "count": 34,
+      "count": 35,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.0
     },
     {
       "name": "루리웹 모형정보",
-      "count": 31,
+      "count": 32,
       "errors": 0,
-      "seconds": 8.5
+      "seconds": 3.9
     },
     {
       "name": "디시 디지몬",
@@ -51,7 +51,7 @@
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.6
     },
     {
       "name": "Wikimon 신규 문서",
@@ -63,61 +63,61 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "Instagram",
       "count": 84,
       "errors": 0,
-      "seconds": 2.1
+      "seconds": 1.7
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.8
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.4
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.3
+      "seconds": 2.2
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.9
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.9
     },
     {
       "name": "루리웹 게임·애니",
       "count": 25,
       "errors": 0,
-      "seconds": 4.3
+      "seconds": 5.7
     },
     {
       "name": "아카라이브",
@@ -129,10 +129,193 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     }
   ],
   "feeds": [
+    {
+      "id": "1b304ddae791f0eb091787e11f0f41c2",
+      "title": "[일본뉴스] 「디지몬 어드벤처」 메지루시 액세서리 제3탄이 눈물샘 직격! 「코로몬」을 비롯해, 선택받은 아이들의 유년기 디지몬 전 8종 (인사이드)",
+      "snippet": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SRGxLRjAzYTROZlZuRVRLbGh6SVVrWl9TNlhrQ2NoX2NubnJBQUNuR3FHT3ZrZzAzV2JRcmhtZm5oa0tzczd6aG8teUJuU082WFBOUkQ1WGZsdDBIS21TUXZSSEFmOFctWmlCOTh0Y0dvbGZiTWU1UGFrM0JwUUU?oc=5",
+      "image": null,
+      "timestamp": 1794694534,
+      "created_at": "2026-11-15 07:15",
+      "title_orig": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）",
+      "title_ja": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）"
+    },
+    {
+      "id": "de2cf25f20818d1c42e4315b15fbe5db",
+      "title": "[해외공식] 디지몬 어드벤처 오메가몬 피규어 2027년 4월 발매 - 미국에서 예약 주문 가능",
+      "snippet": "A new Omegamon/Omnimon figure is available to pre-order in the US. In Japan this will be a crane game prize. This is a s",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-adventure-omegamon-omnimon-figure-out-in-april-2027-available-for-pre-order-in-us.37128/",
+      "image": null,
+      "timestamp": 1794692440,
+      "created_at": "2026-11-15 06:40",
+      "title_orig": "Digimon Adventure Omegamon/Omnimon Figure Out In April 2027- Available for Pre-Order in US"
+    },
+    {
+      "id": "68a30b86bad907b456673e8222c3fc0c",
+      "title": "[위키몬 신규] ED01-10 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (ED01-10 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/ED01-10_%28DCG%29",
+      "image": null,
+      "timestamp": 1794692424,
+      "created_at": "2026-11-15 06:40",
+      "title_orig": "ED01-10 (DCG)"
+    },
+    {
+      "id": "f4074f57a11683b09497c1bf7ea03d57",
+      "title": "[위키몬 신규] ED01-09 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (ED01-09 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/ED01-09_%28DCG%29",
+      "image": null,
+      "timestamp": 1794692124,
+      "created_at": "2026-11-15 06:35",
+      "title_orig": "ED01-09 (DCG)"
+    },
+    {
+      "id": "a8f601671dfb49f7c5ae725d5f3819f7",
+      "title": "[위키몬 신규] SD01-04 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (SD01-04 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/SD01-04_%28DCG%29",
+      "image": null,
+      "timestamp": 1794691367,
+      "created_at": "2026-11-15 06:22",
+      "title_orig": "SD01-04 (DCG)"
+    },
+    {
+      "id": "814840b755e858bb8dbf7c15608fdb21",
+      "title": "[위키몬 신규] SD01-03 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (SD01-03 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/SD01-03_%28DCG%29",
+      "image": null,
+      "timestamp": 1794691254,
+      "created_at": "2026-11-15 06:20",
+      "title_orig": "SD01-03 (DCG)"
+    },
+    {
+      "id": "c38b4608458d9937db5abf1460951d18",
+      "title": "[위키몬 신규] SD01-02 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (SD01-02 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/SD01-02_%28DCG%29",
+      "image": null,
+      "timestamp": 1794690798,
+      "created_at": "2026-11-15 06:13",
+      "title_orig": "SD01-02 (DCG)"
+    },
+    {
+      "id": "60896a120521d84beba33b455e2032dd",
+      "title": "[위키몬 신규] BT27-057 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-057 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-057_%28DCG%29",
+      "image": null,
+      "timestamp": 1794690625,
+      "created_at": "2026-11-15 06:10",
+      "title_orig": "BT27-057 (DCG)"
+    },
+    {
+      "id": "03e06aca9d6a4fb750bca4fc33aac256",
+      "title": "[위키몬 신규] BT27-061 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-061 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-061_%28DCG%29",
+      "image": null,
+      "timestamp": 1794690278,
+      "created_at": "2026-11-15 06:04",
+      "title_orig": "BT27-061 (DCG)"
+    },
+    {
+      "id": "2a277e28db6e72cdf5742dc7631e26f5",
+      "title": "[위키몬 신규] BT27-066 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-066 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-066_%28DCG%29",
+      "image": null,
+      "timestamp": 1794690067,
+      "created_at": "2026-11-15 06:01",
+      "title_orig": "BT27-066 (DCG)"
+    },
+    {
+      "id": "e064012dc4aece1dee445f732dad8e14",
+      "title": "[위키몬 신규] BT27-069 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-069 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-069_%28DCG%29",
+      "image": null,
+      "timestamp": 1794689788,
+      "created_at": "2026-11-15 05:56",
+      "title_orig": "BT27-069 (DCG)"
+    },
+    {
+      "id": "e9ca3668ae4605745058baa0dc17a8c5",
+      "title": "[위키몬 신규] BT27-042 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-042 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-042_%28DCG%29",
+      "image": null,
+      "timestamp": 1794689463,
+      "created_at": "2026-11-15 05:51",
+      "title_orig": "BT27-042 (DCG)"
+    },
+    {
+      "id": "3cd2568937951ec60931d3f78b599945",
+      "title": "[위키몬 신규] BT27-041 (DCG)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BT27-041 (DCG))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/BT27-041_%28DCG%29",
+      "image": null,
+      "timestamp": 1794688622,
+      "created_at": "2026-11-15 05:37",
+      "title_orig": "BT27-041 (DCG)"
+    },
     {
       "id": "7aff6d6db2467b14d2d51083712e829d",
       "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26의 유키나몬/빙수희화 미리보기",
@@ -173,6 +356,34 @@
       "image": null,
       "timestamp": 1794667509,
       "created_at": "2026-11-14 23:45"
+    },
+    {
+      "id": "f3cc987ab7b1bee16927b6a8bf4f066d",
+      "title": "[해외뉴스] 디지몬 월드 리:디지타이즈 디코드 [타이가] 파트 17 검은 악마; 페이즈 2 보스: 블랙워그레이몬X",
+      "snippet": "Digimon World Re:Digitize: Decode [Taiga] Part 17 The Black Devil; Phase 2 Boss: BlackWarGreymon X YouTube",
+      "source": "YouTube",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqTkpiOGlQcndZaXI2dUpBMU15MDgzczhFWnBjMVVJc2dLNlYtSjZtaEFPOWZrRkdpT1lvRUxDUDl2dw?oc=5",
+      "image": null,
+      "timestamp": 1794662105,
+      "created_at": "2026-11-14 22:15",
+      "title_orig": "Digimon World Re:Digitize: Decode [Taiga] Part 17 The Black Devil; Phase 2 Boss: BlackWarGreymon X"
+    },
+    {
+      "id": "bd00d7fc62b74b962e0d8f60c3015bc0",
+      "title": "[해외뉴스] 디지몬 월드 리:디지타이즈 디코드 [타이가] 파트 16 검은 악마; 페이즈 1 니코의 패배",
+      "snippet": "Digimon World Re:Digitize: Decode [Taiga] Part 16 The Black Devil; Phase 1 Nico's defeat YouTube",
+      "source": "YouTube",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGV0FkQTBCcndia3BzNFQ1MGRqNWhFU2xJNWZUTHVEZ2lDczhMcll3Nk9TVVRUcXJ6am00d3pQWGVMdw?oc=5",
+      "image": null,
+      "timestamp": 1794661206,
+      "created_at": "2026-11-14 22:00",
+      "title_orig": "Digimon World Re:Digitize: Decode [Taiga] Part 16 The Black Devil; Phase 1 Nico's defeat"
     },
     {
       "id": "c23894c40538e1290df06266c93ff740",
@@ -1684,10 +1895,10 @@
     },
     {
       "id": "f4012501208db758882562d0defb33e7",
-      "title": "[하비뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
+      "title": "[일본뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
       "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
-      "source": "전격하비",
-      "source_badge": "하비뉴스",
+      "source": "電撃ホビーウェブ",
+      "source_badge": "일본뉴스",
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
