@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-11-14 03:19:58",
-  "total_count": 610,
+  "last_updated": "2026-11-14 09:03:19",
+  "total_count": 611,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.3
     },
     {
       "name": "Google News (EN)",
       "count": 32,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.0
     },
     {
       "name": "Google News (JA)",
-      "count": 35,
+      "count": 34,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.0
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 2.3
+      "seconds": 1.9
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.2,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.1,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 11,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.7
     },
     {
       "name": "WithTheWill",
@@ -57,7 +57,7 @@
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.3
     },
     {
       "name": "YouTube",
@@ -75,49 +75,49 @@
       "name": "Instagram",
       "count": 85,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 1.6
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.7
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.3
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 2.2
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.9
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
       "count": 25,
       "errors": 0,
-      "seconds": 1.8
+      "seconds": 1.5
     },
     {
       "name": "아카라이브",
@@ -129,10 +129,24 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     }
   ],
   "feeds": [
+    {
+      "id": "d58b09e32f2dd80c245434913dad4fda",
+      "title": "[해외공식] With the Will 팟캐스트 라이브 - 11월 15일 일요일",
+      "snippet": "Sunday (November 15th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about D",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/with-the-will-podcast-live-sunday-november-15th.37122/",
+      "image": null,
+      "timestamp": 1794605866,
+      "created_at": "2026-11-14 06:37",
+      "title_orig": "With the Will Podcast Live- Sunday, November 15th"
+    },
     {
       "id": "70c914f73e580bc5b64e65917023b3ca",
       "title": "[해외공식] 그리몬 & 제스몬 X/궁극선진 성패검 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
@@ -143,9 +157,23 @@
       "category_name": "일반/뉴스",
       "link": "https://withthewill.net/threads/gurimon-jesmon-x-ultimate-seibaken-parallel-alt-art-previews-for-digimon-card-game-booster-set-27.37121/",
       "image": null,
-      "timestamp": 1794593098,
-      "created_at": "2026-11-14 03:04",
+      "timestamp": 1794601971,
+      "created_at": "2026-11-14 05:32",
       "title_orig": "Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "cc09c7bbdfce397d71d13fcf56212d8d",
+      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-preview-for-digimon-card-game-booster-set-27.37116/",
+      "image": null,
+      "timestamp": 1794594203,
+      "created_at": "2026-11-14 03:23",
+      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27"
     },
     {
       "id": "495bf8775936ed6cb440d387e1bfd414",
@@ -454,20 +482,6 @@
       "timestamp": 1794519581,
       "created_at": "2026-11-13 06:39",
       "title_orig": "New Digimon Adventure Products at AniBirth on November 13th, November 20th Online"
-    },
-    {
-      "id": "cc09c7bbdfce397d71d13fcf56212d8d",
-      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 선공개 - 디지몬 카드 게임 부스터 세트 27",
-      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-preview-for-digimon-card-game-booster-set-27.37116/",
-      "image": null,
-      "timestamp": 1794508284,
-      "created_at": "2026-11-13 03:31",
-      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27"
     },
     {
       "id": "276d618ecab967ee457d922dc6291a3a",
@@ -1500,10 +1514,10 @@
     },
     {
       "id": "f4012501208db758882562d0defb33e7",
-      "title": "[일본뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
+      "title": "[하비뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
       "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
@@ -7202,8 +7216,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 내 건담 덱 | 에그맨 덱 빌더",
-      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
+      "title": "[디지카] 내 건담 덱",
+      "snippet": "My Gundam Decks Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -7212,7 +7226,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks | Egman Deck Builder"
+      "title_orig": "My Gundam Decks"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
