@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15 08:34:11",
-  "total_count": 639,
+  "last_updated": "2026-11-15 12:59:07",
+  "total_count": 642,
   "retention_days": 90,
   "sources": [
     {
@@ -19,26 +19,26 @@
       "name": "Google News (JA)",
       "count": 35,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.2
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 3.9
+      "seconds": 2.5
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.2,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.2,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
@@ -51,7 +51,7 @@
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.5
     },
     {
       "name": "Wikimon 신규 문서",
@@ -63,19 +63,19 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     {
       "name": "Instagram",
       "count": 84,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 1.9
     },
     {
       "name": "하비 매체",
@@ -87,19 +87,19 @@
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.6
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.5
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 2.7
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -111,13 +111,13 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 24,
       "errors": 0,
-      "seconds": 5.7
+      "seconds": 1.2
     },
     {
       "name": "아카라이브",
@@ -129,10 +129,38 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     }
   ],
   "feeds": [
+    {
+      "id": "fd095dde28a8e90a2e58adb68387067e",
+      "title": "[해외공식] 주말 모음 - 디지몬 비트브레이크 생일 소셜 아트, 아니메디아, 어플몬 음악 & 사진, 팝업 스토어 사진, 이번 주 소식 정리 외 다수!",
+      "snippet": "Time for a weekend batch! November 11th was Kyo's birthday and to celebrate Digimon TV posted some new post-series artwo",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/weekend-batch-digimon-beatbreak-birthday-social-art-animedia-appmon-music-photo-pop-up-shop-photos-catch-up-for-the-week-more.37130/",
+      "image": null,
+      "timestamp": 1794710109,
+      "created_at": "2026-11-15 11:35",
+      "title_orig": "Weekend Batch- Digimon Beatbreak Birthday Social Art, Animedia, Appmon Music & Photo, Pop-Up Shop Photos, Catch-Up for the Week, & More!"
+    },
+    {
+      "id": "c97e27ccdea0f1fe27128f733e529e17",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 팩 제27탄의 젬몬, 리스크몬, 렙틸리몬 선행 공개",
+      "snippet": "​ ​ ​ ​ ​ ... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gemmon-liskmon-reptilimon-previews-for-digimon-card-game-booster-set-27.37129/",
+      "image": null,
+      "timestamp": 1794705686,
+      "created_at": "2026-11-15 10:21",
+      "title_orig": "Gemmon, Liskmon, & Reptilimon Previews for Digimon Card Game Booster Set 27"
+    },
     {
       "id": "1b304ddae791f0eb091787e11f0f41c2",
       "title": "[일본뉴스] 「디지몬 어드벤처」 메지루시 액세서리 제3탄이 눈물샘 직격! 「코로몬」을 비롯해, 선택받은 아이들의 유년기 디지몬 전 8종 (인사이드)",
@@ -147,6 +175,21 @@
       "created_at": "2026-11-15 07:15",
       "title_orig": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）",
       "title_ja": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種（インサイド）"
+    },
+    {
+      "id": "44d1a59671145ec50e9bbff274a3cc5b",
+      "title": "[일본뉴스] 「디지몬 어드벤처」 메지루시 액세서리 제3탄이 눈물샘 직격! 「코로몬」을 비롯한, 선택받은 아이들의 유년기 디지몬 총 8종",
+      "snippet": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種 インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ucUtaWlAtLW9BVi1TckRZWnhVb0hJV2lVWEhIRjF3SkFHNDFMVE4wTFB5WFMzcVBnOVUxTE9vTEg4SFVIMjdCdndWZ01NMXZlVlFQY051U1EtZEljeHQ4TFhOZS1jclBRSVE?oc=5",
+      "image": null,
+      "timestamp": 1794694203,
+      "created_at": "2026-11-15 07:10",
+      "title_orig": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種",
+      "title_ja": "「デジモンアドベンチャー」めじるしアクセサリー第3弾が涙腺直撃！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
     },
     {
       "id": "de2cf25f20818d1c42e4315b15fbe5db",
