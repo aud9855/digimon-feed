@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-11-15 12:59:07",
-  "total_count": 642,
+  "last_updated": "2026-11-15 20:48:15",
+  "total_count": 643,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.4
     },
     {
       "name": "Google News (EN)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
-      "count": 35,
+      "count": 34,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.1
     },
     {
       "name": "루리웹 모형정보",
-      "count": 31,
+      "count": 32,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 2.2
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.2,
+      "seconds": 1.0,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.2,
+      "seconds": 1.0,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
@@ -51,7 +51,7 @@
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.4
     },
     {
       "name": "Wikimon 신규 문서",
@@ -63,19 +63,19 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.4
     },
     {
       "name": "Instagram",
-      "count": 84,
+      "count": 82,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 1.7
     },
     {
       "name": "하비 매체",
@@ -99,7 +99,7 @@
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.7
+      "seconds": 2.4
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -115,9 +115,9 @@
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 24,
+      "count": 25,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.1
     },
     {
       "name": "아카라이브",
@@ -129,10 +129,38 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     }
   ],
   "feeds": [
+    {
+      "id": "2244ee70682f05aa50d1b36fdad2a19f",
+      "title": "[해외공식] 디지몬 알리시온 타임즈 (2026년 11월 15일)",
+      "snippet": "Digimon Alysion Times is in roughly 4 hours from the time of this post! It will be on the Digimon Card Game English Yout",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-alysion-times-november-15th-2026.37132/",
+      "image": null,
+      "timestamp": 1794729399,
+      "created_at": "2026-11-15 16:56",
+      "title_orig": "Digimon Alysion Times (November 15th, 2026)"
+    },
+    {
+      "id": "86077f33c640155358a8fdc11af5bda3",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 테이머 카드 카나타 프리뷰",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Kanata. Tamer",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/tamer-card-kanata-preview-for-digimon-card-game-booster-set-27.37131/",
+      "image": null,
+      "timestamp": 1794722851,
+      "created_at": "2026-11-15 15:07",
+      "title_orig": "Tamer Card Kanata Preview for Digimon Card Game Booster Set 27"
+    },
     {
       "id": "fd095dde28a8e90a2e58adb68387067e",
       "title": "[해외공식] 주말 모음 - 디지몬 비트브레이크 생일 소셜 아트, 아니메디아, 어플몬 음악 & 사진, 팝업 스토어 사진, 이번 주 소식 정리 외 다수!",
@@ -9053,19 +9081,6 @@
       "image": null,
       "timestamp": 1787036400,
       "created_at": "2026-08-18 16:00"
-    },
-    {
-      "id": "5b7c717f31a99a684bb3ba0072a62457",
-      "title": "[인스타] '디지몬 어드벤처'가 더블 에디션으로 찾아온다💗 그 시절 함께한 우리들~ 모두 소환이야! 9월 16일 컴몬! #메가박스 단독 개봉",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWHNTLUJ0Wlo4cmlaRlVhN2EtdlB1dEs1U09NNHlaVVczWnRKeHZfTkZLaHdrR3JpSnJyVGxZNXR1TVI5UVp4TG1SQ3g0Q1E3Vlp4bkpB?oc=5",
-      "image": null,
-      "timestamp": 1786950000,
-      "created_at": "2026-08-17 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
