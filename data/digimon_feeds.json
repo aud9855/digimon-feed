@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15 20:48:15",
-  "total_count": 643,
+  "last_updated": "2026-11-16 03:14:41",
+  "total_count": 652,
   "retention_days": 90,
   "sources": [
     {
@@ -11,13 +11,13 @@
     },
     {
       "name": "Google News (EN)",
-      "count": 31,
+      "count": 30,
       "errors": 0,
       "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
-      "count": 34,
+      "count": 35,
       "errors": 0,
       "seconds": 1.1
     },
@@ -25,20 +25,20 @@
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 2.1
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 1.7,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 1.7,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
@@ -51,7 +51,7 @@
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "Wikimon 신규 문서",
@@ -73,27 +73,27 @@
     },
     {
       "name": "Instagram",
-      "count": 82,
+      "count": 83,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 2.6
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.7
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.7
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.4
     },
     {
       "name": "공식 상품 (digimon.net)",
@@ -105,7 +105,7 @@
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.2
     },
     {
       "name": "피규어 샵",
@@ -115,9 +115,9 @@
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 26,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.6
     },
     {
       "name": "아카라이브",
@@ -143,9 +143,137 @@
       "category_name": "일반/뉴스",
       "link": "https://withthewill.net/threads/digimon-alysion-times-november-15th-2026.37132/",
       "image": null,
-      "timestamp": 1794729399,
-      "created_at": "2026-11-15 16:56",
+      "timestamp": 1794765549,
+      "created_at": "2026-11-16 02:59",
       "title_orig": "Digimon Alysion Times (November 15th, 2026)"
+    },
+    {
+      "id": "6fbdfbac25bac995a8d8df9594219493",
+      "title": "[해외뉴스] 『디지몬 알리시온』 카드 팩 상세 정보 및 핵심 게임플레이 공개",
+      "snippet": "Digimon Alysion Reveals Card Pack Details & Core Gameplay Bleeding Cool News",
+      "source": "Bleeding Cool News",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXRpNXQtUzVaZnBQYlFBY0lhTDhVV2ZLNVB2Nk54em0zeWt5RVB2X2hKcDF1V2tPdHpVZS1vTWVMa2RGcnRHNE1udUM1bUdSVjBRSkYxWEdoWHpQOXJvT3JJRGE0b2NBOWY2YTY1N3lBaWdBVy12bG5ZNFdibl9EaU85OU1kY0NWUzduTmJmMVE?oc=5",
+      "image": null,
+      "timestamp": 1794757389,
+      "created_at": "2026-11-16 00:43",
+      "title_orig": "Digimon Alysion Reveals Card Pack Details & Core Gameplay"
+    },
+    {
+      "id": "624f9e084671e47141684e2c2106f1fe",
+      "title": "[위키몬 신규] 토코나 해안",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Tokona Coast)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Tokona_Coast",
+      "image": null,
+      "timestamp": 1794753267,
+      "created_at": "2026-11-15 23:34",
+      "title_orig": "Tokona Coast"
+    },
+    {
+      "id": "9243c0f2ef35be1a3d8d551800a49d57",
+      "title": "[위키몬 신규] 토코나 바다",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Tokona Sea)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Tokona_Sea",
+      "image": null,
+      "timestamp": 1794753259,
+      "created_at": "2026-11-15 23:34",
+      "title_orig": "Tokona Sea"
+    },
+    {
+      "id": "7ea0c76a5eeb6c6a2e95696407cb47a6",
+      "title": "[위키몬 신규] 크리스털 동굴",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Crystal Cave)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Crystal_Cave",
+      "image": null,
+      "timestamp": 1794753254,
+      "created_at": "2026-11-15 23:34",
+      "title_orig": "Crystal Cave"
+    },
+    {
+      "id": "78513cfc209cdd6301d6cd2095b618d9",
+      "title": "[위키몬 신규] 크리스털 광산",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Crystal Mine)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Crystal_Mine",
+      "image": null,
+      "timestamp": 1794753244,
+      "created_at": "2026-11-15 23:34",
+      "title_orig": "Crystal Mine"
+    },
+    {
+      "id": "dc4edea7f8035420a92be1437c62117c",
+      "title": "[일본뉴스] 『디지몬 알리시온』 11/15 방송 정리. 신규 캐릭터와 게임 시스템 속속 공개! 사전 등록 보상 추가도 확인",
+      "snippet": "『デジモンアリシオン』11/15配信まとめ。新キャラやゲームシステムが続々判明！ 事前登録の報酬追加も明らかに 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vX01TNmI4dXl4UHZjamVtQk12TEcxeGxGUkc3alRtS1BpSE5aSVNwY2lKRllSQmJUZG55ZEpUeUZnVjAxUFBRam9NZkYzbUZORWtSaGJ5NA?oc=5",
+      "image": null,
+      "timestamp": 1794746880,
+      "created_at": "2026-11-15 21:48",
+      "title_orig": "『デジモンアリシオン』11/15配信まとめ。新キャラやゲームシステムが続々判明！ 事前登録の報酬追加も明らかに",
+      "title_ja": "『デジモンアリシオン』11/15配信まとめ。新キャラやゲームシステムが続々判明！ 事前登録の報酬追加も明らかに"
+    },
+    {
+      "id": "63107d4a0fca134339b825017649814b",
+      "title": "[일본뉴스] 『디지몬 알리시온』 사전 등록 40만 명 돌파! 신규 팩 및 45만 명 보상 \"아구몬\" 해금",
+      "snippet": "『デジモンアリシオン』事前登録40万人突破！ 新パックや45万人報酬“アグモン”解禁 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IaGhHZndVTXp2M0NUSVRpS0xrOGtRNjBvNVJuMGRfbUZQcVZvYWQ2MlcxOWg3b2p6VUQ4SUZuX0ZzOTNveUNPT2tWOElKaXN2TjhmeFp5RQ?oc=5",
+      "image": null,
+      "timestamp": 1794746700,
+      "created_at": "2026-11-15 21:45",
+      "title_orig": "『デジモンアリシオン』事前登録40万人突破！ 新パックや45万人報酬“アグモン”解禁",
+      "title_ja": "『デジモンアリシオン』事前登録40万人突破！ 新パックや45万人報酬“アグモン”解禁"
+    },
+    {
+      "id": "4be798d7ca974396580a5c57f920e780",
+      "title": "[일본뉴스] 『디지몬 카드 게임』 모바일 앱 『디지몬 알리시온』 수록 카드 정보 해금",
+      "snippet": "『デジモンカードゲーム』のモバイル向けアプリ『デジモンアリシオン』収録カード情報が解禁 電ファミニコゲーマー",
+      "source": "電ファミニコゲーマー",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81MlJoTDZ5T195UFFBUEhwQUVhb2ZiTHNmZmR1dm5adlhFTHN0UmFoQkNJM1E4YklxQTFUbVU3aDVSaF9kWkdaZXlFQV9US1BzTTFnTS1OZnI?oc=5",
+      "image": null,
+      "timestamp": 1794746700,
+      "created_at": "2026-11-15 21:45",
+      "title_orig": "『デジモンカードゲーム』のモバイル向けアプリ『デジモンアリシオン』収録カード情報が解禁",
+      "title_ja": "『デジモンカードゲーム』のモバイル向けアプリ『デジモンアリシオン』収録カード情報が解禁"
+    },
+    {
+      "id": "8c3d52479261e7433e9fe1e6115386e7",
+      "title": "[디지카] 클라스터",
+      "snippet": "클라스터 digimoncard.io",
+      "source": "DigimonCard.io",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzQ5aWtsWkhOak5STHVEeTV6VllnM0dtdUszb0gwWXBXejl0LXhtOFFoaHV3RXhwSlZEd3QwZ003c3FsN3VrWTJFMmhrZHM5M0VqZWlZbUE3SGJwR1E5MlpQenhucjMzbzBQbExPa3JGelM1SHpKMmtMV3Nxc1lmdEtEOWFBTmFqMDMtQTdndVo4cGc?oc=5",
+      "image": null,
+      "timestamp": 1794724896,
+      "created_at": "2026-11-15 15:41"
     },
     {
       "id": "86077f33c640155358a8fdc11af5bda3",
@@ -1399,6 +1527,20 @@
       "title_ja": "TVアニメ「DIGIMON BEATBREAK」完結記念！Blu-ray BOXプロジェクト始動！"
     },
     {
+      "id": "8f846100864328c9a2ee7f50d0afa1fe",
+      "title": "[해외뉴스] 디지몬 알리시온 사전 등록 20만 명 돌파, 캠페인 보상 공개",
+      "snippet": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVBZdXFWRHZRcGZNY0Rvd1dVNEZFYWRsVmpqVmFkaUhRcDRrS1BVazE0Nl80SlZxc2VzM0xPczdWblI5MGVCNzhmVWpKT2lzRFhQbVFRZFFJTThmeHY1X19uR25EQjN5dV82UkFVOW5od3BsOVpnVDJKT2tiLXp3alBpNzhjYWtpZGp0d0VzcVFqTjNPcXc?oc=5",
+      "image": null,
+      "timestamp": 1794298039,
+      "created_at": "2026-11-10 17:07",
+      "title_orig": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards"
+    },
+    {
       "id": "e7403a342c0556b14c56a1277ca1e2f3",
       "title": "[트윗] 🔹🌟🔹🌟🔹🌟🔹🌟🔹🌟🔹 『그 시절, 너희들에게서 빛나던 문장은 뭐였어?』 용기? 우정? 아니면 희망, 사랑, 순수...? 어린 시절, 선택받은 아이들과 함께 디지털 월드로 떠났던 추억의 한 페이지를 다시 펼쳐보지 않을래? 그 가슴 뛰던 모험, 그 속에서 빛났던 태그와 문장이 액세 - X",
       "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
@@ -1410,20 +1552,6 @@
       "image": null,
       "timestamp": 1794296355,
       "created_at": "2026-11-10 16:39"
-    },
-    {
-      "id": "8f846100864328c9a2ee7f50d0afa1fe",
-      "title": "[해외뉴스] 디지몬 알리시온 사전 등록 20만 명 돌파, 캠페인 보상 공개",
-      "snippet": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVBZdXFWRHZRcGZNY0Rvd1dVNEZFYWRsVmpqVmFkaUhRcDRrS1BVazE0Nl80SlZxc2VzM0xPczdWblI5MGVCNzhmVWpKT2lzRFhQbVFRZFFJTThmeHY1X19uR25EQjN5dV82UkFVOW5od3BsOVpnVDJKT2tiLXp3alBpNzhjYWtpZGp0d0VzcVFqTjNPcXc?oc=5",
-      "image": null,
-      "timestamp": 1794294523,
-      "created_at": "2026-11-10 16:08",
-      "title_orig": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards"
     },
     {
       "id": "79951f1d0cd76a70f083556830a07bbe",
@@ -1966,10 +2094,10 @@
     },
     {
       "id": "f4012501208db758882562d0defb33e7",
-      "title": "[일본뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
+      "title": "[하비뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
       "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
