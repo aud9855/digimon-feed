@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-11-16 03:14:41",
-  "total_count": 652,
+  "last_updated": "2026-11-16 08:15:54",
+  "total_count": 656,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.1
     },
     {
       "name": "Google News (EN)",
-      "count": 30,
+      "count": 31,
       "errors": 0,
       "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
-      "count": 35,
+      "count": 33,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.0
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 2.1
+      "seconds": 1.6
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.7,
+      "seconds": 0.6,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.7,
+      "seconds": 0.6,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
@@ -69,55 +69,55 @@
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "Instagram",
-      "count": 83,
+      "count": 84,
       "errors": 0,
-      "seconds": 2.6
+      "seconds": 1.7
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.0
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.4
+      "seconds": 1.9
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 0.9
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.8
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 26,
+      "count": 24,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.2
     },
     {
       "name": "아카라이브",
@@ -133,6 +133,62 @@
     }
   ],
   "feeds": [
+    {
+      "id": "3aba41b1e4171f8d660f5d24b6b0f957",
+      "title": "[해외공식] 디지몬 알리시온 타임즈의 디지몬 알리시온 업데이트 & 정보 및 아카이브 영상",
+      "snippet": "Digimon Alysion Times was earlier with a number of updates as we get closer to the release of the mobile card game. The",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-alysion-updates-info-from-digimon-alysion-times-plus-archive-video.37134/",
+      "image": null,
+      "timestamp": 1794772529,
+      "created_at": "2026-11-16 04:55",
+      "title_orig": "Digimon Alysion Updates & Info from Digimon Alysion Times, plus Archive Video"
+    },
+    {
+      "id": "f73fd518deb4190d2f0723e1711cb250",
+      "title": "[해외공식] 디지몬 알리시온 업데이트 - BD-03 유니온 임팩트 트레일러 & 코가 프로필",
+      "snippet": "A few Digimon Alysion updates... First up, a trailer for BD-03 Union Impact, which will be available at game release. Th",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-alysion-updates-bd-03-union-impact-trailer-koga-profile.37112/",
+      "image": null,
+      "timestamp": 1794771119,
+      "created_at": "2026-11-16 04:31",
+      "title_orig": "Digimon Alysion Updates- BD-03 Union Impact Trailer & Koga Profile"
+    },
+    {
+      "id": "bc6e2adc6c8bebd8cf6737050a91162b",
+      "title": "[해외뉴스] DIGIMON ALYSION 디지알리 타임즈 라이브 방송에서 신규 카드 팩 상세 정보 및 핵심 게임플레이 메커니즘 공개",
+      "snippet": "DIGIMON ALYSION DigiAly Times Livestream Reveals New Card Pack Details and Core Gameplay Mechanics The Outerhaven",
+      "source": "The Outerhaven",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdk1seUZWc0IwMHR3ajh2NVlyY25jQnFFODlGV216aGNKVjNqNE5hRUw1cEQ2QjROWVE1aC14bEpsazlUNTM4MzJwdzY5ZXR6OGd3VWY5MFNENUV5WXNyZnllcl9HVTNBSFhnWVBTc19WYWRjaFg5SU1vRjBRbnNBRk82YWVFbUxBRzl2RXRCdGxGc3E0WXJDcFljRURfM0RtVWQ4WE9VTW5aTi0tTWtBU1NLR3Z6VkF5d19rOUFHQkVfVGNwdDdTNA?oc=5",
+      "image": null,
+      "timestamp": 1794770867,
+      "created_at": "2026-11-16 04:27",
+      "title_orig": "DIGIMON ALYSION DigiAly Times Livestream Reveals New Card Pack Details and Core Gameplay Mechanics"
+    },
+    {
+      "id": "8a6fe0b9242081676e96cb0f6cd51fbe",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 팩 제27탄 루베우스드라몬 선행 공개",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/rubeusdramon-preview-for-digimon-card-game-booster-set-27.37133/",
+      "image": null,
+      "timestamp": 1794770044,
+      "created_at": "2026-11-16 04:14",
+      "title_orig": "Rubeusdramon Preview for Digimon Card Game Booster Set 27"
+    },
     {
       "id": "2244ee70682f05aa50d1b36fdad2a19f",
       "title": "[해외공식] 디지몬 알리시온 타임즈 (2026년 11월 15일)",
@@ -1078,20 +1134,6 @@
       "title_orig": "Kano Island"
     },
     {
-      "id": "f73fd518deb4190d2f0723e1711cb250",
-      "title": "[해외공식] 디지몬 알리시온 업데이트 - BD-03 유니온 임팩트 트레일러 & 코가 프로필",
-      "snippet": "A few Digimon Alysion updates... First up, a trailer for BD-03 Union Impact, which will be available at game release. Th",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/digimon-alysion-updates-bd-03-union-impact-trailer-koga-profile.37112/",
-      "image": null,
-      "timestamp": 1794489848,
-      "created_at": "2026-11-12 22:24",
-      "title_orig": "Digimon Alysion Updates- BD-03 Union Impact Trailer & Koga Profile"
-    },
-    {
       "id": "1d24bf2b4d8459577e8e520e884bb01b",
       "title": "[일본뉴스] 【기간 한정 공개】 디지몬 유니버스 애플리케이션 몬스터즈 제7화 「세 번째 앱드라이브! 토라지로는 앱튜버!」",
       "snippet": "【期間限定公開】デジモンユニバース アプリモンスターズ 第7話「3つ目のアプリドライヴ！虎次郎はアプチューバー！」 YouTube",
@@ -1552,6 +1594,20 @@
       "image": null,
       "timestamp": 1794296355,
       "created_at": "2026-11-10 16:39"
+    },
+    {
+      "id": "23e28eea2add4054dec9fc2c4c9fa8c4",
+      "title": "[해외뉴스] DIGIMON ALYSION 사전등록자 수 20만 돌파, 신규 보상 공개",
+      "snippet": "DIGIMON ALYSION Surpasses 200,000 Pre-Registrations, New Rewards Revealed Final Weapon",
+      "source": "Final Weapon",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTQwd08tVFhwYlZlZmV3Z3NVbzNxSjltM3ZEbGtwSFV5d0dTSjFyX2dJZE5MNEhic25UMjBLc1p1X0RxaWk5M1hIRHgyb0QyYjYxMGx0Y3Z5Q0pFWUxiU0gwSHpEYk5sVmFrWWRGbWY1Ymw1ZkNpQ0hLdlBPa3JpV1lZcHZVX2prdEdTMkVmQmd2YkE?oc=5",
+      "image": null,
+      "timestamp": 1794292431,
+      "created_at": "2026-11-10 15:33",
+      "title_orig": "DIGIMON ALYSION Surpasses 200,000 Pre-Registrations, New Rewards Revealed"
     },
     {
       "id": "79951f1d0cd76a70f083556830a07bbe",
@@ -7859,8 +7915,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LQWlWZGhkUEVUa0VOaXIwTkVtRF9hLVAxNlFsWk1rbEppREE1ekdvTUxHNUVRVFJ0eG9LTDdoVkhrWTZRaDhORy11OE1rbDl3bUNGenhB?oc=5",
       "image": null,
-      "timestamp": 1790146800,
-      "created_at": "2026-09-23 16:00"
+      "timestamp": 1790233200,
+      "created_at": "2026-09-24 16:00"
     },
     {
       "id": "c9e35e11fd3068c3d095ccb1430c71cf",
