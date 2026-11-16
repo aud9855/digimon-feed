@@ -1,49 +1,49 @@
 {
-  "last_updated": "2026-11-16 12:49:29",
-  "total_count": 662,
+  "last_updated": "2026-11-16 21:27:09",
+  "total_count": 668,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.3
     },
     {
       "name": "Google News (EN)",
       "count": 29,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "Google News (JA)",
-      "count": 35,
+      "count": 36,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.1
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 1.9
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 0.8,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 0.7,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
-      "count": 12,
+      "count": 13,
       "errors": 0,
       "seconds": 0.9
     },
@@ -69,19 +69,19 @@
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     {
       "name": "Instagram",
-      "count": 84,
+      "count": 86,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.7
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
@@ -99,25 +99,25 @@
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.0
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.1
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 24,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.4
     },
     {
       "name": "아카라이브",
@@ -134,6 +134,149 @@
   ],
   "feeds": [
     {
+      "id": "bab4aa1d8145660e2b547c5bc248ed5b",
+      "title": "[일본뉴스] 신작 『DIGIMON ALYSION(디지몬 알리시온)』 사전 등록자 40만 명 돌파! 신규 캐릭터 「사키가케 시시코」도 해금 (인사이드)",
+      "snippet": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UVXhYVXY5cmloTWk3Unk3azRlS3pwRDJLUDFUQjQyMVpweDdkTlR3cjFFNmsyOHc0X0U1OFZaMlZYUUcyeHVmSS11VmFLR3RHVzVqVnd5STlqSWxXUGJVR0RZV0hwa29wOW1HazlVWlFodjRkb2VGaWdOcGNjcms?oc=5",
+      "image": null,
+      "timestamp": 1794825303,
+      "created_at": "2026-11-16 19:35",
+      "title_orig": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁（インサイド）",
+      "title_ja": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁（インサイド）"
+    },
+    {
+      "id": "f8ead4f343303abc9a7191323e9c9e17",
+      "title": "[루리웹] [디지몬 시리즈] 디지몬 콘서트 개최 결정",
+      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
+      "source": "루리웹 애니정보",
+      "source_badge": "루리웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2442058",
+      "image": null,
+      "timestamp": 1794819720,
+      "created_at": "2026-11-16 18:02"
+    },
+    {
+      "id": "db458c9698028dd034d17a1df858d4ab",
+      "title": "[일본뉴스] 【디지몬 UP】 캠프 워즈 코인 획득 방법과 사용처",
+      "snippet": "【デジモンUP】キャンプウォーズコインの入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ibEw4RUJlZFlxMFdtbzhKeDBHOUY4U2Z5eHN0cHVVd1c4aHl3MUFfQVpkbTQ2MWxZWWx6UVpULS1LRmFvbVdFa0RMSkk?oc=5",
+      "image": null,
+      "timestamp": 1794817088,
+      "created_at": "2026-11-16 17:18",
+      "title_orig": "【デジモンUP】キャンプウォーズコインの入手方法と使い道",
+      "title_ja": "【デジモンUP】キャンプウォーズコインの入手方法と使い道"
+    },
+    {
+      "id": "57bade9b74a0a67c9831f39819ae6556",
+      "title": "[일본뉴스] 호소다 마모루 연출 「디지몬 어드벤처 3D 디지몬 그랑프리」 YouTube에서 11월 24일까지 무료 공개 중",
+      "snippet": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中 映画.com",
+      "source": "映画.com",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9SMnc0OG13cG90b1JsUVhJU2lGWG5mVWpWSXJsMlR0RXBfSDFpTEJwTnNMZjJhU2FpNUlPOQ?oc=5",
+      "image": null,
+      "timestamp": 1794816000,
+      "created_at": "2026-11-16 17:00",
+      "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
+      "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
+    },
+    {
+      "id": "2ee6a74aca3267df69313f1098406420",
+      "title": "[일본뉴스] 「디지몬 알리시온」의 정보 프로그램 「디지아리 타임즈」에서 「디지몬 세이버즈」에 등장하는 캐릭터를 다수 수록한 카드 팩 해금! 배틀 이벤트 정보도",
+      "snippet": "「デジモンアリシオン」の情報番組「デジアリタイムズ」で「デジモンセイバーズ」に登場するキャラを多数収録したカードパックが解禁！バトルイベントの情報も 千葉テレビ放送",
+      "source": "千葉テレビ放送",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fbFpTTGlNcG9pQUVoQkNzODM3TW5zNnl2NWFsV2RzcEN0SWdRcWJaUmFQNVUxYWExUF9kaXF6NkEwS3AwRTZQX2VwUTB0V3FvOTMtaXo5UXRWMHZra0RR?oc=5",
+      "image": null,
+      "timestamp": 1794814896,
+      "created_at": "2026-11-16 16:41",
+      "title_orig": "「デジモンアリシオン」の情報番組「デジアリタイムズ」で「デジモンセイバーズ」に登場するキャラを多数収録したカードパックが解禁！バトルイベントの情報も",
+      "title_ja": "「デジモンアリシオン」の情報番組「デジアリタイムズ」で「デジモンセイバーズ」に登場するキャラを多数収録したカードパックが解禁！バトルイベントの情報も"
+    },
+    {
+      "id": "553d7d6f24fe4157b5c81e1b0dcd597d",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 25의 레드 메모리 부스트 & 레드 스크램블 프리뷰",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/red-memory-boost-red-scramble-previews-for-digimon-card-game-starter-deck-25.37137/",
+      "image": null,
+      "timestamp": 1794814677,
+      "created_at": "2026-11-16 16:37",
+      "title_orig": "Red Memory Boost & Red Scramble Previews for Digimon Card Game Starter Deck 25"
+    },
+    {
+      "id": "6f2879cf3844d2b6ec5f46f388e47a08",
+      "title": "[일본뉴스] 「디지몬 알리시온」의 정보 프로그램 「디지아리 타임즈」에서 「디지몬 세이버즈」에 등장하는 캐릭터를 다수 수록한 카드 팩 해금! 배틀 이벤트 정보도",
+      "snippet": "「デジモンアリシオン」の情報番組「デジアリタイムズ」で「デジモンセイバーズ」に登場するキャラを多数収録したカードパックが解禁！バトルイベントの情報も Gamer",
+      "source": "Gamer",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aaWhuQVpLYVRQWHBmS0pCMlItbzJRV0MtcGg4LXBmWGp1QVVTVDdXQjdLRFlLcDhYMGVjTW00TXZfOVAzNXdfbm9lTktrRUtvaFIxQw?oc=5",
+      "image": null,
+      "timestamp": 1794813960,
+      "created_at": "2026-11-16 16:26",
+      "title_orig": "「デジモンアリシオン」の情報番組「デジアリタイムズ」で「デジモンセイバーズ」に登場するキャラを多数収録したカードパックが解禁！バトルイベントの情報も",
+      "title_ja": "「デジモンアリシオン」の情報番組「デジアリタイムズ」で「デジモンセイバーズ」に登場するキャラを多数収録したカードパックが解禁！バトルイベントの情報も"
+    },
+    {
+      "id": "d6a8f018d7072f3d24937b806621873a",
+      "title": "[디지카] 카드리스트",
+      "snippet": "카드리스트 디지몬 카드 게임",
+      "source": "공식 디지카KR",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wNW03WU5ETVRmV1JVcENGbEI1RXBkc1VxMm1fREhtQkpjVHRqZDVxeXBLOVR6ZHMtd0REYklsS01mT2pXWnZaQmNYekhQWDBrWXgtcE50Z1JyTEpZYWNvZUs0anlLbXJwNVNrbTVweXRveHhzZkZ0aHln?oc=5",
+      "image": null,
+      "timestamp": 1794806813,
+      "created_at": "2026-11-16 14:26"
+    },
+    {
+      "id": "42542bdc78af364c700acbf41e3f9cd0",
+      "title": "[위키몬 신규] 파일루즈 아이",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Fairouz Ai)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Fairouz_Ai",
+      "image": null,
+      "timestamp": 1794802610,
+      "created_at": "2026-11-16 13:16",
+      "title_orig": "Fairouz Ai"
+    },
+    {
+      "id": "82ae635fa143aa3a8c1ae1dfffce82db",
+      "title": "[해외공식] With the Will 팟캐스트 에피소드 #326- Maybe More Beat (World's Best Picks & More!)",
+      "snippet": "This time we will be talking about Digimon: World's Best Picks, Beatbreak Blu-ray info, Alysion & card news, pop-up shop",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/with-the-will-podcast-episode-326-maybe-more-beat-worlds-best-picks-more.37136/",
+      "image": null,
+      "timestamp": 1794802114,
+      "created_at": "2026-11-16 13:08",
+      "title_orig": "With the Will Podcast Episode #326- Maybe More Beat (World's Best Picks & More!)"
+    },
+    {
       "id": "66d50a59a55c6d8902edc53fe3e18af4",
       "title": "[일본뉴스] TV 애니메이션 『우리가 선택한 베스트 어드벤처』 에피소드 7의 줄거리 공개! 반데몬 부하 디지몬들의 만행에 미미의 분노가 극에 달하고…",
       "snippet": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し… eeo",
@@ -143,8 +286,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZzBHUGVOaEw5X1BMY1JSV0RtLUliaUdQV3BrenU0OEl5eWxWZUQyd3Q2OEM0Y0NWcVpweklZcHZKRm1mSjZBc3NSckEtSmE2LU5VLQ?oc=5",
       "image": null,
-      "timestamp": 1794800043,
-      "created_at": "2026-11-16 12:34",
+      "timestamp": 1794800275,
+      "created_at": "2026-11-16 12:37",
       "title_orig": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し…",
       "title_ja": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し…"
     },
@@ -205,6 +348,19 @@
       "timestamp": 1794789900,
       "created_at": "2026-11-16 09:45",
       "title_orig": "10 Best Digimon Armor Evolutions, Ranked"
+    },
+    {
+      "id": "de167fe906c35cefc5471fb8b5d1d50b",
+      "title": "[디지카] Playtest 비트브레이크",
+      "snippet": "Playtest 비트브레이크 digimoncard.io",
+      "source": "DigimonCard.io",
+      "source_badge": "디지카",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wY2tENkRvWTcySmNQYlBENVBCa0xVeFZiSU9adUhNNzZnbVlLelF2azRtY2JISXZIckozNGJ6OE0taWZuMjhFX3ZoRktuQkxScmJTX2dJcw?oc=5",
+      "image": null,
+      "timestamp": 1794775969,
+      "created_at": "2026-11-16 05:52"
     },
     {
       "id": "3aba41b1e4171f8d660f5d24b6b0f957",
@@ -2233,8 +2389,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZaVoxSDRfU3RVT3ZzbWdwaHpOZk9wSFRlWTV4T2xXME5xYlZMTXp4RE8xeXBfQXF2UEE3THEyOGdoS0ptd0FianY1T0VNZTZQR0E?oc=5",
       "image": null,
-      "timestamp": 1793866250,
-      "created_at": "2026-11-05 17:10"
+      "timestamp": 1793865600,
+      "created_at": "2026-11-05 17:00"
     },
     {
       "id": "f4012501208db758882562d0defb33e7",
@@ -9287,72 +9443,6 @@
       "image": null,
       "timestamp": 1787065200,
       "created_at": "2026-08-19 00:00"
-    },
-    {
-      "id": "00c5ff9a910bf7d1fe413d9cb50c0340",
-      "title": "[해외뉴스] G.E.M. 시리즈 디지몬 어드벤처 가루몬 & 이시다 야마토(매튜) 피규어 재판으로 귀환",
-      "snippet": "G.E.M. Series Digimon Adventure Garurumon & Yamato Ishida Figure Returns with Re-release www.haveagood-holiday.com",
-      "source": "www.haveagood-holiday.com",
-      "source_badge": "해외뉴스",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkEzd1FkdmF3T0E2N01VcmRCTHFvTlM4b1BxZENPbVRnYWdWeXNTZTYxZDktc1hPU2djYmpLNWZZMnBROXlfZ3NGa05Memh2Y1BUUTJfa2xoVWlROU5TY0IwZ1BCaFVKbzdqR0F3TWE5RHdVWEdFYV92M0s4dThXSXEtZUVCRFI2YVoybEl2Yi0yRFdhczVYSTctT2NJVXRRcjFLeFVPd25kMkFlZEtRbVNldWVzQQ?oc=5",
-      "image": null,
-      "timestamp": 1787036400,
-      "created_at": "2026-08-18 16:00",
-      "title_orig": "G.E.M. Series Digimon Adventure Garurumon & Yamato Ishida Figure Returns with Re-release"
-    },
-    {
-      "id": "f80e9dbf9b4e3f442aea96d67b198d18",
-      "title": "릴리스게임즈, 'AFK: 새로운 여정X디지몬 어드벤처' 콜라보",
-      "snippet": "릴리스게임즈, 'AFK: 새로운 여정X디지몬 어드벤처' 콜라보 아이뉴스24",
-      "source": "아이뉴스24",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10eWg1UEhDc3BZamJKbGVKRWt2Y0ZJeHRWbEMxcS1KV25pb2pnUUJGQ1JVMVB2NmVUODRnWm51TnY5UkxmOXd0czNEUQ?oc=5",
-      "image": null,
-      "timestamp": 1787036400,
-      "created_at": "2026-08-18 16:00"
-    },
-    {
-      "id": "870fcc18f2b4c9191cdb20e0929e679d",
-      "title": "릴리스 게임즈 'AFK: 새로운 여정', '디지몬 어드벤처' 협업 개막…콘텐츠 확장 박차",
-      "snippet": "릴리스 게임즈 'AFK: 새로운 여정', '디지몬 어드벤처' 협업 개막…콘텐츠 확장 박차 지디넷코리아",
-      "source": "지디넷코리아",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UT09FVVBxbE1zb0hKS0JlbVFSaHJSVzdPQm4zRUU1cUlERW9BVVp3VnhpQ0dVMWRjcHd6T0Z3ODdMNjNQTmpKcTRBamVidXA3cU1MWTJn?oc=5",
-      "image": null,
-      "timestamp": 1787036400,
-      "created_at": "2026-08-18 16:00"
-    },
-    {
-      "id": "03b9444f197456fb10fc31251ff8cee6",
-      "title": "[트윗] 운명처럼 만난 디지몬, 나를 벅차게 한 그 세계가 되살아난다👾 🫧개봉 기념 스페셜 예고편 공개 🫧9월 16일 메가박스 단독 개봉 - X",
-      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-      "source": "X(트위터)",
-      "source_badge": "X(트위터)",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OdWVpeFlkOUtELTI0a183a2FPUlRFeGxELUVBbkpVLUtVb3N1SUpoTXhSNFNFN20wSEpwOWluMmhndkEwaWxFVDdUTHc2OEdoNFdEQ0h3YnNmSXRJZ2RB?oc=5",
-      "image": null,
-      "timestamp": 1787036400,
-      "created_at": "2026-08-18 16:00"
-    },
-    {
-      "id": "c26f5f44c7c0d503238b93064f9c64fd",
-      "title": "AFK 새로운 여정, 디지몬 어드벤처 컬래버 온다",
-      "snippet": "AFK 새로운 여정, 디지몬 어드벤처 컬래버 온다 게임톡",
-      "source": "게임톡",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZ0ZVUHk4R1R2dkhBUUFVV2FrcnNPRG51RVNFdGN6TVpNWkUxNXItb245U2I1bUQta0dpWEc2MUM1QW02OTBPcTh6QWtPQnZWQlRGQy10NUE4c0w0bjdoTnd2WTZicXpfZE05Xw?oc=5",
-      "image": null,
-      "timestamp": 1787036400,
-      "created_at": "2026-08-18 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
