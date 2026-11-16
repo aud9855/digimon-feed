@@ -1,138 +1,181 @@
 {
-  "last_updated": "2026-11-16 21:27:09",
-  "total_count": 668,
+  "last_updated": "2026-11-17 07:42:14",
+  "total_count": 670,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.6
     },
     {
       "name": "Google News (EN)",
-      "count": 29,
+      "count": 31,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.2
     },
     {
       "name": "Google News (JA)",
       "count": 36,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.2
     },
     {
       "name": "루리웹 모형정보",
-      "count": 31,
+      "count": 32,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.2
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 1.0,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 1.0,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
-      "count": 13,
-      "errors": 0,
-      "seconds": 0.9
+      "count": 3,
+      "errors": 1,
+      "seconds": 3.7,
+      "last_error": "TCG portal (site:digimoncard.co.kr) crawling failed: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Adigimoncard.co.kr&hl=ko&gl=KR&ceid=KR:ko"
     },
     {
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.3
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 3.3
     },
     {
       "name": "Instagram",
-      "count": 86,
+      "count": 85,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 4.7
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.9
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.7
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.5
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.0
+      "seconds": 2.6
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
-      "count": 24,
+      "count": 22,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.4
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 4.6
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 24,
+      "count": 25,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.6
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     }
   ],
   "feeds": [
+    {
+      "id": "fe04d0b5a75e1b45942fa64b26cf9b5d",
+      "title": "[해외뉴스] 디지몬 카드 게임: 기사도 XIII - 공식 엑스트라 부스터 [EX-13] 트레일러",
+      "snippet": "Digimon Card Game: Chivalrous XIII - Official Extra Booster [EX-13] Trailer IGN India",
+      "source": "IGN India",
+      "source_badge": "해외뉴스",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlpSR05PTDk0SVFNUkhORkNROExsV00yblFhOTJzRi1iUXNRLU9QbXZPUzIxbVlxMVBiYS1UdGpTRmNRRXdoWjN1dXZCTzhHSXFmdnotbTVHX1pIaVdGZXU0Nmk2ZUlCNWpYSmI5a2xncFFtMk40SDdMRWowUm9aazBYS2poZFFVdDFuV3VTelRjSU1YQkVMQjNscG9fNThIb0RLdg?oc=5",
+      "image": null,
+      "timestamp": 1794867367,
+      "created_at": "2026-11-17 07:16",
+      "title_orig": "Digimon Card Game: Chivalrous XIII - Official Extra Booster [EX-13] Trailer"
+    },
+    {
+      "id": "431c2c7c2ed3de0464126503fc1ba2d4",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26의 블루 메모리 부스트 & 블루 스크램블 프리뷰",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/blue-memory-boost-blue-scramble-previews-for-digimon-card-game-starter-deck-26.37138/",
+      "image": null,
+      "timestamp": 1794851584,
+      "created_at": "2026-11-17 02:53",
+      "title_orig": "Blue Memory Boost & Blue Scramble Previews for Digimon Card Game Starter Deck 26"
+    },
+    {
+      "id": "f4ca33acbb9725d041d8f21a841dbc53",
+      "title": "[위키몬 신규] 도베르몬 (테이머즈)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Dobermon (Tamers))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Dobermon_%28Tamers%29",
+      "image": null,
+      "timestamp": 1794840492,
+      "created_at": "2026-11-16 23:48",
+      "title_orig": "Dobermon (Tamers)"
+    },
     {
       "id": "bab4aa1d8145660e2b547c5bc248ed5b",
       "title": "[일본뉴스] 신작 『DIGIMON ALYSION(디지몬 알리시온)』 사전 등록자 40만 명 돌파! 신규 캐릭터 「사키가케 시시코」도 해금 (인사이드)",
@@ -147,19 +190,6 @@
       "created_at": "2026-11-16 19:35",
       "title_orig": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁（インサイド）",
       "title_ja": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁（インサイド）"
-    },
-    {
-      "id": "f8ead4f343303abc9a7191323e9c9e17",
-      "title": "[루리웹] [디지몬 시리즈] 디지몬 콘서트 개최 결정",
-      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
-      "source": "루리웹 애니정보",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2442058",
-      "image": null,
-      "timestamp": 1794819720,
-      "created_at": "2026-11-16 18:02"
     },
     {
       "id": "db458c9698028dd034d17a1df858d4ab",
@@ -445,6 +475,19 @@
       "timestamp": 1794757389,
       "created_at": "2026-11-16 00:43",
       "title_orig": "Digimon Alysion Reveals Card Pack Details & Core Gameplay"
+    },
+    {
+      "id": "f8ead4f343303abc9a7191323e9c9e17",
+      "title": "[루리웹] [디지몬 시리즈] 디지몬 콘서트 개최 결정",
+      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
+      "source": "루리웹 애니정보",
+      "source_badge": "루리웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2442058",
+      "image": null,
+      "timestamp": 1794754800,
+      "created_at": "2026-11-16 00:00"
     },
     {
       "id": "624f9e084671e47141684e2c2106f1fe",
@@ -9430,19 +9473,6 @@
       "image": null,
       "timestamp": 1787122800,
       "created_at": "2026-08-19 16:00"
-    },
-    {
-      "id": "e84138a969f0b0a45e08469d1e39fe06",
-      "title": "[루리웹] [디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!] 스페셜 예고편...",
-      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
-      "source": "루리웹 애니정보",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2432016",
-      "image": null,
-      "timestamp": 1787065200,
-      "created_at": "2026-08-19 00:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
