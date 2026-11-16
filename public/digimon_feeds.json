@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-11-16 08:15:54",
-  "total_count": 656,
+  "last_updated": "2026-11-16 12:49:29",
+  "total_count": 662,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.2
     },
     {
       "name": "Google News (EN)",
-      "count": 31,
+      "count": 29,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 0.9
     },
     {
       "name": "Google News (JA)",
-      "count": 33,
+      "count": 35,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.9
     },
     {
       "name": "루리웹 모형정보",
-      "count": 31,
+      "count": 32,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.7
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.6,
+      "seconds": 1.0,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.6,
+      "seconds": 0.9,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
@@ -75,13 +75,13 @@
       "name": "Instagram",
       "count": 84,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 1.5
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.5
     },
     {
       "name": "해외 애니 뉴스",
@@ -93,7 +93,7 @@
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "공식 상품 (digimon.net)",
@@ -111,19 +111,19 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 24,
+      "count": 25,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.3
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.1
     },
     {
       "name": "네이버 게임",
@@ -133,6 +133,79 @@
     }
   ],
   "feeds": [
+    {
+      "id": "66d50a59a55c6d8902edc53fe3e18af4",
+      "title": "[일본뉴스] TV 애니메이션 『우리가 선택한 베스트 어드벤처』 에피소드 7의 줄거리 공개! 반데몬 부하 디지몬들의 만행에 미미의 분노가 극에 달하고…",
+      "snippet": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し… eeo",
+      "source": "eeo",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZzBHUGVOaEw5X1BMY1JSV0RtLUliaUdQV3BrenU0OEl5eWxWZUQyd3Q2OEM0Y0NWcVpweklZcHZKRm1mSjZBc3NSckEtSmE2LU5VLQ?oc=5",
+      "image": null,
+      "timestamp": 1794800043,
+      "created_at": "2026-11-16 12:34",
+      "title_orig": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し…",
+      "title_ja": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し…"
+    },
+    {
+      "id": "a01fc474b9a728225663187e141f8346",
+      "title": "[일본뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그랑엔타스 아키하바라에서 개최 결정!",
+      "snippet": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！ PR TIMES",
+      "source": "PR TIMES",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOZ0QwOWVBZHFPMGdqeW15Ui01V3NmbmNNX1pLX0RxVC0zRXkwT3VWZmpRRWstVzk3Vk42dkF3OVg3RHJtcFdKUUdnUkdFNjUyOFJFT0NRRXpyUncwZ0hYNU1TcUlCazctTEE?oc=5",
+      "image": null,
+      "timestamp": 1794798002,
+      "created_at": "2026-11-16 12:00",
+      "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！",
+      "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！"
+    },
+    {
+      "id": "81ab9babce8296b54ded56c09dd7c39c",
+      "title": "[하비뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그란엔터스 아키하바라에서 2026년 11월 21일(토)부터 개최! 새로 그린 신규 일러스트 굿즈 등을 판매",
+      "snippet": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売 電撃ホビーウェブ",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUFZoazc5T2NpMEZ0SmQ5XzA1VS0wY0xiOVdJZ3lMTWM3aFIzbVlVM0doTVdGN0xJbDlEeXBWMGFFUTJaeTFHb2ZRek5hY1pR?oc=5",
+      "image": null,
+      "timestamp": 1794798000,
+      "created_at": "2026-11-16 12:00",
+      "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売",
+      "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売"
+    },
+    {
+      "id": "cce0fe17c12fa0f09a55cf9c3719a965",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 루베우스드라몬 패럴렐/얼트 아트 선행 공개",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/rubeusdramon-parallel-alt-art-preview-for-digimon-card-game-booster-set-27.37135/",
+      "image": null,
+      "timestamp": 1794790537,
+      "created_at": "2026-11-16 09:55",
+      "title_orig": "Rubeusdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "b95da73eb7dfd468af6605cc1ac19739",
+      "title": "[해외뉴스] 최고의 디지몬 아머 진화 10선 순위",
+      "snippet": "10 Best Digimon Armor Evolutions, Ranked Comic Book Resources",
+      "source": "Comic Book Resources",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MMUVMQndZRkttMnNwbkZ0TTBvTndLd0lEVGpUajd1Y1dSdTVzdUIxeW84OTFfeFEtMVhLVHpleUdIQWRBS0tjYmRRdlhaYkUtcTB2M1BaOVB6VGdCZVhlT1Z1bjRJT0NU?oc=5",
+      "image": null,
+      "timestamp": 1794789900,
+      "created_at": "2026-11-16 09:45",
+      "title_orig": "10 Best Digimon Armor Evolutions, Ranked"
+    },
     {
       "id": "3aba41b1e4171f8d660f5d24b6b0f957",
       "title": "[해외공식] 디지몬 알리시온 타임즈의 디지몬 알리시온 업데이트 & 정보 및 아카이브 영상",
@@ -272,6 +345,21 @@
       "timestamp": 1794753244,
       "created_at": "2026-11-15 23:34",
       "title_orig": "Crystal Mine"
+    },
+    {
+      "id": "047186c2beefa8b0aedda22e7f442171",
+      "title": "[일본뉴스] 『디지몬 카드 게임』의 신작 스마트폰용 타이틀 『디지몬",
+      "snippet": "『デジモンカードゲーム」』の新作スマホ向けタイトル『デジモン ニコニコニュース",
+      "source": "ニコニコニュース",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idXF0eXByWmNGeXpTWTA3d05FLXJodzBPN3JUNVlsTXVpR1V2czYtV2M3bnAzdXExLWlHcDFEc1ZfdmlOZGZacjExWFk3Um5ranVwY2lwMmpVWUNnUDJkVHg2dHhLMEJoZ2ozdGZGWi0yWmtobFJUbU8yQQ?oc=5",
+      "image": null,
+      "timestamp": 1794746902,
+      "created_at": "2026-11-15 21:48",
+      "title_orig": "『デジモンカードゲーム」』の新作スマホ向けタイトル『デジモン",
+      "title_ja": "『デジモンカードゲーム」』の新作スマホ向けタイトル『デジモン"
     },
     {
       "id": "dc4edea7f8035420a92be1437c62117c",
