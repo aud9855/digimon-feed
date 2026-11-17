@@ -1,124 +1,123 @@
 {
-  "last_updated": "2026-11-17 07:42:14",
-  "total_count": 670,
+  "last_updated": "2026-11-17 14:01:19",
+  "total_count": 678,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 4.9
     },
     {
       "name": "Google News (EN)",
-      "count": 31,
+      "count": 30,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.5
     },
     {
       "name": "Google News (JA)",
-      "count": 36,
+      "count": 35,
       "errors": 0,
       "seconds": 1.2
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 1.7
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 0.7,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 0.7,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
-      "count": 3,
-      "errors": 1,
-      "seconds": 3.7,
-      "last_error": "TCG portal (site:digimoncard.co.kr) crawling failed: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Adigimoncard.co.kr&hl=ko&gl=KR&ceid=KR:ko"
+      "count": 13,
+      "errors": 0,
+      "seconds": 1.4
     },
     {
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.8
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 3.3
+      "seconds": 0.4
     },
     {
       "name": "Instagram",
       "count": 85,
       "errors": 0,
-      "seconds": 4.7
+      "seconds": 1.9
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 1.3
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.0
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.6
+      "seconds": 1.9
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 22,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.1
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 4.6
+      "seconds": 1.1
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 26,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.3
     },
     {
       "name": "아카라이브",
@@ -130,10 +129,190 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     }
   ],
   "feeds": [
+    {
+      "id": "d69616ecd98310d9a5d446ae57bc7f8c",
+      "title": "무브인터렉티브, 4주년 맞은 '디지몬 슈퍼럼블'에 신규 지역 포함 업데이트 진행",
+      "snippet": "무브인터렉티브, 4주년 맞은 '디지몬 슈퍼럼블'에 신규 지역 포함 업데이트 진행 게임포커스",
+      "source": "게임포커스",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1STjJqQTVDdUNIS2ZGZXZEZWtabU5DaUhvbzJVS2lGbjgzNGdyM2xCMl9EQkRJc2tzUXRIS2NvTlFadUJHRGRXNE1Dc1h0b0xGb2tnODlibHRqUjNXN1preg?oc=5",
+      "image": null,
+      "timestamp": 1794880614,
+      "created_at": "2026-11-17 10:56"
+    },
+    {
+      "id": "676ad8f11e83b3129021bf2a5686004b",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 레나몬, 텐코몬, 세카몬 미리보기",
+      "snippet": "​ ​ ​ ​ ​ ... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/renamon-tenkomon-sekkamon-previews-for-digimon-card-game-booster-set-27.37139/",
+      "image": null,
+      "timestamp": 1794877551,
+      "created_at": "2026-11-17 10:05",
+      "title_orig": "Renamon, Tenkomon, & Sekkamon Previews for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "34713b65e646d8b835a0306e96b281c5",
+      "title": "[해외뉴스] 디지몬 슈퍼 럼블, 11월 19일 4주년 업데이트 실시",
+      "snippet": "Digimon Super Rumble to Launch 4th Anniversary Update on November 19 Inven Global",
+      "source": "Inven Global",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDRxbUxlSWlOejhWNmhWMVo4S0lXRy1uaTNRc2ZwN1dIUXJBWnA0QXl4TkJtaUtqSmRER1I2LVRab1A2cHJldXdMZTgxWVBROXNyTVJwTWlzM1dxdFRoRXpSQ0hfNG5YamF2ZXJvZldRVWVDbDBtSGtzbTRkTXoweEVCV1VQM1BUNktxMTRpeHBuSGxDVnJ1eHI1UnhpQU9nTG5fbEVmT2NxajVtRHlIQw?oc=5",
+      "image": null,
+      "timestamp": 1794876679,
+      "created_at": "2026-11-17 09:51",
+      "title_orig": "Digimon Super Rumble to Launch 4th Anniversary Update on November 19"
+    },
+    {
+      "id": "a9bf70e2ef10f3d5e9a071a166d6306d",
+      "title": "[위키몬 신규] 피트(사이버 슬루스)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Pete (Cyber Sleuth))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Pete_%28Cyber_Sleuth%29",
+      "image": null,
+      "timestamp": 1794875111,
+      "created_at": "2026-11-17 09:25",
+      "title_orig": "Pete (Cyber Sleuth)"
+    },
+    {
+      "id": "57d4ab176968122dbe26e8a2be8793c8",
+      "title": "‘디지몬 슈퍼럼블’, 4주년 맞아 신규 지역·전투 시스템 추가",
+      "snippet": "‘디지몬 슈퍼럼블’, 4주년 맞아 신규 지역·전투 시스템 추가 경향게임스",
+      "source": "경향게임스",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VZUxiMGdaS0hEVkI1bE5ydGw2cGsySWExZXhJbExtamJtY3BaeGRWSUl2SlYtRXBSSHRlNTYzU1lPSkhscU9tSUY4UkhvUzVJQ1RkNWMyX2dLZHVWMmV4MG9sWXFSOVRaT2llSQ?oc=5",
+      "image": null,
+      "timestamp": 1794874964,
+      "created_at": "2026-11-17 09:22"
+    },
+    {
+      "id": "cce0fe17c12fa0f09a55cf9c3719a965",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 루베우스드라몬 패럴렐/얼트 아트 선행 공개",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/rubeusdramon-parallel-alt-art-preview-for-digimon-card-game-booster-set-27.37135/",
+      "image": null,
+      "timestamp": 1794871528,
+      "created_at": "2026-11-17 08:25",
+      "title_orig": "Rubeusdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "7aff6d6db2467b14d2d51083712e829d",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26의 유키나몬/빙수희화 미리보기",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 26. This time it's Yukinamon/Ic",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/yukinamon-ice-beast-caricatures-preview-for-digimon-card-game-starter-deck-26.37127/",
+      "image": null,
+      "timestamp": 1794871372,
+      "created_at": "2026-11-17 08:22",
+      "title_orig": "Yukinamon/Ice Beast Caricatures Preview for Digimon Card Game Starter Deck 26"
+    },
+    {
+      "id": "70c914f73e580bc5b64e65917023b3ca",
+      "title": "[해외공식] 그리몬 & 제스몬 X/궁극선진 성패검 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) ( 3 ) ( 4 ) has updated with card previews from... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gurimon-jesmon-x-ultimate-seibaken-parallel-alt-art-previews-for-digimon-card-game-booster-set-27.37121/",
+      "image": null,
+      "timestamp": 1794871227,
+      "created_at": "2026-11-17 08:20",
+      "title_orig": "Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "cc09c7bbdfce397d71d13fcf56212d8d",
+      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-preview-for-digimon-card-game-booster-set-27.37116/",
+      "image": null,
+      "timestamp": 1794871151,
+      "created_at": "2026-11-17 08:19",
+      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "495bf8775936ed6cb440d387e1bfd414",
+      "title": "[해외공식] 제스몬 X/궁극선진 성패검 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Jesmon X/Ulti",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/jesmon-x-ultimate-seibaken-preview-for-digimon-card-game-booster-set-27.37119/",
+      "image": null,
+      "timestamp": 1794871070,
+      "created_at": "2026-11-17 08:17",
+      "title_orig": "Jesmon X/Ultimate Seibaken Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "292ce23d51c367027f6d745c8d523dcf",
+      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-parallel-alt-art-preview-for-digimon-card-game-booster-set-27.37118/",
+      "image": null,
+      "timestamp": 1794870903,
+      "created_at": "2026-11-17 08:15",
+      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "bbb3a9ea020db7b68548baaaa6ad4f2c",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 25 토코몬 & 젬몬 미리보기",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 25. This... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/tokomon-gemmon-previews-for-digimon-card-game-starter-deck-25.37105/",
+      "image": null,
+      "timestamp": 1794870780,
+      "created_at": "2026-11-17 08:13",
+      "title_orig": "Tokomon & Gemmon Previews for Digimon Card Game Starter Deck 25"
+    },
+    {
+      "id": "99f44d3532495e0afd6b13403d2c9a2b",
+      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26 포코몬/빅시몬 & 레나몬 선행 공개",
+      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 26. This... Read more",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/pokomon-viximon-renamon-previews-for-digimon-card-game-starter-deck-26.37123/",
+      "image": null,
+      "timestamp": 1794870654,
+      "created_at": "2026-11-17 08:10",
+      "title_orig": "Pokomon/Viximon & Renamon Previews for Digimon Card Game Starter Deck 26"
+    },
     {
       "id": "fe04d0b5a75e1b45942fa64b26cf9b5d",
       "title": "[해외뉴스] 디지몬 카드 게임: 기사도 XIII - 공식 엑스트라 부스터 [EX-13] 트레일러",
@@ -350,20 +529,6 @@
       "created_at": "2026-11-16 12:00",
       "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売",
       "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売"
-    },
-    {
-      "id": "cce0fe17c12fa0f09a55cf9c3719a965",
-      "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 루베우스드라몬 패럴렐/얼트 아트 선행 공개",
-      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Rubeusdramon.",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/rubeusdramon-parallel-alt-art-preview-for-digimon-card-game-booster-set-27.37135/",
-      "image": null,
-      "timestamp": 1794790537,
-      "created_at": "2026-11-16 09:55",
-      "title_orig": "Rubeusdramon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
     },
     {
       "id": "b95da73eb7dfd468af6605cc1ac19739",
@@ -859,34 +1024,6 @@
       "title_orig": "BT27-041 (DCG)"
     },
     {
-      "id": "7aff6d6db2467b14d2d51083712e829d",
-      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26의 유키나몬/빙수희화 미리보기",
-      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 26. This time it's Yukinamon/Ic",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/yukinamon-ice-beast-caricatures-preview-for-digimon-card-game-starter-deck-26.37127/",
-      "image": null,
-      "timestamp": 1794683520,
-      "created_at": "2026-11-15 04:12",
-      "title_orig": "Yukinamon/Ice Beast Caricatures Preview for Digimon Card Game Starter Deck 26"
-    },
-    {
-      "id": "70c914f73e580bc5b64e65917023b3ca",
-      "title": "[해외공식] 그리몬 & 제스몬 X/궁극선진 성패검 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
-      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) ( 3 ) ( 4 ) has updated with card previews from... Read more",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/gurimon-jesmon-x-ultimate-seibaken-parallel-alt-art-previews-for-digimon-card-game-booster-set-27.37121/",
-      "image": null,
-      "timestamp": 1794680225,
-      "created_at": "2026-11-15 03:17",
-      "title_orig": "Gurimon & Jesmon X/Ultimate Seibaken Parallel/Alt Art Previews for Digimon Card Game Booster Set 27"
-    },
-    {
       "id": "25bb9169acc42973ef75780b8cc4aa1b",
       "title": "[디지카] 집보내줘",
       "snippet": "집보내줘 digimoncard.io",
@@ -926,6 +1063,21 @@
       "timestamp": 1794661206,
       "created_at": "2026-11-14 22:00",
       "title_orig": "Digimon World Re:Digitize: Decode [Taiga] Part 16 The Black Devil; Phase 1 Nico's defeat"
+    },
+    {
+      "id": "480784a23ca5fa615698ab2fc1b754d9",
+      "title": "[하비뉴스] 디지몬 카드 게임 어드밴스 덱 디아블로몬[ST-27] 팩[반다이]《03월 예약》",
+      "snippet": "デジモンカードゲーム アドバンスデッキ ディアボロモン[ST-27] パック[バンダイ]《０３月予約》 あみあみ",
+      "source": "아미아미",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QRzRVeGFhUVZUNktpcGhyem9Ia2xiZUpUWDJDRk9CY3NTOGRXVzdmLTZNQ1BKMHBmRmZRVjg4QzQ4SlpWOThoX0kzaUFrUzdSWXQ1aWVsSndUNVJheks3WmtHM21lSk1SVDZV?oc=5",
+      "image": null,
+      "timestamp": 1794652669,
+      "created_at": "2026-11-14 19:37",
+      "title_orig": "デジモンカードゲーム アドバンスデッキ ディアボロモン[ST-27] パック[バンダイ]《０３月予約》",
+      "title_ja": "デジモンカードゲーム アドバンスデッキ ディアボロモン[ST-27] パック[バンダイ]《０３月予約》"
     },
     {
       "id": "c23894c40538e1290df06266c93ff740",
@@ -1014,20 +1166,6 @@
       "title_orig": "Tenkomon & Sekkamon Previews for Digimon Card Game Starter Deck 26"
     },
     {
-      "id": "99f44d3532495e0afd6b13403d2c9a2b",
-      "title": "[해외공식] 디지몬 카드 게임 스타터 덱 26 포코몬/빅시몬 & 레나몬 선행 공개",
-      "snippet": "​ ​ ​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Starter Deck 26. This... Read more",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/pokomon-viximon-renamon-previews-for-digimon-card-game-starter-deck-26.37123/",
-      "image": null,
-      "timestamp": 1794618676,
-      "created_at": "2026-11-14 10:11",
-      "title_orig": "Pokomon/Viximon & Renamon Previews for Digimon Card Game Starter Deck 26"
-    },
-    {
       "id": "d58b09e32f2dd80c245434913dad4fda",
       "title": "[해외공식] With the Will 팟캐스트 라이브 - 11월 15일 일요일",
       "snippet": "Sunday (November 15th) will be our next live Digimon podcast at 7pm (Pacific time.) This time we will be talking about D",
@@ -1042,34 +1180,6 @@
       "title_orig": "With the Will Podcast Live- Sunday, November 15th"
     },
     {
-      "id": "cc09c7bbdfce397d71d13fcf56212d8d",
-      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 선공개 - 디지몬 카드 게임 부스터 세트 27",
-      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-preview-for-digimon-card-game-booster-set-27.37116/",
-      "image": null,
-      "timestamp": 1794594203,
-      "created_at": "2026-11-14 03:23",
-      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Preview for Digimon Card Game Booster Set 27"
-    },
-    {
-      "id": "495bf8775936ed6cb440d387e1bfd414",
-      "title": "[해외공식] 제스몬 X/궁극선진 성패검 선공개 - 디지몬 카드 게임 부스터 세트 27",
-      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Jesmon X/Ulti",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/jesmon-x-ultimate-seibaken-preview-for-digimon-card-game-booster-set-27.37119/",
-      "image": null,
-      "timestamp": 1794579281,
-      "created_at": "2026-11-13 23:14",
-      "title_orig": "Jesmon X/Ultimate Seibaken Preview for Digimon Card Game Booster Set 27"
-    },
-    {
       "id": "e71af319be66cd04a33c1baaa8f2ab03",
       "title": "[위키몬 신규] BD-03",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (BD-03)입니다.",
@@ -1081,20 +1191,6 @@
       "image": null,
       "timestamp": 1794574886,
       "created_at": "2026-11-13 22:01"
-    },
-    {
-      "id": "292ce23d51c367027f6d745c8d523dcf",
-      "title": "[해외공식] 간쿠몬 X/궁극선기 섬공참 패러렐/패러렐 아트 선공개 - 디지몬 카드 게임 부스터 세트 27",
-      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Gankoomon X/U",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/gankoomon-x-ultimate-sengi-tengyouken-parallel-alt-art-preview-for-digimon-card-game-booster-set-27.37118/",
-      "image": null,
-      "timestamp": 1794566198,
-      "created_at": "2026-11-13 19:36",
-      "title_orig": "Gankoomon X/Ultimate Sengi Tengyouken Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
     },
     {
       "id": "410d3f15217560388e9a29650c302d44",
@@ -7003,6 +7099,19 @@
       "created_at": "2026-10-11 00:00"
     },
     {
+      "id": "e6b601a8efe46a672f74d81eda5a5524",
+      "title": "[인스타] 못또 디지몬 PICK! 🌟 벰몬 #못또 #캐릭터일러스트 #디지몬 #digimon",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SX0RUd0NwdDgwZUlxLUIyMmtBSjZkWDhEUjVwcmZUNFRUSGJOUUM1RENZeGd3cExBWkp0ZmlDdTlGVzUzWm1FdERhQlZiTzhHekE?oc=5",
+      "image": null,
+      "timestamp": 1791615600,
+      "created_at": "2026-10-10 16:00"
+    },
+    {
       "id": "1e2542a34b1a833e1800ea65186cd597",
       "title": "[인스타] 야가미 타이치(신태일) 디지몬 어드벤처 . #lego #legomoc #legostagram #digimon #digimonadventure",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -7893,12 +8002,12 @@
     },
     {
       "id": "08d18b7ef72948e01f144d9847e7d0db",
-      "title": "[하비뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
+      "title": "[일본뉴스] 『DIGIMON BEATBREAK』 최종회를 기념한 「디지털 몬스터 COLOR」가 등장! 애니메이션 신규 디지몬을 포함한 약 30마리를 육성 가능, 배틀 시에는 「e-펄스」를 연타로 끌어올려 공격력이 변화!",
       "snippet": "『DIGIMON BEATBREAK』最終回を記念した「デジタルモンスターCOLOR」が登場！アニメ新デジモンを含む約30体が育成可能、バトル時には「e-パルス」を連打で高めることで攻撃力が変化！ 電撃ホビーウェブ",
-      "source": "전격하비",
-      "source_badge": "하비뉴스",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
+      "source": "電撃ホビーウェブ",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOczRVLVZCZUM0NFpJOUFXTXRlUG5OcmNaWVFmaHBpUURoOUhmcTAwNGYtTWgwV3Z6RERQTHAtbXdhUmtMZDhGWXV3ZElweDhr?oc=5",
       "image": null,
       "timestamp": 1790492400,
