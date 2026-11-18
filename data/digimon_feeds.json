@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-18 07:08:49",
-  "total_count": 691,
+  "last_updated": "2026-11-18 13:01:04",
+  "total_count": 699,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.1
     },
     {
       "name": "Google News (EN)",
-      "count": 31,
+      "count": 32,
       "errors": 0,
       "seconds": 1.0
     },
@@ -19,45 +19,45 @@
       "name": "Google News (JA)",
       "count": 36,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.0
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 2.4
+      "seconds": 4.9
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 0.8,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 0.8,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 13,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.9
     },
     {
       "name": "WithTheWill",
       "count": 10,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 0.4
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.5
     },
     {
       "name": "YouTube",
@@ -87,25 +87,25 @@
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.5
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.0
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.8
+      "seconds": 1.7
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 21,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "피규어 샵",
@@ -115,9 +115,9 @@
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 27,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 2.2
     },
     {
       "name": "아카라이브",
@@ -134,8 +134,64 @@
   ],
   "feeds": [
     {
+      "id": "f0beaed28469b91348d78a8ffb22fc5c",
+      "title": "[해외공식] 가장 좋아하는 디지몬 비트브레이크 궁극체 파트너 투표 결과",
+      "snippet": "A bit ago , the official Digimon site put up a poll for your Favorite Digimon Beatbreak Ultimate Level Partner! Recently",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/poll-results-for-favorite-digimon-beatbreak-ultimate-level-partner.37144/",
+      "image": null,
+      "timestamp": 1794973873,
+      "created_at": "2026-11-18 12:51",
+      "title_orig": "Poll Results for Favorite Digimon Beatbreak Ultimate Level Partner"
+    },
+    {
+      "id": "7928aba8322064465e3907a1a74a598b",
+      "title": "[위키몬 신규] 듀크몬 + 그라니",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Dukemon + Grani)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Dukemon_%2B_Grani",
+      "image": null,
+      "timestamp": 1794966292,
+      "created_at": "2026-11-18 10:44",
+      "title_orig": "Dukemon + Grani"
+    },
+    {
+      "id": "d470b642cf5d688cb04e8de2a92d5548",
+      "title": "[해외공식] 디지몬 알리시온 소식 - BD-03 쇼토(블랙) & 프테로몬 패밀리 선공개, 캐스트 메시지 & 룰 쇼케이스 #3",
+      "snippet": "Some Digimon Alysion updates! First up, card previews of new cards from BD-03! This features Shoto Kazama (Black) along",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/digimon-alysion-updates-bd-03-shoto-black-pteromon-family-previews-cast-messages-rule-showcase-3.37141/",
+      "image": null,
+      "timestamp": 1794965572,
+      "created_at": "2026-11-18 10:32",
+      "title_orig": "Digimon Alysion Updates- BD-03 Shoto (Black) & Pteromon Family Previews, Cast Messages, & Rule Showcase #3"
+    },
+    {
+      "id": "112086549ab20a4e0f64be06c8c6c239",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 유키나몬 패러렐/알터 아트 프리뷰",
+      "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Yukinamon. Th",
+      "source": "WithTheWill",
+      "source_badge": "공식/글로벌",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://withthewill.net/threads/yukinamon-parallel-alt-art-preview-for-digimon-card-game-booster-set-27.37143/",
+      "image": null,
+      "timestamp": 1794962809,
+      "created_at": "2026-11-18 09:46",
+      "title_orig": "Yukinamon Parallel/Alt Art Preview for Digimon Card Game Booster Set 27"
+    },
+    {
       "id": "0dcfc48e370c080a2479800032420960",
-      "title": "[해외공식] Yukinamon Preview for Digimon Card Game Booster Set 27",
+      "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 유키나몬 프리뷰",
       "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Yukinamon. Yu",
       "source": "WithTheWill",
       "source_badge": "공식/글로벌",
@@ -144,7 +200,23 @@
       "link": "https://withthewill.net/threads/yukinamon-preview-for-digimon-card-game-booster-set-27.37142/",
       "image": null,
       "timestamp": 1794952564,
-      "created_at": "2026-11-18 06:56"
+      "created_at": "2026-11-18 06:56",
+      "title_orig": "Yukinamon Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "3cb8744b7afec9686f6c797d4b4fef9c",
+      "title": "[공식] 제159회 디지민 투표 결과 발표!",
+      "snippet": "디지몬 공식 사이트 ニュース",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://digimon.net/topic/detail.php?id=2104",
+      "image": null,
+      "timestamp": 1794927600,
+      "created_at": "2026-11-18 00:00",
+      "title_orig": "第159回デジ民投票　結果発表！",
+      "title_ja": "第159回デジ民投票　結果発表！"
     },
     {
       "id": "6e287c633657dd9e5930ed6816cd0186",
@@ -203,20 +275,6 @@
       "title_ja": "細田守が26年前に手がけた『デジモン』幻の3D短編が無料公開！ テーマパーク限定作、11月24日まで"
     },
     {
-      "id": "d470b642cf5d688cb04e8de2a92d5548",
-      "title": "[해외공식] 디지몬 알리시온 소식 - BD-03 쇼토(블랙) & 프테로몬 패밀리 선공개, 캐스트 메시지 & 룰 쇼케이스 #3",
-      "snippet": "Some Digimon Alysion updates! First up, card previews of new cards from BD-03! This features Shoto Kazama (Black) along",
-      "source": "WithTheWill",
-      "source_badge": "공식/글로벌",
-      "category": "game",
-      "category_name": "일반/뉴스",
-      "link": "https://withthewill.net/threads/digimon-alysion-updates-bd-03-shoto-black-pteromon-family-previews-cast-messages-rule-showcase-3.37141/",
-      "image": null,
-      "timestamp": 1794909740,
-      "created_at": "2026-11-17 19:02",
-      "title_orig": "Digimon Alysion Updates- BD-03 Shoto (Black) & Pteromon Family Previews, Cast Messages, & Rule Showcase #3"
-    },
-    {
       "id": "103112dbc649ca107c3281e166b0125a",
       "title": "[일본뉴스] 【디지몬 UP】 BT 메달 입수 방법과 사용처",
       "snippet": "【デジモンUP】BTメダルの入手方法と使い道 GameWith",
@@ -257,6 +315,20 @@
       "image": null,
       "timestamp": 1794905782,
       "created_at": "2026-11-17 17:56"
+    },
+    {
+      "id": "451595de5ddf3880fbae6c566603ffce",
+      "title": "[해외뉴스] 디지몬 슈퍼럼블 4주년 기념, 디지몬 어드벤처 02 스토리 공개",
+      "snippet": "Digimon Super Rumble celebrates 4th anniversary with Digimon Adventure 02 story reveal 게임메카",
+      "source": "게임메카",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40bGNUZkxIYy1fX2FVRmlTUjFmbEZBb0tsZjV4TEVPOW12TWc1b2RJX1BGVHIyTkRueDNjZXdYa3RfWFRicmtLaG5KWHJic3dGNnJ2Q2E3Q3d6dmEt?oc=5",
+      "image": null,
+      "timestamp": 1794905782,
+      "created_at": "2026-11-17 17:56",
+      "title_orig": "Digimon Super Rumble celebrates 4th anniversary with Digimon Adventure 02 story reveal"
     },
     {
       "id": "2eb4b8ad04e28066cb1df060fcf4cee2",
@@ -564,6 +636,21 @@
       "title_ja": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁（インサイド）"
     },
     {
+      "id": "dfadd680a6a6b0076c925d02b4e0d11b",
+      "title": "[일본뉴스] 신작 『디지몬 알리시온(DIGIMON ALYSION)』 사전 등록자 40만 명 돌파! 신규 캐릭터 '사키가케 시시코'도 해금",
+      "snippet": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁 インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ3JkYmRfZ3FEUnlZc1ZER2YycnRXMXFzSXVTTEpoeng4Q1BoYzFwOXo2NVl5QmFtZ3NKUGdQTXZHalBVWHlkNngyU2xMRzhKN1FqSy1KcVEzNDdxSEs5MUtyWWw2bWdqeXc?oc=5",
+      "image": null,
+      "timestamp": 1794825303,
+      "created_at": "2026-11-16 19:35",
+      "title_orig": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁",
+      "title_ja": "新作『DIGIMON ALYSION（デジモンアリシオン）』事前登録者が40万人突破！ 新キャラ「魁シシコ」も解禁"
+    },
+    {
       "id": "db458c9698028dd034d17a1df858d4ab",
       "title": "[일본뉴스] 【디지몬 UP】 캠프 워즈 코인 획득 방법과 사용처",
       "snippet": "【デジモンUP】キャンプウォーズコインの入手方法と使い道 GameWith",
@@ -707,6 +794,21 @@
       "created_at": "2026-11-16 12:37",
       "title_orig": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し…",
       "title_ja": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し…"
+    },
+    {
+      "id": "5341522d3c7ba2612fa862e6f248f15f",
+      "title": "[일본뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그랑엔타스 아키하바라에서 개최 결정!",
+      "snippet": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！ KADOKAWAグループ ポータルサイト",
+      "source": "KADOKAWAグループ ポータルサイト",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSElQamFjUFltWFpFSFJ0Yno3LW1CVE45am5qekZpZDF5ejZ1LXVQVlhaUkdHUVU1V3I3QkxPUmxGQ3gtV1V6YWdCSUdyZUFFN0FBRlhMR0l1Zl8xX1RXdkVPaTRCeXJzVFlCRF9zRVBkb1BaV3FGRVg0LXdPRTdqVUVqdTQ?oc=5",
+      "image": null,
+      "timestamp": 1794798160,
+      "created_at": "2026-11-16 12:02",
+      "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！",
+      "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！"
     },
     {
       "id": "a01fc474b9a728225663187e141f8346",
@@ -8590,6 +8692,20 @@
       "created_at": "2026-09-23 00:00",
       "title_orig": "第158回デジ民投票スタート",
       "title_ja": "第158回デジ民投票スタート"
+    },
+    {
+      "id": "0ab6e8c6a56ec1ecfb592c27bc70778f",
+      "title": "[디지카] 사이버펑크 토너먼트 결과 | 에그맨 덱 빌더",
+      "snippet": "Cyberpunk Tournament Results | Egman Deck Builder Egman Deck Builder",
+      "source": "Egman Events",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubzFWcjFYTHMtX1g1aVd0Mkt1UW9vbXAtM0h6YTVzX2dvSENFTE0yUTBBWWhSVEVraWl0U1RmV2xKTHczNFhtUGdVR1ZBYTI0UWtja19IMEdTZldObkRkcHhON3p5SEo0?oc=5",
+      "image": null,
+      "timestamp": 1790014818,
+      "created_at": "2026-09-22 03:20",
+      "title_orig": "Cyberpunk Tournament Results | Egman Deck Builder"
     },
     {
       "id": "6a1c40604513cde450af98321c5ae41c",
