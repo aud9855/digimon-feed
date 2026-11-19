@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19 11:29:36",
-  "total_count": 695,
+  "last_updated": "2026-11-19 20:00:06",
+  "total_count": 709,
   "retention_days": 90,
   "sources": [
     {
@@ -23,42 +23,43 @@
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
-      "errors": 0,
-      "seconds": 9.7
+      "count": 0,
+      "errors": 4,
+      "seconds": 128.1,
+      "last_error": "Ruliweb (디지바이스) crawling failed: HTTPSConnectionPool(host='bbs.ruliweb.com', port=443): Max retries exceeded with url: /family/242/board/300017?search_type=subject&search_key=%EB%94%94%EC%A7%80%EB%B0%94%EC%9D%B4%EC%8A%A4 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bbs.ruliweb.com', port=44"
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.0,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 1.0,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 13,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.8
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.2,
+      "seconds": 0.1,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
@@ -70,7 +71,7 @@
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.4
     },
     {
       "name": "Instagram",
@@ -82,7 +83,7 @@
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
@@ -92,17 +93,15 @@
     },
     {
       "name": "공식 뉴스 (digimon.net)",
-      "count": 0,
-      "errors": 1,
-      "seconds": 63.2,
-      "last_error": "Official topics crawling failed: HTTPSConnectionPool(host='digimon.net', port=443): Max retries exceeded with url: /topic/?cat=ALL (Caused by ConnectTimeoutError(<HTTPSConnection(host='digimon.net', port=443) at 0x78c0c54ec990>, 'Connection to digimon.net timed out. (connect timeout=20)'))"
+      "count": 16,
+      "errors": 0,
+      "seconds": 1.3
     },
     {
       "name": "공식 상품 (digimon.net)",
-      "count": 0,
-      "errors": 4,
-      "seconds": 251.7,
-      "last_error": "Official products crawling failed (others): HTTPSConnectionPool(host='digimon.net', port=443): Max retries exceeded with url: /product/others/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='digimon.net', port=443) at 0x78c0c54fb990>, 'Connection to digimon.net timed out. (connect timeout=20)'"
+      "count": 31,
+      "errors": 0,
+      "seconds": 2.2
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -114,13 +113,14 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 26,
-      "errors": 0,
-      "seconds": 4.6
+      "count": 0,
+      "errors": 3,
+      "seconds": 96.1,
+      "last_error": "Ruliweb board (https://bbs.ruliweb.com/family/211/board/300015?search_type=subject&search_key=디지몬) crawling failed: HTTPSConnectionPool(host='bbs.ruliweb.com', port=443): Max retries exceeded with url: /family/211/board/300015?search_type=subject&search_key=%EB%94%94%EC%A7%80%EB%AA%AC (Caused by Con"
     },
     {
       "name": "아카라이브",
@@ -136,6 +136,50 @@
     }
   ],
   "feeds": [
+    {
+      "id": "d4fb4503d624649a28fc3bde6877a5e4",
+      "title": "[해외뉴스] PS1용 '디지몬 월드'의 팬 제작 1인칭 버전 개발 중",
+      "snippet": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works Retro Dodo",
+      "source": "Retro Dodo",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWhMZFhkcEpucENvbUc1YVpreHV5b0tGVlZzMHpTV0czd0ZsSVkxcXBBZWV5NEJWTDlEU0VmZWktaTVqUnE0ay1NOGhSN2NfZUFKbWN4YlZvMDg2ZGctM3dXQWM5dVpYZVFlRkE5bThUZTM3WWRiQXh4dllZQVdsOTBqaW14cmtVTzQtMW5ObnVXcHdRSkVOcFNmSQ?oc=5",
+      "image": null,
+      "timestamp": 1795085523,
+      "created_at": "2026-11-19 19:52",
+      "title_orig": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works"
+    },
+    {
+      "id": "f3dd515a876f262d61bba89fb1ee6ea3",
+      "title": "[일본뉴스] 【디지몬 UP】 D-1 그랑프리 참가권 입수 방법과 사용처",
+      "snippet": "【デジモンUP】D-1グランプリ参加券の入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lSUtGLW1XMTZnWE5tTjhnaTdJOGhnVXV1ZnNPeG9FV05rOUhiYS1BZ3pzODZXdEExV1pXN0hrclpORHBwekYxUWFPTUQ?oc=5",
+      "image": null,
+      "timestamp": 1795079753,
+      "created_at": "2026-11-19 18:15",
+      "title_orig": "【デジモンUP】D-1グランプリ参加券の入手方法と使い道",
+      "title_ja": "【デジモンUP】D-1グランプリ参加券の入手方法と使い道"
+    },
+    {
+      "id": "54833c96b36af518d072f7366f04dc8b",
+      "title": "[일본뉴스] 【디지몬 UP】 배틀 터미널 참가권 입수 방법과 사용처",
+      "snippet": "【デジモンUP】バトルターミナル参加券の入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yREdkcXg5eDdnd2wzcC02X25sTkdKSDYxUGEzMnFfM3JHLTJmcmNGS0JmWTdrSmYtV2w4WElzR2doZUtUVmtWcUp5VVU?oc=5",
+      "image": null,
+      "timestamp": 1795079747,
+      "created_at": "2026-11-19 18:15",
+      "title_orig": "【デジモンUP】バトルターミナル参加券の入手方法と使い道",
+      "title_ja": "【デジモンUP】バトルターミナル参加券の入手方法と使い道"
+    },
     {
       "id": "0b7bdb28f07822e22fa111c8fba6a824",
       "title": "[해외뉴스] 디지몬 월드 리:디지타이즈 디코드 [타이가] 파트 19 메라몬이 시티에 합류!",
@@ -289,20 +333,6 @@
       "image": null,
       "timestamp": 1794914935,
       "created_at": "2026-11-17 20:28"
-    },
-    {
-      "id": "d4fb4503d624649a28fc3bde6877a5e4",
-      "title": "[해외뉴스] PS1용 '디지몬 월드'의 팬 제작 1인칭 버전 개발 중",
-      "snippet": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works Retro Dodo",
-      "source": "Retro Dodo",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWhMZFhkcEpucENvbUc1YVpreHV5b0tGVlZzMHpTV0czd0ZsSVkxcXBBZWV5NEJWTDlEU0VmZWktaTVqUnE0ay1NOGhSN2NfZUFKbWN4YlZvMDg2ZGctM3dXQWM5dVpYZVFlRkE5bThUZTM3WWRiQXh4dllZQVdsOTBqaW14cmtVTzQtMW5ObnVXcHdRSkVOcFNmSQ?oc=5",
-      "image": null,
-      "timestamp": 1794914117,
-      "created_at": "2026-11-17 20:15",
-      "title_orig": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works"
     },
     {
       "id": "c4c9d476fc822412dbd8f787e1fc27ab",
@@ -1224,6 +1254,19 @@
       "title_orig": "Tamer Card Kanata Preview for Digimon Card Game Booster Set 27"
     },
     {
+      "id": "f46b8334b77c87cfa29d8c2f13d37333",
+      "title": "[트윗] 韓国語版の公式アカウントを開設しました！ ▼공식 디지몬 알리시온 https://t.co/lInpHMXZ3T - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YejNTc0pFQmgzaEN0dVJETjkzOHRlRXFvcllVRXVBN3dLU0JIU0lTbHZBcE5YcFVjaEdtTkNvT1RicU9PemV3VW1Wd3FyVW1ZblBsUmFsaXhVZld0dlcyb2JMTW9IZw?oc=5",
+      "image": null,
+      "timestamp": 1794717857,
+      "created_at": "2026-11-15 13:44"
+    },
+    {
       "id": "fd095dde28a8e90a2e58adb68387067e",
       "title": "[해외공식] 주말 모음 - 디지몬 비트브레이크 생일 소셜 아트, 아니메디아, 어플몬 음악 & 사진, 팝업 스토어 사진, 이번 주 소식 정리 외 다수!",
       "snippet": "Time for a weekend batch! November 11th was Kyo's birthday and to celebrate Digimon TV posted some new post-series artwo",
@@ -2134,21 +2177,6 @@
       "title_ja": "【デジモンビートブレイク】新規録り下ろしピクチャーボイスドラマも収録！ アニメ『DIGIMON BEATBREAK』完結記念のBlu-ray BOXプロジェクトが始動"
     },
     {
-      "id": "76b6488527f82721a40b4e324be5bcc3",
-      "title": "[일본뉴스] 『디지몬 어드벤처 3D 디지몬 그랑프리』 YouTube에서 기간 한정 무료 공개. 호소다 마모루 씨가 연출. 디지몬 공식 채널에서 최초 스트리밍",
-      "snippet": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信 ファミ通",
-      "source": "ファミ通",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mVmRhZkppM2xUNF92T2RZMTFyQXFmelVTakN1Vmt2RHpPTmdGLWZZNjVCWkVzMmJDa0N0UkJMTjBjUEZBckFVaW1CSkEtemxtbkhoWkJKaw?oc=5",
-      "image": null,
-      "timestamp": 1794394680,
-      "created_at": "2026-11-11 19:58",
-      "title_orig": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信",
-      "title_ja": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信"
-    },
-    {
       "id": "8668444f48ec994023f62bc31d5edeed",
       "title": "[일본뉴스] 【무료】 『디지몬 어드벤처 3D",
       "snippet": "【無料】『デジモンアドベンチャー3D ニコニコニュース",
@@ -2278,6 +2306,21 @@
       "created_at": "2026-11-11 17:10",
       "title_orig": "【デジモンUP】ベルゼブモン(SP Ver.)は引くべき？",
       "title_ja": "【デジモンUP】ベルゼブモン(SP Ver.)は引くべき？"
+    },
+    {
+      "id": "76b6488527f82721a40b4e324be5bcc3",
+      "title": "[일본뉴스] 『디지몬 어드벤처 3D 디지몬 그랑프리』 YouTube에서 기간 한정 무료 공개. 호소다 마모루 씨가 연출. 디지몬 공식 채널에서 최초 스트리밍",
+      "snippet": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信 ファミ通",
+      "source": "ファミ通",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mVmRhZkppM2xUNF92T2RZMTFyQXFmelVTakN1Vmt2RHpPTmdGLWZZNjVCWkVzMmJDa0N0UkJMTjBjUEZBckFVaW1CSkEtemxtbkhoWkJKaw?oc=5",
+      "image": null,
+      "timestamp": 1794384000,
+      "created_at": "2026-11-11 17:00",
+      "title_orig": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信",
+      "title_ja": "『デジモンアドベンチャー3D デジモングランプリ』YouTubeで期間限定の無料公開へ。細田守氏が演出。デジモン公式チャンネルで初配信"
     },
     {
       "id": "8fb48c089abe01afdf8dac4755493a06",
@@ -8785,6 +8828,19 @@
       "created_at": "2026-09-24 16:00"
     },
     {
+      "id": "053a0a64443830d2aaf0a368cccbe2af",
+      "title": "[인스타] 디지몬부터 다마고치까지! 다모여페스타 팝업 👾 - 디지몬 어드벤처부터 다마고치, 프리큐어, 아이엠스타, 꼬마곰 재키까지! 모든 세대의 캐릭터를 모은 가 서울 홍대에서 약 3주 동안 운영돼요🔥 팝업은 캔뱃지, 스티커, 파우치, 키링, 아크릴 스탠드, 포스터 등의 굿즈들이",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PWnlYdHAtSUltaG5wOEU2NDhIX0szdnRFdEVpUHFSTGpldlJjeVZVOVhGeDdsZzBNa1dHT3cwT09hdDg5akRQZVNsZlM0ZXlud3p6MkVn?oc=5",
+      "image": null,
+      "timestamp": 1790233200,
+      "created_at": "2026-09-24 16:00"
+    },
+    {
       "id": "c9e35e11fd3068c3d095ccb1430c71cf",
       "title": "[트윗] 극장에서 디지몬 본 어른이들의 너무나 솔직한 후기 모아봄 [1]👾 여러분은 어떤 유형인가요? 답글로 알려주세요👇🏻 🫧메가박스 절찬상영중!🫧 #디지몬 #디지몬어드벤처 #절찬상영중 - X",
       "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
@@ -8806,19 +8862,6 @@
       "category": "sns",
       "category_name": "SNS/해외",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBicE92ZHBRc3VDVXpmOXZrejlLVDJzS2JTNmE2eFdxZVE3T2hIVmk1SjJyLWVyUEFBckxmRW5BVVVGR0RKb1c4amtxUENWZlpBYTloT2tSSlpGQ1g5Snc?oc=5",
-      "image": null,
-      "timestamp": 1790146800,
-      "created_at": "2026-09-23 16:00"
-    },
-    {
-      "id": "053a0a64443830d2aaf0a368cccbe2af",
-      "title": "[인스타] 디지몬부터 다마고치까지! 다모여페스타 팝업 👾 - 디지몬 어드벤처부터 다마고치, 프리큐어, 아이엠스타, 꼬마곰 재키까지! 모든 세대의 캐릭터를 모은 가 서울 홍대에서 약 3주 동안 운영돼요🔥 팝업은 캔뱃지, 스티커, 파우치, 키링, 아크릴 스탠드, 포스터 등의 굿즈들이",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PWnlYdHAtSUltaG5wOEU2NDhIX0szdnRFdEVpUHFSTGpldlJjeVZVOVhGeDdsZzBNa1dHT3cwT09hdDg5akRQZVNsZlM0ZXlud3p6MkVn?oc=5",
       "image": null,
       "timestamp": 1790146800,
       "created_at": "2026-09-23 16:00"
@@ -9988,17 +10031,184 @@
       "title_ja": "ゴグマモン | CHARACTER | DIGIMON BEATBREAK - デジモンビートブレイク"
     },
     {
-      "id": "6254dfb562464be91d9ed3e759519700",
-      "title": "[인스타] 막내 예리의 최애 디지몬?! 이름은 몰라도 어떻게 생긴지는 아는(?) 언니들 [레벨업 프로젝트 시즌6]지금 웨이브에서 독점 스트리밍 중! JUST DIVE Wavve!🌊 #웨이브 #Wavve #레벨업프로젝트시즌6 #레드벨벳 #RedVelvet #아이린 #슬기 #웬디 #조이 #예리 @reneba",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhTmh6SXhpWW5LTHFlQmpiTF9UeWtlejk1aWdhYU05cE1hOHNwdHVyY1hyZy1PZWJLZjJHdWE4SGJURFZReS1sLTBDaDFyNl9PQ0VzWjBB?oc=5",
+      "id": "b26050e3212d6cf67d75863741532b72",
+      "title": "[공식 상품] 디지몬 스토리 타임 스트레인저 (Nintendo Switch™ 2 / Nintendo Switch™ 판)",
+      "snippet": "발매 2026-07-09 · パッケージ通常版 7,200円（税抜き）他各種アリ",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://digimon.net/product/game/",
       "image": null,
-      "timestamp": 1787295600,
-      "created_at": "2026-08-21 16:00"
+      "timestamp": 1783522800,
+      "created_at": "2026-07-09 00:00",
+      "title_orig": "デジモンストーリー タイムストレンジャー（Nintendo Switch™ 2 / Nintendo Switch™ 版）",
+      "title_ja": "デジモンストーリー タイムストレンジャー（Nintendo Switch™ 2 / Nintendo Switch™ 版）"
+    },
+    {
+      "id": "70cca4d17c118972ea3abb73716d58c0",
+      "title": "[공식 상품] 디지몬 카드 게임 공식 카드 슬리브 03",
+      "snippet": "발매 2026-07-04 · 880円(税込)",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://digimon.net/product/detail.php?item_type=0&jan_cd=4582769982835000",
+      "image": null,
+      "timestamp": 1783090800,
+      "created_at": "2026-07-04 00:00",
+      "title_orig": "デジモンカードゲーム オフィシャルカードスリーブ03",
+      "title_ja": "デジモンカードゲーム オフィシャルカードスリーブ03"
+    },
+    {
+      "id": "733e355aedb4e9b7f2d02324a1965037",
+      "title": "[공식 상품] 디지몬 카드 게임 엑스트라 부스터 DIGITAL WORLD SHAMBALA 【EX-12】",
+      "snippet": "발매 2026-07-04 · 220円(税込)",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://digimon.net/product/detail.php?item_type=0&jan_cd=4582769982033000",
+      "image": null,
+      "timestamp": 1783090800,
+      "created_at": "2026-07-04 00:00",
+      "title_orig": "デジモンカードゲーム エクストラブースターDIGITAL WORLD SHAMBALA 【EX-12】",
+      "title_ja": "デジモンカードゲーム エクストラブースターDIGITAL WORLD SHAMBALA 【EX-12】"
+    },
+    {
+      "id": "4f78df197777cdbfd745c220c803bc82",
+      "title": "[공식 상품] 디지몬 카드 게임 부스터 팩 DUAL REVOLUTION【BT-25】",
+      "snippet": "발매 2026-05-16 · 220円(税込)",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://digimon.net/product/detail.php?item_type=0&jan_cd=4582769982019000",
+      "image": null,
+      "timestamp": 1778857200,
+      "created_at": "2026-05-16 00:00",
+      "title_orig": "デジモンカードゲーム ブースターパック DUAL REVOLUTION【BT-25】",
+      "title_ja": "デジモンカードゲーム ブースターパック DUAL REVOLUTION【BT-25】"
+    },
+    {
+      "id": "c23e3664171eb348e460c4673ed34270",
+      "title": "[공식 상품] 디지몬 카드 게임 스타트 덱 DIGIMON BEATBREAK【ST-23】",
+      "snippet": "발매 2026-05-16 · 1,650円(税込)",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://digimon.net/product/detail.php?item_type=0&jan_cd=4582769982002000",
+      "image": null,
+      "timestamp": 1778857200,
+      "created_at": "2026-05-16 00:00",
+      "title_orig": "デジモンカードゲーム スタートデッキ　DIGIMON BEATBREAK【ST-23】",
+      "title_ja": "デジモンカードゲーム スタートデッキ　DIGIMON BEATBREAK【ST-23】"
+    },
+    {
+      "id": "b835094dc03f76b12ba3091f3b591ed1",
+      "title": "[공식 상품] 디지몬 카드 게임 스타트 덱 DIGIMON SAVERS【ST-24】",
+      "snippet": "발매 2026-05-16 · 1,650円(税込)",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://digimon.net/product/detail.php?item_type=0&jan_cd=4582769966286000",
+      "image": null,
+      "timestamp": 1778857200,
+      "created_at": "2026-05-16 00:00",
+      "title_orig": "デジモンカードゲーム スタートデッキ DIGIMON SAVERS【ST-24】",
+      "title_ja": "デジモンカードゲーム スタートデッキ DIGIMON SAVERS【ST-24】"
+    },
+    {
+      "id": "fc3f05f89adb6ff58b7d090a53f44a85",
+      "title": "[공식 상품] 디지몬 스토리 타임 스트레인저",
+      "snippet": "발매 2025-10-02 · パッケージ通常版 8,100円（税抜き）他各種アリ",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://digimon.net/product/game/",
+      "image": null,
+      "timestamp": 1759330800,
+      "created_at": "2025-10-02 00:00",
+      "title_orig": "デジモンストーリー タイムストレンジャー",
+      "title_ja": "デジモンストーリー タイムストレンジャー"
+    },
+    {
+      "id": "25060114ac9b620beb425c6698c660fe",
+      "title": "[공식 상품] 디지몬 서바이브",
+      "snippet": "발매 2022-07-28 · 6,980円（税抜き）",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://digimon.net/product/game/",
+      "image": null,
+      "timestamp": 1658934000,
+      "created_at": "2022-07-28 00:00",
+      "title_orig": "デジモンサヴァイブ",
+      "title_ja": "デジモンサヴァイブ"
+    },
+    {
+      "id": "5637b9a86dbc26604c2dce18753093c7",
+      "title": "[공식 상품] 디지몬 스토리 사이버 슬루스 해커스 메모리",
+      "snippet": "발매 2017-12-14 · 6,270円（税込）～",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://digimon.net/product/game/",
+      "image": null,
+      "timestamp": 1513177200,
+      "created_at": "2017-12-14 00:00",
+      "title_orig": "デジモンストーリー サイバースルゥース ハッカーズメモリー",
+      "title_ja": "デジモンストーリー サイバースルゥース ハッカーズメモリー"
+    },
+    {
+      "id": "58513114803b217fa297031c8c28bb56",
+      "title": "[공식 상품] 디지몬 스토리 사이버 슬루스",
+      "snippet": "발매 2015-03-12 · 3,080円（税込）～",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://digimon.net/product/game/",
+      "image": null,
+      "timestamp": 1426086000,
+      "created_at": "2015-03-12 00:00",
+      "title_orig": "デジモンストーリー サイバースルゥース",
+      "title_ja": "デジモンストーリー サイバースルゥース"
+    },
+    {
+      "id": "b1f06b9e163275ca1ec2a68dd0b10210",
+      "title": "[공식 상품] 디지몬 월드 리:디지타이즈 디코드",
+      "snippet": "발매 2013-06-27 · 5,480円（税込）",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://digimon.net/product/game/",
+      "image": null,
+      "timestamp": 1372258800,
+      "created_at": "2013-06-27 00:00",
+      "title_orig": "デジモンワールド　リ:デジタイズ デコード",
+      "title_ja": "デジモンワールド　リ:デジタイズ デコード"
+    },
+    {
+      "id": "79464127834dd30aa20aeb13b1b51e2f",
+      "title": "[공식 상품] 디지몬 어드벤처",
+      "snippet": "발매 2013-01-17 · パッケージ版：6,578円(税込) ダウンロード版：2,016円(税込)",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://digimon.net/product/game/",
+      "image": null,
+      "timestamp": 1358348400,
+      "created_at": "2013-01-17 00:00",
+      "title_orig": "デジモンアドベンチャー",
+      "title_ja": "デジモンアドベンチャー"
     }
   ]
 }
