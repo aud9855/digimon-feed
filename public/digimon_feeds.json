@@ -1,32 +1,31 @@
 {
-  "last_updated": "2026-11-20 04:27:28",
-  "total_count": 711,
+  "last_updated": "2026-11-20 10:32:32",
+  "total_count": 714,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.5
     },
     {
       "name": "Google News (EN)",
-      "count": 29,
+      "count": 30,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
       "count": 35,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.4
     },
     {
       "name": "루리웹 모형정보",
-      "count": 0,
-      "errors": 4,
-      "seconds": 128.2,
-      "last_error": "Ruliweb (디지바이스) crawling failed: HTTPSConnectionPool(host='bbs.ruliweb.com', port=443): Max retries exceeded with url: /family/242/board/300017?search_type=subject&search_key=%EB%94%94%EC%A7%80%EB%B0%94%EC%9D%B4%EC%8A%A4 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bbs.ruliweb.com', port=44"
+      "count": 32,
+      "errors": 0,
+      "seconds": 6.0
     },
     {
       "name": "디시 디지몬",
@@ -46,7 +45,7 @@
       "name": "TCG 포털",
       "count": 13,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.9
     },
     {
       "name": "WithTheWill",
@@ -65,68 +64,67 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.5
     },
     {
       "name": "Instagram",
-      "count": 81,
+      "count": 79,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 2.2
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.8
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.1
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.8
+      "seconds": 2.0
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
-      "count": 24,
+      "count": 23,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 1.2
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.1
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 0,
-      "errors": 3,
-      "seconds": 96.1,
-      "last_error": "Ruliweb board (https://bbs.ruliweb.com/family/211/board/300015?search_type=subject&search_key=디지몬) crawling failed: HTTPSConnectionPool(host='bbs.ruliweb.com', port=443): Max retries exceeded with url: /family/211/board/300015?search_type=subject&search_key=%EB%94%94%EC%A7%80%EB%AA%AC (Caused by Con"
+      "count": 26,
+      "errors": 0,
+      "seconds": 2.6
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
@@ -136,6 +134,20 @@
     }
   ],
   "feeds": [
+    {
+      "id": "e5f8f248356f39df0d264a6905106676",
+      "title": "[위키몬 신규] 린도 쿠시나",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Rindo Kushina)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Rindo_Kushina",
+      "image": null,
+      "timestamp": 1795123879,
+      "created_at": "2026-11-20 06:31",
+      "title_orig": "Rindo Kushina"
+    },
     {
       "id": "7406bf7d046d61bffc6000d279ee2635",
       "title": "[위키몬 신규] 키라",
@@ -206,6 +218,21 @@
       "created_at": "2026-11-19 18:15",
       "title_orig": "【デジモンUP】バトルターミナル参加券の入手方法と使い道",
       "title_ja": "【デジモンUP】バトルターミナル参加券の入手方法と使い道"
+    },
+    {
+      "id": "33ee6e821bd5a334e563c24c50dc6bce",
+      "title": "[일본뉴스] 【디지몬 UP】 전력 올리는 법 | 육성 요소 정리",
+      "snippet": "【デジモンUP】戦力の上げ方 | 育成要素まとめ GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xaWx5RjNZd3JNMmdwQmZNV21scVJiVExvWnNZMFNKOWZnU1ktakNIbU9XbmdkRnBxLTVianRUS3BOQjg1ZnAxOWhWYlg?oc=5",
+      "image": null,
+      "timestamp": 1795077615,
+      "created_at": "2026-11-19 17:40",
+      "title_orig": "【デジモンUP】戦力の上げ方 | 育成要素まとめ",
+      "title_ja": "【デジモンUP】戦力の上げ方 | 育成要素まとめ"
     },
     {
       "id": "0b7bdb28f07822e22fa111c8fba6a824",
@@ -2603,6 +2630,20 @@
       "created_at": "2026-11-10 12:00"
     },
     {
+      "id": "3bb3dcaace344e4a5dfdb6446745a1e1",
+      "title": "[인스타] 디지바이스 디자인의 MagSafe 보조배터리 신규 색상! 모델: 🧡 용기 – 타이치 💙 우정 – 야마토 💛 희망 – 타케루 💜 빛 – 히카리 https://m.smartstore.naver.com/digimall/products/13862294713 #디지몬 #디지바이스 #디지몬어드벤처",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZmF1OHZmX19BemhnUEJ1NVpjeFREXy1uSmo3WC1Nal9XdlFqSjVoM2xBaW5nTFpaNlh4WV9TSnpiLW1PbUxfTnlvcUxvV0RFUnc?oc=5",
+      "image": null,
+      "timestamp": 1794254229,
+      "created_at": "2026-11-10 04:57",
+      "title_orig": "¡Nuevos colores para la batería externa MagSafe con diseño de Digivice! Modelos: 🧡 Valor – Tai 💙 Amistad – Matt 💛 Esperanza – T.K. 💜 Luz – Kari https://m.smartstore.naver.com/digimall/products/13862294713 #Digimon #Digivice #DigimonAdventure"
+    },
+    {
       "id": "7622be48c95109229dd6d1af120d97c0",
       "title": "[공식] 반다이 남코 그룹의 디지몬 관련 상품이 다수 모이는 「DIGIMON POP UP」 개최!",
       "snippet": "디지몬 공식 사이트 ニュース",
@@ -3043,6 +3084,19 @@
       "image": null,
       "timestamp": 1793866273,
       "created_at": "2026-11-05 17:11"
+    },
+    {
+      "id": "01f4d0793c259b5b9765640780be5e8a",
+      "title": "[인스타] . 【 🔔 메가하우스 11월 신제품 예약 개시 ! 】 🗓️ 27년 4월 발매 📌 디지몬 어드벤처 #デジモン 🥚 ✔️토비마스 디지몬 어드벤처 🛍️ 예약 : 프로필 하단 스토어 링크를 참조 해주세요! ✨ 판매 구성 안내 ・박스 ・단품 #메가하우스공식몰 #디지몬 #피규어",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSU10M2R6VTVWemxCVk12OEdyRzRsa3ZHMTdrQW9udHZ1VW1xZG5UZkVEN2h1MjAtdktfcFNEdDhhaUJNbmdTbWR6b0JmMXlBU0E?oc=5",
+      "image": null,
+      "timestamp": 1793866048,
+      "created_at": "2026-11-05 17:07"
     },
     {
       "id": "5b2e8ad79a613e3c53c5d076e9c6fba2",
@@ -3928,19 +3982,6 @@
       "created_at": "2026-10-31 11:50"
     },
     {
-      "id": "2169420f24149adc31fc7535f27e8c9c",
-      "title": "[인스타] ⠀ PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVm1JZFJJbzlkRVljb3owTGpoRW5jWmtPMURLSFlnSWtENFZ6b0luZUpFb0VzQXFyc3RZQTY0WXUyX2pzY0k5bl90RndlUUVzSmc?oc=5",
-      "image": null,
-      "timestamp": 1793412002,
-      "created_at": "2026-10-31 11:00"
-    },
-    {
       "id": "bc1b977e7f521a64b9024d26b467a197",
       "title": "[트윗] PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드벤 - X",
       "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
@@ -4026,6 +4067,19 @@
       "created_at": "2026-10-30 18:00",
       "title_orig": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！",
       "title_ja": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！"
+    },
+    {
+      "id": "2169420f24149adc31fc7535f27e8c9c",
+      "title": "[인스타] ⠀ PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVm1JZFJJbzlkRVljb3owTGpoRW5jWmtPMURLSFlnSWtENFZ6b0luZUpFb0VzQXFyc3RZQTY0WXUyX2pzY0k5bl90RndlUUVzSmc?oc=5",
+      "image": null,
+      "timestamp": 1793343600,
+      "created_at": "2026-10-30 16:00"
     },
     {
       "id": "a6fa6a468c2af82e61e0857987905176",
@@ -4286,21 +4340,6 @@
       "created_at": "2026-10-29 17:33",
       "title_orig": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ",
       "title_ja": "【デジモンUP】開催中のガシャ(ガチャ)情報まとめ"
-    },
-    {
-      "id": "33ee6e821bd5a334e563c24c50dc6bce",
-      "title": "[일본뉴스] 【디지몬 UP】 전력 올리는 법 | 육성 요소 정리",
-      "snippet": "【デジモンUP】戦力の上げ方 | 育成要素まとめ GameWith",
-      "source": "GameWith",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xaWx5RjNZd3JNMmdwQmZNV21scVJiVExvWnNZMFNKOWZnU1ktakNIbU9XbmdkRnBxLTVianRUS3BOQjg1ZnAxOWhWYlg?oc=5",
-      "image": null,
-      "timestamp": 1793262783,
-      "created_at": "2026-10-29 17:33",
-      "title_orig": "【デジモンUP】戦力の上げ方 | 育成要素まとめ",
-      "title_ja": "【デジモンUP】戦力の上げ方 | 育成要素まとめ"
     },
     {
       "id": "5e13c54699a4ca612e8caf9f782052de",
