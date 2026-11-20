@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-11-20 10:32:32",
-  "total_count": 714,
+  "last_updated": "2026-11-20 18:33:40",
+  "total_count": 718,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.1
     },
     {
       "name": "Google News (EN)",
-      "count": 30,
+      "count": 31,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.2
     },
     {
       "name": "Google News (JA)",
       "count": 35,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 0.9
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 6.0
+      "seconds": 9.1
     },
     {
       "name": "디시 디지몬",
@@ -45,7 +45,7 @@
       "name": "TCG 포털",
       "count": 13,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.8
     },
     {
       "name": "WithTheWill",
@@ -58,73 +58,73 @@
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.3
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     },
     {
       "name": "Instagram",
-      "count": 79,
+      "count": 82,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 1.8
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.7
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.6
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.0
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.0
+      "seconds": 1.9
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
-      "count": 23,
+      "count": 24,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 0.9
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 0.9
     },
     {
       "name": "루리웹 게임·애니",
       "count": 26,
       "errors": 0,
-      "seconds": 2.6
+      "seconds": 2.4
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.1
     },
     {
       "name": "네이버 게임",
@@ -134,6 +134,19 @@
     }
   ],
   "feeds": [
+    {
+      "id": "3836bb3664f8f9534f4adf9938bb29f0",
+      "title": "[루리웹] 디지몬 카드게임 부스터팩 TIME STRANGER 발매",
+      "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
+      "source": "루리웹 콘솔뉴스",
+      "source_badge": "루리웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://bbs.ruliweb.com/news/board/1001/read/2366845",
+      "image": null,
+      "timestamp": 1795156020,
+      "created_at": "2026-11-20 15:27"
+    },
     {
       "id": "e5f8f248356f39df0d264a6905106676",
       "title": "[위키몬 신규] 린도 쿠시나",
@@ -361,6 +374,21 @@
       "title_orig": "Yukinamon Preview for Digimon Card Game Booster Set 27"
     },
     {
+      "id": "52f0d5ebe661440648502c5c1f761ae5",
+      "title": "[일본뉴스] 디지몬 인간 도감 25",
+      "snippet": "デジモン人間ずかん25 YouTube",
+      "source": "YouTube",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zYzhicE1MdmhHanBZQVZQUmxmRFlfQnpuaFZVSEJxV1o3ZGxKUGIxY1JMZkZ4SC01cEhUX21SUjY2bU5jclpYbUpJa1JhQVZ5X1pCWEQzTjg0YkhI?oc=5",
+      "image": null,
+      "timestamp": 1794927619,
+      "created_at": "2026-11-18 00:00",
+      "title_orig": "デジモン人間ずかん25",
+      "title_ja": "デジモン人間ずかん25"
+    },
+    {
       "id": "3cb8744b7afec9686f6c797d4b4fef9c",
       "title": "[공식] 제159회 디지민 투표 결과 발표!",
       "snippet": "디지몬 공식 사이트 ニュース",
@@ -433,20 +461,6 @@
       "title_ja": "【デジモンUP】BTメダルの入手方法と使い道"
     },
     {
-      "id": "dedb2a7f430dbcbbda35390dcfd4a6c0",
-      "title": "[해외뉴스] 디지몬 알리시온, 스토리 모드, 신규 부스터 팩, 론칭 이벤트 공개",
-      "snippet": "DIGIMON ALYSION Shows Off Story Mode, a New Booster Pack, and Launch Event GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSG5mWmo2SFVwa21vRlp2Wnc3UmJNejBtb0ppX3A5N0gtLTg1NXJNWUxkZ2FfelBxS2d2eXhmRFEza3Z6SXM4UFJ6V3ctaF83NVRUQzN1OWFvVFM5LW9iaEdGelFuR2psQlZEUjVHcjdFVTM1Vlk4ekZtekQ0LXNva1dONDd2QzBncmhKdzZmRVdGcnRhMFltanVETHVCa2JxU2Vj?oc=5",
-      "image": null,
-      "timestamp": 1794906844,
-      "created_at": "2026-11-17 18:14",
-      "title_orig": "DIGIMON ALYSION Shows Off Story Mode, a New Booster Pack, and Launch Event"
-    },
-    {
       "id": "f4b6f8163be33170cad74bb7dbde4811",
       "title": "디지몬 슈퍼럼블 4주년. '파워디지몬' 스토리 공개 예고",
       "snippet": "디지몬 슈퍼럼블 4주년. '파워디지몬' 스토리 공개 예고 게임메카",
@@ -472,6 +486,20 @@
       "timestamp": 1794905782,
       "created_at": "2026-11-17 17:56",
       "title_orig": "Digimon Super Rumble celebrates 4th anniversary with Digimon Adventure 02 story reveal"
+    },
+    {
+      "id": "dedb2a7f430dbcbbda35390dcfd4a6c0",
+      "title": "[해외뉴스] 디지몬 알리시온, 스토리 모드, 신규 부스터 팩, 론칭 이벤트 공개",
+      "snippet": "DIGIMON ALYSION Shows Off Story Mode, a New Booster Pack, and Launch Event GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSG5mWmo2SFVwa21vRlp2Wnc3UmJNejBtb0ppX3A5N0gtLTg1NXJNWUxkZ2FfelBxS2d2eXhmRFEza3Z6SXM4UFJ6V3ctaF83NVRUQzN1OWFvVFM5LW9iaEdGelFuR2psQlZEUjVHcjdFVTM1Vlk4ekZtekQ0LXNva1dONDd2QzBncmhKdzZmRVdGcnRhMFltanVETHVCa2JxU2Vj?oc=5",
+      "image": null,
+      "timestamp": 1794902895,
+      "created_at": "2026-11-17 17:08",
+      "title_orig": "DIGIMON ALYSION Shows Off Story Mode, a New Booster Pack, and Launch Event"
     },
     {
       "id": "2eb4b8ad04e28066cb1df060fcf4cee2",
@@ -1545,6 +1573,20 @@
       "timestamp": 1794688622,
       "created_at": "2026-11-15 05:37",
       "title_orig": "BT27-041 (DCG)"
+    },
+    {
+      "id": "9fffb41bae27e8e5a11b0d91453256cc",
+      "title": "[해외뉴스] 디지몬: 애니메이션 속 가장 멋진 진화 라인 10선 랭킹",
+      "snippet": "Digimon: 10 Coolest Evolution Lines in the Anime, Ranked IMDb",
+      "source": "IMDb",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kdzlNRnJxdHk4ODZnWVgyNlNrY19tR25Qc1ItNXYwZncyb19MVU5rVHNWSktfWkJrSkk3TXlIQTVVRDJLUzVoRTBUaHBKd0NSZnlTWU5BMjhuU2VJSlpXbzFzdGc?oc=5",
+      "image": null,
+      "timestamp": 1794674317,
+      "created_at": "2026-11-15 01:38",
+      "title_orig": "Digimon: 10 Coolest Evolution Lines in the Anime, Ranked"
     },
     {
       "id": "25bb9169acc42973ef75780b8cc4aa1b",
@@ -2698,6 +2740,20 @@
       "image": null,
       "timestamp": 1794212498,
       "created_at": "2026-11-09 17:21"
+    },
+    {
+      "id": "438369ccfcb0481fdf535d80d2a46c76",
+      "title": "[해외뉴스] 디지몬 스토리 타임 스트레인저 - 단편 애니메이션 | 프렐류드",
+      "snippet": "Digimon Story Time Stranger - Anime Short | Prelude Bandai Namco Entertainment America",
+      "source": "Bandai Namco Entertainment America",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWFI2MFR3STdFUEtEcVZvcHg5OHNpZlBQNUE4QWZWUk81VTJickhDdHdkbnVwdy1JTUhCMFdTNmhJODhWMDg2RTYxRUoxZkYycUphaW9NNFVUTFdKdi1QMGdlaWEyT29MSi1RaWRtN0VRaEE4aUtjMXJvN01ERklYV0dSMnVjTnE2RGEw?oc=5",
+      "image": null,
+      "timestamp": 1794211200,
+      "created_at": "2026-11-09 17:00",
+      "title_orig": "Digimon Story Time Stranger - Anime Short | Prelude"
     },
     {
       "id": "8d44b05532e88ae85e59ed0a49271a3a",
