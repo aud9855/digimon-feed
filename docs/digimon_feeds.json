@@ -1,57 +1,57 @@
 {
-  "last_updated": "2026-11-20 18:33:40",
-  "total_count": 718,
+  "last_updated": "2026-11-21 03:18:36",
+  "total_count": 725,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.5
     },
     {
       "name": "Google News (EN)",
-      "count": 31,
+      "count": 29,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.3
     },
     {
       "name": "Google News (JA)",
       "count": 35,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.5
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 9.1
+      "seconds": 2.9
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 1.1,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 1.2,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
-      "count": 13,
+      "count": 12,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.9
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.1,
+      "seconds": 0.2,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
@@ -64,25 +64,25 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     {
       "name": "Instagram",
-      "count": 82,
+      "count": 84,
       "errors": 0,
-      "seconds": 1.8
+      "seconds": 2.0
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
@@ -94,13 +94,13 @@
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.2
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.1
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -112,19 +112,19 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.1
     },
     {
       "name": "루리웹 게임·애니",
       "count": 26,
       "errors": 0,
-      "seconds": 2.4
+      "seconds": 2.5
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.5
     },
     {
       "name": "네이버 게임",
@@ -135,17 +135,47 @@
   ],
   "feeds": [
     {
-      "id": "3836bb3664f8f9534f4adf9938bb29f0",
-      "title": "[루리웹] 디지몬 카드게임 부스터팩 TIME STRANGER 발매",
-      "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
-      "source": "루리웹 콘솔뉴스",
-      "source_badge": "루리웹",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://bbs.ruliweb.com/news/board/1001/read/2366845",
+      "id": "552062df1ad0e91868bd8767431216c6",
+      "title": "[위키몬 신규] 무겐 리콜렉션",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Mugen Recollection)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Mugen_Recollection",
       "image": null,
-      "timestamp": 1795156020,
-      "created_at": "2026-11-20 15:27"
+      "timestamp": 1795197996,
+      "created_at": "2026-11-21 03:06",
+      "title_orig": "Mugen Recollection"
+    },
+    {
+      "id": "bda4280ccc09325a975126baddd221d5",
+      "title": "[해외뉴스] 디지몬 월드 리:디지타이즈 디코드 [타이가] 파트 20 와냐몬이 마을에 합류!",
+      "snippet": "Digimon World Re:Digitize: Decode [Taiga] Part 20 Wanyamon joins the City! YouTube",
+      "source": "YouTube",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dkFIN09JeGNnM2wtdF82TUNHRkNfZEN3R2VOV1pNN3JfbWlIaU9zQnpUalctbGZyTWo2TUtwUW85QVZGdXkzbUNjM3RfX0czeXdKaDBibHhlcFQ1?oc=5",
+      "image": null,
+      "timestamp": 1795179606,
+      "created_at": "2026-11-20 22:00",
+      "title_orig": "Digimon World Re:Digitize: Decode [Taiga] Part 20 Wanyamon joins the City!"
+    },
+    {
+      "id": "75383f3d61396f62b8a9a17915fa84c8",
+      "title": "[일본뉴스] 11월 22일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」의 제37화 【완전체 총진격! 빛나는 엔젤우몬】을 방송!",
+      "snippet": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！ イザ！",
+      "source": "イザ！",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jSTFqNkwyb2dsU3VFNjJYcjBtZzJUWURaWTM3VkJ2QjEybE9kN0ppMHB0aGRabWZSN0lZamUxV0ozOE9hU293U0g2QS1yMHpJUm41M25oZkUwTi1iMDBzdDlzbWFkX1JzOEJEUGhCVzBMZ3N1UWFfcDFn?oc=5",
+      "image": null,
+      "timestamp": 1795167000,
+      "created_at": "2026-11-20 18:30",
+      "title_orig": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！",
+      "title_ja": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！"
     },
     {
       "id": "e5f8f248356f39df0d264a6905106676",
@@ -174,6 +204,32 @@
       "timestamp": 1795101445,
       "created_at": "2026-11-20 00:17",
       "title_orig": "Kira"
+    },
+    {
+      "id": "3836bb3664f8f9534f4adf9938bb29f0",
+      "title": "[루리웹] 디지몬 카드게임 부스터팩 TIME STRANGER 발매",
+      "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
+      "source": "루리웹 콘솔뉴스",
+      "source_badge": "루리웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://bbs.ruliweb.com/news/board/1001/read/2366845",
+      "image": null,
+      "timestamp": 1795100400,
+      "created_at": "2026-11-20 00:00"
+    },
+    {
+      "id": "db2fdd4b0044103901b73125c9af0db6",
+      "title": "[루리웹] [디지몬]국내 전시회",
+      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
+      "source": "루리웹 애니정보",
+      "source_badge": "루리웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2442678",
+      "image": null,
+      "timestamp": 1795100400,
+      "created_at": "2026-11-20 00:00"
     },
     {
       "id": "a5f1de9ad174aca89cdfc76fd8489f13",
@@ -1347,6 +1403,19 @@
       "image": null,
       "timestamp": 1794717857,
       "created_at": "2026-11-15 13:44"
+    },
+    {
+      "id": "ec3a9d7a3a2f28554775ee66582042ee",
+      "title": "[트윗] We've opened our official Korean account! Check it out! ▼공식 디지몬 알리시온 https://t.co/orfE6CYsWo - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yU3o5T21McmhJWFpzcUVPNHlOMWJwb2RKYmRJUFZNM0dlTXdsWmlRRnRtOGY0bklLTVpJM0xRcXppRTM3Ni01ZUtwd09WSUR2cFB5aEpxb1JvdlF6RzVVOXdZcHYyeGc?oc=5",
+      "image": null,
+      "timestamp": 1794717382,
+      "created_at": "2026-11-15 13:36"
     },
     {
       "id": "fd095dde28a8e90a2e58adb68387067e",
@@ -3207,8 +3276,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxOUVNOTRWeWtINkdjRmFPRkNmV2VteVpkN1IwNUd6ZzI1XzBUUWZ2TFZ0bHVXdWF5ejdsV2hCenBBcld1RmZJQ0g1S0lsTF9yUUlnV255VGtTOEY0ck96SUdmMzk?oc=5",
       "image": null,
-      "timestamp": 1793855653,
-      "created_at": "2026-11-05 14:14"
+      "timestamp": 1793865600,
+      "created_at": "2026-11-05 17:00"
     },
     {
       "id": "068f06c70131784142e2cd8254abc625",
@@ -3893,8 +3962,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50aUVHVFlVSXV6andiN0dNTWs3Sm84ZU1pcjliaDhsa3d4N1FRX0lUSVpmTFBmbGJic3ZWWi1SdEZmWHRoOGdVRUJGeHZZUWZxX1JDVnBTa0RZMUFwMWdhNjd3VQ?oc=5",
       "image": null,
-      "timestamp": 1793520429,
-      "created_at": "2026-11-01 17:07"
+      "timestamp": 1793516400,
+      "created_at": "2026-11-01 16:00"
     },
     {
       "id": "0349f77855d8e85e3b632bc26540c48e",
@@ -3918,6 +3987,19 @@
       "category": "sns",
       "category_name": "SNS/해외",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96M3J3S093SXFwcXdBbjFwMFZmZ21qeXc1QUNFQ3RRYU5idWR2eFhyM2RQUy1mMm5jMEVjdm9QYXF5YjFTX2QweUdGenk4a0pQX3c?oc=5",
+      "image": null,
+      "timestamp": 1793516400,
+      "created_at": "2026-11-01 16:00"
+    },
+    {
+      "id": "7e2d45e024c34445a503fbfaeca7ef63",
+      "title": "[인스타] 📢[채색원형 최초공개] 디지몬 어드벤처 컬렉션 피규어 토비마스 6종 ⏰11월 5일(목) 예약판매 시작! 메가하우스 공식 스토어를 팔로우하고 기다리는 굿즈의 후속 정보를 가장 빠르게 받아보세요! #digimon #디지몬 #메가하우스공식스토어",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4UkRIbm9tTDBmcDREYnBFbVpJWjJhVVh6TkxVM0E3amtvSG83Vy1nTExZSjNLdmZaMWtwMThRNWtrYXgwY3ZYY2stQjRBQktlOEE?oc=5",
       "image": null,
       "timestamp": 1793516400,
       "created_at": "2026-11-01 16:00"
@@ -4038,19 +4120,6 @@
       "created_at": "2026-10-31 11:50"
     },
     {
-      "id": "bc1b977e7f521a64b9024d26b467a197",
-      "title": "[트윗] PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드벤 - X",
-      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-      "source": "X(트위터)",
-      "source_badge": "X(트위터)",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XVEtiUkRTdDlqUk94cW1ZcnRyZmJrR1FYbXZjd2d1X2hlTXpFNkVJeTBUM0tpRHktWldqTTlJQ2h6VElmOE9ObTVvTngyYWxmbHlxVC12Z2E5eFdKUE00ZkVB?oc=5",
-      "image": null,
-      "timestamp": 1793412000,
-      "created_at": "2026-10-31 11:00"
-    },
-    {
       "id": "aa9410d232d55b1981baac5d82f452c6",
       "title": "[일본뉴스] 디지몬 어드벤처>호소다 마모루 감독 연출 화 「코로몬 도쿄 대격돌!」 11월 1일 방송 30주년 프로젝트 「우리가 선택한 베스트 어드벤처」 (MANTANWEB)",
       "snippet": "デジモンアドベンチャー＞細田守監督の演出回「コロモン東京大激突！」 11月1日放送 30周年プロジェクト「僕らが選んだベストアドベンチャー」 (MANTANWEB) Yahoo!ニュース",
@@ -4123,6 +4192,19 @@
       "created_at": "2026-10-30 18:00",
       "title_orig": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！",
       "title_ja": "細田守がTVシリーズで唯一演出を手掛けたエピソード！11月1日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第21話【コロモン東京大激突！】を放送！"
+    },
+    {
+      "id": "bc1b977e7f521a64b9024d26b467a197",
+      "title": "[트윗] PHOTOISM [디지몬 어드벤처02] CHARACTER FRAME OPEN ! 프레임을 포토이즘에서 만나보세요✌🏻 📅 26.11.01 – 26.12.31 📍해당 프레임은 일반 포토이즘 박스, 컬러드 매장에서만 촬영이 가능하며, 호텔 및 쇼핑몰 등의 팝업 매장은 제외됩니다.⠀ #디지몬어드벤 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XVEtiUkRTdDlqUk94cW1ZcnRyZmJrR1FYbXZjd2d1X2hlTXpFNkVJeTBUM0tpRHktWldqTTlJQ2h6VElmOE9ObTVvTngyYWxmbHlxVC12Z2E5eFdKUE00ZkVB?oc=5",
+      "image": null,
+      "timestamp": 1793343600,
+      "created_at": "2026-10-30 16:00"
     },
     {
       "id": "2169420f24149adc31fc7535f27e8c9c",
@@ -6310,6 +6392,19 @@
       "created_at": "2026-10-19 19:29",
       "title_orig": "デジモンアドベンチャー 2連ペアアクリルキーホルダー 和モダンVer. 高石タケル＆パタモン[KADOKAWA]《０１月予約》",
       "title_ja": "デジモンアドベンチャー 2連ペアアクリルキーホルダー 和モダンVer. 高石タケル＆パタモン[KADOKAWA]《０１月予約》"
+    },
+    {
+      "id": "6cd33db34763070a30e5b449523077ee",
+      "title": "[인스타] 오타쿠의 행복한 하루 디지몬 어드벤처 본 사람 . . . #도쿄 #tokyo #東京 #오다이바 #디지몬어드벤처 솜씨를 보여주지 우리의 멋진 파드두를 . . . #짱구 #이케부쿠로 #짱덕 #중성마녀 #이케부쿠로짱구 星のパフェ⭐ . . . #밀키웨이 #파르페 #이케부쿠로카페 나두 찍었다 #",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RdnNMZ055RlA1UUVPZFRIOGk5Nld1NGJmdkRDZVVsMXJQbDVJa05KaFZhd1JaT19yMVV2cjhxdjk0NkdtbmVMOWhLQ09JTm1YaHc?oc=5",
+      "image": null,
+      "timestamp": 1792393200,
+      "created_at": "2026-10-19 16:00"
     },
     {
       "id": "a0bb0934b4f1800df39725a3383d703c",
@@ -10104,8 +10199,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GdGJ6aXptVUt4QU13Q2dINlZQUXZPdlF6eGNZUTNaXzVOX19uak5hX0RMRV96SEdzUUE0czVjYTFvUHQzZTNoQURwZFZpM1hx?oc=5",
       "image": null,
-      "timestamp": 1787468400,
-      "created_at": "2026-08-23 16:00",
+      "timestamp": 1787472253,
+      "created_at": "2026-08-23 17:04",
       "title_orig": "第1弾はパタモンとエンジェモンがラインナップ！『デジモンアドベンチャー』のプライズフィギュアシリーズ「デジヴァイスタンド！」が新登場！",
       "title_ja": "第1弾はパタモンとエンジェモンがラインナップ！『デジモンアドベンチャー』のプライズフィギュアシリーズ「デジヴァイスタンド！」が新登場！"
     },
