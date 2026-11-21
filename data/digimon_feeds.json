@@ -1,70 +1,70 @@
 {
-  "last_updated": "2026-11-21 03:18:36",
-  "total_count": 725,
+  "last_updated": "2026-11-21 09:31:03",
+  "total_count": 730,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.5
-    },
-    {
-      "name": "Google News (EN)",
-      "count": 29,
-      "errors": 0,
       "seconds": 1.3
     },
     {
-      "name": "Google News (JA)",
-      "count": 35,
+      "name": "Google News (EN)",
+      "count": 32,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.0
+    },
+    {
+      "name": "Google News (JA)",
+      "count": 36,
+      "errors": 0,
+      "seconds": 1.2
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 2.9
+      "seconds": 3.4
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.1,
+      "seconds": 0.7,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.2,
+      "seconds": 0.8,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 12,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.8
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.2,
+      "seconds": 0.1,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
@@ -74,9 +74,9 @@
     },
     {
       "name": "Instagram",
-      "count": 84,
+      "count": 83,
       "errors": 0,
-      "seconds": 2.0
+      "seconds": 1.8
     },
     {
       "name": "하비 매체",
@@ -94,7 +94,7 @@
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.1
     },
     {
       "name": "공식 상품 (digimon.net)",
@@ -106,25 +106,25 @@
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.2
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 0.9
     },
     {
       "name": "루리웹 게임·애니",
       "count": 26,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 3.0
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
@@ -134,6 +134,20 @@
     }
   ],
   "feeds": [
+    {
+      "id": "c078376b7bbf5dd5c8302b32c884452f",
+      "title": "[위키몬 신규] 디지몬 어드벤처: 데스티ند 투게더 전시회",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Digimon Adventure: Destined Together Exhibition)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Digimon_Adventure%3A_Destined_Together_Exhibition",
+      "image": null,
+      "timestamp": 1795199961,
+      "created_at": "2026-11-21 03:39",
+      "title_orig": "Digimon Adventure: Destined Together Exhibition"
+    },
     {
       "id": "552062df1ad0e91868bd8767431216c6",
       "title": "[위키몬 신규] 무겐 리콜렉션",
@@ -147,6 +161,21 @@
       "timestamp": 1795197996,
       "created_at": "2026-11-21 03:06",
       "title_orig": "Mugen Recollection"
+    },
+    {
+      "id": "58587f37626246f68209f4f7d0fe4eeb",
+      "title": "[공식] 『DIGIMON ORIGINAL NEW WAVE 3』 오늘 발매 개시!",
+      "snippet": "디지몬 공식 사이트 ニュース",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://digimon.net/topic/detail.php?id=2105",
+      "image": null,
+      "timestamp": 1795186800,
+      "created_at": "2026-11-21 00:00",
+      "title_orig": "『DIGIMON ORIGINAL NEW WAVE 3』本日発売開始！",
+      "title_ja": "『DIGIMON ORIGINAL NEW WAVE 3』本日発売開始！"
     },
     {
       "id": "bda4280ccc09325a975126baddd221d5",
@@ -302,6 +331,21 @@
       "created_at": "2026-11-19 17:40",
       "title_orig": "【デジモンUP】戦力の上げ方 | 育成要素まとめ",
       "title_ja": "【デジモンUP】戦力の上げ方 | 育成要素まとめ"
+    },
+    {
+      "id": "643a83ab41747a2a492cb1b2d905a0bb",
+      "title": "[일본뉴스] 【디지몬 UP】 이차원 BOX 사용법",
+      "snippet": "【デジモンUP】異次元BOXの使い方 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBac2pYNHQ0WGhzWWJhckhXSHNYV1ZKSkNTVFhCb0g1SlZjc2dERkVpci1PbjNtQmlFYXJvcm8zdk51bkVHWS1rUDBuM1U?oc=5",
+      "image": null,
+      "timestamp": 1795051944,
+      "created_at": "2026-11-19 10:32",
+      "title_orig": "【デジモンUP】異次元BOXの使い方",
+      "title_ja": "【デジモンUP】異次元BOXの使い方"
     },
     {
       "id": "0b7bdb28f07822e22fa111c8fba6a824",
@@ -583,6 +627,21 @@
       "image": null,
       "timestamp": 1794895801,
       "created_at": "2026-11-17 15:10"
+    },
+    {
+      "id": "0b060dae4ac90d98e3c5843c8901a4b4",
+      "title": "[일본뉴스] 【디지몬 UP】 디지에메랄드 입수 방법과 사용처",
+      "snippet": "【デジモンUP】デジエメラルドの入手方法と使い道 GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIZ2J3U1hJTjlDZ1BGRmtxbVIwbm1hUE1mMDFzZlFoYWxyVE04UTVFLWdoNy13QU9HeGpDTFhfd1cwaW1pX0l4YjNfREc?oc=5",
+      "image": null,
+      "timestamp": 1794882037,
+      "created_at": "2026-11-17 11:20",
+      "title_orig": "【デジモンUP】デジエメラルドの入手方法と使い道",
+      "title_ja": "【デジモンUP】デジエメラルドの入手方法と使い道"
     },
     {
       "id": "d69616ecd98310d9a5d446ae57bc7f8c",
@@ -1111,10 +1170,10 @@
     },
     {
       "id": "81ab9babce8296b54ded56c09dd7c39c",
-      "title": "[하비뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그란엔터스 아키하바라에서 2026년 11월 21일(토)부터 개최! 새로 그린 신규 일러스트 굿즈 등을 판매",
+      "title": "[일본뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그란엔터스 아키하바라에서 2026년 11월 21일(토)부터 개최! 새로 그린 신규 일러스트 굿즈 등을 판매",
       "snippet": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売 電撃ホビーウェブ",
-      "source": "전격하비",
-      "source_badge": "하비뉴스",
+      "source": "電撃ホビーウェブ",
+      "source_badge": "일본뉴스",
       "category": "game",
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUFZoazc5T2NpMEZ0SmQ5XzA1VS0wY0xiOVdJZ3lMTWM3aFIzbVlVM0doTVdGN0xJbDlEeXBWMGFFUTJaeTFHb2ZRek5hY1pR?oc=5",
@@ -2630,6 +2689,21 @@
       "title_orig": "DIGIMON ALYSION Crosses 200K Sign-Ups, Reveals Campaign Rewards"
     },
     {
+      "id": "09a96d5aa1de2bf2f1fc328e5c8c363d",
+      "title": "[일본뉴스] 『디지몬 알리시온』, 사전 등록자 수가 20만 명을 돌파. 추가 보상을 공개하며, 40만 명 달성 시 「BT1-084 오메가몬」 증정",
+      "snippet": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント 4Gamer.net",
+      "source": "4Gamer.net",
+      "source_badge": "일본뉴스",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjX011dW40ZEpTTkVKdlZPUDByS3FoV2NZb004SS1mNmtwRGdzRlFkT2w3elFOT09vS1RoS190NkFuUHFsaGVpd2p0bEliWmxuRzJ6a2dqYm5FLUFDM041SnI4SQ?oc=5",
+      "image": null,
+      "timestamp": 1794297600,
+      "created_at": "2026-11-10 17:00",
+      "title_orig": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント",
+      "title_ja": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント"
+    },
+    {
       "id": "e7403a342c0556b14c56a1277ca1e2f3",
       "title": "[트윗] 🔹🌟🔹🌟🔹🌟🔹🌟🔹🌟🔹 『그 시절, 너희들에게서 빛나던 문장은 뭐였어?』 용기? 우정? 아니면 희망, 사랑, 순수...? 어린 시절, 선택받은 아이들과 함께 디지털 월드로 떠났던 추억의 한 페이지를 다시 펼쳐보지 않을래? 그 가슴 뛰던 모험, 그 속에서 빛났던 태그와 문장이 액세 - X",
       "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
@@ -2670,21 +2744,6 @@
       "created_at": "2026-11-10 15:03",
       "title_orig": "事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン",
       "title_ja": "事前登録20万人突破、40万人でオメガモン！『DIGIMON ALYSION（デジモンアリシオン）』事前登録キャンペーン"
-    },
-    {
-      "id": "09a96d5aa1de2bf2f1fc328e5c8c363d",
-      "title": "[일본뉴스] 『디지몬 알리시온』, 사전 등록자 수가 20만 명을 돌파. 추가 보상을 공개하며, 40만 명 달성 시 「BT1-084 오메가몬」 증정",
-      "snippet": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント 4Gamer.net",
-      "source": "4Gamer.net",
-      "source_badge": "일본뉴스",
-      "category": "card",
-      "category_name": "카드게임(TCG)",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjX011dW40ZEpTTkVKdlZPUDByS3FoV2NZb004SS1mNmtwRGdzRlFkT2w3elFOT09vS1RoS190NkFuUHFsaGVpd2p0bEliWmxuRzJ6a2dqYm5FLUFDM041SnI4SQ?oc=5",
-      "image": null,
-      "timestamp": 1794290400,
-      "created_at": "2026-11-10 15:00",
-      "title_orig": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント",
-      "title_ja": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント"
     },
     {
       "id": "8f047eb5f5e38ddd0b6d5a368e1000a0",
@@ -3238,10 +3297,10 @@
     },
     {
       "id": "f4012501208db758882562d0defb33e7",
-      "title": "[일본뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
+      "title": "[하비뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
       "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
@@ -7761,6 +7820,19 @@
       "image": null,
       "timestamp": 1791859839,
       "created_at": "2026-10-13 11:50"
+    },
+    {
+      "id": "38114995b81fba2ff5a03fbbdbfa1b44",
+      "title": "[디지카] 상품정보 - 부스터 팩 TIME STRANGER【BTK-24】",
+      "snippet": "상품정보 - 부스터 팩 TIME STRANGER【BTK-24】 디지몬 카드 게임",
+      "source": "공식 디지카KR",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN01hNGZ1NldPOHU2djBLU25oTjdsTkJWVENZaEVPYUl2bG1LV1p6VDRyQ0k1VDlWUXdoUUxoRkY1ZVVOXzRmcFlNNUdoUEVaSHc?oc=5",
+      "image": null,
+      "timestamp": 1791820262,
+      "created_at": "2026-10-13 00:51"
     },
     {
       "id": "554ae7fc7acc742e594eaa64b4603314",
