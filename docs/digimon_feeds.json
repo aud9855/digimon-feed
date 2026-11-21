@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-11-21 16:53:35",
-  "total_count": 735,
+  "last_updated": "2026-11-22 00:50:39",
+  "total_count": 737,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 4.1
     },
     {
       "name": "Google News (EN)",
-      "count": 35,
+      "count": 32,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.0
     },
     {
       "name": "Google News (JA)",
-      "count": 36,
+      "count": 34,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.3
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 3.3
+      "seconds": 4.9
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 0.9,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 0.9,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
@@ -51,32 +51,32 @@
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.2,
+      "seconds": 0.1,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.4
     },
     {
       "name": "Instagram",
-      "count": 82,
+      "count": 81,
       "errors": 0,
-      "seconds": 2.0
+      "seconds": 1.7
     },
     {
       "name": "하비 매체",
@@ -88,19 +88,19 @@
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 1.0
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.3
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.4
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -112,13 +112,13 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.9
     },
     {
       "name": "루리웹 게임·애니",
       "count": 25,
       "errors": 0,
-      "seconds": 2.9
+      "seconds": 3.4
     },
     {
       "name": "아카라이브",
@@ -130,10 +130,23 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.6
     }
   ],
   "feeds": [
+    {
+      "id": "4499670eec98d3cce7775855c127149a",
+      "title": "[영상] 유저들이여 짖어라, 무시하면 되니까 [디지몬 마스터즈 최종 근황]",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55TEtVbjk3SEQzT2tOZmlVcWw0cWljWjFhc01IUGxZTkE2WFNidXJaN0Q5aFcweVlYOVo5U2l6S1hlMmJMblJJNHY0NEZxWWVjMGlnTkd3?oc=5",
+      "image": null,
+      "timestamp": 1795262407,
+      "created_at": "2026-11-21 21:00"
+    },
     {
       "id": "f54079d8a0b47a4661772b72ab93a5ba",
       "title": "[공식 상품] 디지바이스 Ver.REVIVAL 이즈미 코시로(한솔) 컬러",
@@ -250,6 +263,21 @@
       "timestamp": 1795179606,
       "created_at": "2026-11-20 22:00",
       "title_orig": "Digimon World Re:Digitize: Decode [Taiga] Part 20 Wanyamon joins the City!"
+    },
+    {
+      "id": "036d933c71ccf0d1daa8fd1e6089ba45",
+      "title": "[일본뉴스] 11월 22일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」의 제37화 【완전체 총진격! 빛나는 엔젤우몬】을 방송!",
+      "snippet": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！ PR TIMES",
+      "source": "PR TIMES",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xTkxFRjVwS01jYzhXOURGWUpxbEhuZVdHWHNDdHVfSjVoQ05vZ1c5VjRPQ0s1OWNhaGtMNk95dXpTckV5eEhoMEV2N2JwanlPTE5uOUZrM1I0VEJrb1lrR3IwSVFya0JucVE?oc=5",
+      "image": null,
+      "timestamp": 1795167001,
+      "created_at": "2026-11-20 18:30",
+      "title_orig": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！",
+      "title_ja": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！"
     },
     {
       "id": "75383f3d61396f62b8a9a17915fa84c8",
@@ -3427,6 +3455,19 @@
       "created_at": "2026-11-05 17:00"
     },
     {
+      "id": "7d7edb867b38076a638af8aafeafe719",
+      "title": "[인스타] . 【 🔔 메가하우스 11월 신제품 예약 개시 ! 】 🗓️ 27년 7월 발매 📌디지몬 어드벤처 #デジモン🥚 ✔️Precious G.E.M. 시리즈 우리들의 워게임 오메가몬 2023 버전 (재판) 🛍️ 바로가기 : https://mkt.shopping.naver.com/link/6aebd0480a3cf325452efb7a #메가하우스공식",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKd1NxMXRRM0Y5blFxVm95cHk1N0NkT2hPZ2VVZ203Qk5ad21sZS05X21Ea0RXM2VNZ29OcE16LVpuZE5samhZZzNvWWN4Nk5qYnc?oc=5",
+      "image": null,
+      "timestamp": 1793865600,
+      "created_at": "2026-11-05 17:00"
+    },
+    {
       "id": "068f06c70131784142e2cd8254abc625",
       "title": "[인스타] 11월에도 찍을 포토프레임이 한가득! 은혼부터 주술회전, 디지몬까지 이번 달 포토프레임 라인업 모아왔어💗 브랜드별로 진행 기간도 다르니까 체크 필수! 최애 프레임 놓치지 않게 미리 저장해 두고 사진 찍으러 가자📷 @@ 이번 달 가장 찍고 싶은 포토프레임은 뭐야? •",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -6232,18 +6273,19 @@
       "title_ja": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ"
     },
     {
-      "id": "0fbefdb86ec74ff448ddb56ceaa946b1",
-      "title": "[디지카] 덱 정보",
-      "snippet": "Deck Information digimon card meta",
-      "source": "Digimon Meta",
-      "source_badge": "디지카",
-      "category": "card",
-      "category_name": "카드게임(TCG)",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNUjM0Z0NyLWh4N3hfUFE1MmR1Snpzc1hpX2pRWTVBazBPRUxNa1ZkNGJSRlR1ZU40bUo4TGdXY1NRRFNxWXFTMjdpaWVUdG9FVHVqeExoSVFvalZoV1NNczczQnB4aFdsU1VLRDdZOUprb1V5bmF2WVUxZ3F3S3MwNTM3dXhpbU85UDAzaWk4cU9maDN0RkxiUVRuWGJ5aGhocV9UUWVzTThwSy1CZFRJOUdkdzJYTmlITUVpajF1UmhOckRQOWVwbTFGYmVULU8tVUZZMlpsU213N25lakN0QVhGVE1rSktoTVg0VDBwWHktZ0JqVHlNYWdzc25ITEdUbXZWQ3J3cWRBNTMwQTV6MDh3S0o0R2hmdjdzOUpHaXJhdEpiclZ0UUl4U2ZoU3RET05Oa2NXWnlQeEN0bmVyWjRSS0NmWHFoR0d0dHliQ1VlQ2ozNU0yaS16eUMxdjVNalY5cTk3a2FxNFJDakUxVU9kMXh1LXNFdTd3TlBjQmJBSXIxQkhXcHkxSzJIdkRUTHlZODdjSkRNMF9JSlFGbzRlQVFfbVBQZUtrcERkeEJpWWZNYlpUWGs1Z3VLN2ItODdXRmhraw?oc=5",
+      "id": "ad2b4583eb9ef77b5690b2310ddc231d",
+      "title": "[일본뉴스] 【최대 84% 할인】 『디지몬 스토리』와 『테일즈』가 특가. 반남 DL판 세일 개최",
+      "snippet": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNHZ4ZTFTQWhRQnRlVHE0VndPT1NFa3hvUGRFMEhQSHMwNkVWX0hTNTMxTXlmMzNXdnVkaHFxNUZzTW9VdXpqQzZEWDB6OS1zT1dOMDB0SGtnZw?oc=5",
       "image": null,
       "timestamp": 1792566000,
       "created_at": "2026-10-21 16:00",
-      "title_orig": "Deck Information"
+      "title_orig": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催",
+      "title_ja": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催"
     },
     {
       "id": "96a42f2ce8a8027a4ddc662d570d0577",
@@ -6376,21 +6418,6 @@
       "created_at": "2026-10-20 18:28",
       "title_orig": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 武之内空＆ピヨモン[KADOKAWA]《０１月予約》",
       "title_ja": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 武之内空＆ピヨモン[KADOKAWA]《０１月予約》"
-    },
-    {
-      "id": "ad2b4583eb9ef77b5690b2310ddc231d",
-      "title": "[일본뉴스] 【최대 84% 할인】 『디지몬 스토리』와 『테일즈』가 특가. 반남 DL판 세일 개최",
-      "snippet": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催 電撃オンライン",
-      "source": "電撃オンライン",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNHZ4ZTFTQWhRQnRlVHE0VndPT1NFa3hvUGRFMEhQSHMwNkVWX0hTNTMxTXlmMzNXdnVkaHFxNUZzTW9VdXpqQzZEWDB6OS1zT1dOMDB0SGtnZw?oc=5",
-      "image": null,
-      "timestamp": 1792479600,
-      "created_at": "2026-10-20 16:00",
-      "title_orig": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催",
-      "title_ja": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催"
     },
     {
       "id": "40b10f68829ddd056bc4c9527c5c0125",
@@ -8414,6 +8441,20 @@
       "created_at": "2026-10-03 16:00"
     },
     {
+      "id": "e471c6642596fe58307d93f862b2e1c5",
+      "title": "[디지카] 덱 정보",
+      "snippet": "Deck Information digimon card meta",
+      "source": "Digimon Meta",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOVmZfdmFDODY4dHR4MDM3NlJlN2RTdzBkaFF4cXJyS0wwb2d5NEJFcy1IWTc0UzhpMHJ4N3dENUF4RTMzN01IU1JhNnZ1dFVIbVowNUZjcHpnWk9EOFJwTVQwZjdjdnpwT25sOEpNT3EtdjJObjNnZjg3N3lFMlNpeGpKbEtFRTQ0VnRTbVdtOFFEWnNxbDk5RzVyd3I4c2NDTU9XWDc1YUtSRGladkhTbVJXSHhuZlhHOVU1TjhTLWVwRlRZeWtkeUNMdU9TSlRlUDc2YkNIZGNwY0ZlM1R1RzdabWlmRjRVWFBuNHdSR2dxYnpNX3ZPLXBXWVRkQ3JXbTRPa29pMUgwX0QwN296c3pGTExOQVhGLWN3NWNhT04tQi0wdEhOclp4NGZYa1huMHlyRDd6V29KNm4waGQ1QmowcFNVTzluMFRmZmxrVERVRExxUGlHMjJPelY5dDN5eWJMakJwczU1UjJ4azZfbGQySjJMZ0tvVldKcEVhbXB4cUhEQk1yUEgwVTd3bGRfbk10ZWhySVVNNkk3TzdnaEs5czk3b2htY0ZuaUJxeGxqX2xfMTBtbEVfZ3kxZkRuQTUxLTB5Y2k1ZXRLOENENVhRTkJUTk4yMk9ZdHRsN2lOQQ?oc=5",
+      "image": null,
+      "timestamp": 1791010800,
+      "created_at": "2026-10-03 16:00",
+      "title_orig": "Deck Information"
+    },
+    {
       "id": "c0368887e957b5adde01e483ab2e312e",
       "title": "[공식 상품] 디지몬 카드 게임 엑스트라 부스터 CHIVALROUS XIII 【EX-13】",
       "snippet": "발매 2026-10-03 · 240円(税込)",
@@ -9179,8 +9220,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 내 건담 덱 | Egman Deck Builder",
-      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
+      "title": "[디지카] 나의 건담 덱",
+      "snippet": "My Gundam Decks Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -9189,7 +9230,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks | Egman Deck Builder"
+      "title_orig": "My Gundam Decks"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
@@ -10375,21 +10416,6 @@
       "image": null,
       "timestamp": 1787727600,
       "created_at": "2026-08-26 16:00"
-    },
-    {
-      "id": "db0414a5fe954610632b486949f1c0ea",
-      "title": "[일본뉴스] 제1탄은 파타몬과 엔젤몬이 라인업! 『디지몬 어드벤처』의 경품 피규어 시리즈「디지바이스탠드!」가 새롭게 등장!",
-      "snippet": "第1弾はパタモンとエンジェモンがラインナップ！『デジモンアドベンチャー』のプライズフィギュアシリーズ「デジヴァイスタンド！」が新登場！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GdGJ6aXptVUt4QU13Q2dINlZQUXZPdlF6eGNZUTNaXzVOX19uak5hX0RMRV96SEdzUUE0czVjYTFvUHQzZTNoQURwZFZpM1hx?oc=5",
-      "image": null,
-      "timestamp": 1787472253,
-      "created_at": "2026-08-23 17:04",
-      "title_orig": "第1弾はパタモンとエンジェモンがラインナップ！『デジモンアドベンチャー』のプライズフィギュアシリーズ「デジヴァイスタンド！」が新登場！",
-      "title_ja": "第1弾はパタモンとエンジェモンがラインナップ！『デジモンアドベンチャー』のプライズフィギュアシリーズ「デジヴァイスタンド！」が新登場！"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
