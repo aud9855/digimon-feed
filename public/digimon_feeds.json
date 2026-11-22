@@ -1,112 +1,112 @@
 {
-  "last_updated": "2026-11-23 02:30:59",
-  "total_count": 748,
+  "last_updated": "2026-11-23 08:00:07",
+  "total_count": 750,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.3
     },
     {
       "name": "Google News (EN)",
       "count": 32,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "Google News (JA)",
-      "count": 34,
+      "count": 35,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.0
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 2.6
+      "seconds": 4.2
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.0,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.0,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 12,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.9
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.2,
+      "seconds": 0.1,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.5
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.6
     },
     {
       "name": "Instagram",
       "count": 80,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.1
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.7
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.7
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 2.1
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.4
+      "seconds": 2.8
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 1.1
     },
     {
       "name": "피규어 샵",
@@ -118,7 +118,7 @@
       "name": "루리웹 게임·애니",
       "count": 26,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 6.4
     },
     {
       "name": "아카라이브",
@@ -315,6 +315,21 @@
       "category": "general",
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jSTFqNkwyb2dsU3VFNjJYcjBtZzJUWURaWTM3VkJ2QjEybE9kN0ppMHB0aGRabWZSN0lZamUxV0ozOE9hU293U0g2QS1yMHpJUm41M25oZkUwTi1iMDBzdDlzbWFkX1JzOEJEUGhCVzBMZ3N1UWFfcDFn?oc=5",
+      "image": null,
+      "timestamp": 1795167000,
+      "created_at": "2026-11-20 18:30",
+      "title_orig": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！",
+      "title_ja": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！"
+    },
+    {
+      "id": "6e127bd33b3fac2313ead2cc18da154d",
+      "title": "[일본뉴스] 11월 22일(일) 방송되는 『우리가 선택한 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」의 제37화 【완전체 총진격! 빛나는 엔젤우몬】을 방송!",
+      "snippet": "11月22日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第37話【完全体総進撃！きらめくエンジェウーモン】を放送！ Infoseek",
+      "source": "Infoseek",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QZ2VUR0h0RGJzM3MzdWllanY2YWxjQk00TUhKVDBUZW5xdzZOT05aSEsyTHI0ZW5KNjZZUDBzNzRqV3pwZEpaS3A1TXRvTU9ZaE9UekFLTmcwZHQwZ2xRSWpWeGlyM1BxMEIwVkJzelltQQ?oc=5",
       "image": null,
       "timestamp": 1795167000,
       "created_at": "2026-11-20 18:30",
@@ -8441,6 +8456,19 @@
       "title_orig": "No, but do you know this? * #LegoDigimon * #Digimon * #LEGO * #LegoMOC * #BuildableLego"
     },
     {
+      "id": "08440bfe68c1afcca70ca80f70217d6e",
+      "title": "[인스타] 껐다 켤 때마다 디지몬이 아프거나 죽어 있었습니다. 그게 규칙인지 버그인지 헷갈리기 시작했습니다. 코딩 한 줄 몰라도 AI랑 게임엔진만으로 액정 육성 게임을 만들고 있습니다. 이번 화는 9월 11일 하루입니다. 새벽엔 앱을 꺼 둔 사이 늦게 오는 알림을 붙잡았고, 낮엔",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqSzB3ak9La3gxakhuUVdFbmhuR0NFY283WVdnNDVKOV94V2lvR2VLS1pZUV81T2hGaTUwb2JyT2d1Q2RHcVhGeDhOQzJxMUdDLUE?oc=5",
+      "image": null,
+      "timestamp": 1791270000,
+      "created_at": "2026-10-06 16:00"
+    },
+    {
       "id": "c59d111f393bdf2efa9173b3a996e3fd",
       "title": "[디지카] 이벤트 - 에볼루션컵 2026 SEASON 5",
       "snippet": "이벤트 - 에볼루션컵 2026 SEASON 5 디지몬 카드 게임",
@@ -9342,8 +9370,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 내 건담 덱",
-      "snippet": "My Gundam Decks Egman Deck Builder",
+      "title": "[디지카] 내 건담 덱 | 에그맨 덱 빌더",
+      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -9352,7 +9380,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks"
+      "title_orig": "My Gundam Decks | Egman Deck Builder"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
