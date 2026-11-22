@@ -1,62 +1,57 @@
 {
-  "last_updated": "2026-11-22 06:23:10",
-  "total_count": 737,
+  "last_updated": "2026-11-22 10:49:43",
+  "total_count": 745,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
-      "count": 0,
-      "errors": 4,
-      "seconds": 88.6,
-      "last_error": "Google News (디지몬) crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EB%94%94%EC%A7%80%EB%AA%AC&hl=ko&gl=KR&ceid=KR:ko"
+      "count": 60,
+      "errors": 0,
+      "seconds": 1.6
     },
     {
       "name": "Google News (EN)",
-      "count": 0,
-      "errors": 3,
-      "seconds": 78.6,
-      "last_error": "해외뉴스 (\"Digimon\" (\"Bandai\" OR \"Toei Animation\" OR \"Anime\")) crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Digimon%22%20%28%22Bandai%22%20OR%20%22Toei%20Animation%22%20OR%20%22Anime%22%29&hl=en-US&gl=US&ceid=US:en"
+      "count": 32,
+      "errors": 0,
+      "seconds": 1.0
     },
     {
       "name": "Google News (JA)",
-      "count": 0,
-      "errors": 3,
-      "seconds": 77.8,
-      "last_error": "일본뉴스 (\"デジモン\" (\"バンダイ\" OR \"東映アニメーション\" OR \"プレミアムバンダイ\")) crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%22%20%28%22%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%22%20OR%20%22%E6%9D%B1%E6%98%A0%E3%82%A2%E3%83%8B%E3%83%A1"
+      "count": 35,
+      "errors": 0,
+      "seconds": 0.9
     },
     {
       "name": "루리웹 모형정보",
-      "count": 0,
-      "errors": 4,
-      "seconds": 128.2,
-      "last_error": "Ruliweb (디지바이스) crawling failed: HTTPSConnectionPool(host='bbs.ruliweb.com', port=443): Max retries exceeded with url: /family/242/board/300017?search_type=subject&search_key=%EB%94%94%EC%A7%80%EB%B0%94%EC%9D%B4%EC%8A%A4 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bbs.ruliweb.com', port=44"
+      "count": 32,
+      "errors": 0,
+      "seconds": 9.1
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 0.9,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 1.0,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
-      "count": 0,
-      "errors": 3,
-      "seconds": 73.9,
-      "last_error": "TCG portal (site:digimoncard.com) crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Adigimoncard.com&hl=ko&gl=KR&ceid=KR:ko"
+      "count": 12,
+      "errors": 0,
+      "seconds": 0.9
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.0,
+      "seconds": 0.1,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
@@ -67,88 +62,91 @@
     },
     {
       "name": "YouTube",
-      "count": 0,
-      "errors": 1,
-      "seconds": 27.8,
-      "last_error": "YouTube crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ayoutube.com%20%22%EB%94%94%EC%A7%80%EB%AA%AC%22&hl=ko&gl=KR&ceid=KR:ko"
+      "count": 15,
+      "errors": 0,
+      "seconds": 0.4
     },
     {
       "name": "X(트위터)",
-      "count": 0,
-      "errors": 1,
-      "seconds": 23.7,
-      "last_error": "Twitter crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ax.com%20OR%20site%3Atwitter.com%20%28%22digimonweb_net%22%20OR%20%22digimon_tcg%22%20OR%20%22toei_anim_goods%22%20OR%20%22%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%22%20OR%20%22DigimonTCG%2"
+      "count": 20,
+      "errors": 0,
+      "seconds": 0.4
     },
     {
       "name": "Instagram",
-      "count": 0,
-      "errors": 6,
-      "seconds": 134.8,
-      "last_error": "Instagram crawling failed (site:instagram.com/reel/ \"디지몬\"): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ainstagram.com/reel/%20%22%EB%94%94%EC%A7%80%EB%AA%AC%22&hl=ko&gl=KR&ceid=KR:ko"
+      "count": 84,
+      "errors": 0,
+      "seconds": 2.5
     },
     {
       "name": "하비 매체",
-      "count": 0,
-      "errors": 2,
-      "seconds": 44.9,
-      "last_error": "Hobby portal (site:hobby.watch.impress.co.jp \"デジモン\") crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ahobby.watch.impress.co.jp%20%22%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%22&hl=ja&gl=JP&ceid=JP:ja"
+      "count": 16,
+      "errors": 0,
+      "seconds": 0.7
     },
     {
       "name": "해외 애니 뉴스",
-      "count": 0,
-      "errors": 2,
-      "seconds": 46.5,
-      "last_error": "Anime news (site:crunchyroll.com/news \"Digimon\") crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acrunchyroll.com/news%20%22Digimon%22&hl=en-US&gl=US&ceid=US:en"
+      "count": 16,
+      "errors": 0,
+      "seconds": 0.7
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.6
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 2.5
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
-      "count": 0,
-      "errors": 3,
-      "seconds": 58.8,
-      "last_error": "TCG meta (site:egmanevents.com \"digimon\") crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aegmanevents.com%20%22digimon%22&hl=en-US&gl=US&ceid=US:en"
+      "count": 24,
+      "errors": 0,
+      "seconds": 1.1
     },
     {
       "name": "피규어 샵",
-      "count": 0,
-      "errors": 4,
-      "seconds": 93.0,
-      "last_error": "Figure shop (site:hlj.com \"Digimon\") crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ahlj.com%20%22Digimon%22&hl=ja&gl=JP&ceid=JP:ja"
+      "count": 16,
+      "errors": 0,
+      "seconds": 1.2
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 0,
-      "errors": 3,
-      "seconds": 96.1,
-      "last_error": "Ruliweb board (https://bbs.ruliweb.com/family/211/board/300015?search_type=subject&search_key=디지몬) crawling failed: HTTPSConnectionPool(host='bbs.ruliweb.com', port=443): Max retries exceeded with url: /family/211/board/300015?search_type=subject&search_key=%EB%94%94%EC%A7%80%EB%AA%AC (Caused by Con"
+      "count": 26,
+      "errors": 0,
+      "seconds": 6.4
     },
     {
       "name": "아카라이브",
       "count": 0,
-      "errors": 1,
-      "seconds": 22.4,
-      "last_error": "Arcalive (site:arca.live/b/digimon \"디지몬\") crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aarca.live/b/digimon%20%22%EB%94%94%EC%A7%80%EB%AA%AC%22&hl=ko&gl=KR&ceid=KR:ko"
+      "errors": 0,
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
-      "count": 0,
-      "errors": 1,
-      "seconds": 27.7,
-      "last_error": "Naver Game (site:game.naver.com \"디지몬\") crawling failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Agame.naver.com%20%22%EB%94%94%EC%A7%80%EB%AA%AC%22&hl=ko&gl=KR&ceid=KR:ko"
+      "count": 8,
+      "errors": 0,
+      "seconds": 0.5
     }
   ],
   "feeds": [
+    {
+      "id": "d3b119dc98458bc3cdd307ee80abe8b6",
+      "title": "[루리웹] 디지몬 어드벤처 삽입곡 Brave heart 제작비화",
+      "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
+      "source": "루리웹 애니정보",
+      "source_badge": "루리웹",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://bbs.ruliweb.com/family/211/board/300015/read/2442839",
+      "image": null,
+      "timestamp": 1795311300,
+      "created_at": "2026-11-22 10:35"
+    },
     {
       "id": "4499670eec98d3cce7775855c127149a",
       "title": "[영상] 유저들이여 짖어라, 무시하면 되니까 [디지몬 마스터즈 최종 근황]",
@@ -1038,6 +1036,19 @@
       "title_orig": "Blue Memory Boost & Blue Scramble Previews for Digimon Card Game Starter Deck 26"
     },
     {
+      "id": "08b8c44a20ec1f567f127f7966739b6b",
+      "title": "디지몬 테이머즈 25주년 & 디지몬 세이버즈 20주년 기념 팝업 스토어, 그란엔타스 아키하바라에서 개최",
+      "snippet": "디지몬 테이머즈 25주년 & 디지몬 세이버즈 20주년 기념 팝업 스토어, 그란엔타스 아키하바라에서 개최 haveagood-holiday.com",
+      "source": "haveagood-holiday.com",
+      "source_badge": "뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2N1SHk3VnRqTkNKZ01BRFdkVVluZkE0NFdJWElaYVhIaXZPU01VOEd3QWlhbVhXbWhYVzhsS01TS3ZydFVHbkFaZUN4YTZjLVlQSlU4WmgyckJVUWdZS1QxMmRHNkFyZEIyZ2s0SHE1SUdnOEFrRTlvMDB3NGNWMHV5U193c2lhdGg2NDREVmZGQWpPdXEtR1NHYXVWclFMYUhzOFNYQ1FHeFZGelhFLXNn?oc=5",
+      "image": null,
+      "timestamp": 1794850453,
+      "created_at": "2026-11-17 02:34"
+    },
+    {
       "id": "f4ca33acbb9725d041d8f21a841dbc53",
       "title": "[위키몬 신규] 도베르몬 (테이머즈)",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Dobermon (Tamers))입니다.",
@@ -1138,6 +1149,21 @@
       "created_at": "2026-11-16 17:00",
       "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
       "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
+    },
+    {
+      "id": "727ab859660b78483fcd522918513e73",
+      "title": "[일본뉴스] 호소다 마모루가 연출한 「디지몬 어드벤처 3D 디지몬 그랑프리」 YouTube에서 11월 24일까지 무료 공개 중 (에이가 닷컴)",
+      "snippet": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中（映画.com） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zOGhNTnVPNTAxdV9YSUdOME1HMHVJV2lkOFphVml0OVRVY0hjREN4ZU8yaG11a3d5dkpIQWhfa1cwMHZ4X0xHZW9ZY2JtcFpTTkl3bnFLLXhLNDQxSVZUMnpWTnlrVmZrZjYzVG9taWpHUTBrYmFkeGpWM0VyZXc?oc=5",
+      "image": null,
+      "timestamp": 1794816000,
+      "created_at": "2026-11-16 17:00",
+      "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中（映画.com）",
+      "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中（映画.com）"
     },
     {
       "id": "2ee6a74aca3267df69313f1098406420",
@@ -6435,6 +6461,19 @@
       "title_ja": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 武之内空＆ピヨモン[KADOKAWA]《０１月予約》"
     },
     {
+      "id": "4d05942c6d942498e2294012a3cc408d",
+      "title": "[인스타] ★최신 카드 소개★ 11월 20일 발매 예정인 『TIME STRANGER』의 최신 카드를 소개합니다. 오늘 공개할 카드는 「아이기오투스몬」입니다. https://digimoncard.co.kr/ #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTT3JJZG52YlRIRklSZ1hYajlnQllXQ2JQRHltbkpKbUEtVFJaTTBkdW5TaWJLV0RVUWtZTjZBTDEyTUF5Z1ZiRndDbFVyNVdTYkE?oc=5",
+      "image": null,
+      "timestamp": 1792479600,
+      "created_at": "2026-10-20 16:00"
+    },
+    {
       "id": "40b10f68829ddd056bc4c9527c5c0125",
       "title": "[일본뉴스] 디지몬 시리즈의 3번째 작품 『디지몬 테이머즈』 수주 생산 굿즈가 10월 20일(화)부터 「크리프 스토어」에서 예약 접수 시작!",
       "snippet": "デジモンシリーズの3作品目『デジモンテイマーズ』受注生産グッズが、10月20 日（火）より「クリフストア」にて予約受付開始！ ニコニコニュース",
@@ -6576,6 +6615,19 @@
       "category": "game",
       "category_name": "게임/공식애니",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RdnNMZ055RlA1UUVPZFRIOGk5Nld1NGJmdkRDZVVsMXJQbDVJa05KaFZhd1JaT19yMVV2cjhxdjk0NkdtbmVMOWhLQ09JTm1YaHc?oc=5",
+      "image": null,
+      "timestamp": 1792393200,
+      "created_at": "2026-10-19 16:00"
+    },
+    {
+      "id": "52ef2258380e3edfda46e5a2fb0dce23",
+      "title": "[인스타] 못또 디지몬 PICK! 🌟 제퍼가몬 #못또 #캐릭터일러스트 #디지몬 #digimon",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNanpObVFLRVJjZHpIcVgzVk54MHp5RmRFN01qZUxwc2JoekFMX1RodE1NUm81bmdRNkV3X2trZm13YWtjQXNic0h1RU9HN080c0E?oc=5",
       "image": null,
       "timestamp": 1792393200,
       "created_at": "2026-10-19 16:00"
@@ -7679,6 +7731,19 @@
       "category": "game",
       "category_name": "게임/공식애니",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtd1E1WTVNVjFfSUNCcTNsY0g1SG9qNFJfRFFCT09wRzlNYmJSTERGbnJyWWJTQnJodEg5a09hbGdHXy1kbGdNQVlGWVVmR2JNQl9ZY21UVjdJVS1nZHBQeThEd01nVVJKbXRSVkJZb05VcklmLTVrX3ZjMmp6UQ?oc=5",
+      "image": null,
+      "timestamp": 1792047600,
+      "created_at": "2026-10-15 16:00"
+    },
+    {
+      "id": "8660ba0fefd7897611ee7d4fd8d630a6",
+      "title": "[인스타] 종합 룰북 한국어판이 공개되었습니다. 「디지몬 카드 게임」 종합 룰 Ver.4.3의 한국어판을 공식 홈페이지에 업데이트했습니다. ■ 확인 방법 프로필 링크 → 규칙 → 「종합 룰북」 #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Wa1Y1c08yVWtMa0hPMmYyQnJhTGlMdzJ4LV9iYnl1RHN3LVV4S3l2RUJGbnM4d0loeXFEUHgySnViNDdISWVvNzFxclltSGNoa1E?oc=5",
       "image": null,
       "timestamp": 1792047600,
       "created_at": "2026-10-15 16:00"
@@ -9235,8 +9300,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 나의 건담 덱",
-      "snippet": "My Gundam Decks Egman Deck Builder",
+      "title": "[디지카] 나의 건담 덱 | 에그맨 덱 빌더",
+      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -9245,7 +9310,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks"
+      "title_orig": "My Gundam Decks | Egman Deck Builder"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
@@ -9702,6 +9767,19 @@
       "created_at": "2026-09-12 16:00"
     },
     {
+      "id": "74e1c3f43c195b9051206b451e27bce0",
+      "title": "[인스타] ★최신 카드 소개★ 9월 18일 발매 예정인 『HACKERS' SLUMBER』의 박스 프로모 카드를 소개합니다. 오늘 공개할 카드는 「사기사카 히로코」「모니카 시몬즈」「시로키 아스나」입니다. https://digimoncard.co.kr/ #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HcjVKUUhMWlpHcjVKbVBqQnhoYW41ci04YXlhR1owR05KRmExUnluZ1dpRktxWTBNWFJLRDA2LTV6c3QtelQzVi1GakhiZEpGenc?oc=5",
+      "image": null,
+      "timestamp": 1789196400,
+      "created_at": "2026-09-12 16:00"
+    },
+    {
       "id": "dbc4355202e0bcdd3c6b6e867176a573",
       "title": "[인스타] 디지몬 어드벤처에서 지금까지 본 극장 한정 상품 중 가장 멋진 것을 방금 공개했다 🥚✨ 한국의 메가박스에서 9월 16일 호소다 마모루의 클래식 디지몬 영화 2편 동시 상영을 위해 디지타마 모양 팝콘통을 출시한다 — 총 8종의 디자인으로, 각각",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -10144,6 +10222,19 @@
       "category": "sns",
       "category_name": "SNS/해외",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QdVcwSFJid201UG1PRm5KaThBS3RpRjlJbEJzUi1PVFBzaUhWUzRWMzFuQ1VaYXZzbHdKc21Ib3VVV0NtR1FzY0N3M3o0WVdjYkE?oc=5",
+      "image": null,
+      "timestamp": 1788418800,
+      "created_at": "2026-09-03 16:00"
+    },
+    {
+      "id": "a0c0e1730d54c1dbf630c43c3a0ef9ed",
+      "title": "[인스타] ★최신 카드 소개★ 9월 18일 발매 예정인 『HACKERS' SLUMBER』의 최신 카드를 소개합니다. 오늘 공개할 카드는 「아마사와 케이스케」입니다. https://digimoncard.co.kr/ #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOc1NMbld6M1VMaEZ1a1EyQWNWMkczY3FTTE9GcDBJVzBHTzY0YVE3b0RsNHA5OWZyRDFXdVlHeS1pQWZNRjByZlZCZVBtZThpemc?oc=5",
       "image": null,
       "timestamp": 1788418800,
       "created_at": "2026-09-03 16:00"
