@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-11-22 10:49:43",
-  "total_count": 745,
+  "last_updated": "2026-11-22 18:03:12",
+  "total_count": 746,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.8
     },
     {
       "name": "Google News (EN)",
-      "count": 32,
+      "count": 35,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
-      "count": 35,
+      "count": 34,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 9.1
+      "seconds": 4.3
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.1,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 1.1,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 12,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.7
     },
     {
       "name": "WithTheWill",
@@ -74,51 +74,51 @@
     },
     {
       "name": "Instagram",
-      "count": 84,
+      "count": 79,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 1.9
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.6
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.1
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 2.0
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 0.8
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 26,
+      "count": 25,
       "errors": 0,
-      "seconds": 6.4
+      "seconds": 9.8
     },
     {
       "name": "아카라이브",
@@ -130,7 +130,7 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     }
   ],
   "feeds": [
@@ -149,7 +149,7 @@
     },
     {
       "id": "4499670eec98d3cce7775855c127149a",
-      "title": "[영상] 유저들이여 짖어라, 무시하면 되니까 [디지몬 마스터즈 최종 근황]",
+      "title": "[영상] 사상 최악의 디지몬 게임",
       "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
       "source": "YouTube",
       "source_badge": "유튜브",
@@ -276,6 +276,20 @@
       "timestamp": 1795179606,
       "created_at": "2026-11-20 22:00",
       "title_orig": "Digimon World Re:Digitize: Decode [Taiga] Part 20 Wanyamon joins the City!"
+    },
+    {
+      "id": "ddced2c62f185727c2bdf5a0440b8f5a",
+      "title": "[해외뉴스] 디지몬 월드 1 베스트 스타트 가이드 데이 원",
+      "snippet": "Digimon World 1 Best Start Guide Day One YouTube",
+      "source": "YouTube",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fTElOYzZUV2ktaFk5QVp0VEp2RTl0WUY1TmV1azFSWWlNcnM2anN0UTEtakZnNnRjSm9HWFlfMGIxdw?oc=5",
+      "image": null,
+      "timestamp": 1795173185,
+      "created_at": "2026-11-20 20:13",
+      "title_orig": "Digimon World 1 Best Start Guide Day One"
     },
     {
       "id": "036d933c71ccf0d1daa8fd1e6089ba45",
@@ -3454,10 +3468,10 @@
     },
     {
       "id": "f4012501208db758882562d0defb33e7",
-      "title": "[일본뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
+      "title": "[하비뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
       "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
@@ -4767,20 +4781,6 @@
       "created_at": "2026-10-29 11:21"
     },
     {
-      "id": "f83d71092eb0ec9a9956ef06fff52b06",
-      "title": "[해외뉴스] 팬들이 25년을 기다려온 영광스러운 신제품 출시와 함께 디지몬 최고의 시즌이 공식적으로 돌아온다",
-      "snippet": "Digimon's Best Season Officially Returns With The Glorious New Release Fans Have Waited 25 Years For ScreenRant",
-      "source": "ScreenRant",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2VWo1cUk2WUJsb2dCLXpyQlByYVJCelFrNmVIQU1NNHY2THVsNVpXODcwWDgtY3RiWEMyUXdnOUJsQXFWZTZQakY1a3BQRGl2QzBXYjJHaEFXVkFRVFc2bWcwX3ZHVjU5RHF6TnRqcWZiZ1hy?oc=5",
-      "image": null,
-      "timestamp": 1793237400,
-      "created_at": "2026-10-29 10:30",
-      "title_orig": "Digimon's Best Season Officially Returns With The Glorious New Release Fans Have Waited 25 Years For"
-    },
-    {
       "id": "a408ab687b4d6db41b3d0b5d6e11e9db",
       "title": "[해외뉴스] 디지몬 알리시온 모바일 카드 게임 사전 등록 시작",
       "snippet": "Digimon Alysion Mobile Card Game Pre-registration Starts Siliconera",
@@ -5009,6 +5009,20 @@
       "created_at": "2026-10-28 16:26",
       "title_orig": "【デジモンUP】武之内空＆ピヨモンは引くべき？",
       "title_ja": "【デジモンUP】武之内空＆ピヨモンは引くべき？"
+    },
+    {
+      "id": "f83d71092eb0ec9a9956ef06fff52b06",
+      "title": "[해외뉴스] 팬들이 25년을 기다려온 영광스러운 신제품 출시와 함께 디지몬 최고의 시즌이 공식적으로 돌아온다",
+      "snippet": "Digimon's Best Season Officially Returns With The Glorious New Release Fans Have Waited 25 Years For ScreenRant",
+      "source": "ScreenRant",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2VWo1cUk2WUJsb2dCLXpyQlByYVJCelFrNmVIQU1NNHY2THVsNVpXODcwWDgtY3RiWEMyUXdnOUJsQXFWZTZQakY1a3BQRGl2QzBXYjJHaEFXVkFRVFc2bWcwX3ZHVjU5RHF6TnRqcWZiZ1hy?oc=5",
+      "image": null,
+      "timestamp": 1793170800,
+      "created_at": "2026-10-28 16:00",
+      "title_orig": "Digimon's Best Season Officially Returns With The Glorious New Release Fans Have Waited 25 Years For"
     },
     {
       "id": "aa4bf7fb3dd7f42d6c2008b33eb88c27",
@@ -10361,6 +10375,21 @@
       "title_ja": "「デジモン」めじるしアクセサリー第3弾がオンラインでも買える！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
     },
     {
+      "id": "15724c77408cf7c6cb38079726e18eb8",
+      "title": "[일본뉴스] 【디지몬】 디지바이스형 받침대의 새로운 프라이즈 등장! 제1탄 파닥몬의 천진난만한 표정이 너무 귀여워",
+      "snippet": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keGl2NVJ6ZGVXM09XZTkxSndyRmNVaGtTMDctM2JwVEs2aEl5eDY2ZndUdWo0WjR6OGw4VHpla0cxZHV4N2VqZUFvTHJyTU5BenlsY2Z2Nk51Zw?oc=5",
+      "image": null,
+      "timestamp": 1788159600,
+      "created_at": "2026-08-31 16:00",
+      "title_orig": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ",
+      "title_ja": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ"
+    },
+    {
       "id": "7293900c76d3c5a0f9538b7f36c9109e",
       "title": "[루리웹] 20년 전 추억의 애니 극장서 볼까…'이누야샤'·'디지몬' 개봉",
       "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
@@ -10372,21 +10401,6 @@
       "image": null,
       "timestamp": 1788102000,
       "created_at": "2026-08-31 00:00"
-    },
-    {
-      "id": "15724c77408cf7c6cb38079726e18eb8",
-      "title": "[일본뉴스] 【디지몬】 디지바이스형 받침대의 새로운 프라이즈 등장! 제1탄 파닥몬의 천진난만한 표정이 너무 귀여워",
-      "snippet": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ 電撃オンライン",
-      "source": "電撃オンライン",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keGl2NVJ6ZGVXM09XZTkxSndyRmNVaGtTMDctM2JwVEs2aEl5eDY2ZndUdWo0WjR6OGw4VHpla0cxZHV4N2VqZUFvTHJyTU5BenlsY2Z2Nk51Zw?oc=5",
-      "image": null,
-      "timestamp": 1788073200,
-      "created_at": "2026-08-30 16:00",
-      "title_orig": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ",
-      "title_ja": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ"
     },
     {
       "id": "4928fc3400fb214cfa3d417cf3c7f276",
