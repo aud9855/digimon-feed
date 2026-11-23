@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-11-23 12:30:15",
-  "total_count": 756,
+  "last_updated": "2026-11-23 22:52:57",
+  "total_count": 764,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 1.4
     },
     {
       "name": "Google News (EN)",
-      "count": 32,
+      "count": 30,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
       "count": 33,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.2
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 4.2
+      "seconds": 5.2
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 2.4,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 2.4,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 12,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.9
     },
     {
       "name": "WithTheWill",
@@ -58,23 +58,23 @@
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     },
     {
       "name": "Instagram",
-      "count": 80,
+      "count": 77,
       "errors": 0,
       "seconds": 1.8
     },
@@ -82,25 +82,25 @@
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.9
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.5
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.0
+      "seconds": 2.5
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -112,13 +112,13 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 26,
+      "count": 25,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.8
     },
     {
       "name": "아카라이브",
@@ -135,6 +135,136 @@
   ],
   "feeds": [
     {
+      "id": "67f77862ace2ca00842778abcf4387da",
+      "title": "[해외뉴스] '피넛 버터가 초콜릿을 만났을 때 같다' - 다마고치와 디지몬, 멋진 콜라보 크로스오버로 30주년 축하",
+      "snippet": "'This Is like When Peanut Butter Met Chocolate' - Tamagotchi and Digimon Celebrate 30 Years with a Cool Collaborative Cr",
+      "source": "Time Extension",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc2Q4TTVkYnRTU3picWRXQndPVzVTTkJxN1lIeXVyOXB0bGxxQ1RjSU81WlFGZDJUdnJhR05WWHNPWmtBTC12a3k2dTI5elBUSFNRMFpmbnJTM2RrUlZkR0lwQkdUcElFRHlhallESTRIaU5CTkdoWldIeElUeG9XMHJHdER6ekF5cUJvZUNfWlVZckkwbEdfR0FNT25IT0d0dlM4YVVpU2hqOHB5TmZ5a0diVTJIa1AzRHRsWjJFRDJOODBwcEx0NUNwR29WS3ZUaGlteG0ycXlOTldsT2F2LXRGUUZZLUx0cTd0MjdnbWRaQm9pUE1acUxB?oc=5",
+      "image": null,
+      "timestamp": 1795438800,
+      "created_at": "2026-11-23 22:00",
+      "title_orig": "'This Is like When Peanut Butter Met Chocolate' - Tamagotchi and Digimon Celebrate 30 Years with a Cool Collaborative Crossover"
+    },
+    {
+      "id": "1ef5c2ab1d658d3d0780f37cad3eb554",
+      "title": "[해외뉴스] 반다이, 디지몬과 다마고치 30주년 기념 크로스오버 번들 공개",
+      "snippet": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEdfRC1LcU9ZbzFmRERoTkRiVDhpOVdJNG9UUDNaTWRlblRaTjMwdWloQXdZb05hQzJDaUowWmZBSV92a0hwdVVXT0phRDJmRWYxRElOZk1RSXZ5TUg3QV9JOUc4aGpZTFlZUGZONlcwRmhKQmVNb0Jnem5rVk1jOVNVWVpoTGlrbHpyU2JaNnoxM3A4Y0kzNDhoOUhtWFlwSDBfWmFuR04?oc=5",
+      "image": null,
+      "timestamp": 1795435822,
+      "created_at": "2026-11-23 21:10",
+      "title_orig": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi"
+    },
+    {
+      "id": "e8842455283168e22fa7a60ba9bc1aa4",
+      "title": "[일본뉴스] 디지몬과 다마고치가 뒤바뀌어 버렸다!? 『축 30주년 기념 세트!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』 예약 접수 개시",
+      "snippet": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始 PASH! PLUS",
+      "source": "PASH! PLUS",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOVkd6eThGS3N3SUtYdy1hbVZIOGxGZkhhaEZ1bUVBNUtyN29CbllaN05LVERPLTdHRUwwcFdqZUR6a0xkWGMzVG1hc09iUQ?oc=5",
+      "image": null,
+      "timestamp": 1795434113,
+      "created_at": "2026-11-23 20:41",
+      "title_orig": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始",
+      "title_ja": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始"
+    },
+    {
+      "id": "51ac2e9cf5cfc7c0e8d5b391a81823c1",
+      "title": "[트윗] 【추천상품💿/#CD】 #디지몬_어드벤처 #디지몬 🍀여름 캠프를 떠났던 선택받은✨ 아이들👥 이상한🌊 조류에 휘말려 이세계➖ 디지털 월드에👾 날아왔다‼️ 그곳에서 만난💫 디지몬🦖을 ⚔️파트너로 삼아 세상을 구하는 이야기🎶 \"지금, 모험이 진화한다❕\" 💿 「Butter-Fly」 💿 「 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5MWVRZFdOcUJlam1ySS1pQ25qc24wNHc5dnN0N3p2RDFoSDVCWWp6UGpWZ0dBZGRjVGRiZEdkTU5hSFNwV2VwbUVsYUo1RHNPZ2tfVlNvS0Ixd3NKcXlyejZzdEh5RkU?oc=5",
+      "image": null,
+      "timestamp": 1795427533,
+      "created_at": "2026-11-23 18:52"
+    },
+    {
+      "id": "850bb1f161100aad4cb5a814c5152e76",
+      "title": "[일본뉴스] 다마고치×디지몬, 30주년 기념 세트 예약 개시――가격 8,800엔, 발송은 2027년 6월",
+      "snippet": "たまごっち×デジモン、30周年の記念セットが予約開始――価格8,800円、発送は2027年6月 shiritomo",
+      "source": "shiritomo",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EUUl6VEZobGprRjNVdW51aXJYc2s4LUpIZU83YUtQTkVfMmtmMkxZZkQzejVpczl3MHBjam1nNlFEVDdqNVVR?oc=5",
+      "image": null,
+      "timestamp": 1795424034,
+      "created_at": "2026-11-23 17:53",
+      "title_orig": "たまごっち×デジモン、30周年の記念セットが予約開始――価格8,800円、発送は2027年6月",
+      "title_ja": "たまごっち×デジモン、30周年の記念セットが予約開始――価格8,800円、発送は2027年6月"
+    },
+    {
+      "id": "5d3ffe3c2592b946d90eb16ea9a2b993",
+      "title": "[일본뉴스] 디지몬과 다마고치가 서로 바뀌어 버렸다!? 30주년 특별 기념 세트 등장",
+      "snippet": "デジモンとたまごっちが入れ替わっちゃった!? 30周年特別記念セットが登場 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MSFRvOE02S3JxOFYxNnlEUDZXSTFFWU1WQlliUTNmUEZ1ZXlIMDBaVmFWakliYzlTa3dyZ3RvWmp1Z08yaTVVQ2xiVFRRd2U3dmJ0eXRFN2tWUQ?oc=5",
+      "image": null,
+      "timestamp": 1795416000,
+      "created_at": "2026-11-23 15:40",
+      "title_orig": "デジモンとたまごっちが入れ替わっちゃった!? 30周年特別記念セットが登場",
+      "title_ja": "デジモンとたまごっちが入れ替わっちゃった!? 30周年特別記念セットが登場"
+    },
+    {
+      "id": "f758a8fc3d44080014fec87a6538e737",
+      "title": "[일본뉴스] 축 30주년! 디지몬과 다마고치가 서로 바뀌어 버렸다!? 스페셜 아이템 등장",
+      "snippet": "祝30周年!デジモンとたまごっちが入れ替わっちゃった!?スペシャルアイテムが登場 マイナビニュース",
+      "source": "マイナビニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FaUc0bVMxZkxJSzdjSWVEdmdXbm9leGtJaE9YV2hoMi1VbXdWY2lOallONXNMNHFaS0FfVnBWY0xuMlN3SDZiWkhDWU5FQ2RJU1Jfdy1SdEd5ZlZQ?oc=5",
+      "image": null,
+      "timestamp": 1795410858,
+      "created_at": "2026-11-23 14:14",
+      "title_orig": "祝30周年!デジモンとたまごっちが入れ替わっちゃった!?スペシャルアイテムが登場",
+      "title_ja": "祝30周年!デジモンとたまごっちが入れ替わっちゃった!?スペシャルアイテムが登場"
+    },
+    {
+      "id": "52a00507edd0eff9c51ded2a60496e73",
+      "title": "[해외뉴스] 반다이의 '디지몬 다마고치 & 다마고치 디지몬 30주년 기념 세트', 버추얼 펫 아이콘이 서로 바뀌다",
+      "snippet": "BANDAI’s DIGIMON TAMAGOTCHI & TAMAGOTCHI DIGIMON 30th Anniversary Set Swaps the Virtual Pet Icons 玩具人 TOY PEOPLE",
+      "source": "玩具人 TOY PEOPLE",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjdG9lT3BLREdkT0U5dnMxdDZmNmNYSktZME51R2s0UFZMdTZ1WlhuVlktVUstZ0RndzIzekRaUU0tbkN1MnVHejdIdHhkUGlK?oc=5",
+      "image": null,
+      "timestamp": 1795406415,
+      "created_at": "2026-11-23 13:00",
+      "title_orig": "BANDAI’s DIGIMON TAMAGOTCHI & TAMAGOTCHI DIGIMON 30th Anniversary Set Swaps the Virtual Pet Icons"
+    },
+    {
+      "id": "2fd1128d3676c78d8f801a36e6d22d18",
+      "title": "[일본뉴스] 디지몬과 다마고치가 서로 바뀌다! 반다이 『축 30주년 기념 세트!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』 등장!",
+      "snippet": "デジモンとたまごっちが入れ替わり！BANDAI「祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON」が登場！ 玩具人 TOY PEOPLE",
+      "source": "玩具人 TOY PEOPLE",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OV80VkR5amFEaG5vTUJleGZXMVRGQlpPR0kwRkxCYlZfclZYVjhEUG9Dd242N1VOTVkzaXlSelIyNXMwNHYxZXpFeWFMQkRQ?oc=5",
+      "image": null,
+      "timestamp": 1795406415,
+      "created_at": "2026-11-23 13:00",
+      "title_orig": "デジモンとたまごっちが入れ替わり！BANDAI「祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON」が登場！",
+      "title_ja": "デジモンとたまごっちが入れ替わり！BANDAI「祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON」が登場！"
+    },
+    {
       "id": "11b6f1858102cea5613edd397ed6e2a8",
       "title": "[공식 상품] 축 30주년 기념 세트‼ DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON",
       "snippet": "발매 2027-06-26 · 8800",
@@ -150,19 +280,19 @@
       "title_ja": "祝30周年記念セット‼ DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON"
     },
     {
-      "id": "e8842455283168e22fa7a60ba9bc1aa4",
-      "title": "[일본뉴스] 디지몬과 다마고치가 뒤바뀌어 버렸다!? 『축 30주년 기념 세트!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』 예약 접수 개시",
-      "snippet": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始 PASH! PLUS",
-      "source": "PASH! PLUS",
+      "id": "44f839f5fafa5ef5767999f111f2c990",
+      "title": "[일본뉴스] 『디지몬』과 『다마고치』가 각각 서로 바뀐 기념 세트 예약 개시. '아구몬치'나 '마메치몬' 등의 다마고치나 디지몬 육성을 즐길 수 있다",
+      "snippet": "『デジモン』と『たまごっち』がそれぞれ入れ替わった記念セットが予約開始。「アグモンっち」や「マメチモン」などのたまごっちやデジモンの育成が楽しめる 電ファミニコゲーマー",
+      "source": "電ファミニコゲーマー",
       "source_badge": "일본뉴스",
       "category": "general",
       "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOVkd6eThGS3N3SUtYdy1hbVZIOGxGZkhhaEZ1bUVBNUtyN29CbllaN05LVERPLTdHRUwwcFdqZUR6a0xkWGMzVG1hc09iUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81MFJCdVNsV3JKV2hsZTVOYWU0WlVrTTR3Z1hxSmhJVGRlcV8xSmtNbFFJa25wN2RhMW1xVmJlcG9lLU9feURBeHpiN1NFeU9CanZKY1V6MFE?oc=5",
       "image": null,
-      "timestamp": 1795404114,
-      "created_at": "2026-11-23 12:21",
-      "title_orig": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始",
-      "title_ja": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始"
+      "timestamp": 1795404480,
+      "created_at": "2026-11-23 12:28",
+      "title_orig": "『デジモン』と『たまごっち』がそれぞれ入れ替わった記念セットが予約開始。「アグモンっち」や「マメチモン」などのたまごっちやデジモンの育成が楽しめる",
+      "title_ja": "『デジモン』と『たまごっち』がそれぞれ入れ替わった記念セットが予約開始。「アグモンっち」や「マメチモン」などのたまごっちやデジモンの育成が楽しめる"
     },
     {
       "id": "a096a0a89669488e489bc21bb3faf438",
@@ -8679,20 +8809,6 @@
       "image": null,
       "timestamp": 1791010800,
       "created_at": "2026-10-03 16:00"
-    },
-    {
-      "id": "e471c6642596fe58307d93f862b2e1c5",
-      "title": "[디지카] 덱 정보",
-      "snippet": "Deck Information digimon card meta",
-      "source": "Digimon Meta",
-      "source_badge": "디지카",
-      "category": "card",
-      "category_name": "카드게임(TCG)",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOVmZfdmFDODY4dHR4MDM3NlJlN2RTdzBkaFF4cXJyS0wwb2d5NEJFcy1IWTc0UzhpMHJ4N3dENUF4RTMzN01IU1JhNnZ1dFVIbVowNUZjcHpnWk9EOFJwTVQwZjdjdnpwT25sOEpNT3EtdjJObjNnZjg3N3lFMlNpeGpKbEtFRTQ0VnRTbVdtOFFEWnNxbDk5RzVyd3I4c2NDTU9XWDc1YUtSRGladkhTbVJXSHhuZlhHOVU1TjhTLWVwRlRZeWtkeUNMdU9TSlRlUDc2YkNIZGNwY0ZlM1R1RzdabWlmRjRVWFBuNHdSR2dxYnpNX3ZPLXBXWVRkQ3JXbTRPa29pMUgwX0QwN296c3pGTExOQVhGLWN3NWNhT04tQi0wdEhOclp4NGZYa1huMHlyRDd6V29KNm4waGQ1QmowcFNVTzluMFRmZmxrVERVRExxUGlHMjJPelY5dDN5eWJMakJwczU1UjJ4azZfbGQySjJMZ0tvVldKcEVhbXB4cUhEQk1yUEgwVTd3bGRfbk10ZWhySVVNNkk3TzdnaEs5czk3b2htY0ZuaUJxeGxqX2xfMTBtbEVfZ3kxZkRuQTUxLTB5Y2k1ZXRLOENENVhRTkJUTk4yMk9ZdHRsN2lOQQ?oc=5",
-      "image": null,
-      "timestamp": 1791010800,
-      "created_at": "2026-10-03 16:00",
-      "title_orig": "Deck Information"
     },
     {
       "id": "c0368887e957b5adde01e483ab2e312e",
