@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-11-24 10:25:12",
-  "total_count": 773,
+  "last_updated": "2026-11-24 20:53:39",
+  "total_count": 789,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.4
     },
     {
       "name": "Google News (EN)",
       "count": 28,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.8
     },
     {
       "name": "Google News (JA)",
-      "count": 33,
+      "count": 32,
       "errors": 0,
       "seconds": 1.2
     },
@@ -25,7 +25,7 @@
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 1.7
+      "seconds": 3.9
     },
     {
       "name": "디시 디지몬",
@@ -38,27 +38,27 @@
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 0.8,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 12,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.8
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.3,
+      "seconds": 0.1,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
@@ -74,66 +74,279 @@
     },
     {
       "name": "Instagram",
-      "count": 83,
+      "count": 67,
       "errors": 0,
-      "seconds": 2.4
+      "seconds": 2.5
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.9
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.8
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.0
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.3
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.2
     },
     {
       "name": "루리웹 게임·애니",
       "count": 26,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 2.8
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     }
   ],
   "feeds": [
+    {
+      "id": "d6eee7776a36f7b9a750fdb7c5e5903d",
+      "title": "[인스타] 🌐 디지몬 전 시리즈가 한자리에 모인다⁉️ 선택받은 아이들의 모험이 홍대에 찾아온대요 💙 《디지몬 어드벤처》부터 최신 시리즈까지 총 9개 시리즈의 대표 이야기와 캐릭터를 만날 수 있는 〈디지몬 어드벤처: 함께하는 운명展〉이 개최됩니다! 처음 디지털 월드의 문이 열",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UbnY5Y2d6czF3WFRoMjJpXzh2al9mSEEwaldKSHhCYzFHa2phU2JJVlVpSjczNk5Ua3ZlakRWY0dmclNIMThma0s0cVVzS1ppU0E?oc=5",
+      "image": null,
+      "timestamp": 1795517918,
+      "created_at": "2026-11-24 19:58"
+    },
+    {
+      "id": "0d20f36009b546f4d6cdbd6631941be7",
+      "title": "[일본뉴스] 도쿄 호테이손 쇼고 \"내 열정도 전해졌으리라 생각한다\" 『디지몬 어드벤처』의 매력을 열변 <아니메다마>",
+      "snippet": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ＞ Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlbmxKdHhCUHNFT1F5S2plNVdkXzZoT2V2dW1wWGxWcGJUM2JjMWZEWmZTTFF0RTdWSmhvc3ZYbldaY29senh2cWNpc0ZjY0xHamJjeEdueTVYcTJXWnJHcm4xV2FlcklwdFFPMFJ1WlgzWDluN01STHdYRW9FMjQ?oc=5",
+      "image": null,
+      "timestamp": 1795516659,
+      "created_at": "2026-11-24 19:37",
+      "title_orig": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ＞",
+      "title_ja": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ＞"
+    },
+    {
+      "id": "197b2851265f0a022aab07698751d45d",
+      "title": "[일본뉴스] Lynn, 우치야마 코우키, 이토 켄토에게 마키노 마리아가 돌격 취재! 방송 최초 「사장 스페셜」 & 도쿄 호테이손 쇼고가 『디지몬』을 열정적으로 프레젠테이션 『아니메다마』",
+      "snippet": "Lynn、内山昂輝、伊東健人に牧野真莉愛が突撃取材！番組初の「社長スペシャル」＆東京ホテイソン・ショーゴが『デジモン』を熱くプレゼン『アニメダマ』 めざましmedia",
+      "source": "めざましmedia",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14RDFSUmNaSWh3ak4yUzFwZU5Uc3Bpbi1KU1RjQ0w0aFlUVGMwRjZzVlBwb0M2SUVaTHV6eHlQaElVRzJWTnBWTnFHOGZlekZoRVRj?oc=5",
+      "image": null,
+      "timestamp": 1795514400,
+      "created_at": "2026-11-24 19:00",
+      "title_orig": "Lynn、内山昂輝、伊東健人に牧野真莉愛が突撃取材！番組初の「社長スペシャル」＆東京ホテイソン・ショーゴが『デジモン』を熱くプレゼン『アニメダマ』",
+      "title_ja": "Lynn、内山昂輝、伊東健人に牧野真莉愛が突撃取材！番組初の「社長スペシャル」＆東京ホテイソン・ショーゴが『デジモン』を熱くプレゼン『アニメダマ』"
+    },
+    {
+      "id": "b5c683ce361f2eef991567448702db58",
+      "title": "디지몬 26년 역사 한자리에…닷밀, 시리즈 총망라한 전시 개최",
+      "snippet": "디지몬 26년 역사 한자리에…닷밀, 시리즈 총망라한 전시 개최 지디넷코리아",
+      "source": "지디넷코리아",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16d2RrLVRYeWxKazk1Tm5sWWc1Y3IwQkx0UW9FcTgtRGFvTkpVMy1aZnJZOFdhLXRiODhpT09mRk5EVzBmTnZ2NFRMSW5ITXAzSXlwLUJ3?oc=5",
+      "image": null,
+      "timestamp": 1795505518,
+      "created_at": "2026-11-24 16:31"
+    },
+    {
+      "id": "e4029330706e48c272f9b545f81def2e",
+      "title": "[해외뉴스] 디지몬과 다마고치, 30주년 기념 특별 세트로 서로의 세계를 교체",
+      "snippet": "Digimon and Tamagotchi Swap Worlds for a Special 30th Anniversary Celebration Set Hypebeast",
+      "source": "Hypebeast",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnR5bWVaUTN0b0xuNkxPMFV4UjVPMjh4V2pMRnlnUjR5YW1Vb0NZdFVZS3I5UXM1cXVQbzNlRFlEX1dPMWZaZlg3Yml0emxFRXBXOGR0WVVLOXdCZWdiS0ZhTE1XRkE5TFlKSGRBbVZDMnhXdjJmWDBTdUdXXzRka01ubDJrVm81SkhGazl4Zmctd1pkZmNYazFNUVVZTVdCc3JTNFc3d2lSVy05Z0lENWJxTQ?oc=5",
+      "image": null,
+      "timestamp": 1795503609,
+      "created_at": "2026-11-24 16:00",
+      "title_orig": "Digimon and Tamagotchi Swap Worlds for a Special 30th Anniversary Celebration Set"
+    },
+    {
+      "id": "f1e07d3506a8687852bc1972bd58b9f8",
+      "title": "[해외뉴스] \"디지몬\" × \"다마고치\" 30주년 콜라보 아트 공개! 와타나베 켄지가 고전 명작에 새로운 모습을 선사하다",
+      "snippet": "\"Digimon\" × \"Tamagotchi\" 30th Anniversary Crossover Art Revealed! Kenji Watanabe Gives the Classics Brand-New Looks 玩具人",
+      "source": "玩具人 TOY PEOPLE",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Fb1lGanFOVzFMaTJ6MlVDZ1VaNW54Nm9NelVfT0dqYlNBSDN3dTdxREJaZG8yOGlQb1gydktKekVNWXlROTBWWVlndFA3SjRv?oc=5",
+      "image": null,
+      "timestamp": 1795501955,
+      "created_at": "2026-11-24 15:32",
+      "title_orig": "\"Digimon\" × \"Tamagotchi\" 30th Anniversary Crossover Art Revealed! Kenji Watanabe Gives the Classics Brand-New Looks"
+    },
+    {
+      "id": "43b9f5ddcd1b5f4ff3001e248cb3d558",
+      "title": "[일본뉴스] 『디지몬』×『다마고치』 30주년 콜라보 일러스트 공개! 와타나베 켄지 신규 일러스트, 인기 캐릭터가 설마 했던 “서로 바뀜”",
+      "snippet": "『デジモン』×『たまごっち』30周年コラボイラスト公開！渡辺けんじ描き下ろし、人気キャラがまさかの“入れ替わり” 玩具人 TOY PEOPLE",
+      "source": "玩具人 TOY PEOPLE",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0U1dXcm9xT0VqaEd2Z0hlaERaMFN4Yl9mV3ZQX29JWnQzbXR0Z1ZSY2V2Z0FJY0ZxMlNyX05jTVRiRXBkS0Y1Q1hsZnRJZzhB?oc=5",
+      "image": null,
+      "timestamp": 1795501955,
+      "created_at": "2026-11-24 15:32",
+      "title_orig": "『デジモン』×『たまごっち』30周年コラボイラスト公開！渡辺けんじ描き下ろし、人気キャラがまさかの“入れ替わり”",
+      "title_ja": "『デジモン』×『たまごっち』30周年コラボイラスト公開！渡辺けんじ描き下ろし、人気キャラがまさかの“入れ替わり”"
+    },
+    {
+      "id": "d1c101273db39db57b04635e951854ed",
+      "title": "[위키몬 신규] 냐로몬",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Nyoromon)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Nyoromon",
+      "image": null,
+      "timestamp": 1795495418,
+      "created_at": "2026-11-24 13:43",
+      "title_orig": "Nyoromon"
+    },
+    {
+      "id": "9a9a23eae038c5f1c000b101617dbdae",
+      "title": "[위키몬 신규] 타라코몬",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Tarakomon)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Tarakomon",
+      "image": null,
+      "timestamp": 1795494432,
+      "created_at": "2026-11-24 13:27",
+      "title_orig": "Tarakomon"
+    },
+    {
+      "id": "8d40cbb9af0c38a9d336ba9786021ec3",
+      "title": "[위키몬 신규] 쿠치파몬",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Kuchipamon)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Kuchipamon",
+      "image": null,
+      "timestamp": 1795493910,
+      "created_at": "2026-11-24 13:18",
+      "title_orig": "Kuchipamon"
+    },
+    {
+      "id": "cf373947243505504e869cc85857e29b",
+      "title": "[일본뉴스] 『디지몬 테이머즈』의 신규 일러스트 벌룬 ver. 트레이딩 아크릴 스탠드 등의 예약 수주 시작!! 애니메이션·만화 오리지널 굿즈를 판매하는 「AMNIBUS」에서",
+      "snippet": "『デジモンテイマーズ』の描き下ろし バルーンver. トレーディングアクリルスタンドなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて Excite エキサイト",
+      "source": "Excite エキサイト",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQWFjdzE2aklMQ1h5TVNQbnpwbkYzbkRfX3FYS3dHOHZlWlAwUWZuOUxWNFp2Y0k2Q0tpbjViUW5lamI5dmNMQWZtMnNLemJrNUIzMzQyMVN1UWt2Yi12T0FuVWtIOXBVdGRHaDNqd19Kc1B3UlE?oc=5",
+      "image": null,
+      "timestamp": 1795493700,
+      "created_at": "2026-11-24 13:15",
+      "title_orig": "『デジモンテイマーズ』の描き下ろし バルーンver. トレーディングアクリルスタンドなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title_ja": "『デジモンテイマーズ』の描き下ろし バルーンver. トレーディングアクリルスタンドなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて"
+    },
+    {
+      "id": "60e7bfbd5d38c190834ba0276712c0a3",
+      "title": "[위키몬 신규] 마스크몬",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Maskmon)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Maskmon",
+      "image": null,
+      "timestamp": 1795493369,
+      "created_at": "2026-11-24 13:09",
+      "title_orig": "Maskmon"
+    },
+    {
+      "id": "d0991982e9dce575327c86bbba5c0abd",
+      "title": "[일본뉴스] 신작 『디지몬 아리시온』 선행 플레이! 초보자 주인공과 함께 배우는 카드 배틀, \"진화\"와 연계로 전황을 움직인다",
+      "snippet": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZSTlKdG9MUXo2c1p5YjRFd2RYSE04bUZ6WXJzQTRTWlZxRFFwcFUtTkRzdkI4MHFxaE5jaGlGc1p2Nm9QelJyT09DOURJRFUweXB2SGZlS2E5VFRSTXRvNlZNdVlpN0llaGc?oc=5",
+      "image": null,
+      "timestamp": 1795491003,
+      "created_at": "2026-11-24 12:30",
+      "title_orig": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす",
+      "title_ja": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす"
+    },
+    {
+      "id": "8a7e5a3a0c891c24d0c963420d37b3a4",
+      "title": "[일본뉴스] 「다마고치」와 「디지몬」의 30주년을 기념한 기념 세트가 프리미엄 반다이에서 예약 접수 중! 서로 바뀐 두 작품의 캐릭터를 육성할 수 있다",
+      "snippet": "「たまごっち」と「デジモン」の30周年を記念した記念セットがプレミアムバンダイで予約受付中！入れ替わった両作品のキャラが育成できる Gamer",
+      "source": "Gamer",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9objl3V0pydUhpNmRkaUxSS0pES2tYa1E0UEtZcVlBaGJuVncwTV83YXEtbXZZRFRIUThzRTVBZVk1RkhkY2tKTC1nYWVtWFJScDdLcA?oc=5",
+      "image": null,
+      "timestamp": 1795489380,
+      "created_at": "2026-11-24 12:03",
+      "title_orig": "「たまごっち」と「デジモン」の30周年を記念した記念セットがプレミアムバンダイで予約受付中！入れ替わった両作品のキャラが育成できる",
+      "title_ja": "「たまごっち」と「デジモン」の30周年を記念した記念セットがプレミアムバンダイで予約受付中！入れ替わった両作品のキャラが育成できる"
+    },
+    {
+      "id": "867ac54b19f478df120057d3ecb277c4",
+      "title": "[영상] 반다이, 다마고치에서 아구몬 & 디지몬에서 마메치 키우는 30주년 기념 세트 공개 - 구성 : 달걀형 ‘디지몬 다마고치’와 사각형 ‘다마고치 디지몬’ 각 1대 - 달걀형 : 아구몬·그레이몬·메탈그레이몬 등을 다마고치 스타일로 키울 수 있음 - 사각형 : 마메치·구치파치 등을 디지",
+      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
+      "source": "YouTube",
+      "source_badge": "유튜브",
+      "category": "sns",
+      "category_name": "SNS/영상",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10cFI4TGRMNVk1emlFRzQ2dWtDcEVIUXVSSzZNMi1zd0pvdWt1bkNRYVNONDVJQVJ3Qnh5TmNvWnVWcTFzSVpUWDVKSTE1UkN4amNHU2E2d0pvTVpzY2RERUtRblN1UTZ1OUxLTFR4SU1HcWc?oc=5",
+      "image": null,
+      "timestamp": 1795487462,
+      "created_at": "2026-11-24 11:31"
+    },
     {
       "id": "07923b1eb31a8904afccf8000db02de8",
       "title": "[해외뉴스] 디지몬 시리즈를 한자리에: '디지몬 어드벤처: 운명으로 이어진 만남 전' 개최 예정",
@@ -172,8 +385,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBVExJMVdxTm9IT002STJNc0hLYjNSTVVjLUxRa2VZNXVwaUp0RDZCWE15YVNnZnMxSlI5WEg3emktX2VNSlFyeVBmdHFlS1M1Vk1wSWk0OXFmcm8zLWxkUU1ZRkFjN3RIWHhqa3FtN28zbHc2amItMGY3YU4tUQ?oc=5",
       "image": null,
-      "timestamp": 1795478529,
-      "created_at": "2026-11-24 09:02",
+      "timestamp": 1795479972,
+      "created_at": "2026-11-24 09:26",
       "title_orig": "Digimon & Tamagotchi Officially Bring Back 2 Classic Toys With New 30th Anniversary Release"
     },
     {
@@ -189,6 +402,21 @@
       "timestamp": 1795476807,
       "created_at": "2026-11-24 08:33",
       "title_orig": "Mametchimon"
+    },
+    {
+      "id": "e8842455283168e22fa7a60ba9bc1aa4",
+      "title": "[일본뉴스] 디지몬과 다마고치가 뒤바뀌어 버렸다!? 『축 30주년 기념 세트!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』 예약 접수 개시",
+      "snippet": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始 PASH! PLUS",
+      "source": "PASH! PLUS",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOVkd6eThGS3N3SUtYdy1hbVZIOGxGZkhhaEZ1bUVBNUtyN29CbllaN05LVERPLTdHRUwwcFdqZUR6a0xkWGMzVG1hc09iUQ?oc=5",
+      "image": null,
+      "timestamp": 1795471615,
+      "created_at": "2026-11-24 07:06",
+      "title_orig": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始",
+      "title_ja": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始"
     },
     {
       "id": "48733ecae3a0b3d3488e9e865a7ba5f6",
@@ -248,19 +476,18 @@
       "title_ja": "祝30周年！デジモンとたまごっちが入れ替わっちゃった！？それぞれのキャラクターを育成できる記念セットが登場！ ～初代をオマージュしたスペシャルデザイン！～"
     },
     {
-      "id": "e8842455283168e22fa7a60ba9bc1aa4",
-      "title": "[일본뉴스] 디지몬과 다마고치가 뒤바뀌어 버렸다!? 『축 30주년 기념 세트!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』 예약 접수 개시",
-      "snippet": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始 PASH! PLUS",
-      "source": "PASH! PLUS",
-      "source_badge": "일본뉴스",
+      "id": "1ef5c2ab1d658d3d0780f37cad3eb554",
+      "title": "[해외뉴스] 반다이, 디지몬과 다마고치 30주년 기념 크로스오버 번들 공개",
+      "snippet": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
       "category": "general",
       "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOVkd6eThGS3N3SUtYdy1hbVZIOGxGZkhhaEZ1bUVBNUtyN29CbllaN05LVERPLTdHRUwwcFdqZUR6a0xkWGMzVG1hc09iUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEdfRC1LcU9ZbzFmRERoTkRiVDhpOVdJNG9UUDNaTWRlblRaTjMwdWloQXdZb05hQzJDaUowWmZBSV92a0hwdVVXT0phRDJmRWYxRElOZk1RSXZ5TUg3QV9JOUc4aGpZTFlZUGZONlcwRmhKQmVNb0Jnem5rVk1jOVNVWVpoTGlrbHpyU2JaNnoxM3A4Y0kzNDhoOUhtWFlwSDBfWmFuR04?oc=5",
       "image": null,
-      "timestamp": 1795447013,
-      "created_at": "2026-11-24 00:16",
-      "title_orig": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始",
-      "title_ja": "デジモンとたまごっちが入れ替わっちゃった!? 『祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON』が予約受付開始"
+      "timestamp": 1795445804,
+      "created_at": "2026-11-23 23:56",
+      "title_orig": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi"
     },
     {
       "id": "e4afa7c15014c6ac9afc03276134e08b",
@@ -275,20 +502,6 @@
       "timestamp": 1795442461,
       "created_at": "2026-11-23 23:01",
       "title_orig": "The Digimon Tamagotchi & Tamagotchi Digimon 30th Anniversary Set"
-    },
-    {
-      "id": "1ef5c2ab1d658d3d0780f37cad3eb554",
-      "title": "[해외뉴스] 반다이, 디지몬과 다마고치 30주년 기념 크로스오버 번들 공개",
-      "snippet": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEdfRC1LcU9ZbzFmRERoTkRiVDhpOVdJNG9UUDNaTWRlblRaTjMwdWloQXdZb05hQzJDaUowWmZBSV92a0hwdVVXT0phRDJmRWYxRElOZk1RSXZ5TUg3QV9JOUc4aGpZTFlZUGZONlcwRmhKQmVNb0Jnem5rVk1jOVNVWVpoTGlrbHpyU2JaNnoxM3A4Y0kzNDhoOUhtWFlwSDBfWmFuR04?oc=5",
-      "image": null,
-      "timestamp": 1795439621,
-      "created_at": "2026-11-23 22:13",
-      "title_orig": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi"
     },
     {
       "id": "67f77862ace2ca00842778abcf4387da",
@@ -392,6 +605,19 @@
       "title_ja": "デジモンとたまごっちが入れ替わり！BANDAI「祝30周年記念セット!! DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON」が登場！"
     },
     {
+      "id": "65d1c44411570eb911b8d10d035f2fbc",
+      "title": "[인스타] 다마고치 × 디지몬 30주년 콜라보 떴어요👾⚡️ 다마고치로 아구몬을 키우고, 디지몬으로 마메치를 키울 수 있다고요?! 두 세계관이 뒤바뀐 30주년 기념 육성기 세트가 공개됐어요! 돌보는 방식에 따라 다른 캐릭터로 성장하거나 진화하고, 두 기기는 초대 디자인을 재해",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tMG5ZUzlzUkU5WVJsOUI2Qk0weHBRMUIzcXduRHJBQjV3cVJEb1BBYmRrSDhsUUNzTHNGZ29ZYkI1YlFxX0VidUZDUWpRYWRxYkE?oc=5",
+      "image": null,
+      "timestamp": 1795405013,
+      "created_at": "2026-11-23 12:36"
+    },
+    {
       "id": "11b6f1858102cea5613edd397ed6e2a8",
       "title": "[공식 상품] 축 30주년 기념 세트‼ DIGIMON TAMAGOTCHI＆TAMAGOTCHI DIGIMON",
       "snippet": "발매 2027-06-26 · 8800",
@@ -480,6 +706,19 @@
       "created_at": "2026-11-23 00:00",
       "title_orig": "たまごっちもデジモンも30周年!! 特別記念商品発売!!",
       "title_ja": "たまごっちもデジモンも30周年!! 特別記念商品発売!!"
+    },
+    {
+      "id": "18082b435e01a83cbd9c8b11cf8790a2",
+      "title": "[네이버] 공식 홈페이지",
+      "snippet": "공식 홈페이지 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzFpemdtdDU0Slh6dlhYZGRpTTBGNXF5c3Q5VTRPNUhoUFZrRmJlcUl6LXptQmhhT1hLV3Ywck9XUzRTTk9ab1BZTDE3YVNkYlFxQVBwZWNSWTNPOTktNFF4R3RreTFDSjRPZ1UtM2ljNG15QjFvNExKT3plbkFpOTdNYVZGUUNEM2xj?oc=5",
+      "image": null,
+      "timestamp": 1795318310,
+      "created_at": "2026-11-22 12:31"
     },
     {
       "id": "d3b119dc98458bc3cdd307ee80abe8b6",
@@ -764,20 +1003,6 @@
       "created_at": "2026-11-19 21:19"
     },
     {
-      "id": "d4fb4503d624649a28fc3bde6877a5e4",
-      "title": "[해외뉴스] PS1용 '디지몬 월드'의 팬 제작 1인칭 버전 개발 중",
-      "snippet": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works Retro Dodo",
-      "source": "Retro Dodo",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWhMZFhkcEpucENvbUc1YVpreHV5b0tGVlZzMHpTV0czd0ZsSVkxcXBBZWV5NEJWTDlEU0VmZWktaTVqUnE0ay1NOGhSN2NfZUFKbWN4YlZvMDg2ZGctM3dXQWM5dVpYZVFlRkE5bThUZTM3WWRiQXh4dllZQVdsOTBqaW14cmtVTzQtMW5ObnVXcHdRSkVOcFNmSQ?oc=5",
-      "image": null,
-      "timestamp": 1795085523,
-      "created_at": "2026-11-19 19:52",
-      "title_orig": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works"
-    },
-    {
       "id": "f3dd515a876f262d61bba89fb1ee6ea3",
       "title": "[일본뉴스] 【디지몬 UP】 D-1 그랑프리 참가권 입수 방법과 사용처",
       "snippet": "【デジモンUP】D-1グランプリ参加券の入手方法と使い道 GameWith",
@@ -1037,6 +1262,20 @@
       "created_at": "2026-11-17 20:28"
     },
     {
+      "id": "d4fb4503d624649a28fc3bde6877a5e4",
+      "title": "[해외뉴스] PS1용 '디지몬 월드'의 팬 제작 1인칭 버전 개발 중",
+      "snippet": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works Retro Dodo",
+      "source": "Retro Dodo",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWhMZFhkcEpucENvbUc1YVpreHV5b0tGVlZzMHpTV0czd0ZsSVkxcXBBZWV5NEJWTDlEU0VmZWktaTVqUnE0ay1NOGhSN2NfZUFKbWN4YlZvMDg2ZGctM3dXQWM5dVpYZVFlRkE5bThUZTM3WWRiQXh4dllZQVdsOTBqaW14cmtVTzQtMW5ObnVXcHdRSkVOcFNmSQ?oc=5",
+      "image": null,
+      "timestamp": 1794914117,
+      "created_at": "2026-11-17 20:15",
+      "title_orig": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works"
+    },
+    {
       "id": "c4c9d476fc822412dbd8f787e1fc27ab",
       "title": "[해외뉴스] 호소다 마모루의 26년 전 희귀 \"디지몬\" 3D 단편 무료 공개—단 11월 24일까지",
       "snippet": "Mamoru Hosoda's Rare 26-Year-Old \"Digimon\" 3D Short Is Now Free to Watch—but Only Until November 24 玩具人 TOY PEOPLE",
@@ -1134,6 +1373,20 @@
       "timestamp": 1794900478,
       "created_at": "2026-11-17 16:27",
       "title_orig": "Tamer Card Valner Preview for Digimon Card Game Booster Set 27"
+    },
+    {
+      "id": "67839da86469b33898b21ebcfaae762e",
+      "title": "[해외뉴스] 디지몬 어드벤처: (2020)",
+      "snippet": "Digimon Adventure: (2020) IMDb",
+      "source": "IMDb",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNQW9HeXoyNlRaS2lEeXJDbGVDZHZmaUtwaUZlWDhDdTNxY2tBMkp0NGhZR1ZLak9KcUNRdWx1VEVsak9sVi1wc283UVV6YVFFbWtkcWtJdGlLbl81eWFlWUlpQ0FjVjF2OVZ2X0dyblY?oc=5",
+      "image": null,
+      "timestamp": 1794898920,
+      "created_at": "2026-11-17 16:02",
+      "title_orig": "Digimon Adventure: (2020)"
     },
     {
       "id": "5137f4ce88f29ecc5dfe71e556d2a787",
@@ -9703,8 +9956,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 나의 건담 덱 | 에그맨 덱 빌더",
-      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
+      "title": "[디지카] 내 건담 덱",
+      "snippet": "My Gundam Decks Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -9713,7 +9966,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks | Egman Deck Builder"
+      "title_orig": "My Gundam Decks"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
@@ -9765,8 +10018,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PWnlYdHAtSUltaG5wOEU2NDhIX0szdnRFdEVpUHFSTGpldlJjeVZVOVhGeDdsZzBNa1dHT3cwT09hdDg5akRQZVNsZlM0ZXlud3p6MkVn?oc=5",
       "image": null,
-      "timestamp": 1790233200,
-      "created_at": "2026-09-24 16:00"
+      "timestamp": 1790146800,
+      "created_at": "2026-09-23 16:00"
     },
     {
       "id": "c9e35e11fd3068c3d095ccb1430c71cf",
@@ -9811,8 +10064,8 @@
     },
     {
       "id": "0ab6e8c6a56ec1ecfb592c27bc70778f",
-      "title": "[디지카] 사이버펑크 토너먼트 결과 | 에그맨 덱 빌더",
-      "snippet": "Cyberpunk Tournament Results | Egman Deck Builder Egman Deck Builder",
+      "title": "[디지카] 사이버펑크 토너먼트 결과",
+      "snippet": "Cyberpunk Tournament Results Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -9821,7 +10074,7 @@
       "image": null,
       "timestamp": 1790014818,
       "created_at": "2026-09-22 03:20",
-      "title_orig": "Cyberpunk Tournament Results | Egman Deck Builder"
+      "title_orig": "Cyberpunk Tournament Results"
     },
     {
       "id": "6a1c40604513cde450af98321c5ae41c",
@@ -10764,21 +11017,6 @@
       "title_ja": "「デジモン」めじるしアクセサリー第3弾がオンラインでも買える！「コロモン」をはじめ、選ばれし子どもたちの幼年期デジモン全8種"
     },
     {
-      "id": "15724c77408cf7c6cb38079726e18eb8",
-      "title": "[일본뉴스] 【디지몬】 디지바이스형 받침대의 새로운 프라이즈 등장! 제1탄 파닥몬의 천진난만한 표정이 너무 귀여워",
-      "snippet": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ 電撃オンライン",
-      "source": "電撃オンライン",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keGl2NVJ6ZGVXM09XZTkxSndyRmNVaGtTMDctM2JwVEs2aEl5eDY2ZndUdWo0WjR6OGw4VHpla0cxZHV4N2VqZUFvTHJyTU5BenlsY2Z2Nk51Zw?oc=5",
-      "image": null,
-      "timestamp": 1788159600,
-      "created_at": "2026-08-31 16:00",
-      "title_orig": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ",
-      "title_ja": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ"
-    },
-    {
       "id": "7293900c76d3c5a0f9538b7f36c9109e",
       "title": "[루리웹] 20년 전 추억의 애니 극장서 볼까…'이누야샤'·'디지몬' 개봉",
       "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
@@ -10790,6 +11028,21 @@
       "image": null,
       "timestamp": 1788102000,
       "created_at": "2026-08-31 00:00"
+    },
+    {
+      "id": "15724c77408cf7c6cb38079726e18eb8",
+      "title": "[일본뉴스] 【디지몬】 디지바이스형 받침대의 새로운 프라이즈 등장! 제1탄 파닥몬의 천진난만한 표정이 너무 귀여워",
+      "snippet": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keGl2NVJ6ZGVXM09XZTkxSndyRmNVaGtTMDctM2JwVEs2aEl5eDY2ZndUdWo0WjR6OGw4VHpla0cxZHV4N2VqZUFvTHJyTU5BenlsY2Z2Nk51Zw?oc=5",
+      "image": null,
+      "timestamp": 1788073200,
+      "created_at": "2026-08-30 16:00",
+      "title_orig": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ",
+      "title_ja": "【デジモン】デジヴァイス型台座の新プライズ登場！ 第1弾パタモンのあどけない表情が可愛いすぎ"
     },
     {
       "id": "4928fc3400fb214cfa3d417cf3c7f276",
@@ -10898,33 +11151,6 @@
       "image": null,
       "timestamp": 1787814000,
       "created_at": "2026-08-27 16:00"
-    },
-    {
-      "id": "29e456f9a29ad7e3895dbf049f18b737",
-      "title": "[디지카] 디지몬 카드게임 덱: BT26 타임리스 본즈 + EX13 시벌러스 XIII",
-      "snippet": "DigimonCG Decks: BT26 Timeless Bonds + EX13 Chivalrous XIII digimon card meta",
-      "source": "Digimon Meta",
-      "source_badge": "디지카",
-      "category": "card",
-      "category_name": "카드게임(TCG)",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWRoY1ZIR2VNcHhZN2Q5WC1OUXlLNHFFOUVMcnhpbWt3WFA1OWViTGNMZEdqZ0FsaDdrRnlsdEU0SUpMZENUb0VGSHZlMVdxd25yWEFDYTVBeW50Ymd3OWRfdjNpTmNYRDFuWWZwaWhjd3BzZGwwOE1mTjlWaWc0MkxkN0xYTzhHckJOMWhvbEM3UTVyR3c?oc=5",
-      "image": null,
-      "timestamp": 1787728363,
-      "created_at": "2026-08-26 16:12",
-      "title_orig": "DigimonCG Decks: BT26 Timeless Bonds + EX13 Chivalrous XIII"
-    },
-    {
-      "id": "43cc6bf178ac64e1207edd7ef304e21e",
-      "title": "[인스타] 📢[상품화 결정] 디지몬 컬렉션 피규어 디지몬 어드벤처 피타큐트 메가하우스 공식 스토어를 팔로우하고 기다리는 굿즈의 후속 정보를 가장 빠르게 받아보세요! #デジモン #디지몬어드벤처 #메가하우스공식스토어",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxcEpMckpfMU9kaVE3ZmZpQVZmSUJYU2l4ZGRMUlEwbzFWSElEWjZFWjFjZzU3cktSRGREYzZrZjQ5aGhjZEM0TDMzdm50cWhwbGc?oc=5",
-      "image": null,
-      "timestamp": 1787727600,
-      "created_at": "2026-08-26 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
