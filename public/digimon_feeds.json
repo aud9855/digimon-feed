@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-24 20:53:39",
-  "total_count": 789,
+  "last_updated": "2026-11-25 06:43:51",
+  "total_count": 797,
   "retention_days": 90,
   "sources": [
     {
@@ -13,25 +13,25 @@
       "name": "Google News (EN)",
       "count": 28,
       "errors": 0,
-      "seconds": 1.8
+      "seconds": 1.1
     },
     {
       "name": "Google News (JA)",
-      "count": 32,
+      "count": 33,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.0
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 3.9
+      "seconds": 2.2
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 0.8,
       "last_error": "DC digimon HTTP 403"
     },
     {
@@ -43,9 +43,9 @@
     },
     {
       "name": "TCG 포털",
-      "count": 12,
+      "count": 11,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.7
     },
     {
       "name": "WithTheWill",
@@ -64,67 +64,67 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     },
     {
       "name": "Instagram",
-      "count": 67,
+      "count": 72,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 1.9
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.5
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.2
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.0
+      "seconds": 2.1
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 0.9
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.0
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 26,
+      "count": 24,
       "errors": 0,
-      "seconds": 2.8
+      "seconds": 2.3
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.1
     },
     {
       "name": "네이버 게임",
@@ -134,6 +134,34 @@
     }
   ],
   "feeds": [
+    {
+      "id": "1a53f705088c2e9ac23e17eef14d4829",
+      "title": "[해외뉴스] 다마고치와 디지몬의 기념 크로스오버는 작은 하우징 스왑이다",
+      "snippet": "Tamagotchi and Digimon’s anniversary crossover is a tiny housing swap Digg",
+      "source": "Digg",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3b0Q1M3RBcnBCN0I3NDA5M1hDMUFOSUVLSXhPYkY0bG9MaDcyYi1QcEdqZ2Q1Q1N0NXUxbjJzOGwxOHRRbkQw?oc=5",
+      "image": null,
+      "timestamp": 1795540032,
+      "created_at": "2026-11-25 02:07",
+      "title_orig": "Tamagotchi and Digimon’s anniversary crossover is a tiny housing swap"
+    },
+    {
+      "id": "d4d1c19635c1504ad78e21290b1c7a87",
+      "title": "[애니뉴스] 디지몬이 다마고치가 되고 다마고치가 디지몬이 된다!",
+      "snippet": "Digimon Become Tamagotchi & Tamagotchi Become Digimon! Anime News Network",
+      "source": "Anime News Network",
+      "source_badge": "애니뉴스",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdi1IQXo1X2tLczZnMk4wNFpDd3BPMVFFUEt1U1Q5Z21rQ0ZsMTVuS29RX0lhYU9Fakw5X0Q1bmVOM1N6eGRoLXMyVWRVdXhLRWtiWUktdjAxVE4wLWpQS1pSMmdyVkdXSnlQa2JoUmFVX1FaQjhSUGpvT1d4VHV0dzhidEc4eVdyUC1aUWRjcHVGalpQRDZ3N0tTRG0wcjZFMHd6TjhfRno4VUk3VXhleS11aHpSdjg?oc=5",
+      "image": null,
+      "timestamp": 1795534963,
+      "created_at": "2026-11-25 00:42",
+      "title_orig": "Digimon Become Tamagotchi & Tamagotchi Become Digimon!"
+    },
     {
       "id": "d6eee7776a36f7b9a750fdb7c5e5903d",
       "title": "[인스타] 🌐 디지몬 전 시리즈가 한자리에 모인다⁉️ 선택받은 아이들의 모험이 홍대에 찾아온대요 💙 《디지몬 어드벤처》부터 최신 시리즈까지 총 9개 시리즈의 대표 이야기와 캐릭터를 만날 수 있는 〈디지몬 어드벤처: 함께하는 운명展〉이 개최됩니다! 처음 디지털 월드의 문이 열",
@@ -161,6 +189,21 @@
       "created_at": "2026-11-24 19:37",
       "title_orig": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ＞",
       "title_ja": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ＞"
+    },
+    {
+      "id": "a0079b2eb5ce11cc08396ce0bcb12ec4",
+      "title": "[일본뉴스] 도쿄 호테이손·쇼고 「내 열량도 전해졌다고 생각한다」 『디지몬 어드벤처』의 매력을 열변 <아니메다마",
+      "snippet": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ WEBザテレビジョン",
+      "source": "WEBザテレビジョン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MWnU0ZDlMUmJ6NG5tU3NuNG9faGc3ZHZJRW9qTGlLSnBLTHV6bkhaY0ozdDRHR3FIY2xrd3JiZUtyV2N6cFZGTm9BdzBWUQ?oc=5",
+      "image": null,
+      "timestamp": 1795516620,
+      "created_at": "2026-11-24 19:37",
+      "title_orig": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ",
+      "title_ja": "東京ホテイソン・ショーゴ「僕の熱量も伝わったと思う」 『デジモンアドベンチャー』の魅力を熱弁＜アニメダマ"
     },
     {
       "id": "197b2851265f0a022aab07698751d45d",
@@ -305,6 +348,21 @@
       "title_orig": "Maskmon"
     },
     {
+      "id": "790bc9716c80c0d3a413f9795e5c26a3",
+      "title": "[일본뉴스] 신작 『디지몬 알리시온』을 선행 플레이! 초보자인 주인공과 함께 배우는 카드 배틀, “진화”와 연계로 전황을 움직인다 (인사이드)",
+      "snippet": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす (インサイド) Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXV6VHhwYWdwbmoyOXZoSGRuRlZIMUFqbHVMbFJTdzhaWVFpWGg0RTFERmJuTm9GbFByYjJxenpnaUNiUXNSeDhlYkR1Z2FFMDNaRWdKalNWamp1WVJlY200czl3SzlGOE9UTGdBd0VfdExXVHdjZ3JoLUUwRTdBeGRTd0s1WjRTT3JRRmVn?oc=5",
+      "image": null,
+      "timestamp": 1795492539,
+      "created_at": "2026-11-24 12:55",
+      "title_orig": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす (インサイド)",
+      "title_ja": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす (インサイド)"
+    },
+    {
       "id": "d0991982e9dce575327c86bbba5c0abd",
       "title": "[일본뉴스] 신작 『디지몬 아리시온』 선행 플레이! 초보자 주인공과 함께 배우는 카드 배틀, \"진화\"와 연계로 전황을 움직인다",
       "snippet": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす インサイド",
@@ -318,6 +376,19 @@
       "created_at": "2026-11-24 12:30",
       "title_orig": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす",
       "title_ja": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす"
+    },
+    {
+      "id": "459e93336f723bb0e3cc5ceff3e50d58",
+      "title": "[인스타] 국내 최초 디지몬 어드벤처 전시회 얼리버드 티켓 오픈_광고 어릴 적 추억 속 디지몬이 현실로?! 세대를 넘어 사랑받아 온 디지몬의 세계를 직접 만나볼 수 있는 특별한 전시가 홍대에 찾아옵니다✨ 이번 전시는 부터 최신 시리즈까지 총 9개 시리즈의 대표 캐릭터와 이야",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRXFHQWY3dzdtNUFlelc3R24xNklMNGIzNnFfNGNSUlhqeGhpVzhZQVJoVnNiaWI5ZlJMektnRG1FWEZta3VHN2JLVHpxMm1DaHc?oc=5",
+      "image": null,
+      "timestamp": 1795489717,
+      "created_at": "2026-11-24 12:08"
     },
     {
       "id": "8a7e5a3a0c891c24d0c963420d37b3a4",
@@ -346,6 +417,19 @@
       "image": null,
       "timestamp": 1795487462,
       "created_at": "2026-11-24 11:31"
+    },
+    {
+      "id": "ae5976c2f9cb48916dc4e77de3ceeda8",
+      "title": "닷밀, 홍대서 ‘디지몬’ 전 시리즈 아우르는 전시 개최",
+      "snippet": "닷밀, 홍대서 ‘디지몬’ 전 시리즈 아우르는 전시 개최 경향게임스",
+      "source": "경향게임스",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVjZiS0RXUTh2dkZfWFkzZWFEcy1lV05mUWctQ0J3SHdjLTFrd2NmWkFudEpYZnVJbE1yYV9oWFZGSWw2ZjBaNE5lVGliaWxlMW5XblU5REtGcnFkaDd2VzVqYWR2d2I0YmxUTw?oc=5",
+      "image": null,
+      "timestamp": 1795486978,
+      "created_at": "2026-11-24 11:22"
     },
     {
       "id": "07923b1eb31a8904afccf8000db02de8",
@@ -476,20 +560,6 @@
       "title_ja": "祝30周年！デジモンとたまごっちが入れ替わっちゃった！？それぞれのキャラクターを育成できる記念セットが登場！ ～初代をオマージュしたスペシャルデザイン！～"
     },
     {
-      "id": "1ef5c2ab1d658d3d0780f37cad3eb554",
-      "title": "[해외뉴스] 반다이, 디지몬과 다마고치 30주년 기념 크로스오버 번들 공개",
-      "snippet": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi GamerBraves",
-      "source": "GamerBraves",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEdfRC1LcU9ZbzFmRERoTkRiVDhpOVdJNG9UUDNaTWRlblRaTjMwdWloQXdZb05hQzJDaUowWmZBSV92a0hwdVVXT0phRDJmRWYxRElOZk1RSXZ5TUg3QV9JOUc4aGpZTFlZUGZONlcwRmhKQmVNb0Jnem5rVk1jOVNVWVpoTGlrbHpyU2JaNnoxM3A4Y0kzNDhoOUhtWFlwSDBfWmFuR04?oc=5",
-      "image": null,
-      "timestamp": 1795445804,
-      "created_at": "2026-11-23 23:56",
-      "title_orig": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi"
-    },
-    {
       "id": "e4afa7c15014c6ac9afc03276134e08b",
       "title": "[위키몬 신규] 디지몬 다마고치 & 다마고치 디지몬 30주년 기념 세트",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (The Digimon Tamagotchi & Tamagotchi Digimon 30th Anniversary Set)입니다.",
@@ -516,6 +586,20 @@
       "timestamp": 1795438800,
       "created_at": "2026-11-23 22:00",
       "title_orig": "'This Is like When Peanut Butter Met Chocolate' - Tamagotchi and Digimon Celebrate 30 Years with a Cool Collaborative Crossover"
+    },
+    {
+      "id": "1ef5c2ab1d658d3d0780f37cad3eb554",
+      "title": "[해외뉴스] 반다이, 디지몬과 다마고치 30주년 기념 크로스오버 번들 공개",
+      "snippet": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEdfRC1LcU9ZbzFmRERoTkRiVDhpOVdJNG9UUDNaTWRlblRaTjMwdWloQXdZb05hQzJDaUowWmZBSV92a0hwdVVXT0phRDJmRWYxRElOZk1RSXZ5TUg3QV9JOUc4aGpZTFlZUGZONlcwRmhKQmVNb0Jnem5rVk1jOVNVWVpoTGlrbHpyU2JaNnoxM3A4Y0kzNDhoOUhtWFlwSDBfWmFuR04?oc=5",
+      "image": null,
+      "timestamp": 1795435870,
+      "created_at": "2026-11-23 21:11",
+      "title_orig": "Bandai Unveils 30th Anniversary Crossover Bundles for Digimon and Tamagotchi"
     },
     {
       "id": "51ac2e9cf5cfc7c0e8d5b391a81823c1",
@@ -646,6 +730,21 @@
       "created_at": "2026-11-23 12:28",
       "title_orig": "『デジモン』と『たまごっち』がそれぞれ入れ替わった記念セットが予約開始。「アグモンっち」や「マメチモン」などのたまごっちやデジモンの育成が楽しめる",
       "title_ja": "『デジモン』と『たまごっち』がそれぞれ入れ替わった記念セットが予約開始。「アグモンっち」や「マメチモン」などのたまごっちやデジモンの育成が楽しめる"
+    },
+    {
+      "id": "86990d2c05a58fc63dcab92c0c654927",
+      "title": "[트윗] ◤Who is next?◢ Coming Soon... #디지몬UP #디지몬 - X",
+      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
+      "source": "X(트위터)",
+      "source_badge": "X(트위터)",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KZzBndV9tN0lab3FFUTgzc2F4MFpWdldFRUtvenhTcjlrUWVrUk0wdFdQanJSQ3BBaWtQcFpfOGV5TGgtdnd4Um9NbklYdzNxQVFZdENZZnRna2lleXJIR0ROM2Y?oc=5",
+      "image": null,
+      "timestamp": 1795402803,
+      "created_at": "2026-11-23 12:00",
+      "title_orig": "◤Who is next?◢ Coming Soon... #デジモンUP #デジモン - X",
+      "title_ja": "◤Who is next?◢ Coming Soon... #デジモンUP #デジモン - X"
     },
     {
       "id": "a096a0a89669488e489bc21bb3faf438",
@@ -1940,6 +2039,21 @@
       "title_ja": "TVアニメ『僕らが選んだベストアドベンチャー』Episode.7のあらすじ公開！ ヴァンデモン配下のデジモンたちの非道に、ミミの怒りが頂点に達し…"
     },
     {
+      "id": "81ab9babce8296b54ded56c09dd7c39c",
+      "title": "[하비뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그란엔터스 아키하바라에서 2026년 11월 21일(토)부터 개최! 새로 그린 신규 일러스트 굿즈 등을 판매",
+      "snippet": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売 電撃ホビーウェブ",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUFZoazc5T2NpMEZ0SmQ5XzA1VS0wY0xiOVdJZ3lMTWM3aFIzbVlVM0doTVdGN0xJbDlEeXBWMGFFUTJaeTFHb2ZRek5hY1pR?oc=5",
+      "image": null,
+      "timestamp": 1794798281,
+      "created_at": "2026-11-16 12:04",
+      "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売",
+      "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売"
+    },
+    {
       "id": "5341522d3c7ba2612fa862e6f248f15f",
       "title": "[일본뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그랑엔타스 아키하바라에서 개최 결정!",
       "snippet": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！ KADOKAWAグループ ポータルサイト",
@@ -1968,21 +2082,6 @@
       "created_at": "2026-11-16 12:00",
       "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！",
       "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で開催決定！"
-    },
-    {
-      "id": "81ab9babce8296b54ded56c09dd7c39c",
-      "title": "[일본뉴스] 『디지몬 테이머즈』 25주년 & 『디지몬 세이버즈』 20주년 기념 POPUP SHOP이 그란엔터스 아키하바라에서 2026년 11월 21일(토)부터 개최! 새로 그린 신규 일러스트 굿즈 등을 판매",
-      "snippet": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUFZoazc5T2NpMEZ0SmQ5XzA1VS0wY0xiOVdJZ3lMTWM3aFIzbVlVM0doTVdGN0xJbDlEeXBWMGFFUTJaeTFHb2ZRek5hY1pR?oc=5",
-      "image": null,
-      "timestamp": 1794798000,
-      "created_at": "2026-11-16 12:00",
-      "title_orig": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売",
-      "title_ja": "『デジモンテイマーズ』25周年＆『デジモンセイバーズ』20周年記念POPUP SHOPがグランエンタス秋葉原で2026年11月21日（土）より開催！新規描き下ろしイラストグッズなどを販売"
     },
     {
       "id": "b95da73eb7dfd468af6605cc1ac19739",
@@ -5976,6 +6075,19 @@
       "title_ja": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道"
     },
     {
+      "id": "e451a6380f67e3545fcc120baeb557da",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93c1psOFZvOFdlRlI4YWJ1R2hRZFlrYWpyVUI5MXVlQ1p1d2x2VUNrUjBiTy1JbjVNcU9kazJXcF9VQkdJa0Z2d0U4a3Z2ZmJXTWpPZVBVY3d5cUV0NEV5MTdfVTRxS3FYMlByQXI1RTcwVW1MelZF?oc=5",
+      "image": null,
+      "timestamp": 1793087400,
+      "created_at": "2026-10-27 16:50"
+    },
+    {
       "id": "738cafe9d3e6c986953d9272bda6d11b",
       "title": "[애니뉴스] 디지몬 비트브레이크 에피소드 38-49 애니메이션 시리즈 리뷰",
       "snippet": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review Anime News Network",
@@ -9956,8 +10068,8 @@
     },
     {
       "id": "9a368b9ba1bd6ed4ddd576898731a288",
-      "title": "[디지카] 내 건담 덱",
-      "snippet": "My Gundam Decks Egman Deck Builder",
+      "title": "[디지카] 내 건담 덱 | Egman Deck Builder",
+      "snippet": "My Gundam Decks | Egman Deck Builder Egman Deck Builder",
       "source": "Egman Events",
       "source_badge": "디지카",
       "category": "card",
@@ -9966,7 +10078,7 @@
       "image": null,
       "timestamp": 1790373206,
       "created_at": "2026-09-26 06:53",
-      "title_orig": "My Gundam Decks"
+      "title_orig": "My Gundam Decks | Egman Deck Builder"
     },
     {
       "id": "5f9a600de67406bab373a5fc50677907",
@@ -10445,8 +10557,8 @@
       "category_name": "SNS/해외",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Eb0RRd2ZCNVNIQllWYkZJM3h4UDhGTDhmVHl6YkpWRlRUUFIzeDM0SW0wLTlaUjZELTNDOS1RM211VmU3RzlXQ0hzQmJnT2w0ZGc?oc=5",
       "image": null,
-      "timestamp": 1789110000,
-      "created_at": "2026-09-11 16:00",
+      "timestamp": 1789196400,
+      "created_at": "2026-09-12 16:00",
       "title_orig": "Digimon Adventure just dropped one of the coolest theater exclusives I’ve seen 🥚✨ Megabox in South Korea is releasing Digi-Egg shaped popcorn buckets for the Sept 16 double feature of Mamoru Hosoda’s classic Digimon films — 8 designs total, each with"
     },
     {
