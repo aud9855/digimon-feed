@@ -1,49 +1,49 @@
 {
-  "last_updated": "2026-11-25 06:43:51",
-  "total_count": 797,
+  "last_updated": "2026-11-25 13:42:08",
+  "total_count": 800,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.2
     },
     {
       "name": "Google News (EN)",
-      "count": 28,
+      "count": 29,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.4
     },
     {
       "name": "Google News (JA)",
       "count": 33,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.2
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 7.7
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 0.9,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 0.9,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
-      "count": 11,
+      "count": 12,
       "errors": 0,
       "seconds": 0.7
     },
@@ -64,19 +64,19 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.4
     },
     {
       "name": "Instagram",
-      "count": 72,
+      "count": 79,
       "errors": 0,
-      "seconds": 1.9
+      "seconds": 2.3
     },
     {
       "name": "하비 매체",
@@ -88,19 +88,19 @@
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.8
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.4
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.1
+      "seconds": 2.5
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -112,28 +112,43 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 24,
+      "count": 25,
       "errors": 0,
-      "seconds": 2.3
+      "seconds": 6.6
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.4
     }
   ],
   "feeds": [
+    {
+      "id": "824f85f3c2bf0ec478123bd328bc6009",
+      "title": "[일본뉴스] 『디지몬』과 다마고치가 세계관을 교환한 30주년 기념 스페셜 세트가 등장",
+      "snippet": "『デジモン』とたまごっちが世界観を交換した30周年記念スペシャルセットが登場 Hypebeast",
+      "source": "Hypebeast",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFNwdnI2RTRiQTNVRTJmVW1QUGdsazZvTlVzYmp0SWFIc3pBZFpsQnJSZnlkTm1oVGFUOHc3VDk3X3VFUkJsUXhSU3RaOHhicURhaVk1RG94b2ctTWM4WWN3NUFTV2JMd3RqNndmTXB1Vi1tVi04Nlk5Ykg4WXVMWnVkb0lTOFBSVXJZNnpsYWl4RzZ3ZVUyMWhiV0pxb2duZ1lsRDVQd0FoZTVhZzlrRVhJc25zY0U?oc=5",
+      "image": null,
+      "timestamp": 1795565956,
+      "created_at": "2026-11-25 09:19",
+      "title_orig": "『デジモン』とたまごっちが世界観を交換した30周年記念スペシャルセットが登場",
+      "title_ja": "『デジモン』とたまごっちが世界観を交換した30周年記念スペシャルセットが登場"
+    },
     {
       "id": "1a53f705088c2e9ac23e17eef14d4829",
       "title": "[해외뉴스] 다마고치와 디지몬의 기념 크로스오버는 작은 하우징 스왑이다",
@@ -2181,20 +2196,6 @@
       "title_orig": "Digimon Alysion Times (November 15th, 2026)"
     },
     {
-      "id": "6fbdfbac25bac995a8d8df9594219493",
-      "title": "[해외뉴스] 『디지몬 알리시온』 카드 팩 상세 정보 및 핵심 게임플레이 공개",
-      "snippet": "Digimon Alysion Reveals Card Pack Details & Core Gameplay Bleeding Cool News",
-      "source": "Bleeding Cool News",
-      "source_badge": "해외뉴스",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXRpNXQtUzVaZnBQYlFBY0lhTDhVV2ZLNVB2Nk54em0zeWt5RVB2X2hKcDF1V2tPdHpVZS1vTWVMa2RGcnRHNE1udUM1bUdSVjBRSkYxWEdoWHpQOXJvT3JJRGE0b2NBOWY2YTY1N3lBaWdBVy12bG5ZNFdibl9EaU85OU1kY0NWUzduTmJmMVE?oc=5",
-      "image": null,
-      "timestamp": 1794757389,
-      "created_at": "2026-11-16 00:43",
-      "title_orig": "Digimon Alysion Reveals Card Pack Details & Core Gameplay"
-    },
-    {
       "id": "f8ead4f343303abc9a7191323e9c9e17",
       "title": "[루리웹] [디지몬 시리즈] 디지몬 콘서트 개최 결정",
       "snippet": "루리웹 애니정보 디지몬 최신 소식입니다.",
@@ -2337,6 +2338,20 @@
       "created_at": "2026-11-15 20:00",
       "title_orig": "うおぉー！タンクモンかっけー！【デジモンストーリータイムストレンジャー】#13",
       "title_ja": "うおぉー！タンクモンかっけー！【デジモンストーリータイムストレンジャー】#13"
+    },
+    {
+      "id": "6fbdfbac25bac995a8d8df9594219493",
+      "title": "[해외뉴스] 『디지몬 알리시온』 카드 팩 상세 정보 및 핵심 게임플레이 공개",
+      "snippet": "Digimon Alysion Reveals Card Pack Details & Core Gameplay Bleeding Cool News",
+      "source": "Bleeding Cool News",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXRpNXQtUzVaZnBQYlFBY0lhTDhVV2ZLNVB2Nk54em0zeWt5RVB2X2hKcDF1V2tPdHpVZS1vTWVMa2RGcnRHNE1udUM1bUdSVjBRSkYxWEdoWHpQOXJvT3JJRGE0b2NBOWY2YTY1N3lBaWdBVy12bG5ZNFdibl9EaU85OU1kY0NWUzduTmJmMVE?oc=5",
+      "image": null,
+      "timestamp": 1794729600,
+      "created_at": "2026-11-15 17:00",
+      "title_orig": "Digimon Alysion Reveals Card Pack Details & Core Gameplay"
     },
     {
       "id": "8c3d52479261e7433e9fe1e6115386e7",
@@ -4247,6 +4262,19 @@
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKd1NxMXRRM0Y5blFxVm95cHk1N0NkT2hPZ2VVZ203Qk5ad21sZS05X21Ea0RXM2VNZ29OcE16LVpuZE5samhZZzNvWWN4Nk5qYnc?oc=5",
+      "image": null,
+      "timestamp": 1793865600,
+      "created_at": "2026-11-05 17:00"
+    },
+    {
+      "id": "b8ab76a176a046753bbb31660e91ab5c",
+      "title": "[인스타] 📢[예약시작] 디지몬 어드벤처 룩업 피요몬 & 쉬라몬(재판)🐣 🛒 : 구매는 프로필 링크를 참고해 주세요! 📍발매: 27년 6월 📍룩업 특전 미포함 세트 📍예약판매 기간 내 5% 할인 캠페인 중! #메가하우스공식스토어 #메가하우스 #디지몬 #デジモン",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1idEJpTHpQZ1Z1bjE1bUpSUFhZa0FmSlFkS1g0ZnZrM3dMckV1TzdTVXA0b1QybjRONVV4RHNWRE5sVXFIRTVYcTFSSFRMT1Y0enc?oc=5",
       "image": null,
       "timestamp": 1793865600,
       "created_at": "2026-11-05 17:00"
@@ -10451,6 +10479,19 @@
       "created_at": "2026-09-14 16:00"
     },
     {
+      "id": "6dd3266401c2ffb464df6f86668c3709",
+      "title": "[인스타] 갑자기 또 새로운 이벤트가 나타났네요?? 그래도 이건 선착순은 이니니깐..😂 제가 마침 Led 무드등을 갖고 있는데 진짜 이쁩니다 ㅠ ;현지에서 6천엔 정도에 산듯) 다들 응모해보세요! #디지몬 #메가박스 #digimon #earlybirdpic #영화",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83XzNRYk9JcmF4TDlRZXk0QnQ0LWVUNHBTcFc2UDlSeVRhZUtGQm8wSXYtYUxndjgtUkpxa1NNRmllNlF0WlhUczQtZ3ZCOTU4bFE?oc=5",
+      "image": null,
+      "timestamp": 1789369200,
+      "created_at": "2026-09-14 16:00"
+    },
+    {
       "id": "1b1afd72601506186bacacd27fb43d97",
       "title": "[반남코몰] 디지몬 펜들럼 COLOR 고질라 에디션 오메가몬 : “G” ...",
       "snippet": "루리웹 피규어/프라모델/굿즈 정보 게시판 소식입니다.",
@@ -10628,6 +10669,19 @@
       "created_at": "2026-09-10 16:00"
     },
     {
+      "id": "9e177706912413972ba2d3fccb41918a",
+      "title": "[인스타] 사전 예약 서두르세요! 메가박스(@megaboxon)가 디지몬 팝콘통을 출시합니다🍿 영화 개봉을 맞아 선보이는 굿즈인데요. 아구몬부터 파피몬, 피요몬, 텐타몬 등 총 8종의 팝콘통과 키링이 랜덤으로 들어있어요. 디지몬 세대 에디터는 벌써부터 추억 돋고 반가운데요. 과",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zaHBoN1Vxa2pWN0ZtclN5NFZaNmVzU0pzRDBhd1NIZ2dUTGI2Q0dDVGdJVWhaYndNd1c0YVdBeVExTzFGRmxnX1ZkWjk1bGtXNFE?oc=5",
+      "image": null,
+      "timestamp": 1789023600,
+      "created_at": "2026-09-10 16:00"
+    },
+    {
       "id": "00c559d339a7962a0ca8bce22f335ac4",
       "title": "[루리웹] 디지몬 게임 공식 어카운트. 게시물 기재 오류 사과",
       "snippet": "루리웹 콘솔뉴스 디지몬 최신 소식입니다.",
@@ -10662,19 +10716,6 @@
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGbC0xY1Y0djZ0dGxmMkxhTjk0cWZjYm9PdkZJWVdFVXBrSjQ0c2NUamFNYnFGWVZHZW96ZWdQZWtiWUdBaWNqYlZ5d3BzZDRhaDl0VjJ3OTVZTXg1eTVPRVppN0wxaHVtWDJhMnJsYw?oc=5",
-      "image": null,
-      "timestamp": 1788937200,
-      "created_at": "2026-09-09 16:00"
-    },
-    {
-      "id": "9e177706912413972ba2d3fccb41918a",
-      "title": "[인스타] 사전 예약 서두르세요! 메가박스(@megaboxon)가 디지몬 팝콘통을 출시합니다🍿 영화 개봉을 맞아 선보이는 굿즈인데요. 아구몬부터 파피몬, 피요몬, 텐타몬 등 총 8종의 팝콘통과 키링이 랜덤으로 들어있어요. 디지몬 세대 에디터는 벌써부터 추억 돋고 반가운데요. 과",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zaHBoN1Vxa2pWN0ZtclN5NFZaNmVzU0pzRDBhd1NIZ2dUTGI2Q0dDVGdJVWhaYndNd1c0YVdBeVExTzFGRmxnX1ZkWjk1bGtXNFE?oc=5",
       "image": null,
       "timestamp": 1788937200,
       "created_at": "2026-09-09 16:00"
