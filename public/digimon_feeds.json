@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-11-25 13:42:08",
-  "total_count": 800,
+  "last_updated": "2026-11-26 00:09:41",
+  "total_count": 813,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.6
     },
     {
       "name": "Google News (EN)",
-      "count": 29,
+      "count": 31,
       "errors": 0,
       "seconds": 1.4
     },
     {
       "name": "Google News (JA)",
-      "count": 33,
+      "count": 34,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.5
     },
     {
       "name": "루리웹 모형정보",
-      "count": 31,
+      "count": 32,
       "errors": 0,
-      "seconds": 7.7
+      "seconds": 3.0
     },
     {
       "name": "디시 디지몬",
@@ -43,28 +43,28 @@
     },
     {
       "name": "TCG 포털",
-      "count": 12,
+      "count": 11,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 1.0
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.1,
+      "seconds": 0.2,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.3
     },
     {
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.6
     },
     {
       "name": "X(트위터)",
@@ -74,15 +74,15 @@
     },
     {
       "name": "Instagram",
-      "count": 79,
+      "count": 75,
       "errors": 0,
-      "seconds": 2.3
+      "seconds": 2.2
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.5
     },
     {
       "name": "해외 애니 뉴스",
@@ -94,7 +94,7 @@
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.3
     },
     {
       "name": "공식 상품 (digimon.net)",
@@ -106,19 +106,19 @@
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.0
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.4
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 26,
       "errors": 0,
-      "seconds": 6.6
+      "seconds": 1.5
     },
     {
       "name": "아카라이브",
@@ -130,14 +130,175 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.3
     }
   ],
   "feeds": [
     {
+      "id": "9939b358c79f2490aae3044236d29619",
+      "title": "[해외뉴스] 디지몬 공식 신작 무료 게임 출시, 지금 플레이 가능",
+      "snippet": "Digimon Officially Drops Brand-New Free Game Available Now Comic Book Resources",
+      "source": "Comic Book Resources",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16S2RxdjNLeFpZQ3N6N0t6eTFrYmJ6MEJRT05hQUdvOXh1ZFhKbXZaWEJ6bURJMWcwY3JZTXF6R3ZCTWVqVEd1NzNIUE5PWjNvM19sYmJiREJkS0hLUnRLVzYyd2NDVWVBRjFJSld6TQ?oc=5",
+      "image": null,
+      "timestamp": 1795618858,
+      "created_at": "2026-11-26 00:00",
+      "title_orig": "Digimon Officially Drops Brand-New Free Game Available Now"
+    },
+    {
+      "id": "26214541d1a052f28ac1946557aa9291",
+      "title": "[해외뉴스] DIGIMON ALYSION 전 세계 183개 국가 및 지역에서 공식 출시!",
+      "snippet": "DIGIMON ALYSION Officially Launches in 183 Countries and Regions Worldwide! PR Newswire",
+      "source": "PR Newswire",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNzBNbVRTa3VCbUFuSGhGQnRTTG83YTNfRGNsX19UV0NVNkRZY25adm56enVmcmsyYlZvV0tXNnY1a3lSTm5LTnhtUFVCaHV2T1FEeVlIaEI0R3R0YVgzV3BkYTZiRlE0UkF0QVgzZWJLT0U3UU5Kb2w3NTduUlhZemxwRXd3V1pWMDY0RDZQUzE0TDdrT2syVVluRjlXcmtHOWE3MnE1cDhoREhDTUJDdXFzbFJuMkxoaThuVnF6amsxcERkV3dCeVJn?oc=5",
+      "image": null,
+      "timestamp": 1795616640,
+      "created_at": "2026-11-25 23:24",
+      "title_orig": "DIGIMON ALYSION Officially Launches in 183 Countries and Regions Worldwide!"
+    },
+    {
+      "id": "6da1957c6cd084bf04ed6da5d8cc2844",
+      "title": "[해외뉴스] 디지몬 알리시온 지금 서비스 개시",
+      "snippet": "Digimon Alysion now available Gematsu",
+      "source": "Gematsu",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmZm5wMXZiX21oN3JpaEItam1HRllyc3RBdGFlVFpOR19qNjE0Q29ZazlzdkN2a0oxWnB6V3M1a0M5b00tX3ZkNlU5b1dLSmY4NHg2R19ZZTJOSnFIS3NCb28tQ2tCRjZrZUJfUHF3?oc=5",
+      "image": null,
+      "timestamp": 1795615242,
+      "created_at": "2026-11-25 23:00",
+      "title_orig": "Digimon Alysion now available"
+    },
+    {
+      "id": "7fcf46787b510b2ba32eb46c1953f62f",
+      "title": "[해외뉴스] DIGIMON ALYSION 시스템 요구 사항 공개",
+      "snippet": "DIGIMON ALYSION System Requirements Revealed GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90cmdvcGN5X0VoYWhNbXFERmdDYVJwVzBWOEZGRFRGbDlmQXVaZE9uSzBHT3hYZ014N184WnZscHZ1MlRwYmY4S0Q5ZmpCY2JWeGloMXlVMG9qZzlZRUx2bzl6d3NpUXgySWMyMjQ0WURpdDltZXBrT2VGeFNoQQ?oc=5",
+      "image": null,
+      "timestamp": 1795611846,
+      "created_at": "2026-11-25 22:04",
+      "title_orig": "DIGIMON ALYSION System Requirements Revealed"
+    },
+    {
+      "id": "4219de34d54bdfeda1c4ab0179e0f576",
+      "title": "[일본뉴스] 『디지몬 아리시온』 오늘(11/25)부터 정식 출시. 『디지몬 카드 게임』을 스마트폰으로 손쉽게 즐길 수 있는 신작 온라인 카드 게임",
+      "snippet": "『デジモンアリシオン』本日（11/25）より正式リリース。『デジモンカードゲーム』をスマホで手軽に楽しめる新作オンラインカードゲーム ファミ通",
+      "source": "ファミ通",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oQ3BSV1lybHdjUmxzV0t4VGU4YlpkbjUweXhHZzEwamJDYWhUNkgwWmQzMHlJWF9uaFkwT3M1VVRDYU9jT19yM0NMTkM4eFZVYUZTczdmcw?oc=5",
+      "image": null,
+      "timestamp": 1795607640,
+      "created_at": "2026-11-25 20:54",
+      "title_orig": "『デジモンアリシオン』本日（11/25）より正式リリース。『デジモンカードゲーム』をスマホで手軽に楽しめる新作オンラインカードゲーム",
+      "title_ja": "『デジモンアリシオン』本日（11/25）より正式リリース。『デジモンカードゲーム』をスマホで手軽に楽しめる新作オンラインカードゲーム"
+    },
+    {
+      "id": "292bae23fbaae76d0d605cfead0549b0",
+      "title": "[일본뉴스] 온라인 카드 게임 『디지몬 아리시온』, 스마트폰용으로 서비스 개시. 사전 등록 특전으로 희귀 카드를 받을 수 있다",
+      "snippet": "オンラインカードゲーム「デジモンアリシオン」，スマートフォン向けに配信開始。事前登録の特典で希少なカードを受け取れる 4Gamer.net",
+      "source": "4Gamer.net",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3J0dm1fc3RCeUp2Vk1WNlpsa201ejZLY3BOQzBabXlzcm9VaVE0eFFvbmdxM3JLTHhXVm8tMldPM0VtUExxZnZQQ2I1RnlqZ3ktQ0hYaHM0cS1QbS15dDBwbHl1NTRGVzhRaGVNZmxkaWFoVDZFc1NMUFZiLUtyanliajVhdjA?oc=5",
+      "image": null,
+      "timestamp": 1795605660,
+      "created_at": "2026-11-25 20:21",
+      "title_orig": "オンラインカードゲーム「デジモンアリシオン」，スマートフォン向けに配信開始。事前登録の特典で希少なカードを受け取れる",
+      "title_ja": "オンラインカードゲーム「デジモンアリシオン」，スマートフォン向けに配信開始。事前登録の特典で希少なカードを受け取れる"
+    },
+    {
+      "id": "6a89404249e8aff557e571196ca4cfaa",
+      "title": "[일본뉴스] 온라인 카드 게임 『디지몬 아리시온』이 정식 출시! 배틀 이벤트 『배틀 카니발 Ver.듀크몬』도 11월 26일부터 개최",
+      "snippet": "オンラインカードゲーム「デジモンアリシオン」が正式リリース！バトルイベント「バトルカーニバル Ver.デュークモン」も11月26日より開催 au Webポータル",
+      "source": "au Webポータル",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02VDRlZUR3dmtxRU5FUnlOdnZLdUpkLW1KU2pnLWRwZ0VZRng3azh0d0tlcmlYVjI4TVI2RWpYM1lEWjRfQWRoSm1tbGN0UVZCRV9ZSWFtNEJLd3BJVEhOLS0yclZQc0t1Uk12em1R?oc=5",
+      "image": null,
+      "timestamp": 1795605098,
+      "created_at": "2026-11-25 20:11",
+      "title_orig": "オンラインカードゲーム「デジモンアリシオン」が正式リリース！バトルイベント「バトルカーニバル Ver.デュークモン」も11月26日より開催",
+      "title_ja": "オンラインカードゲーム「デジモンアリシオン」が正式リリース！バトルイベント「バトルカーニバル Ver.デュークモン」も11月26日より開催"
+    },
+    {
+      "id": "f58686c5cea41eb1064eb3a926f6500d",
+      "title": "[일본뉴스] 『디지몬 카드 게임』을 스마트폰으로 즐길 수 있는 앱 『디지몬 아리시온』이 오늘 11월 25일부터 갑자기 정식 출시!",
+      "snippet": "『デジモンカードゲーム』をスマホで楽しめるアプリ『デジモンアリシオン』が本日11月25日よりいきなり正式リリース！ 電ファミニコゲーマー",
+      "source": "電ファミニコゲーマー",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0RVdacDlaSEsxNHowcGZPWGFhZXl6dk14MV9TMHRrWW1CXzRDUWtTNzUteThwNmNiOTZmX0hwYXJLeWZWdGI0YndmY0ZnSEZQb0RmbFVjbXNUZw?oc=5",
+      "image": null,
+      "timestamp": 1795604400,
+      "created_at": "2026-11-25 20:00",
+      "title_orig": "『デジモンカードゲーム』をスマホで楽しめるアプリ『デジモンアリシオン』が本日11月25日よりいきなり正式リリース！",
+      "title_ja": "『デジモンカードゲーム』をスマホで楽しめるアプリ『デジモンアリシオン』が本日11月25日よりいきなり正式リリース！"
+    },
+    {
+      "id": "7ebcd946c7c194ed897bdfeb4a7fb6aa",
+      "title": "[일본뉴스] 『디지몬 아리시온』 서비스 개시! 전 세계 183개 지역에서 정식 출시",
+      "snippet": "『デジモンアリシオン』配信開始！ 全世界183地域で正式リリース 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObUlOYkZ2MGM2T09LQUloRGhmU081SHM2bTVxX2F2NDR5cFFHcEUyaUpsMzZIc3V5UEY4cm5JVnRTMjA2Qnl1TlNBSXJvZFFYcUY2ZlItYVFDUQ?oc=5",
+      "image": null,
+      "timestamp": 1795604400,
+      "created_at": "2026-11-25 20:00",
+      "title_orig": "『デジモンアリシオン』配信開始！ 全世界183地域で正式リリース",
+      "title_ja": "『デジモンアリシオン』配信開始！ 全世界183地域で正式リリース"
+    },
+    {
+      "id": "fca03d20ddb7d61295e62787783bbc86",
+      "title": "[일본뉴스] 온라인 카드 게임 『디지몬 아리시온』이 정식 출시! 배틀 이벤트 『배틀 카니발 Ver.듀크몬』도 11월 26일부터 개최",
+      "snippet": "オンラインカードゲーム「デジモンアリシオン」が正式リリース！バトルイベント「バトルカーニバル Ver.デュークモン」も11月26日より開催 Gamer",
+      "source": "Gamer",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PeUxySkdOQ2Q5b3ZWQTFtYl9JSUlaa2FYTkpiY0xjWFMtU2g5OUdqMDRJdnF3LUktSDI1LTYwQ3hiNGVSelY0NVFCdXhpM2tFOUlVMA?oc=5",
+      "image": null,
+      "timestamp": 1795604400,
+      "created_at": "2026-11-25 20:00",
+      "title_orig": "オンラインカードゲーム「デジモンアリシオン」が正式リリース！バトルイベント「バトルカーニバル Ver.デュークモン」も11月26日より開催",
+      "title_ja": "オンラインカードゲーム「デジモンアリシオン」が正式リリース！バトルイベント「バトルカーニバル Ver.デュークモン」も11月26日より開催"
+    },
+    {
+      "id": "0c619f8d21ebdbc0134c912135fa893a",
+      "title": "[일본뉴스] 【디지몬 UP】 타치카와 미미(미나)&팔몬은 뽑아야 할까?",
+      "snippet": "【デジモンUP】太刀川ミミ＆パルモンは引くべき？ GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKQU11cVR5VmE2aXhsRHN5dGlrOGVZcVh6YlJKdUNwWHBJYTU0VGY4aTA0WEVnaW5DRERDYUZqV3NELXdKdExhbU51QmY?oc=5",
+      "image": null,
+      "timestamp": 1795593968,
+      "created_at": "2026-11-25 17:06",
+      "title_orig": "【デジモンUP】太刀川ミミ＆パルモンは引くべき？",
+      "title_ja": "【デジモンUP】太刀川ミミ＆パルモンは引くべき？"
+    },
+    {
       "id": "824f85f3c2bf0ec478123bd328bc6009",
-      "title": "[일본뉴스] 『디지몬』과 다마고치가 세계관을 교환한 30주년 기념 스페셜 세트가 등장",
-      "snippet": "『デジモン』とたまごっちが世界観を交換した30周年記念スペシャルセットが登場 Hypebeast",
+      "title": "[일본뉴스] 『디지몬』과 다마고치의 세계관을 융합한 30주년 기념 스페셜 세트 등장",
+      "snippet": "『デジモン』とたまごっちから世界観を融合した30周年記念スペシャルセットが登場 Hypebeast",
       "source": "Hypebeast",
       "source_badge": "일본뉴스",
       "category": "general",
@@ -146,8 +307,8 @@
       "image": null,
       "timestamp": 1795565956,
       "created_at": "2026-11-25 09:19",
-      "title_orig": "『デジモン』とたまごっちが世界観を交換した30周年記念スペシャルセットが登場",
-      "title_ja": "『デジモン』とたまごっちが世界観を交換した30周年記念スペシャルセットが登場"
+      "title_orig": "『デジモン』とたまごっちから世界観を融合した30周年記念スペシャルセットが登場",
+      "title_ja": "『デジモン』とたまごっちから世界観を融合した30周年記念スペシャルセットが登場"
     },
     {
       "id": "1a53f705088c2e9ac23e17eef14d4829",
@@ -176,6 +337,49 @@
       "timestamp": 1795534963,
       "created_at": "2026-11-25 00:42",
       "title_orig": "Digimon Become Tamagotchi & Tamagotchi Become Digimon!"
+    },
+    {
+      "id": "6728ec53c22e943a020605c012795451",
+      "title": "포켓몬 디지몬 차이",
+      "snippet": "포켓몬 디지몬 차이 게임메카",
+      "source": "게임메카",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVtd09wUkNNdkdXWVhjbUdZS1BjSUtfZXg1VXVQYld2azZidmVSd1JRQU9NNDlPSjVXVXd4V2Jqc1NCYUtiQ01TbGtZQzNYc0hiV2w2bnp4Vm5FMEZ5UGp2bTJXc0VfS0JuWnVSek94R19kYkNKY1kwWTJjS0pjdmptbndPMVhFMVkzZ1hkRmx2X2FGSTEw?oc=5",
+      "image": null,
+      "timestamp": 1795532625,
+      "created_at": "2026-11-25 00:03"
+    },
+    {
+      "id": "931a897c3c3713861f072871d55941b8",
+      "title": "[공식] 신작 온라인 카드 게임 앱 『DIGIMON ALYSION(디지몬 아리시온)』 정식 서비스 개시!",
+      "snippet": "디지몬 공식 사이트 ニュース",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://digimon.net/topic/detail.php?id=2119",
+      "image": null,
+      "timestamp": 1795532400,
+      "created_at": "2026-11-25 00:00",
+      "title_orig": "新作オンラインカードゲームアプリ『DIGIMON ALYSION（デジモンアリシオン）』正式サービス開始！",
+      "title_ja": "新作オンラインカードゲームアプリ『DIGIMON ALYSION（デジモンアリシオン）』正式サービス開始！"
+    },
+    {
+      "id": "8870941b95aef136a0ab8211350cb2ff",
+      "title": "[공식] 제161회 디지민 투표 스타트",
+      "snippet": "디지몬 공식 사이트 ニュース",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://digimon.net/topic/detail.php?id=2114",
+      "image": null,
+      "timestamp": 1795532400,
+      "created_at": "2026-11-25 00:00",
+      "title_orig": "第161回デジ民投票スタート",
+      "title_ja": "第161回デジ民投票スタート"
     },
     {
       "id": "d6eee7776a36f7b9a750fdb7c5e5903d",
@@ -4741,6 +4945,19 @@
       "title_ja": "ゴジラ×デジモン「東宝大怪獣シリーズ オメガモン：“G”融合モード」原型初展示！“G”融合を遂げたオリジナル形態をソフビ化"
     },
     {
+      "id": "4fe51d9db922c0e6464d21dac0bd93d3",
+      "title": "[인스타] 종류는 무려 24종👀 메가박스(@megaboxon)가 디지몬 금박 트레이닝 티켓을 출시합니다🌟 8명의 선택받은 아이들과 파트너 디지몬들까지 총 24종으로 구성됐는데요. 풀패키지로 구매도 가능하고, 랜덤으로 하나만 구매도 가능합니다. 반짝반짝 금박 트레이딩이라니",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SczBMQjgxb3MyZWRKUDB2VUE5ZkFYUllpNm1ZMlpDSGdwczRGc2F2UVBCeThTekV0cnVqVVdEbVR1UDdkalNySHh5TmxIdTQ5SXc?oc=5",
+      "image": null,
+      "timestamp": 1793692800,
+      "created_at": "2026-11-03 17:00"
+    },
+    {
       "id": "8ff4f7b9351ed7744610a0a5a16a8c35",
       "title": "[인스타] 메가박스에 디지몬 금박 트레이딩 티켓이 출시됩니다.✨ 선택받은 8명의 아이들과 파트너 디지몬이 모두 모인 특별한 굿즈인데요. 총 24종의 트레이딩 티켓을 한 번에 소장할 수 있는 풀패키지부터 랜덤 단품까지 만나볼 수 있으니 꼭 놓치지마세요! 사전 판매는 11월 4",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -6103,19 +6320,6 @@
       "title_ja": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道"
     },
     {
-      "id": "e451a6380f67e3545fcc120baeb557da",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93c1psOFZvOFdlRlI4YWJ1R2hRZFlrYWpyVUI5MXVlQ1p1d2x2VUNrUjBiTy1JbjVNcU9kazJXcF9VQkdJa0Z2d0U4a3Z2ZmJXTWpPZVBVY3d5cUV0NEV5MTdfVTRxS3FYMlByQXI1RTcwVW1MelZF?oc=5",
-      "image": null,
-      "timestamp": 1793087400,
-      "created_at": "2026-10-27 16:50"
-    },
-    {
       "id": "738cafe9d3e6c986953d9272bda6d11b",
       "title": "[애니뉴스] 디지몬 비트브레이크 에피소드 38-49 애니메이션 시리즈 리뷰",
       "snippet": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review Anime News Network",
@@ -6609,6 +6813,19 @@
       "created_at": "2026-10-23 18:00",
       "title_orig": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！｜Infoseekニュース",
       "title_ja": "10月25日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第6位にランクインした第20話【完全体進化！メタルグレイモン】を放送！｜Infoseekニュース"
+    },
+    {
+      "id": "02af07cb25d66eb396927e9873d45cff",
+      "title": "[인스타] ★최신 카드 소개★ 11월 20일 발매 예정인 『TIME STRANGER』의 최신 카드를 소개합니다. 오늘 공개할 카드는 「뿔몬」입니다. https://digimoncard.co.kr/ #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLW1kXzR1eTBhY1JRbEgxNzZZVUx3MTNiTlNaalpMWVRzbGdmZkk5VEZQdklZdUhXX1ZIaUhkeDlra09GaUk2ZUtzeE02d21CeHc?oc=5",
+      "image": null,
+      "timestamp": 1792738800,
+      "created_at": "2026-10-23 16:00"
     },
     {
       "id": "75db87134c0f150e0ea911dd8e21bde5",
@@ -11278,32 +11495,6 @@
       "image": null,
       "timestamp": 1787900400,
       "created_at": "2026-08-28 16:00"
-    },
-    {
-      "id": "32902d0b51adc27fbed46f1a695a0718",
-      "title": "[인스타] 꼬마몬 1:1 크기 인형🩵💙 🥹 . . . #디지몬 #digimon #デジモン #디지몬굿즈 #otaku",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRVE1VHd3WDNmQlVNVlJwaTlYNlI5UW1aYlBxUE45bk51MElaQzNmT1JFa3RFTFAwZWY2ZmlubjU3VnJDNzhJNGQ1bnRyb1BnNkE?oc=5",
-      "image": null,
-      "timestamp": 1787814000,
-      "created_at": "2026-08-27 16:00"
-    },
-    {
-      "id": "8504c77033ee4a92e4729c4be2e442cb",
-      "title": "[인스타] 디지몬어드벤처의 코로몬과 깜몬 키링을 제작했어요! 미니미한 사이즈로 직접 제작한 픽셀아트입니다 :) 의뢰 감사합니다! 💗 #펄러비즈 #펄러비즈공예 #픽셀아트 #디지몬 #선물추천",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaDVESTQ0ZWdza01nZW9IeXNaNm5POHkzeVlma285dXI3VHBRaGVad2dtbGNQdl9sdlBBaGM3eVhUOG1PTGFNNk5HdVlmc3ZmWXc?oc=5",
-      "image": null,
-      "timestamp": 1787814000,
-      "created_at": "2026-08-27 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
