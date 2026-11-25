@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-11-26 00:09:41",
-  "total_count": 813,
+  "last_updated": "2026-11-26 08:59:03",
+  "total_count": 818,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.5
     },
     {
       "name": "Google News (EN)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.5
     },
     {
       "name": "Google News (JA)",
-      "count": 34,
+      "count": 33,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.3
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 3.0
+      "seconds": 5.2
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.0,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 1.0,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 11,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "WithTheWill",
@@ -64,7 +64,7 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
@@ -74,33 +74,33 @@
     },
     {
       "name": "Instagram",
-      "count": 75,
+      "count": 82,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 2.4
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.7
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.9
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.5
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.5
+      "seconds": 2.4
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
@@ -112,13 +112,13 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 0.9
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 26,
+      "count": 25,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 4.8
     },
     {
       "name": "아카라이브",
@@ -130,7 +130,7 @@
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     }
   ],
   "feeds": [
@@ -144,9 +144,51 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16S2RxdjNLeFpZQ3N6N0t6eTFrYmJ6MEJRT05hQUdvOXh1ZFhKbXZaWEJ6bURJMWcwY3JZTXF6R3ZCTWVqVEd1NzNIUE5PWjNvM19sYmJiREJkS0hLUnRLVzYyd2NDVWVBRjFJSld6TQ?oc=5",
       "image": null,
-      "timestamp": 1795618858,
-      "created_at": "2026-11-26 00:00",
+      "timestamp": 1795636212,
+      "created_at": "2026-11-26 04:50",
       "title_orig": "Digimon Officially Drops Brand-New Free Game Available Now"
+    },
+    {
+      "id": "300a1697673b18ef33018294aa3fe05a",
+      "title": "[해외뉴스] 디지몬 알리시온 카드 게임, 모바일 기기로 첫 출시",
+      "snippet": "Digimon Alysion Card Game Debuts on Mobile Devices Siliconera",
+      "source": "Siliconera",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjFNZWdMVkIzeXNPWlJZMG5xWDlObmJpQmFOTy16QUdqMDJUbFBnUkYzX2Flcy1yZjdnUklRcmoydjdvSm81eFpDeDhMeDlDYnhjXzJfTGZUWWFQYU9lX01IXzl3S3k1X3ZncnNZNmlMbjNHY3lMaHVEbUpuUHhXdHdyY2E?oc=5",
+      "image": null,
+      "timestamp": 1795633200,
+      "created_at": "2026-11-26 04:00",
+      "title_orig": "Digimon Alysion Card Game Debuts on Mobile Devices"
+    },
+    {
+      "id": "c63ec1a5d023c7884da21391ee1428b8",
+      "title": "[해외뉴스] 디지몬 알리시온 모바일 TCG, 전 세계 출시",
+      "snippet": "Digimon Alysion Mobile TCG Is Now Available Worldwide OpenCritic",
+      "source": "OpenCritic",
+      "source_badge": "해외뉴스",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVmJRSkpLaGpSU2Qyam91VmRxOXBveTNwUGN4cUhOMW5iY0lQX3dWZUZYc2hfajR4bkRsSXExQUdFRGc3X2FDWF9HWk92NGNHUVJMazNaRzhaeFd2R1FGMjJ5QXVLZ2JaV2hqekI1WVNKWnZnbFJ5b1B2UGNMNVotT004QnBOUE1aVmlVTk9Yc3g?oc=5",
+      "image": null,
+      "timestamp": 1795630927,
+      "created_at": "2026-11-26 03:22",
+      "title_orig": "Digimon Alysion Mobile TCG Is Now Available Worldwide"
+    },
+    {
+      "id": "ebf88cb044cc5447f73a8f91f1edf2fc",
+      "title": "[위키몬 신규] 카자마 쇼토 (블랙)",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Kazama Shoto (Black))입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Kazama_Shoto_%28Black%29",
+      "image": null,
+      "timestamp": 1795619815,
+      "created_at": "2026-11-26 00:16",
+      "title_orig": "Kazama Shoto (Black)"
     },
     {
       "id": "26214541d1a052f28ac1946557aa9291",
@@ -186,8 +228,8 @@
       "category_name": "신작/공식속보",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90cmdvcGN5X0VoYWhNbXFERmdDYVJwVzBWOEZGRFRGbDlmQXVaZE9uSzBHT3hYZ014N184WnZscHZ1MlRwYmY4S0Q5ZmpCY2JWeGloMXlVMG9qZzlZRUx2bzl6d3NpUXgySWMyMjQ0WURpdDltZXBrT2VGeFNoQQ?oc=5",
       "image": null,
-      "timestamp": 1795611846,
-      "created_at": "2026-11-25 22:04",
+      "timestamp": 1795610414,
+      "created_at": "2026-11-25 21:40",
       "title_orig": "DIGIMON ALYSION System Requirements Revealed"
     },
     {
@@ -462,8 +504,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnR5bWVaUTN0b0xuNkxPMFV4UjVPMjh4V2pMRnlnUjR5YW1Vb0NZdFVZS3I5UXM1cXVQbzNlRFlEX1dPMWZaZlg3Yml0emxFRXBXOGR0WVVLOXdCZWdiS0ZhTE1XRkE5TFlKSGRBbVZDMnhXdjJmWDBTdUdXXzRka01ubDJrVm81SkhGazl4Zmctd1pkZmNYazFNUVVZTVdCc3JTNFc3d2lSVy05Z0lENWJxTQ?oc=5",
       "image": null,
-      "timestamp": 1795503609,
-      "created_at": "2026-11-24 16:00",
+      "timestamp": 1795503699,
+      "created_at": "2026-11-24 16:01",
       "title_orig": "Digimon and Tamagotchi Swap Worlds for a Special 30th Anniversary Celebration Set"
     },
     {
@@ -2936,6 +2978,21 @@
       "title_orig": "Raigo"
     },
     {
+      "id": "a2392b7cd86ed65657ca62e811e6702c",
+      "title": "[일본뉴스] 호소다 마모루 연출 「디지몬 어드벤처 3D 디지몬 그랑프리」 YouTube에서 11월 24일까지 무료 공개 중",
+      "snippet": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中 アニメハック",
+      "source": "アニメハック",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03VlNxcU03SXJ1T0JWemtBOF9SWUZtNDNtT25ELVhaMDhYaHduNW5IZkwtQ0ozMmQweE4wTl92bWI3bU9ydzNISF9faw?oc=5",
+      "image": null,
+      "timestamp": 1794643200,
+      "created_at": "2026-11-14 17:00",
+      "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
+      "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
+    },
+    {
       "id": "6227bf53c9d15e39e76aad87a267b2e3",
       "title": "[해외공식] 디지몬 알리시온 업데이트 - 디지몬 알리시온 타임즈 영상 대기 중 공개, 룰 쇼케이스 #2, 아카토 이치에 프로필, 일본 내 프로모션 & 콘테스트",
       "snippet": "More Digimon Alysion updates... First up... The English Digimon Alysion Times standby is up, along with a text descripti",
@@ -2974,21 +3031,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yZVIweGtBVm05WXJiRFlMaENkb2llMmpWZnRmZlJTcnBGX2FLbG1NMEh4M2tPVmwzM1dILWtqUlIySFBRc0sybHlFWGlVQVNGQkN6SnVobk9EbWt3OHpPSWRtSkRIcU1rUTJrMU5Ia25WcE9MX29VN1liNA?oc=5",
       "image": null,
       "timestamp": 1794628832,
-      "created_at": "2026-11-14 13:00",
-      "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
-      "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
-    },
-    {
-      "id": "a2392b7cd86ed65657ca62e811e6702c",
-      "title": "[일본뉴스] 호소다 마모루 연출 「디지몬 어드벤처 3D 디지몬 그랑프리」 YouTube에서 11월 24일까지 무료 공개 중",
-      "snippet": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中 アニメハック",
-      "source": "アニメハック",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03VlNxcU03SXJ1T0JWemtBOF9SWUZtNDNtT25ELVhaMDhYaHduNW5IZkwtQ0ozMmQweE4wTl92bWI3bU9ydzNISF9faw?oc=5",
-      "image": null,
-      "timestamp": 1794628800,
       "created_at": "2026-11-14 13:00",
       "title_orig": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中",
       "title_ja": "細田守が演出「デジモンアドベンチャー3D デジモングランプリ」YouTubeで11月24日まで無料配信中"
@@ -6320,6 +6362,19 @@
       "title_ja": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道"
     },
     {
+      "id": "e451a6380f67e3545fcc120baeb557da",
+      "title": "[네이버] 디지몬 마스터즈 온라인",
+      "snippet": "디지몬 마스터즈 온라인 NAVER",
+      "source": "네이버 게임",
+      "source_badge": "네이버",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93c1psOFZvOFdlRlI4YWJ1R2hRZFlrYWpyVUI5MXVlQ1p1d2x2VUNrUjBiTy1JbjVNcU9kazJXcF9VQkdJa0Z2d0U4a3Z2ZmJXTWpPZVBVY3d5cUV0NEV5MTdfVTRxS3FYMlByQXI1RTcwVW1MelZF?oc=5",
+      "image": null,
+      "timestamp": 1793087400,
+      "created_at": "2026-10-27 16:50"
+    },
+    {
       "id": "738cafe9d3e6c986953d9272bda6d11b",
       "title": "[애니뉴스] 디지몬 비트브레이크 에피소드 38-49 애니메이션 시리즈 리뷰",
       "snippet": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review Anime News Network",
@@ -7328,21 +7383,6 @@
       "title_ja": "『デジモンストーリー タイムストレンジャー』Switch2版が25％オフで初セール。『テイルズ オブ アライズ』『みんゴルワールド』などDLソフトが最大84％オフ"
     },
     {
-      "id": "ad2b4583eb9ef77b5690b2310ddc231d",
-      "title": "[일본뉴스] 【최대 84% 할인】 『디지몬 스토리』와 『테일즈』가 특가. 반남 DL판 세일 개최",
-      "snippet": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催 電撃オンライン",
-      "source": "電撃オンライン",
-      "source_badge": "일본뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNHZ4ZTFTQWhRQnRlVHE0VndPT1NFa3hvUGRFMEhQSHMwNkVWX0hTNTMxTXlmMzNXdnVkaHFxNUZzTW9VdXpqQzZEWDB6OS1zT1dOMDB0SGtnZw?oc=5",
-      "image": null,
-      "timestamp": 1792566000,
-      "created_at": "2026-10-21 16:00",
-      "title_orig": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催",
-      "title_ja": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催"
-    },
-    {
       "id": "96a42f2ce8a8027a4ddc662d570d0577",
       "title": "[일본뉴스] 다운로드판 게임이 최대 84% 할인되는 세일 개최 중! 『디지몬 스토리 타임 스트레인저』가 닌텐도 e숍에 첫 등장!",
       "snippet": "ダウンロード版ゲームが最大84％OFFとなるセールが開催中！『デジモンストーリー タイムストレンジャー』がニンテンドーeショップに初登場！ PR TIMES",
@@ -7473,6 +7513,21 @@
       "created_at": "2026-10-20 18:28",
       "title_orig": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 武之内空＆ピヨモン[KADOKAWA]《０１月予約》",
       "title_ja": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 武之内空＆ピヨモン[KADOKAWA]《０１月予約》"
+    },
+    {
+      "id": "ad2b4583eb9ef77b5690b2310ddc231d",
+      "title": "[일본뉴스] 【최대 84% 할인】 『디지몬 스토리』와 『테일즈』가 특가. 반남 DL판 세일 개최",
+      "snippet": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催 電撃オンライン",
+      "source": "電撃オンライン",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNHZ4ZTFTQWhRQnRlVHE0VndPT1NFa3hvUGRFMEhQSHMwNkVWX0hTNTMxTXlmMzNXdnVkaHFxNUZzTW9VdXpqQzZEWDB6OS1zT1dOMDB0SGtnZw?oc=5",
+      "image": null,
+      "timestamp": 1792479600,
+      "created_at": "2026-10-20 16:00",
+      "title_orig": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催",
+      "title_ja": "【最大84％OFF】『デジモンストーリー』や『テイルズ』がお買い得。バンナムDL版セール開催"
     },
     {
       "id": "4d05942c6d942498e2294012a3cc408d",
@@ -10894,6 +10949,19 @@
       "category": "figure",
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zaHBoN1Vxa2pWN0ZtclN5NFZaNmVzU0pzRDBhd1NIZ2dUTGI2Q0dDVGdJVWhaYndNd1c0YVdBeVExTzFGRmxnX1ZkWjk1bGtXNFE?oc=5",
+      "image": null,
+      "timestamp": 1789023600,
+      "created_at": "2026-09-10 16:00"
+    },
+    {
+      "id": "536f421e588751b258620771cfeb1da2",
+      "title": "[인스타] 🙌우리의 모든 최애가 모이다! ─ 다 모여 FESTA! MD PREVIEW👀✨ Lineup 1 ─ #디지몬 - 디지몬 말랑 인형 키링 - 가트몬 허그 키링 - 디지바이스 파우치 다 모여 FESTA!에서 만나보세요~! #다모여페스타 일정: 9/24(목)~10/13(화) 장소: AK PLAZA 홍대 4F",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ycUtUbjBiTGsxbGJYU1ZrU0p2dmJReml3Unc5TU5YaG1TSWFqcF9fSFNNWHpURzFHMDRkbkpQNU1yOXZUOUhQQnJqTmVuSV9icFE?oc=5",
       "image": null,
       "timestamp": 1789023600,
       "created_at": "2026-09-10 16:00"
