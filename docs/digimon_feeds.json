@@ -1,57 +1,57 @@
 {
-  "last_updated": "2026-11-26 15:01:06",
-  "total_count": 825,
+  "last_updated": "2026-11-27 01:13:28",
+  "total_count": 829,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.6
     },
     {
       "name": "Google News (EN)",
-      "count": 31,
+      "count": 30,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.8
     },
     {
       "name": "Google News (JA)",
-      "count": 33,
+      "count": 32,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.5
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 1.8
+      "seconds": 4.0
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 0.9,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.8,
+      "seconds": 0.9,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 11,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "WithTheWill",
       "count": 0,
       "errors": 1,
-      "seconds": 0.2,
+      "seconds": 0.1,
       "last_error": "WithTheWill crawling failed: 403 Client Error: Forbidden for url: https://withthewill.net/forums/announcements-and-news.10/index.rss"
     },
     {
@@ -64,76 +64,128 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     {
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.4
+      "seconds": 0.5
     },
     {
       "name": "Instagram",
-      "count": 74,
+      "count": 82,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 2.0
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.9
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.6
+      "seconds": 1.0
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.1
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 1.9
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
-      "count": 24,
+      "count": 23,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.3
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.1
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 24,
+      "count": 25,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 5.6
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.5
     }
   ],
   "feeds": [
+    {
+      "id": "4e146f2151c1ac51733b9e748ac3696c",
+      "title": "[위키몬 신규] Silvamon",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Silvamon)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Silvamon",
+      "image": null,
+      "timestamp": 1795704976,
+      "created_at": "2026-11-26 23:56"
+    },
+    {
+      "id": "0f4aa8c9508133ffd5d99d71d4dc5df1",
+      "title": "[위키몬 신규] High Elfmon",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (High Elfmon)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/High_Elfmon",
+      "image": null,
+      "timestamp": 1795704972,
+      "created_at": "2026-11-26 23:56"
+    },
+    {
+      "id": "df5ad2a9379d3fa8b9ba2f9de9f989e1",
+      "title": "[해외뉴스] Bandai Launches Digimon Alysion Worldwide on Mobile Devices",
+      "snippet": "Bandai Launches Digimon Alysion Worldwide on Mobile Devices cwibc.co.id",
+      "source": "cwibc.co.id",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSNG91dW1IRVRBemNJNXoxTHN6YmdBWTc3cDdYZlhMb0RlRVJENVdJRHlaMDl2LVh0cXpzSUNKT190dERsVk9LX1VyWGlYNUo1S21yR1J3YmlEMC1xSk1qdXBZNDBuazNnTVRF?oc=5",
+      "image": null,
+      "timestamp": 1795675573,
+      "created_at": "2026-11-26 15:46"
+    },
+    {
+      "id": "1624061487d6ea589f243e7654e64db8",
+      "title": "[해외뉴스] DIGIMON ALYSION is Now Available on iOS and Android",
+      "snippet": "DIGIMON ALYSION is Now Available on iOS and Android GamerBraves",
+      "source": "GamerBraves",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3BCQUZZTTREWTAtUUdvN0YzNnZ5SFI1Qmt4ZzFHUE00Q1ZKWlUzWjVaUGtIa3VJajJoLXZXbUJweVp3T2t6WjRfYlZoblViQjVCRG5MVHVFMmtOQnJZcTlndDY3S2I0NTNPaV82QUw3NXlnM0h5QlU1SVRMMDE1RjdLYUQyUFE?oc=5",
+      "image": null,
+      "timestamp": 1795671486,
+      "created_at": "2026-11-26 14:38"
+    },
     {
       "id": "0defa531c6c52442b218b5ca25dfe10b",
       "title": "[해외뉴스] 디지몬 엘리시온, 전 세계 183개 국가 및 지역에서 정식 출시",
@@ -1737,20 +1789,6 @@
       "created_at": "2026-11-17 20:28"
     },
     {
-      "id": "d4fb4503d624649a28fc3bde6877a5e4",
-      "title": "[해외뉴스] PS1용 '디지몬 월드'의 팬 제작 1인칭 버전 개발 중",
-      "snippet": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works Retro Dodo",
-      "source": "Retro Dodo",
-      "source_badge": "해외뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWhMZFhkcEpucENvbUc1YVpreHV5b0tGVlZzMHpTV0czd0ZsSVkxcXBBZWV5NEJWTDlEU0VmZWktaTVqUnE0ay1NOGhSN2NfZUFKbWN4YlZvMDg2ZGctM3dXQWM5dVpYZVFlRkE5bThUZTM3WWRiQXh4dllZQVdsOTBqaW14cmtVTzQtMW5ObnVXcHdRSkVOcFNmSQ?oc=5",
-      "image": null,
-      "timestamp": 1794914117,
-      "created_at": "2026-11-17 20:15",
-      "title_orig": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works"
-    },
-    {
       "id": "c4c9d476fc822412dbd8f787e1fc27ab",
       "title": "[해외뉴스] 호소다 마모루의 26년 전 희귀 \"디지몬\" 3D 단편 무료 공개—단 11월 24일까지",
       "snippet": "Mamoru Hosoda's Rare 26-Year-Old \"Digimon\" 3D Short Is Now Free to Watch—but Only Until November 24 玩具人 TOY PEOPLE",
@@ -1834,6 +1872,20 @@
       "timestamp": 1794902895,
       "created_at": "2026-11-17 17:08",
       "title_orig": "DIGIMON ALYSION Shows Off Story Mode, a New Booster Pack, and Launch Event"
+    },
+    {
+      "id": "d4fb4503d624649a28fc3bde6877a5e4",
+      "title": "[해외뉴스] PS1용 '디지몬 월드'의 팬 제작 1인칭 버전 개발 중",
+      "snippet": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works Retro Dodo",
+      "source": "Retro Dodo",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWhMZFhkcEpucENvbUc1YVpreHV5b0tGVlZzMHpTV0czd0ZsSVkxcXBBZWV5NEJWTDlEU0VmZWktaTVqUnE0ay1NOGhSN2NfZUFKbWN4YlZvMDg2ZGctM3dXQWM5dVpYZVFlRkE5bThUZTM3WWRiQXh4dllZQVdsOTBqaW14cmtVTzQtMW5ObnVXcHdRSkVOcFNmSQ?oc=5",
+      "image": null,
+      "timestamp": 1794902400,
+      "created_at": "2026-11-17 17:00",
+      "title_orig": "A Fan-Made First-Person Version Of Digimon World For PS1 Is In The Works"
     },
     {
       "id": "5137f4ce88f29ecc5dfe71e556d2a787",
@@ -2713,6 +2765,19 @@
       "timestamp": 1794729600,
       "created_at": "2026-11-15 17:00",
       "title_orig": "Digimon Alysion Reveals Card Pack Details & Core Gameplay"
+    },
+    {
+      "id": "8ade6531a74d74cefb9f79fc4fd9a0f7",
+      "title": "[디지카] Deck Information",
+      "snippet": "Deck Information digimon card meta",
+      "source": "Digimon Meta",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxORTNSRXdXYk1rTUdmXzVaZFdqS3pHUm5YbVNKUy1BX0FuS0Rrd0ZUUmRZb2tlTjMwczIweVEtdUk0VWJRSEhPelF3WS1ndlVobTdYenZnVWhPRzY2bHg2bVBrQlVpTGxFeWJmMUl3Sk8yN3ktbUotRmRtTFdyREx2Q1BDN3VtY0NBdWlqWVoyeDdJTDNEZ2sxYzc1U25sOXBpYWxqeklFXzNsblVXVXppaGhNaDZHNmtja3M0NEozcmJYRXl4VHlZRzdFa1cyTEFNWlRNZ3hjUjNpSXI4Sm9QdkcyTzdDT1pkSmNOb2hpem1kcng1T0pub2hQTzJsQWpfT3Y4dUs5NUhMcnpqcG9wMWxYeVB6NHptWkxuY3dTTmZQeDEzWllpbVhJQXU5ZlZYTGhVQ1Bmd3djcG5mN1ZhLXZKRDRpNXhNakV1NzJxZ1NKU3ZBNTdqQWozdDFnTWtLdi1lYzUwbHBzYjFOQk1UTEZRcW0za1ZRT2I1aFB6YUs1M1JiSVVuVC1LTkxEdkJqbHE2cHFlM2xWS25wTHptMnhLLUthUE9LQ1NxM05jVVBQcVJyclZ2dDQ2Yy1xY3daSUMyT2tONlRDMWp2bkJ1dVF0N2NPUjBPMGU3bFZIR21ESzBoUWN4aS1fNi11Nm53YlFlbFM4R0NCMFI2WlZrQ1ZVeVQ4UEJaVEFOV3VqelpiRjIzV0pObg?oc=5",
+      "image": null,
+      "timestamp": 1794729600,
+      "created_at": "2026-11-15 17:00"
     },
     {
       "id": "8c3d52479261e7433e9fe1e6115386e7",
@@ -4641,6 +4706,21 @@
       "created_at": "2026-11-05 17:00"
     },
     {
+      "id": "f4012501208db758882562d0defb33e7",
+      "title": "[하비뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
+      "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
+      "image": null,
+      "timestamp": 1793865600,
+      "created_at": "2026-11-05 17:00",
+      "title_orig": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！",
+      "title_ja": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！"
+    },
+    {
       "id": "068f06c70131784142e2cd8254abc625",
       "title": "[인스타] 11월에도 찍을 포토프레임이 한가득! 은혼부터 주술회전, 디지몬까지 이번 달 포토프레임 라인업 모아왔어💗 브랜드별로 진행 기간도 다르니까 체크 필수! 최애 프레임 놓치지 않게 미리 저장해 두고 사진 찍으러 가자📷 @@ 이번 달 가장 찍고 싶은 포토프레임은 뭐야? •",
       "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
@@ -4696,21 +4776,6 @@
       "timestamp": 1793833451,
       "created_at": "2026-11-05 08:04",
       "title_orig": "Digimon Adventure: Our War Game! (2000)"
-    },
-    {
-      "id": "f4012501208db758882562d0defb33e7",
-      "title": "[일본뉴스] 『디지몬』에서 궁극체 오메가몬의 2023Ver.이 Precious G.E.M. 시리즈로 재판! 시리즈 최대급의 크기와 대박력의 포징으로 전개!",
-      "snippet": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！ 電撃ホビーウェブ",
-      "source": "電撃ホビーウェブ",
-      "source_badge": "일본뉴스",
-      "category": "figure",
-      "category_name": "피규어/굿즈",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fZUs0czgxY2ZNMGIzdGJPVFJXdmtVS0E5TUxKbnZ6QXFtb3J1YnVTTzJjUk5wSGZmejR4akEzeVdrdkUyNnduNjh4d09NT1RI?oc=5",
-      "image": null,
-      "timestamp": 1793833200,
-      "created_at": "2026-11-05 08:00",
-      "title_orig": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！",
-      "title_ja": "『デジモン』より、究極体オメガモンの2023Ver.が、Precious G.E.M.シリーズで再販！シリーズ最大級の大きさと大迫力のポージングで展開！"
     },
     {
       "id": "683672671de024616d14e262a3c57276",
@@ -7974,6 +8039,19 @@
       "created_at": "2026-10-17 16:00"
     },
     {
+      "id": "e83080ef4f342c8db50afbd735ed7e53",
+      "title": "[인스타] ★최신 카드 소개★ 11월 20일 발매 예정인 『TIME STRANGER』의 최신 카드를 소개합니다. 오늘 공개할 카드는 「파닥몬」입니다. https://digimoncard.co.kr/ #디지몬카드게임 #디지몬 #デジカ #DigimonCardGame",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tYVlnbnRjLVJHb0ctYWxKb3dRbTZ1ZV9xRnN0TEZ2WTlMZDlsNE9yM0Z2Ym00NjVfcHRmUzdFWGJDS3FyVy11cS1oMzBXUDVYekE?oc=5",
+      "image": null,
+      "timestamp": 1792206083,
+      "created_at": "2026-10-17 12:01"
+    },
+    {
       "id": "bc301ecd1558fea44054e40b912ae297",
       "title": "[하비뉴스] 디지몬 어드벤처 아크릴 스탠드 일본풍 모던 Ver. 이시다 야마토(매튜)&파피몬[KADOKAWA]《01월 예약》",
       "snippet": "デジモンアドベンチャー アクリルスタンド 和モダンVer. 石田ヤマト＆ガブモン[KADOKAWA]《０１月予約》 あみあみ",
@@ -10532,8 +10610,8 @@
       "category_name": "피규어/굿즈",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PWnlYdHAtSUltaG5wOEU2NDhIX0szdnRFdEVpUHFSTGpldlJjeVZVOVhGeDdsZzBNa1dHT3cwT09hdDg5akRQZVNsZlM0ZXlud3p6MkVn?oc=5",
       "image": null,
-      "timestamp": 1790146800,
-      "created_at": "2026-09-23 16:00"
+      "timestamp": 1790233200,
+      "created_at": "2026-09-24 16:00"
     },
     {
       "id": "c9e35e11fd3068c3d095ccb1430c71cf",
@@ -11135,6 +11213,19 @@
       "created_at": "2026-09-09 16:00"
     },
     {
+      "id": "a3afe71d0abb18cca276f09044761bf4",
+      "title": "[인스타] 메가박스X디지몬어드벤처 콜라보 MD 뜸!!🧡 디지타마 버켓+키링 조합에 8종 중 랜덤! 진짜 보기만해도 자동 추억 소환댐ㅠㅠㅠ... ++오늘(10일)부터 20일까지 얼리버드 판매하고 23일부터 수령 가능하다고 함!! @@이거 우리 무조건 가져야겠지;;;; . . #디지몬 #디지몬어",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "game",
+      "category_name": "게임/공식애니",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GWjNYTUVtY1ZiVG13eE8wOGY0SDJtRHlGRXNESjVwdGx5dVIxVUhoY1hITUVJaElnRjM3NHRCbTRYb00xRW91X2ZhakRJaEEzWXc?oc=5",
+      "image": null,
+      "timestamp": 1788937200,
+      "created_at": "2026-09-09 16:00"
+    },
+    {
       "id": "d8d066dc4ef0d5f228e04ebaea48457f",
       "title": "[트윗] 아구몬 등에 업혀 동네 한 바퀴🦖👧🏻 성지순례 코스가 된 바로 그 장면 👾9월 16일 메가박스 단독 개봉👾 #디지몬어드벤처 #디지몬어드벤처극장판 #디지몬어드벤처운명적만남 #디지몬어드벤처우리들의워게임 - X",
       "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
@@ -11613,19 +11704,6 @@
       "title_ja": "デジモンカードゲーム ブースターパック TIMELESS BONDS【BT-26】"
     },
     {
-      "id": "d6f450f6bab2bac1940b6ca6c507266d",
-      "title": "[인스타] 파닥몬 팬아트 #fanart #디지몬 #イラスト #デジモン #그림연습",
-      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
-      "source": "Instagram",
-      "source_badge": "인스타그램",
-      "category": "sns",
-      "category_name": "SNS/해외",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xSE12MC1RYW00VHctdEpKY3l6RkFDT2VPakhtM3hUT0xWT0FHT09TZXZiR19NcGlwaG55bmo3TmhfcFFySGlPaFIzMjdobFBienc?oc=5",
-      "image": null,
-      "timestamp": 1787931515,
-      "created_at": "2026-08-29 00:38"
-    },
-    {
       "id": "93cfb36216af4fc9dd9fc863dc0b10d3",
       "title": "[공식 상품] 디지몬 카드 게임 부스터 팩 TIMELESS BONDS 【BT-26】",
       "snippet": "발매 2026-08-29 · 240円(税込)",
@@ -11639,32 +11717,6 @@
       "created_at": "2026-08-29 00:00",
       "title_orig": "デジモンカードゲーム ブースターパック TIMELESS BONDS【BT-26】",
       "title_ja": "デジモンカードゲーム ブースターパック TIMELESS BONDS【BT-26】"
-    },
-    {
-      "id": "b86420c209c218541acc8f470dedb21c",
-      "title": "[영상] [🎵우륵으로 연결되다] 디지몬어드벤처 오프닝",
-      "snippet": "YouTube 최신 디지몬 공식/인기 영상입니다.",
-      "source": "YouTube",
-      "source_badge": "유튜브",
-      "category": "sns",
-      "category_name": "SNS/영상",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTZS1ibk40d1dQaGtWMGpyQjhUaVhraWNMVG8xa2RJR21PenQ2U0ZJX2hjaWo4SWZlYWhEemw2WXpVM3lOQkxRTkUtOFFqdVBYRm1zeg?oc=5",
-      "image": null,
-      "timestamp": 1787913905,
-      "created_at": "2026-08-28 19:45"
-    },
-    {
-      "id": "c43da8e19f26319609875b93858fd2bf",
-      "title": "[트윗] 디지몬 팬 추억 소환 완료📟🫧 볼레로만 들어도 설레는 사람 손✋🏻 👾9월 16일 메가박스 단독 개봉👾 #디지몬어드벤처 #디지몬어드벤처극장판 - X",
-      "snippet": "X(트위터) 디지몬 공식/굿즈 속보 트윗입니다.",
-      "source": "X(트위터)",
-      "source_badge": "X(트위터)",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WcmxpLWNHZGMzczRBaU1LMTJnM2RFVUUyUWtPNE9rckhiZnFlazJHTW1iUk8yNkdqS0tNZ21DSVdUMTFKMjVjWDVld0JTSkFtX3pETF8xQ0hNR05GUC1F?oc=5",
-      "image": null,
-      "timestamp": 1787900400,
-      "created_at": "2026-08-28 16:00"
     },
     {
       "id": "b26050e3212d6cf67d75863741532b72",
