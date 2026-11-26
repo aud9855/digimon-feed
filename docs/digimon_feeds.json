@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-11-26 08:59:03",
-  "total_count": 818,
+  "last_updated": "2026-11-26 15:01:06",
+  "total_count": 825,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.3
     },
     {
       "name": "Google News (EN)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.3
     },
     {
       "name": "Google News (JA)",
       "count": 33,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.1
     },
     {
       "name": "루리웹 모형정보",
       "count": 32,
       "errors": 0,
-      "seconds": 5.2
+      "seconds": 1.8
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 0.8,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 0.8,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 11,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.0
     },
     {
       "name": "WithTheWill",
@@ -58,7 +58,7 @@
       "name": "Wikimon 신규 문서",
       "count": 15,
       "errors": 0,
-      "seconds": 0.3
+      "seconds": 0.2
     },
     {
       "name": "YouTube",
@@ -74,9 +74,9 @@
     },
     {
       "name": "Instagram",
-      "count": 82,
+      "count": 74,
       "errors": 0,
-      "seconds": 2.4
+      "seconds": 2.2
     },
     {
       "name": "하비 매체",
@@ -88,52 +88,152 @@
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 0.6
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.3
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.4
+      "seconds": 2.2
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
       "count": 24,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.1
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.2
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 24,
       "errors": 0,
-      "seconds": 4.8
+      "seconds": 1.4
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.1
     },
     {
       "name": "네이버 게임",
       "count": 8,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     }
   ],
   "feeds": [
+    {
+      "id": "0defa531c6c52442b218b5ca25dfe10b",
+      "title": "[해외뉴스] 디지몬 엘리시온, 전 세계 183개 국가 및 지역에서 정식 출시",
+      "snippet": "DIGIMON ALYSION Officially Launches in 183 Countries and Regions Worldwide The Outerhaven",
+      "source": "The Outerhaven",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGN3OWxFTURtNnpUMkl3ZDhENm5Jd3NtZ1oyUUNKc2ZHUVhYMkJoVXFfWVNObEZ6U1R1ZEdhcF9oZGpXLXJXU1Q0MUdadm5fNWY3Zy1tVXpralJqZHFiVGFaQTJLVEw5X2lxNTg5Sm9rREFETXZIYlc5R25FMmFfRE9mcXRkM0ZBVXNTNzhXVmpFLVhqcmxiTGlPYmcwYTF4cDg0ZEJyb0c?oc=5",
+      "image": null,
+      "timestamp": 1795666891,
+      "created_at": "2026-11-26 13:21",
+      "title_orig": "DIGIMON ALYSION Officially Launches in 183 Countries and Regions Worldwide"
+    },
+    {
+      "id": "4b10cdc84c46b0d02ed6883cb742e0d9",
+      "title": "[위키몬 신규] 시노노메 소이치",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Shinonome Soichi)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Shinonome_Soichi",
+      "image": null,
+      "timestamp": 1795665332,
+      "created_at": "2026-11-26 12:55",
+      "title_orig": "Shinonome Soichi"
+    },
+    {
+      "id": "4c144d67bcb06d36765ed14c0a7d4bb0",
+      "title": "[위키몬 신규] 아카토 이치에",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Akato Ichie)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Akato_Ichie",
+      "image": null,
+      "timestamp": 1795665030,
+      "created_at": "2026-11-26 12:50",
+      "title_orig": "Akato Ichie"
+    },
+    {
+      "id": "383baaeafa7ab9c97849a58b0c2e704b",
+      "title": "[위키몬 신규] 사키가케 시시코",
+      "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Sakigake Shishiko)입니다.",
+      "source": "Wikimon",
+      "source_badge": "위키몬",
+      "category": "general",
+      "category_name": "도감/위키",
+      "link": "https://wikimon.net/Sakigake_Shishiko",
+      "image": null,
+      "timestamp": 1795664061,
+      "created_at": "2026-11-26 12:34",
+      "title_orig": "Sakigake Shishiko"
+    },
+    {
+      "id": "bc55b5701a638f920f713e6f8333eb9c",
+      "title": "[해외뉴스] 반다이 카드 게임즈, 디지몬 엘리시온 게임 출시",
+      "snippet": "Bandai Card Games Launches Digimon Alysion Game Anime News Network",
+      "source": "Anime News Network",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3VrckoyV1RTYjJKX0dBcnpaYUFkdjRrS1huT19HNm5HNGRQaE5STTJGcjNkYV9yeWNsVTJpU2FReGozbXhOLTZjb0h6RW41R1ZsMGR3RU1xM0kwcjdYaVlpTVhKQkNOUTFUcXVFX0xfTElXLXc0bEF3cTRBcC11QVFlYlAwRmt2XzdseUo3VFdnQWpLLTRWdUQteFdLR2pWeWhsM3JMOA?oc=5",
+      "image": null,
+      "timestamp": 1795661860,
+      "created_at": "2026-11-26 11:57",
+      "title_orig": "Bandai Card Games Launches Digimon Alysion Game"
+    },
+    {
+      "id": "540451a98dfcfe624503ad86e6f57b3f",
+      "title": "[일본뉴스] 다마고치×디지몬 30주년 기념 세트 2차 예약이 11월 26일 11시부터 개시 예정! 디지몬이 다마고치로, 다마고치가",
+      "snippet": "たまごっち×デジモン30周年記念セットの2次予約が11月26日11時より開始予定！デジモンがたまごっちに、たまごっちが ニコニコニュース",
+      "source": "ニコニコニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhOWduNzdITmxDbG04TDZ0NnU2OXVTR18xdVdjRzRvYXVWS3ZOOXNTRHZPTXJQbDVyWVNtZ2RGSWtmTlAwYUxUSXdKbFZScGdXYTZLLW9ybE1fQ0t1a2NRVGdha29Xc292Sm54a3Q5M0FIdXM?oc=5",
+      "image": null,
+      "timestamp": 1795655176,
+      "created_at": "2026-11-26 10:06",
+      "title_orig": "たまごっち×デジモン30周年記念セットの2次予約が11月26日11時より開始予定！デジモンがたまごっちに、たまごっちが",
+      "title_ja": "たまごっち×デジモン30周年記念セットの2次予約が11月26日11時より開始予定！デジモンがたまごっちに、たまごっちが"
+    },
+    {
+      "id": "3569599b226b5dde7e7bd9ade0d3b317",
+      "title": "[일본뉴스] 순식간에 완판된 「디지몬」 「다마고치」 30주년 기념 세트 2차 예약 실시! 서로 뒤바뀐 다마고치와 디지몬들의 육성을 즐겨보자",
+      "snippet": "即完売した「デジモン」「たまごっち」祝30周年記念セットが2次予約実施！入れ替わったたまごっちやデジモン達の育成が楽しめちゃう インサイド",
+      "source": "インサイド",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYXZacGdQaldtdE84TzB3MktiNUxoLXRlV0VBUmp1VEtDRzNSUEgwVFJDbUlhOGYtMmY2T21pZU9sUl9OUVlsekgyOU41VGx2d2tHcDJ2b2ZSZm4zdHp1R2JKb1o2ZjBnV1E?oc=5",
+      "image": null,
+      "timestamp": 1795652402,
+      "created_at": "2026-11-26 09:20",
+      "title_orig": "即完売した「デジモン」「たまごっち」祝30周年記念セットが2次予約実施！入れ替わったたまごっちやデジモン達の育成が楽しめちゃう",
+      "title_ja": "即完売した「デジモン」「たまごっち」祝30周年記念セットが2次予約実施！入れ替わったたまごっちやデジモン達の育成が楽しめちゃう"
+    },
     {
       "id": "9939b358c79f2490aae3044236d29619",
       "title": "[해외뉴스] 디지몬 공식 신작 무료 게임 출시, 지금 플레이 가능",
@@ -172,8 +272,8 @@
       "category_name": "카드게임(TCG)",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVmJRSkpLaGpSU2Qyam91VmRxOXBveTNwUGN4cUhOMW5iY0lQX3dWZUZYc2hfajR4bkRsSXExQUdFRGc3X2FDWF9HWk92NGNHUVJMazNaRzhaeFd2R1FGMjJ5QXVLZ2JaV2hqekI1WVNKWnZnbFJ5b1B2UGNMNVotT004QnBOUE1aVmlVTk9Yc3g?oc=5",
       "image": null,
-      "timestamp": 1795630927,
-      "created_at": "2026-11-26 03:22",
+      "timestamp": 1795631176,
+      "created_at": "2026-11-26 03:26",
       "title_orig": "Digimon Alysion Mobile TCG Is Now Available Worldwide"
     },
     {
@@ -189,6 +289,21 @@
       "timestamp": 1795619815,
       "created_at": "2026-11-26 00:16",
       "title_orig": "Kazama Shoto (Black)"
+    },
+    {
+      "id": "5243a490b91bd0308a50b4f03baaff83",
+      "title": "[공식] 디지몬 도감에 새롭게 젬몬을 추가!",
+      "snippet": "디지몬 공식 사이트 ニュース",
+      "source": "digimon.net",
+      "source_badge": "디지몬웹",
+      "category": "game",
+      "category_name": "일반/뉴스",
+      "link": "https://digimon.net/topic/detail.php?id=2107",
+      "image": null,
+      "timestamp": 1795618800,
+      "created_at": "2026-11-26 00:00",
+      "title_orig": "デジモン図鑑に、新たにジェムモンを追加！",
+      "title_ja": "デジモン図鑑に、新たにジェムモンを追加！"
     },
     {
       "id": "26214541d1a052f28ac1946557aa9291",
@@ -1721,6 +1836,19 @@
       "title_orig": "DIGIMON ALYSION Shows Off Story Mode, a New Booster Pack, and Launch Event"
     },
     {
+      "id": "5137f4ce88f29ecc5dfe71e556d2a787",
+      "title": "무브인터렉티브, '디지몬 슈퍼럼블' 출시 4주년…'파워디지몬' 신규 지역 추가",
+      "snippet": "무브인터렉티브, '디지몬 슈퍼럼블' 출시 4주년…'파워디지몬' 신규 지역 추가 지디넷코리아",
+      "source": "지디넷코리아",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwTDRhUUJiRklMeUhwT1BpdWFLTnlYUmI0T1RlUDB5bzdiOTdIMVhSSFc2WXlfRWNlU2htWjBhTzA2MlNUOHVzdjVlWFlGM2RuWDlGMFBn?oc=5",
+      "image": null,
+      "timestamp": 1794902400,
+      "created_at": "2026-11-17 17:00"
+    },
+    {
       "id": "2eb4b8ad04e28066cb1df060fcf4cee2",
       "title": "[해외공식] 디지몬 카드 게임 부스터 세트 27 테이머 카드 발너 선공개",
       "snippet": "​ ​ The Digimon Card Game Twitter ( 2 ) has updated with card previews from Booster Set 27. This time it's Valner. Tamer",
@@ -1747,19 +1875,6 @@
       "timestamp": 1794898920,
       "created_at": "2026-11-17 16:02",
       "title_orig": "Digimon Adventure: (2020)"
-    },
-    {
-      "id": "5137f4ce88f29ecc5dfe71e556d2a787",
-      "title": "무브인터렉티브, '디지몬 슈퍼럼블' 출시 4주년…'파워디지몬' 신규 지역 추가",
-      "snippet": "무브인터렉티브, '디지몬 슈퍼럼블' 출시 4주년…'파워디지몬' 신규 지역 추가 지디넷코리아",
-      "source": "지디넷코리아",
-      "source_badge": "뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwTDRhUUJiRklMeUhwT1BpdWFLTnlYUmI0T1RlUDB5bzdiOTdIMVhSSFc2WXlfRWNlU2htWjBhTzA2MlNUOHVzdjVlWFlGM2RuWDlGMFBn?oc=5",
-      "image": null,
-      "timestamp": 1794895801,
-      "created_at": "2026-11-17 15:10"
     },
     {
       "id": "0b060dae4ac90d98e3c5843c8901a4b4",
@@ -6360,19 +6475,6 @@
       "created_at": "2026-10-27 18:32",
       "title_orig": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道",
       "title_ja": "【デジモンUP】パートナーデジモン育成チケットの入手方法と使い道"
-    },
-    {
-      "id": "e451a6380f67e3545fcc120baeb557da",
-      "title": "[네이버] 디지몬 마스터즈 온라인",
-      "snippet": "디지몬 마스터즈 온라인 NAVER",
-      "source": "네이버 게임",
-      "source_badge": "네이버",
-      "category": "game",
-      "category_name": "게임/공식애니",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93c1psOFZvOFdlRlI4YWJ1R2hRZFlrYWpyVUI5MXVlQ1p1d2x2VUNrUjBiTy1JbjVNcU9kazJXcF9VQkdJa0Z2d0U4a3Z2ZmJXTWpPZVBVY3d5cUV0NEV5MTdfVTRxS3FYMlByQXI1RTcwVW1MelZF?oc=5",
-      "image": null,
-      "timestamp": 1793087400,
-      "created_at": "2026-10-27 16:50"
     },
     {
       "id": "738cafe9d3e6c986953d9272bda6d11b",
