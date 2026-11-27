@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-11-27 18:20:59",
-  "total_count": 842,
+  "last_updated": "2026-11-28 04:16:08",
+  "total_count": 846,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.2
     },
     {
       "name": "Google News (EN)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 1.3
     },
     {
       "name": "Google News (JA)",
-      "count": 33,
+      "count": 34,
       "errors": 0,
-      "seconds": 1.6
+      "seconds": 1.4
     },
     {
       "name": "루리웹 모형정보",
-      "count": 32,
+      "count": 31,
       "errors": 0,
-      "seconds": 6.2
+      "seconds": 7.8
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 1.0,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.7,
+      "seconds": 0.9,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 11,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 1.0
     },
     {
       "name": "WithTheWill",
@@ -64,7 +64,7 @@
       "name": "YouTube",
       "count": 15,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     },
     {
       "name": "X(트위터)",
@@ -74,37 +74,37 @@
     },
     {
       "name": "Instagram",
-      "count": 77,
+      "count": 80,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 2.3
     },
     {
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.7
+      "seconds": 0.8
     },
     {
       "name": "해외 애니 뉴스",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.9
     },
     {
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 1.5
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.2
+      "seconds": 2.6
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
-      "count": 21,
+      "count": 22,
       "errors": 0,
       "seconds": 1.1
     },
@@ -112,19 +112,19 @@
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 0.9
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 25,
+      "count": 23,
       "errors": 0,
-      "seconds": 5.3
+      "seconds": 8.4
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.1
+      "seconds": 0.2
     },
     {
       "name": "네이버 게임",
@@ -135,19 +135,61 @@
   ],
   "feeds": [
     {
-      "id": "718983f4a22fbb6111aa8c8ecd77a7fa",
-      "title": "[일본뉴스] 플레이 리뷰】 키우는 방식에 따라 일격의 무게가 달라진다. 진화가 승패를 가르는 카드 게임 『디지몬 알리시온",
-      "snippet": "プレイレビュー】育て方で一撃の重みが変わる。進化が勝敗を分けるカードゲーム『デジモンアリシオン GameWith",
-      "source": "GameWith",
+      "id": "f4c2ed9a0baaf8772eede3da3d5651d4",
+      "title": "[해외뉴스] 신규 출시 정보 종합: 몬스터 헌터 라이즈 넷플릭스, 디지몬 알리시온, 필드 데이 등",
+      "snippet": "New release roundup: Monster Hunter Rise Netflix, Digimon Alysion, Field Day, and more PocketGamer.biz",
+      "source": "PocketGamer.biz",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnFUekE0RlJ0VkRGU1YxbnlUTTZ6VWt0cTRFWnhfU3A2R3ZGMmlhSEdZQXFyZUhTLTBMcUdwWm1sQTFPdzZtOFRab0JHWi1YOW1FLWE2QkhPOVFETElGQlFfOGNVZVI4czhhWHZvVGxGVXcxNHpzV2NNTXhERnE1OWpURmpXenNkTDlpczZJdmNUeU5DUVBNYjF4aWZkSjV0OFdyeVFRTHJqTEV1S0F0Yw?oc=5",
+      "image": null,
+      "timestamp": 1795794000,
+      "created_at": "2026-11-28 00:40",
+      "title_orig": "New release roundup: Monster Hunter Rise Netflix, Digimon Alysion, Field Day, and more"
+    },
+    {
+      "id": "a5b3fb97ea5a62ee86a9439b0ecc926f",
+      "title": "[해외뉴스] 디지몬이 30주년을 맞아 다마고치와 자리를 맞바꾼다.",
+      "snippet": "Digimon is trading places with Tamagotchi for its 30th anniversary. The Verge",
+      "source": "The Verge",
+      "source_badge": "해외뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkprQ0N6RkV2d3pjaGlsRGhFbEVSd1d5YW11WklWSTE0bzZWeTBncmMyMXFNUDlBODZXYUpDVS1ZTU82Q2o2cXBNeGxaa1NsOVB2ZnljNFA5UUFoNGc5ZlFyLUlYTzlTNDNRaUw5dEYzVENROGhfdmdVZ3hfaFoySzgwUFBETUhZVjBkWjVCZzB5d1VrckVzQkFxZkVsaUsxRkFZ?oc=5",
+      "image": null,
+      "timestamp": 1795790964,
+      "created_at": "2026-11-27 23:49",
+      "title_orig": "Digimon is trading places with Tamagotchi for its 30th anniversary."
+    },
+    {
+      "id": "6364afa3ab247621c66775bf6f8852e1",
+      "title": "[해외뉴스] 신작 게임 다이제스트: 디지몬 알리시온, 몬스터 헌터 라이즈, 필드 데이, 크루즈 셰프 등",
+      "snippet": "New game digest: Digimon Alysion, Monster Hunter Rise, Field Day, Cruise Chefs, more Mobilegamer.biz",
+      "source": "Mobilegamer.biz",
+      "source_badge": "해외뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1B5c003VGpqQlBCalZCdFdjVkphTTVBd2dvcFNkRFJtXzBGR0FLNV90QlZoZzc3aVpwQlZsc1F0VUYxZzlpbEdqUFBLTkliQnBodnJEQ2JqaXRlRm5NQnlIWDhLRlNfdU1iajB0NEFrbTVfQmZkY2FqcVZ0YnRNc2QzX0JWSVVHZG9IVWVGSlIyOEVGMnhuTm1FOUJkN1lGTWJFTjJXaw?oc=5",
+      "image": null,
+      "timestamp": 1795776051,
+      "created_at": "2026-11-27 19:40",
+      "title_orig": "New game digest: Digimon Alysion, Monster Hunter Rise, Field Day, Cruise Chefs, more"
+    },
+    {
+      "id": "9101290e5c9d4722afcb8858e0fbb1e6",
+      "title": "[일본뉴스] 보도자료: 11월 29일(일) 방송되는 『우리가 고른 베스트 어드벤처』는 TV 애니메이션 「디지몬 어드벤처」 중 제39화 [2대 궁극진화! 어둠을 날려버려라!]를 방송! (PR TIMES)",
+      "snippet": "プレスリリース：11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話［二大究極進化！闇をぶっとばせ！］を放送！（PR TIMES） 毎日新聞",
+      "source": "毎日新聞",
       "source_badge": "일본뉴스",
       "category": "general",
       "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LN0g1VDBtcXlRMnp1bGNlRlU2dzFmYmVYSm1IQkZZOTczODJOdkFEYzVJNUtDSHB2SXdHVUZ3YUh6bFI0Z1NzYUVvNGN5MXJ1MldtTWJURUt1a3M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LQVJMSUVCbVlZOUR4M2F1cmZiRDZQbjlaVlRmeFI3Ni11ejBidnN6aGU5YjhrQlZNOXJtc2ZYdDVOVHllSWsxX2xJSlFYZGxmSm5TWWZwVlh3R0NIQk1HYUJzaHZCcVI0?oc=5",
       "image": null,
-      "timestamp": 1795766402,
-      "created_at": "2026-11-27 17:00",
-      "title_orig": "プレイレビュー】育て方で一撃の重みが変わる。進化が勝敗を分けるカードゲーム『デジモンアリシオン",
-      "title_ja": "プレイレビュー】育て方で一撃の重みが変わる。進化が勝敗を分けるカードゲーム『デジモンアリシオン"
+      "timestamp": 1795773191,
+      "created_at": "2026-11-27 18:53",
+      "title_orig": "プレスリリース：11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話［二大究極進化！闇をぶっとばせ！］を放送！（PR TIMES）",
+      "title_ja": "プレスリリース：11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話［二大究極進化！闇をぶっとばせ！］を放送！（PR TIMES）"
     },
     {
       "id": "68db1e0f06f585a603a23bbc6398685c",
@@ -163,6 +205,21 @@
       "created_at": "2026-11-27 15:54"
     },
     {
+      "id": "718983f4a22fbb6111aa8c8ecd77a7fa",
+      "title": "[일본뉴스] 플레이 리뷰】 키우는 방식에 따라 일격의 무게가 달라진다. 진화가 승패를 가르는 카드 게임 『디지몬 알리시온",
+      "snippet": "プレイレビュー】育て方で一撃の重みが変わる。進化が勝敗を分けるカードゲーム『デジモンアリシオン GameWith",
+      "source": "GameWith",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LN0g1VDBtcXlRMnp1bGNlRlU2dzFmYmVYSm1IQkZZOTczODJOdkFEYzVJNUtDSHB2SXdHVUZ3YUh6bFI0Z1NzYUVvNGN5MXJ1MldtTWJURUt1a3M?oc=5",
+      "image": null,
+      "timestamp": 1795759264,
+      "created_at": "2026-11-27 15:01",
+      "title_orig": "プレイレビュー】育て方で一撃の重みが変わる。進化が勝敗を分けるカードゲーム『デジモンアリシオン",
+      "title_ja": "プレイレビュー】育て方で一撃の重みが変わる。進化が勝敗を分けるカードゲーム『デジモンアリシオン"
+    },
+    {
       "id": "dbb585ba7d952f0873c7f422beba34c0",
       "title": "[공식]Mnet, 이번엔 '버추얼 아이돌' 서바이벌…'건담→디지몬' 회사 손 잡았다",
       "snippet": "[공식]Mnet, 이번엔 '버추얼 아이돌' 서바이벌…'건담→디지몬' 회사 손 잡았다 조선일보",
@@ -172,8 +229,8 @@
       "category_name": "일반/뉴스",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRk4xUGVLdFNoZjZHeGgwTFpJLWY4bDF4MjEwUzk4aHpDVFJGNzFVVGcza1Q1Y0RZcHRfZDhndzRFY1JMRUJQb3psSTlWcGFCR2ZyRFBRbmdsU3RIMTYwa0lfTTllRXc5ZjFiVS16dHlmVGg2ck1pSmpsOVJ3QzJJYjdGOVhhVVVCSnc?oc=5",
       "image": null,
-      "timestamp": 1795741860,
-      "created_at": "2026-11-27 10:11"
+      "timestamp": 1795741980,
+      "created_at": "2026-11-27 10:13"
     },
     {
       "id": "8c0fbf49a42c6aa36acd5ae615691175",
