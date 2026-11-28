@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-11-28 04:16:08",
-  "total_count": 846,
+  "last_updated": "2026-11-28 11:22:52",
+  "total_count": 851,
   "retention_days": 90,
   "sources": [
     {
       "name": "Google News (KR)",
       "count": 60,
       "errors": 0,
-      "seconds": 1.2
+      "seconds": 1.4
     },
     {
       "name": "Google News (EN)",
       "count": 31,
       "errors": 0,
-      "seconds": 1.3
+      "seconds": 1.2
     },
     {
       "name": "Google News (JA)",
-      "count": 34,
+      "count": 33,
       "errors": 0,
-      "seconds": 1.4
+      "seconds": 1.3
     },
     {
       "name": "루리웹 모형정보",
-      "count": 31,
+      "count": 32,
       "errors": 0,
-      "seconds": 7.8
+      "seconds": 1.5
     },
     {
       "name": "디시 디지몬",
       "count": 0,
       "errors": 1,
-      "seconds": 1.0,
+      "seconds": 0.7,
       "last_error": "DC digimon HTTP 403"
     },
     {
       "name": "디시 디지카",
       "count": 0,
       "errors": 1,
-      "seconds": 0.9,
+      "seconds": 0.7,
       "last_error": "DC tcg_digimon HTTP 404"
     },
     {
       "name": "TCG 포털",
       "count": 11,
       "errors": 0,
-      "seconds": 1.0
+      "seconds": 0.7
     },
     {
       "name": "WithTheWill",
@@ -70,11 +70,11 @@
       "name": "X(트위터)",
       "count": 20,
       "errors": 0,
-      "seconds": 0.5
+      "seconds": 0.3
     },
     {
       "name": "Instagram",
-      "count": 80,
+      "count": 74,
       "errors": 0,
       "seconds": 2.3
     },
@@ -82,7 +82,7 @@
       "name": "하비 매체",
       "count": 16,
       "errors": 0,
-      "seconds": 0.8
+      "seconds": 0.6
     },
     {
       "name": "해외 애니 뉴스",
@@ -94,37 +94,37 @@
       "name": "공식 뉴스 (digimon.net)",
       "count": 16,
       "errors": 0,
-      "seconds": 1.5
+      "seconds": 1.0
     },
     {
       "name": "공식 상품 (digimon.net)",
       "count": 31,
       "errors": 0,
-      "seconds": 2.6
+      "seconds": 1.9
     },
     {
       "name": "TCG 메타 (Digimon Meta·Egman)",
-      "count": 22,
+      "count": 20,
       "errors": 0,
-      "seconds": 1.1
+      "seconds": 0.9
     },
     {
       "name": "피규어 샵",
       "count": 16,
       "errors": 0,
-      "seconds": 0.9
+      "seconds": 1.3
     },
     {
       "name": "루리웹 게임·애니",
-      "count": 23,
+      "count": 25,
       "errors": 0,
-      "seconds": 8.4
+      "seconds": 1.2
     },
     {
       "name": "아카라이브",
       "count": 0,
       "errors": 0,
-      "seconds": 0.2
+      "seconds": 0.1
     },
     {
       "name": "네이버 게임",
@@ -134,6 +134,21 @@
     }
   ],
   "feeds": [
+    {
+      "id": "17607abb06af79e5ef6b46e5e72666d4",
+      "title": "[일본뉴스] 11월 29일(일) 방송되는 『우리가 고른 베스트 어드벤처』는, TV 애니메이션 「디지몬 어드벤처」에서 제39화 【두",
+      "snippet": "11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話【二 ニコニコニュース",
+      "source": "ニコニコニュース",
+      "source_badge": "일본뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuLWIzdVJraWdDOGZzbTVnM3FaOU1RRDNxMTBWSm0xMEFCUzY0OVd2MXFJc2cwZlVFTFhkSGpQYU1WYmtuN2NHY1FXUEFMMFNWMV9FeQ?oc=5",
+      "image": null,
+      "timestamp": 1795818092,
+      "created_at": "2026-11-28 07:21",
+      "title_orig": "11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話【二",
+      "title_ja": "11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話【二"
+    },
     {
       "id": "f4c2ed9a0baaf8772eede3da3d5651d4",
       "title": "[해외뉴스] 신규 출시 정보 종합: 몬스터 헌터 라이즈 넷플릭스, 디지몬 알리시온, 필드 데이 등",
@@ -190,6 +205,19 @@
       "created_at": "2026-11-27 18:53",
       "title_orig": "プレスリリース：11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話［二大究極進化！闇をぶっとばせ！］を放送！（PR TIMES）",
       "title_ja": "プレスリリース：11月29日(日)放送の『僕らが選んだベストアドベンチャー』は、TVアニメ「デジモンアドベンチャー」より、第39話［二大究極進化！闇をぶっとばせ！］を放送！（PR TIMES）"
+    },
+    {
+      "id": "ef362fd56ee735f940cfa57a964f94eb",
+      "title": "[인스타] 올겨울 서울에 싹다몰린 역대급 애니팝업💨 ▸도쿄리벤져스 마이키마트팝업 11.23~12.6 ▸주술회전 전시 12.4~27.2.28 ▸슈가슈가룬팝업 12.29~1.26 ▸블루록 전시 12.18~3.17 ▸너에게 닿기를 콜라보카페 12.3~12.31 ▸디지몬 전시 12.11~27.3.14 ▸치이카와 클리닉",
+      "snippet": "인스타그램 디지몬 관련 공개 게시물입니다.",
+      "source": "Instagram",
+      "source_badge": "인스타그램",
+      "category": "sns",
+      "category_name": "SNS/해외",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnRlNHZk5Ub2dLTFpheTVuUE1WLXF0a3U5S3Mxa1I0U0NCaUltUThCcDJnTl90SnZWN19Cbms5MUxTbkkwR016YmQ2NVc2RkNYQ0E?oc=5",
+      "image": null,
+      "timestamp": 1795765805,
+      "created_at": "2026-11-27 16:50"
     },
     {
       "id": "68db1e0f06f585a603a23bbc6398685c",
@@ -1066,6 +1094,21 @@
       "created_at": "2026-11-24 12:30",
       "title_orig": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす",
       "title_ja": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす"
+    },
+    {
+      "id": "99e849033ac51d2a46b1d3f570532118",
+      "title": "[일본뉴스] 신작 『디지몬 알리시온』 선행 플레이! 초보자인 주인공과 함께 배우는 카드 배틀, \"진화\"와 연계로 전황을 움직인다 (인사이드)",
+      "snippet": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす（インサイド） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "source_badge": "일본뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kWmlraEJIYWkwZWpQOUZlSGg2S1YzMGlXRGlzZ1l4TDkxVm5IRFZ5Tm95LUF0YkZEcmF5VFdHSVZDRzUwR1BBbk1pVVJXUGNXSzJIZjhGWFdWN2Z0SFJwbHQxdS16bG56TmhTRUxscjhfTVVsbEFaVHpycmphM0E?oc=5",
+      "image": null,
+      "timestamp": 1795491003,
+      "created_at": "2026-11-24 12:30",
+      "title_orig": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす（インサイド）",
+      "title_ja": "新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と連携で戦況を動かす（インサイド）"
     },
     {
       "id": "459e93336f723bb0e3cc5ceff3e50d58",
@@ -2080,19 +2123,6 @@
       "title_ja": "【デジモンUP】BTメダルの入手方法と使い道"
     },
     {
-      "id": "f4b6f8163be33170cad74bb7dbde4811",
-      "title": "디지몬 슈퍼럼블 4주년. '파워디지몬' 스토리 공개 예고",
-      "snippet": "디지몬 슈퍼럼블 4주년. '파워디지몬' 스토리 공개 예고 게임메카",
-      "source": "게임메카",
-      "source_badge": "뉴스",
-      "category": "general",
-      "category_name": "일반/뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTlZxbFk4cHp2dDFwZktnUmljMEhoTzkydWFDRXdGSTdnbzJVdWliRU1ScXJMa2NNVllUd2dMNVNmNjFKNTdYZXNlRXVvdVg0Nm9sM2c4SnrSAVtBVV95cUxPRVQ3OVR3ano5VHBac1VKS2lrU1AzREFnSHY3VGotUVpOV0ZReWhCV09CYkxVOXFyTHJrbTluTmtxRUFfRUtqbi1tcDhXMlh5aE9HdEd0aHk3d1Zj?oc=5",
-      "image": null,
-      "timestamp": 1794905782,
-      "created_at": "2026-11-17 17:56"
-    },
-    {
       "id": "451595de5ddf3880fbae6c566603ffce",
       "title": "[해외뉴스] 디지몬 슈퍼럼블 4주년 기념, 디지몬 어드벤처 02 스토리 공개",
       "snippet": "Digimon Super Rumble celebrates 4th anniversary with Digimon Adventure 02 story reveal 게임메카",
@@ -2119,6 +2149,19 @@
       "timestamp": 1794902895,
       "created_at": "2026-11-17 17:08",
       "title_orig": "DIGIMON ALYSION Shows Off Story Mode, a New Booster Pack, and Launch Event"
+    },
+    {
+      "id": "f4b6f8163be33170cad74bb7dbde4811",
+      "title": "디지몬 슈퍼럼블 4주년. '파워디지몬' 스토리 공개 예고",
+      "snippet": "디지몬 슈퍼럼블 4주년. '파워디지몬' 스토리 공개 예고 게임메카",
+      "source": "게임메카",
+      "source_badge": "뉴스",
+      "category": "general",
+      "category_name": "일반/뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTlZxbFk4cHp2dDFwZktnUmljMEhoTzkydWFDRXdGSTdnbzJVdWliRU1ScXJMa2NNVllUd2dMNVNmNjFKNTdYZXNlRXVvdVg0Nm9sM2c4SnrSAVtBVV95cUxPRVQ3OVR3ano5VHBac1VKS2lrU1AzREFnSHY3VGotUVpOV0ZReWhCV09CYkxVOXFyTHJrbTluTmtxRUFfRUtqbi1tcDhXMlh5aE9HdEd0aHk3d1Zj?oc=5",
+      "image": null,
+      "timestamp": 1794902400,
+      "created_at": "2026-11-17 17:00"
     },
     {
       "id": "d4fb4503d624649a28fc3bde6877a5e4",
@@ -2454,19 +2497,6 @@
       "title_orig": "Blue Memory Boost & Blue Scramble Previews for Digimon Card Game Starter Deck 26"
     },
     {
-      "id": "08b8c44a20ec1f567f127f7966739b6b",
-      "title": "디지몬 테이머즈 25주년 & 디지몬 세이버즈 20주년 기념 팝업 스토어, 그란엔타스 아키하바라에서 개최",
-      "snippet": "디지몬 테이머즈 25주년 & 디지몬 세이버즈 20주년 기념 팝업 스토어, 그란엔타스 아키하바라에서 개최 www.haveagood-holiday.com",
-      "source": "www.haveagood-holiday.com",
-      "source_badge": "뉴스",
-      "category": "game",
-      "category_name": "신작/공식속보",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2N1SHk3VnRqTkNKZ01BRFdkVVluZkE0NFdJWElaYVhIaXZPU01VOEd3QWlhbVhXbWhYVzhsS01TS3ZydFVHbkFaZUN4YTZjLVlQSlU4WmgyckJVUWdZS1QxMmRHNkFyZEIyZ2s0SHE1SUdnOEFrRTlvMDB3NGNWMHV5U193c2lhdGg2NDREVmZGQWpPdXEtR1NHYXVWclFMYUhzOFNYQ1FHeFZGelhFLXNn?oc=5",
-      "image": null,
-      "timestamp": 1794850453,
-      "created_at": "2026-11-17 02:34"
-    },
-    {
       "id": "f4ca33acbb9725d041d8f21a841dbc53",
       "title": "[위키몬 신규] 도베르몬 (테이머즈)",
       "snippet": "Wikimon에 새로 등록된 공식 신규 문서 (Dobermon (Tamers))입니다.",
@@ -2537,6 +2567,19 @@
       "created_at": "2026-11-16 17:18",
       "title_orig": "【デジモンUP】キャンプウォーズコインの入手方法と使い道",
       "title_ja": "【デジモンUP】キャンプウォーズコインの入手方法と使い道"
+    },
+    {
+      "id": "08b8c44a20ec1f567f127f7966739b6b",
+      "title": "디지몬 테이머즈 25주년 & 디지몬 세이버즈 20주년 기념 팝업 스토어, 그란엔타스 아키하바라에서 개최",
+      "snippet": "디지몬 테이머즈 25주년 & 디지몬 세이버즈 20주년 기념 팝업 스토어, 그란엔타스 아키하바라에서 개최 haveagood-holiday.com",
+      "source": "haveagood-holiday.com",
+      "source_badge": "뉴스",
+      "category": "game",
+      "category_name": "신작/공식속보",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2N1SHk3VnRqTkNKZ01BRFdkVVluZkE0NFdJWElaYVhIaXZPU01VOEd3QWlhbVhXbWhYVzhsS01TS3ZydFVHbkFaZUN4YTZjLVlQSlU4WmgyckJVUWdZS1QxMmRHNkFyZEIyZ2s0SHE1SUdnOEFrRTlvMDB3NGNWMHV5U193c2lhdGg2NDREVmZGQWpPdXEtR1NHYXVWclFMYUhzOFNYQ1FHeFZGelhFLXNn?oc=5",
+      "image": null,
+      "timestamp": 1794816000,
+      "created_at": "2026-11-16 17:00"
     },
     {
       "id": "57bade9b74a0a67c9831f39819ae6556",
@@ -3025,6 +3068,20 @@
       "timestamp": 1794729600,
       "created_at": "2026-11-15 17:00",
       "title_orig": "Digimon Alysion Reveals Card Pack Details & Core Gameplay"
+    },
+    {
+      "id": "8ade6531a74d74cefb9f79fc4fd9a0f7",
+      "title": "[디지카] 덱 정보",
+      "snippet": "Deck Information digimon card meta",
+      "source": "Digimon Meta",
+      "source_badge": "디지카",
+      "category": "card",
+      "category_name": "카드게임(TCG)",
+      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxORTNSRXdXYk1rTUdmXzVaZFdqS3pHUm5YbVNKUy1BX0FuS0Rrd0ZUUmRZb2tlTjMwczIweVEtdUk0VWJRSEhPelF3WS1ndlVobTdYenZnVWhPRzY2bHg2bVBrQlVpTGxFeWJmMUl3Sk8yN3ktbUotRmRtTFdyREx2Q1BDN3VtY0NBdWlqWVoyeDdJTDNEZ2sxYzc1U25sOXBpYWxqeklFXzNsblVXVXppaGhNaDZHNmtja3M0NEozcmJYRXl4VHlZRzdFa1cyTEFNWlRNZ3hjUjNpSXI4Sm9QdkcyTzdDT1pkSmNOb2hpem1kcng1T0pub2hQTzJsQWpfT3Y4dUs5NUhMcnpqcG9wMWxYeVB6NHptWkxuY3dTTmZQeDEzWllpbVhJQXU5ZlZYTGhVQ1Bmd3djcG5mN1ZhLXZKRDRpNXhNakV1NzJxZ1NKU3ZBNTdqQWozdDFnTWtLdi1lYzUwbHBzYjFOQk1UTEZRcW0za1ZRT2I1aFB6YUs1M1JiSVVuVC1LTkxEdkJqbHE2cHFlM2xWS25wTHptMnhLLUthUE9LQ1NxM05jVVBQcVJyclZ2dDQ2Yy1xY3daSUMyT2tONlRDMWp2bkJ1dVF0N2NPUjBPMGU3bFZIR21ESzBoUWN4aS1fNi11Nm53YlFlbFM4R0NCMFI2WlZrQ1ZVeVQ4UEJaVEFOV3VqelpiRjIzV0pObg?oc=5",
+      "image": null,
+      "timestamp": 1794729600,
+      "created_at": "2026-11-15 17:00",
+      "title_orig": "Deck Information"
     },
     {
       "id": "8c3d52479261e7433e9fe1e6115386e7",
@@ -11692,6 +11749,21 @@
       "image": null,
       "timestamp": 1788505200,
       "created_at": "2026-09-04 16:00"
+    },
+    {
+      "id": "56089b6a1a22f1b0b0d2cd19fa161b63",
+      "title": "[하비뉴스] 『디지몬 어드벤처』 모던 와풍 디자인 및 오메가몬의 신규 신작 일러스트 굿즈가 판매되는 팝업 스토어가, 그랑엔터스 아키하바라에서 2026년 9월 26일(토) 오픈!",
+      "snippet": "『デジモンアドベンチャー』和モダンデザインやオメガモンの新規描き下ろしイラストグッズが販売されるPOPUP SHOPが、グランエンタス秋葉原にて2026年9月26日（土）開店！ 電撃ホビーウェブ",
+      "source": "전격하비",
+      "source_badge": "하비뉴스",
+      "category": "figure",
+      "category_name": "피규어/굿즈",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYUEVGUWlxVXl6dkJGVmo1eE82cmhSV1NGTzFCZ3dRWGE0eE92U19nQ19DVUdjb1doTUdDcUNQWngyUHNtVTNoNEtZOGhnS2VR?oc=5",
+      "image": null,
+      "timestamp": 1788505200,
+      "created_at": "2026-09-04 16:00",
+      "title_orig": "『デジモンアドベンチャー』和モダンデザインやオメガモンの新規描き下ろしイラストグッズが販売されるPOPUP SHOPが、グランエンタス秋葉原にて2026年9月26日（土）開店！",
+      "title_ja": "『デジモンアドベンチャー』和モダンデザインやオメガモンの新規描き下ろしイラストグッズが販売されるPOPUP SHOPが、グランエンタス秋葉原にて2026年9月26日（土）開店！"
     },
     {
       "id": "f66704732ed4e4dadd298cbb3b45ea92",
